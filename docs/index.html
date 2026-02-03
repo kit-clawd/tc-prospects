@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TC Prospects - District Browser</title>
+    <style>
+        * { box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        h1 { color: #333; margin-bottom: 5px; }
+        .subtitle { color: #666; margin-bottom: 20px; }
+        
+        .filters {
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            align-items: center;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .filters label { font-weight: 500; color: #555; }
+        .filters select, .filters input {
+            padding: 8px 12px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+        .filters input[type="text"] { width: 200px; }
+        
+        .stats {
+            background: #e8f4fd;
+            padding: 10px 15px;
+            border-radius: 6px;
+            margin-bottom: 15px;
+            color: #1a73e8;
+            font-size: 14px;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: white;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid #eee;
+        }
+        th {
+            background: #fafafa;
+            font-weight: 600;
+            color: #333;
+            cursor: pointer;
+            user-select: none;
+        }
+        th:hover { background: #f0f0f0; }
+        th.sorted-asc::after { content: ' ↑'; }
+        th.sorted-desc::after { content: ' ↓'; }
+        tr:hover { background: #f8f9fa; }
+        
+        .enrollment { font-weight: 500; }
+        .enrollment.large { color: #1a73e8; }
+        .enrollment.medium { color: #34a853; }
+        .enrollment.small { color: #666; }
+        
+        .federal-award {
+            font-family: monospace;
+            font-size: 13px;
+        }
+        .federal-award.high { color: #ea4335; font-weight: 500; }
+        
+        .type-badge {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 12px;
+            font-size: 12px;
+            font-weight: 500;
+        }
+        .type-badge.Urban { background: #e8f0fe; color: #1967d2; }
+        .type-badge.Suburban { background: #e6f4ea; color: #137333; }
+        .type-badge.Rural { background: #fef7e0; color: #b06000; }
+        
+        .empty-state {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+        }
+        
+        footer {
+            margin-top: 30px;
+            text-align: center;
+            color: #999;
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <h1>🎯 TC Prospects</h1>
+    <p class="subtitle">School district prospecting browser</p>
+    
+    <div class="filters">
+        <div>
+            <label>State:</label>
+            <select id="stateFilter">
+                <option value="">All States</option>
+            </select>
+        </div>
+        <div>
+            <label>Type:</label>
+            <select id="typeFilter">
+                <option value="">All Types</option>
+                <option value="Urban">Urban</option>
+                <option value="Suburban">Suburban</option>
+                <option value="Rural">Rural</option>
+            </select>
+        </div>
+        <div>
+            <label>Min Enrollment:</label>
+            <select id="enrollmentFilter">
+                <option value="0">Any</option>
+                <option value="5000">5,000+</option>
+                <option value="10000">10,000+</option>
+                <option value="25000">25,000+</option>
+                <option value="50000">50,000+</option>
+                <option value="100000">100,000+</option>
+            </select>
+        </div>
+        <div>
+            <label>Search:</label>
+            <input type="text" id="searchFilter" placeholder="District name...">
+        </div>
+    </div>
+    
+    <div class="stats" id="stats"></div>
+    
+    <table id="districtsTable">
+        <thead>
+            <tr>
+                <th data-sort="name">District</th>
+                <th data-sort="state">State</th>
+                <th data-sort="city">City</th>
+                <th data-sort="type">Type</th>
+                <th data-sort="enrollment">Enrollment</th>
+                <th data-sort="federal_awards">Federal Awards</th>
+            </tr>
+        </thead>
+        <tbody id="tableBody">
+        </tbody>
+    </table>
+    
+    <footer>
+        Data sources: NCES, USASpending.gov | Last updated: <span id="lastUpdated">-</span>
+    </footer>
+
+    <script>
+        let allDistricts = [];
+        let currentSort = { field: 'enrollment', direction: 'desc' };
+        
+        async function loadData() {
+            try {
+                const resp = await fetch('data.json');
+                const data = await resp.json();
+                allDistricts = data.districts || [];
+                
+                // Populate state filter
+                const states = [...new Set(allDistricts.map(d => d.state))].sort();
+                const stateSelect = document.getElementById('stateFilter');
+                states.forEach(s => {
+                    const opt = document.createElement('option');
+                    opt.value = s;
+                    opt.textContent = s;
+                    stateSelect.appendChild(opt);
+                });
+                
+                // Update timestamp
+                if (data.meta?.updated) {
+                    document.getElementById('lastUpdated').textContent = 
+                        new Date(data.meta.updated).toLocaleDateString();
+                }
+                
+                renderTable();
+            } catch (e) {
+                console.error('Failed to load data:', e);
+                document.getElementById('tableBody').innerHTML = 
+                    '<tr><td colspan="6" class="empty-state">Failed to load data. Run fetch_data.py first.</td></tr>';
+            }
+        }
+        
+        function getFilteredDistricts() {
+            const state = document.getElementById('stateFilter').value;
+            const type = document.getElementById('typeFilter').value;
+            const minEnrollment = parseInt(document.getElementById('enrollmentFilter').value) || 0;
+            const search = document.getElementById('searchFilter').value.toLowerCase();
+            
+            return allDistricts.filter(d => {
+                if (state && d.state !== state) return false;
+                if (type && d.type !== type) return false;
+                if (d.enrollment < minEnrollment) return false;
+                if (search && !d.name.toLowerCase().includes(search)) return false;
+                return true;
+            });
+        }
+        
+        function sortDistricts(districts) {
+            const { field, direction } = currentSort;
+            return [...districts].sort((a, b) => {
+                let aVal = a[field] ?? '';
+                let bVal = b[field] ?? '';
+                
+                if (typeof aVal === 'number') {
+                    return direction === 'asc' ? aVal - bVal : bVal - aVal;
+                }
+                return direction === 'asc' 
+                    ? String(aVal).localeCompare(String(bVal))
+                    : String(bVal).localeCompare(String(aVal));
+            });
+        }
+        
+        function renderTable() {
+            const filtered = getFilteredDistricts();
+            const sorted = sortDistricts(filtered);
+            
+            // Update stats
+            const totalEnrollment = sorted.reduce((sum, d) => sum + (d.enrollment || 0), 0);
+            const totalAwards = sorted.reduce((sum, d) => sum + (d.federal_awards || 0), 0);
+            document.getElementById('stats').innerHTML = 
+                `Showing <strong>${sorted.length}</strong> districts | ` +
+                `Total enrollment: <strong>${totalEnrollment.toLocaleString()}</strong> | ` +
+                `Federal awards: <strong>$${(totalAwards/1000000).toFixed(1)}M</strong>`;
+            
+            // Update sort indicators
+            document.querySelectorAll('th').forEach(th => {
+                th.classList.remove('sorted-asc', 'sorted-desc');
+                if (th.dataset.sort === currentSort.field) {
+                    th.classList.add(`sorted-${currentSort.direction}`);
+                }
+            });
+            
+            // Render rows
+            const tbody = document.getElementById('tableBody');
+            if (sorted.length === 0) {
+                tbody.innerHTML = '<tr><td colspan="6" class="empty-state">No districts match your filters</td></tr>';
+                return;
+            }
+            
+            tbody.innerHTML = sorted.map(d => {
+                const enrollmentClass = d.enrollment >= 50000 ? 'large' : d.enrollment >= 10000 ? 'medium' : 'small';
+                const awardClass = d.federal_awards >= 10000000 ? 'high' : '';
+                const awardDisplay = d.federal_awards ? `$${(d.federal_awards/1000000).toFixed(1)}M` : '-';
+                
+                return `
+                    <tr>
+                        <td><strong>${d.name}</strong></td>
+                        <td>${d.state}</td>
+                        <td>${d.city || '-'}</td>
+                        <td><span class="type-badge ${d.type}">${d.type || '-'}</span></td>
+                        <td class="enrollment ${enrollmentClass}">${d.enrollment?.toLocaleString() || '-'}</td>
+                        <td class="federal-award ${awardClass}">${awardDisplay}</td>
+                    </tr>
+                `;
+            }).join('');
+        }
+        
+        // Event listeners
+        document.querySelectorAll('.filters select, .filters input').forEach(el => {
+            el.addEventListener('change', renderTable);
+            el.addEventListener('input', renderTable);
+        });
+        
+        document.querySelectorAll('th[data-sort]').forEach(th => {
+            th.addEventListener('click', () => {
+                const field = th.dataset.sort;
+                if (currentSort.field === field) {
+                    currentSort.direction = currentSort.direction === 'asc' ? 'desc' : 'asc';
+                } else {
+                    currentSort.field = field;
+                    currentSort.direction = field === 'name' ? 'asc' : 'desc';
+                }
+                renderTable();
+            });
+        });
+        
+        // Load on start
+        loadData();
+    </script>
+</body>
+</html>

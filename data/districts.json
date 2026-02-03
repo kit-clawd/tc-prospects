@@ -1,0 +1,911 @@
+{
+  "meta": {
+    "updated": "2026-02-03T16:50:24.173278",
+    "sources": [
+      "USASpending.gov",
+      "NCES"
+    ],
+    "states": [
+      "WA",
+      "OR",
+      "CA",
+      "TX",
+      "FL",
+      "NY"
+    ]
+  },
+  "districts": [
+    {
+      "name": "Seattle Public Schools",
+      "state": "WA",
+      "enrollment": 49000,
+      "city": "Seattle",
+      "type": "Urban",
+      "federal_awards": 0
+    },
+    {
+      "name": "Spokane Public Schools",
+      "state": "WA",
+      "enrollment": 28000,
+      "city": "Spokane",
+      "type": "Urban",
+      "federal_awards": 0
+    },
+    {
+      "name": "Tacoma Public Schools",
+      "state": "WA",
+      "enrollment": 27000,
+      "city": "Tacoma",
+      "type": "Urban",
+      "federal_awards": 3410650.0
+    },
+    {
+      "name": "Kent School District",
+      "state": "WA",
+      "enrollment": 25000,
+      "city": "Kent",
+      "type": "Suburban",
+      "federal_awards": 0
+    },
+    {
+      "name": "Federal Way Public Schools",
+      "state": "WA",
+      "enrollment": 22000,
+      "city": "Federal Way",
+      "type": "Suburban",
+      "federal_awards": 0
+    },
+    {
+      "name": "Lake Washington School District",
+      "state": "WA",
+      "enrollment": 32000,
+      "city": "Kirkland",
+      "type": "Suburban",
+      "federal_awards": 0
+    },
+    {
+      "name": "Northshore School District",
+      "state": "WA",
+      "enrollment": 23000,
+      "city": "Bothell",
+      "type": "Suburban",
+      "federal_awards": 0
+    },
+    {
+      "name": "Bellevue School District",
+      "state": "WA",
+      "enrollment": 19000,
+      "city": "Bellevue",
+      "type": "Suburban",
+      "federal_awards": 0
+    },
+    {
+      "name": "Los Angeles USD",
+      "state": "CA",
+      "enrollment": 420000,
+      "city": "Los Angeles",
+      "type": "Urban",
+      "federal_awards": 0
+    },
+    {
+      "name": "San Diego USD",
+      "state": "CA",
+      "enrollment": 97000,
+      "city": "San Diego",
+      "type": "Urban",
+      "federal_awards": 0
+    },
+    {
+      "name": "Houston ISD",
+      "state": "TX",
+      "enrollment": 187000,
+      "city": "Houston",
+      "type": "Urban",
+      "federal_awards": 0
+    },
+    {
+      "name": "Dallas ISD",
+      "state": "TX",
+      "enrollment": 140000,
+      "city": "Dallas",
+      "type": "Urban",
+      "federal_awards": 0
+    },
+    {
+      "name": "Austin ISD",
+      "state": "TX",
+      "enrollment": 72000,
+      "city": "Austin",
+      "type": "Urban",
+      "federal_awards": 0
+    },
+    {
+      "name": "New York City DOE",
+      "state": "NY",
+      "enrollment": 915000,
+      "city": "New York",
+      "type": "Urban",
+      "federal_awards": 0
+    },
+    {
+      "name": "Portland Public Schools",
+      "state": "OR",
+      "enrollment": 43000,
+      "city": "Portland",
+      "type": "Urban",
+      "federal_awards": 0
+    },
+    {
+      "name": "Miami-Dade County",
+      "state": "FL",
+      "enrollment": 334000,
+      "city": "Miami",
+      "type": "Urban",
+      "federal_awards": 65725242.66
+    }
+  ],
+  "federal_awards": {
+    "WA": [
+      {
+        "name": "CENTRAL KITSAP SCHOOL DISTRICT",
+        "amount": 22058179.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "WA"
+      },
+      {
+        "name": "CENTRAL KITSAP SCHOOL DISTRICT",
+        "amount": 20914443.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "WA"
+      },
+      {
+        "name": "SCHOOL DIST #201 ISLAND COUNTY",
+        "amount": 19220080.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "WA"
+      },
+      {
+        "name": "CLOVER PARK SCHOOL DISTRICT",
+        "amount": 15467213.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "WA"
+      },
+      {
+        "name": "CLOVER PARK SCHOOL DISTRICT",
+        "amount": 15001248.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "WA"
+      },
+      {
+        "name": "SCHOOL DIST #201 ISLAND COUNTY",
+        "amount": 14686974.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "WA"
+      },
+      {
+        "name": "EDUCATIONAL SERVICE DISTRICT 105",
+        "amount": 7408935.0,
+        "description": "YAKIMA CONSORTIUM FULL-SERVICE COMMUNITY SCHOOLS",
+        "state": "WA"
+      },
+      {
+        "name": "NORTHWEST EDUCATIONAL SERVICE DISTRICT",
+        "amount": 5905258.0,
+        "description": "NWESD SCHOOL-BASED MENTAL HEALTH SERVICES (SBMHP+): RESPONDING TO THE NEEDS OF STUDENTS WITH THE MOST COMPLEX MENTAL HEALTH CONCERNS",
+        "state": "WA"
+      },
+      {
+        "name": "VANCOUVER SCHOOL DISTRICT 37",
+        "amount": 5315306.0,
+        "description": "VANCOUVER PUBLIC SCHOOLS SCHOOL BASED MENTAL HEALTH",
+        "state": "WA"
+      },
+      {
+        "name": "MT ADAMS SCHOOL DISTRICT",
+        "amount": 5280126.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "WA"
+      },
+      {
+        "name": "MT ADAMS SCHOOL DISTRICT",
+        "amount": 5047135.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "WA"
+      },
+      {
+        "name": "CAPE FLATTERY SCHOOL DIST 401",
+        "amount": 4231719.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "WA"
+      },
+      {
+        "name": "CAPE FLATTERY SCHOOL DIST 401",
+        "amount": 3932307.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "WA"
+      },
+      {
+        "name": "WELLPINIT SCHOOL DISTRICT 49",
+        "amount": 3847869.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "WA"
+      },
+      {
+        "name": "EDUCATIONAL SERVICE DISTRICT 105",
+        "amount": 3720370.0,
+        "description": "INNOVATIVE APPROACHES TO LITERACY PROGRAM - READING THROUGH MIRRORS AND WINDOWS",
+        "state": "WA"
+      },
+      {
+        "name": "WELLPINIT SCHOOL DISTRICT 49",
+        "amount": 3681479.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "WA"
+      },
+      {
+        "name": "EDUCATIONAL SERVICE DISTRICT 105",
+        "amount": 3498519.0,
+        "description": "YAKAMA GROW OUR OWN CONSORTIUM",
+        "state": "WA"
+      },
+      {
+        "name": "TACOMA PUBLIC SCHOOLS",
+        "amount": 3410650.0,
+        "description": "THE TACOMA WHOLE CHILD: INCREASING STUDENT ACCESS TO DIVERSE MENTAL HEALTH SERVICES PROVIDERS",
+        "state": "WA"
+      },
+      {
+        "name": "WAPATO SCHOOL DISTRICT",
+        "amount": 3231353.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "WA"
+      },
+      {
+        "name": "WAPATO SCHOOL DISTRICT",
+        "amount": 2995057.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "WA"
+      },
+      {
+        "name": "MEDICAL LAKE SCHOOL DISTRICT #326",
+        "amount": 2716917.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "WA"
+      },
+      {
+        "name": "VANCOUVER SCHOOL DISTRICT 37",
+        "amount": 2398400.0,
+        "description": "VPS FULL-SERVICE COMMUNITY SCHOOLS: ROADMAP TO LEARNING",
+        "state": "WA"
+      },
+      {
+        "name": "EDUCATIONAL SERVICE DISTRICT 105",
+        "amount": 2397906.0,
+        "description": "SOUTH-CENTRAL WASHINGTON VIOLENCE INTERVENTION, PREVENTION, EDUCATION, AND RESPONSE (VIPER)",
+        "state": "WA"
+      },
+      {
+        "name": "MEDICAL LAKE SCHOOL DISTRICT #326",
+        "amount": 2392122.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "WA"
+      },
+      {
+        "name": "LACONNER SCHOOL DISTRICT",
+        "amount": 2313049.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "WA"
+      }
+    ],
+    "OR": [
+      {
+        "name": "MULTNOMAH COUNTY SCHOOL DIST 1J",
+        "amount": 10964800.0,
+        "description": "ENGAGE, EMPOWER, ELEVATE - E3\"\"",
+        "state": "OR"
+      },
+      {
+        "name": "DOUGLAS EDUCATION SERVICE DISTRICT",
+        "amount": 6808215.0,
+        "description": "ELEVATING AND DIVERSIFYING SCHOOL-BASED BEHAVIORAL HEALTH IN RURAL OREGON: CREATING INNOVATIVE SOLUTIONS TO MEET STUDENTS WHERE THEY ARE",
+        "state": "OR"
+      },
+      {
+        "name": "JEFFERSON COUNTY SCHOOL DISTRICT 509J",
+        "amount": 3251158.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "OR"
+      },
+      {
+        "name": "JEFFERSON COUNTY SCHOOL DISTRICT 509J",
+        "amount": 3094482.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "OR"
+      },
+      {
+        "name": "CORBETT SCHOOL DISTRICT 39",
+        "amount": 2760684.0,
+        "description": "CORBETT SCHOOL DISTRICT (SD) LOCAL EDUCATION AGENCY (LEA) SCHOOL-BASED MENTAL HEALTH PROJECT. CORBETT SD WILL RECRUIT AND HIRE FIVE NEW AND DIVERSE CERTIFIED MENTAL HEALTH STAFF FOR K-12 SCHOOL.",
+        "state": "OR"
+      },
+      {
+        "name": "MULTNOMAH COUNTY SCHOOL DIST 1J",
+        "amount": 2550897.0,
+        "description": "ADVANCING STUDENT MENTAL HEALTH BY INCREASING THE NUMBER AND THE CULTURAL AND LINGUISTIC DIVERSITY OF SCHOOL PSYCHOLOGISTS",
+        "state": "OR"
+      },
+      {
+        "name": "CHEMEKETA COMMUNITY COLLEGE DISTRICT",
+        "amount": 2401649.42,
+        "description": "CHEMEKETA ACCELERATED PATHWAYS TO SUCCESS (CAPS)",
+        "state": "OR"
+      },
+      {
+        "name": "CHEMEKETA COMMUNITY COLLEGE DISTRICT",
+        "amount": 2125000.0,
+        "description": "CHEMEKETA CAMP INCREASES COLLEGE SUCCESS FOR STUDENTS FROM MSFW FAMILIES BY PROVIDING WRAP AROUND STUDENT SUCCESS SERVICES INCLUDING ADVISING, TUTORING, AND FINANCIAL PLANNING SUPPORT.",
+        "state": "OR"
+      },
+      {
+        "name": "CHEMEKETA COMMUNITY COLLEGE DISTRICT",
+        "amount": 1994615.0,
+        "description": "CHEMEKETA CHILD CARE ACCESS MEANS PARENTS IN SCHOOL (CCAMPIS) PROGRAM",
+        "state": "OR"
+      },
+      {
+        "name": "CHEMEKETA COMMUNITY COLLEGE DISTRICT",
+        "amount": 1728526.91,
+        "description": "CHEMEKETA COMMUNITY COLLEGE UPWARD BOUND",
+        "state": "OR"
+      },
+      {
+        "name": "ROGUE COMMUNITY COLLEGE DISTRICT",
+        "amount": 1681476.0,
+        "description": "ROGUE COMMUNITY COLLEGE ETS PROGRAM IS IN RURAL SOUTHERN OREGON. THE PROJECT WILL SERVE 4 HIGH SCHOOLS AND 4 MIDDLE SCHOOLS FOR AGES 6-12 GRADES REACHING AT LEAST 592 STUDENTS.",
+        "state": "OR"
+      }
+    ],
+    "CA": [
+      {
+        "name": "LINDSAY UNIFIED SCHOOL DISTRICT",
+        "amount": 43220107.59,
+        "description": "LINDSAY UNIFIED SCHOOL DISTRICT, EMPOWER LINDSAY, A TEACHER & SCHOOL LEADER INCENTIVE PROGRAM",
+        "state": "CA"
+      },
+      {
+        "name": "LOS ANGELES UNIFIED SCHOOL DISTRICT",
+        "amount": 30525600.0,
+        "description": "GEAR UP 4 LA WILL SERVICES 5568 STUDENTS IN THE LOS ANGELES UNIFIED SCHOOL DISTRICT TO SUPPORT HIGH SCHOOL GRADUATION, AND POST-SECONDARY ENROLLMENT AND PERSISTENCE.",
+        "state": "CA"
+      },
+      {
+        "name": "LOS ANGELES UNIFIED SCHOOL DISTRICT",
+        "amount": 29005600.0,
+        "description": "GEAR UP 4 LA WILL SERVICES 5203 STUDENTS IN THE LOS ANGELES UNIFIED SCHOOL DISTRICT TO SUPPORT HIGH SCHOOL GRADUATION, AND POST-SECONDARY ENROLLMENT AND PERSISTENCE.",
+        "state": "CA"
+      },
+      {
+        "name": "LOS ANGELES UNIFIED SCHOOL DISTRICT",
+        "amount": 17104290.91,
+        "description": "GAINING EARLY AWARENESS AND READINESS FOR UNDERGRADUATE PROGRAMS (GEAR UP PARTNERSHIP)",
+        "state": "CA"
+      },
+      {
+        "name": "SAN DIEGO UNIFIED SCHOOL DISTRICT",
+        "amount": 14988439.0,
+        "description": "AMPLIFYING THE ARTS IN THE SAN DIEGO UNIFIED SCHOOL DISTRICT",
+        "state": "CA"
+      },
+      {
+        "name": "PALMDALE SCHOOL DISTRICT",
+        "amount": 14583888.2,
+        "description": "PALMDALE PROMISE MSAP",
+        "state": "CA"
+      },
+      {
+        "name": "SILVER VALLEY UNIFIED SCHOOL DISTRICT",
+        "amount": 12777249.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "CA"
+      },
+      {
+        "name": "LOS ANGELES UNIFIED SCHOOL DISTRICT",
+        "amount": 12458927.15,
+        "description": "GAINING EARLY AWARENESS AND READINESS FOR UNDERGRADUATE PROGRAMS (GEAR UP PARTNERSHIP)",
+        "state": "CA"
+      },
+      {
+        "name": "YPI CHARTER SCHOOLS, INC,",
+        "amount": 12334735.57,
+        "description": "GAINING EARLY AWARENESS AND READINESS FOR UNDERGRADUATE PROGRAMS (GEAR UP PARTNERSHIP)",
+        "state": "CA"
+      },
+      {
+        "name": "PASADENA UNIFIED SCHOOL DISTRICT",
+        "amount": 12306322.0,
+        "description": "STRENGTHENING PASADENA'S K-12 MAGNET PATHWAYS IN ARTS, LANGUAGE AND CROSS-CULTURAL LEARNING, AND ENVIRONMENTAL STUDIES",
+        "state": "CA"
+      },
+      {
+        "name": "MIRACOSTA COMMUNITY COLLEGE DISTRICT",
+        "amount": 11667488.0,
+        "description": "MIRACOSTA COLLEGE/OCEANSIDE GEAR UP PARTNERSHIP",
+        "state": "CA"
+      },
+      {
+        "name": "ALDER GRADUATE SCHOOL OF EDUCATION",
+        "amount": 10805267.06,
+        "description": "STUDENTS FIRST: COORDINATING RESIDENT AND MENTOR ROLES TO SUPPORT STUDENT LEARNING AND DEVELOP EFFECTIVE TEACHERS FOR HIGH-NEED STUDENTS IN CALIFORNIA, MASSACHUSETTS, AND TENNESSEE",
+        "state": "CA"
+      },
+      {
+        "name": "CALIFORNIA SCHOOL FINANCE AUTHORITY",
+        "amount": 10505000.0,
+        "description": "STATE CHARTER SCHOOL FACILITIES INCENTIVE GRANTS PROGRAM",
+        "state": "CA"
+      },
+      {
+        "name": "SILVER VALLEY UNIFIED SCHOOL DISTRICT",
+        "amount": 10499812.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "CA"
+      },
+      {
+        "name": "SAN DIEGO UNIFIED SCHOOL DISTRICT",
+        "amount": 10399390.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "CA"
+      },
+      {
+        "name": "NAPA VALLEY UNIFIED SCHOOL DISTRICT",
+        "amount": 9939802.65,
+        "description": "THIS PROPOSED MSAP PROJECT WILL ENABLE NVUSD TO IMPLEMENT ITS VISION OF CREATING RACIAL/ETHNIC AND SOCIOECONOMIC DIVERSE SCHOOLS AND CONDUCT TWO QUASI-EXPERIMENTAL STUDIES TO FURTHER MAGNET RESEARCH.",
+        "state": "CA"
+      },
+      {
+        "name": "LIVERMORE VALLEY JOINT UNIFIED SCHOOL DISTRICT",
+        "amount": 9487055.0,
+        "description": "THE LIVERMORE VALLEY JOINT UNIFIED SCHOOL DISTRICT PROJECT BUILD WILL CREATE A NEW MAGNET SCHOOL AND MODIFY AN EXISTING PROGRAM TO REDUCE MINORITY GROUP ISOLATION.",
+        "state": "CA"
+      },
+      {
+        "name": "SAN DIEGO UNIFIED SCHOOL DISTRICT",
+        "amount": 9077011.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "CA"
+      },
+      {
+        "name": "CENTRAL UNION ELEMENTARY SCHOOL DISTRICT",
+        "amount": 9052918.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "CA"
+      },
+      {
+        "name": "CUTLER-OROSI JOINT UNIFIED SCHOOL DISTRICT",
+        "amount": 9000000.0,
+        "description": "CUTLER-OROSI AND MONSON-SULTANA (COMS) FULL-SERVICE COMMUNITY SCHOOLS INITIATIVE (CFI).",
+        "state": "CA"
+      },
+      {
+        "name": "SAN DIEGO UNIFIED SCHOOL DISTRICT",
+        "amount": 8997722.0,
+        "description": "MAGNIFYING MEDIA ARTS IN THE SAN DIEGO UNIFIED SCHOOL DISTRICT",
+        "state": "CA"
+      },
+      {
+        "name": "CUTLER-OROSI JOINT UNIFIED SCHOOL DISTRICT",
+        "amount": 8990169.0,
+        "description": "CULTER-OROSI AND MONSON-SULTANA MENTAL HEALTH SERVICES PROGRAM (COMS-MHSP)",
+        "state": "CA"
+      },
+      {
+        "name": "CENTRAL UNION ELEMENTARY SCHOOL DISTRICT",
+        "amount": 8383997.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "CA"
+      },
+      {
+        "name": "NAPA VALLEY UNIFIED SCHOOL DISTRICT",
+        "amount": 7788619.0,
+        "description": "THIS PROPOSED MSAP PROJECT WILL ENABLE NVUSD TO IMPLEMENT ITS VISION OF CREATING RACIAL/ETHNIC AND SOCIOECONOMIC DIVERSE SCHOOLS AND CONDUCT TWO QUASI-EXPERIMENTAL STUDIES TO FURTHER MAGNET RESEARCH.",
+        "state": "CA"
+      },
+      {
+        "name": "GREEN DOT PUBLIC SCHOOLS CALIFORNIA",
+        "amount": 7417679.0,
+        "description": "RECRUITING AND RETAINING SCHOOL-BASED MENTAL HEALTH SERVICE PROVIDERS AT GREEN DOT PUBLIC SCHOOLS TO SUPPORT STUDENTS WITH HIGHEST NEEDS",
+        "state": "CA"
+      },
+      {
+        "name": "CONEJO VALLEY UNIFIED SCHOOL DISTRICT",
+        "amount": 6412626.0,
+        "description": "CONEJO VALLEY UNIFIED SCHOOL DISTRICT (CVUSD) MENTAL HEALTH AND WELLNESS SERVICES",
+        "state": "CA"
+      },
+      {
+        "name": "SAN DIEGO UNIFIED SCHOOL DISTRICT",
+        "amount": 6241671.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7002",
+        "state": "CA"
+      },
+      {
+        "name": "ALDER GRADUATE SCHOOL OF EDUCATION",
+        "amount": 6232362.52,
+        "description": "EMPOWERING DISTRICTS TO BUILD SUSTAINABLE PIPELINES OF EFFECTIVE TEACHERS FOR HIGH-NEED SCHOOLS",
+        "state": "CA"
+      },
+      {
+        "name": "LA MESA-SPRING VALLEY SCHOOL DISTRICT",
+        "amount": 6159006.0,
+        "description": "LMSV SCHOOL-BASED MENTAL HEALTH SERVICES EXPANSION",
+        "state": "CA"
+      }
+    ],
+    "TX": [
+      {
+        "name": "KILLEEN INDEPENDENT SCHOOL DISTRICT",
+        "amount": 70591527.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "TX"
+      },
+      {
+        "name": "KILLEEN INDEPENDENT SCHOOL DISTRICT",
+        "amount": 67068012.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "TX"
+      },
+      {
+        "name": "ALAMO COMMUNITY COLLEGE DISTRICT",
+        "amount": 57181397.0,
+        "description": "HISTORICALLY BLACK COLLEGES AND UNIVERSITIES PROGRAM",
+        "state": "TX"
+      },
+      {
+        "name": "IDEA PUBLIC SCHOOLS",
+        "amount": 43203029.13,
+        "description": "IDEA AMPLIFY TEXAS",
+        "state": "TX"
+      },
+      {
+        "name": "IDEA PUBLIC SCHOOLS",
+        "amount": 32458062.85,
+        "description": "IDEA 100K",
+        "state": "TX"
+      },
+      {
+        "name": "ALAMO COMMUNITY COLLEGE DISTRICT",
+        "amount": 32235969.75,
+        "description": "UNKNOWN TITLE",
+        "state": "TX"
+      },
+      {
+        "name": "YES PREP PUBLIC SCHOOLS INC",
+        "amount": 21626549.0,
+        "description": "LEADING HOUSTON FORWARD CAMPAIGN",
+        "state": "TX"
+      },
+      {
+        "name": "HARMONY PUBLIC SCHOOLS",
+        "amount": 17006794.0,
+        "description": "INSPIRING FUTURES ACROSS TX",
+        "state": "TX"
+      },
+      {
+        "name": "HOUSTON INDEPENDENT SCHOOL DISTRICT",
+        "amount": 14929592.72,
+        "description": "PARTNERSHIPS THAT FUEL OPPORTUNITIES IN STEM EDUCATION",
+        "state": "TX"
+      },
+      {
+        "name": "FT SAM HOUSTON INDEPENDENT SCHOOL DISTRICT",
+        "amount": 13818124.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "TX"
+      },
+      {
+        "name": "FT SAM HOUSTON INDEPENDENT SCHOOL DISTRICT",
+        "amount": 13542796.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "TX"
+      },
+      {
+        "name": "LONGVIEW INDEPENDENT SCHOOL DISTRICT",
+        "amount": 12049295.0,
+        "description": "WIN PROJECT",
+        "state": "TX"
+      },
+      {
+        "name": "LACKLAND INDEPENDENT SCHOOL DISTRICT",
+        "amount": 12039684.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "TX"
+      },
+      {
+        "name": "VICTORIA INDEPENDENT SCHOOL DISTRICT",
+        "amount": 11999857.0,
+        "description": "CHOICE STEM PATHWAY PROJECT",
+        "state": "TX"
+      },
+      {
+        "name": "IDEA PUBLIC SCHOOLS",
+        "amount": 11482532.19,
+        "description": "IDEA COMPREHENSIVE HEALTH PROFESSIONS",
+        "state": "TX"
+      },
+      {
+        "name": "LACKLAND INDEPENDENT SCHOOL DISTRICT",
+        "amount": 11410340.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "TX"
+      },
+      {
+        "name": "DESOTO INDEPENDENT SCHOOL DISTRICT",
+        "amount": 11120569.92,
+        "description": "MAGNET - A2&E2 (ACADEMIES FOR ACADEMIC ENHANCEMENT AND EXCELLENCE)",
+        "state": "TX"
+      },
+      {
+        "name": "IDEA PUBLIC SCHOOLS",
+        "amount": 9783046.37,
+        "description": "CHARTER SCHOOLS MANAGEMENT ORGANIZATIONS",
+        "state": "TX"
+      },
+      {
+        "name": "RANDOLPH FIELD INDEPENDENT SCHOOL DISTRICT",
+        "amount": 8833305.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "TX"
+      },
+      {
+        "name": "RANDOLPH FIELD INDEPENDENT SCHOOL DISTRICT",
+        "amount": 8428446.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "TX"
+      },
+      {
+        "name": "DESOTO INDEPENDENT SCHOOL DISTRICT",
+        "amount": 8222351.0,
+        "description": "NEXT - GENERATION GEAR UP",
+        "state": "TX"
+      },
+      {
+        "name": "HARMONY PUBLIC SCHOOLS",
+        "amount": 7838936.0,
+        "description": "TRAINING INSTRUCTIONAL LEADERSHIP TEAMS FORWARD (TILT FORWARD), HARMONY PUBLIC SCHOOLS",
+        "state": "TX"
+      },
+      {
+        "name": "KARNES CITY INDEPENDENT SCHOOL DISTRICT",
+        "amount": 7818340.0,
+        "description": "RURAL AREA MENTAL HEALTH PROFESSIONAL ENHANCEMENT AND DEVELOPMENT (RAMPED) PROGRAM",
+        "state": "TX"
+      },
+      {
+        "name": "HOUSTON INDEPENDENT SCHOOL DISTRICT",
+        "amount": 7791864.0,
+        "description": "HOUSTON ISD MAGNET SCHOOLS ASSISTANCE PROGRAM: STEM + M MAGNET INITIATIVE",
+        "state": "TX"
+      },
+      {
+        "name": "DESOTO INDEPENDENT SCHOOL DISTRICT",
+        "amount": 7504999.82,
+        "description": "GAINING EARLY AWARENESS AND READINESS FOR UNDERGRADUATE PROGRAMS (GEAR UP PARTNERSHIP)",
+        "state": "TX"
+      }
+    ],
+    "FL": [
+      {
+        "name": "SCHOOL BOARD OF MIAMI-DADE COUNTY",
+        "amount": 15000000.0,
+        "description": "R3 - RECRUITMENT, RETENTION, AND RESILIENCY PROJECT",
+        "state": "FL"
+      },
+      {
+        "name": "SCHOOL BOARD OF SEMINOLE COUNTY, FL",
+        "amount": 14977619.4,
+        "description": "EPATHWAYS FOR ELEMENTARY SCHOOLS: SMALL STEPS TO BIG CAREERS",
+        "state": "FL"
+      },
+      {
+        "name": "SCHOOL BOARD OF MIAMI-DADE COUNTY",
+        "amount": 14966039.66,
+        "description": "SCIENCE, TECHNOLOGY, ENGINEERING AND MATHEMATICS (STEM) PATHWAYS PROJECT",
+        "state": "FL"
+      },
+      {
+        "name": "SCHOOL BOARD OF MIAMI-DADE COUNTY",
+        "amount": 14181942.0,
+        "description": "STARTS - SCIENCE, TECHNOLOGY, AND ARTS EXPLORATION INNOVATION PROJECT",
+        "state": "FL"
+      },
+      {
+        "name": "THE SCHOOL BOARD OF BROWARD COUNTY, FLORIDA",
+        "amount": 12433444.0,
+        "description": "ACHIEVING CAREER EQUITY FOR STUDENTS",
+        "state": "FL"
+      },
+      {
+        "name": "POLK COUNTY SCHOOL BOARD",
+        "amount": 12123575.0,
+        "description": "AMPLIFYING MAGNET PROGRAMS",
+        "state": "FL"
+      },
+      {
+        "name": "SCHOOL BOARD OF MIAMI-DADE COUNTY",
+        "amount": 12122185.0,
+        "description": "SCIENCE TECHNOLOGY AND ARTS EXPLORATION & INNOVATION PROJECT (STARTS2 PROJECT)",
+        "state": "FL"
+      },
+      {
+        "name": "THE SCHOOL BOARD OF ST LUCIE COUNTY",
+        "amount": 11880728.46,
+        "description": "ST. LUCIE PUBLIC SCHOOLS MAGNET SCHOOL GRANT  APPLICATION",
+        "state": "FL"
+      },
+      {
+        "name": "DUVAL COUNTY SCHOOL BOARD",
+        "amount": 10449126.0,
+        "description": "BELIEF: BUILDING ENGAGED LEARNERS TO INCREASE EXPECTATIONS FOR THE FUTURE",
+        "state": "FL"
+      },
+      {
+        "name": "LEE COUNTY SCHOOL BOARD",
+        "amount": 10159359.36,
+        "description": "INCREASING DIVERSITY AND ACHIEVEMENT THROUGH RIGOROUS AND ENGAGING (I-DARE) PROGRAMS PROJECT",
+        "state": "FL"
+      },
+      {
+        "name": "SCHOOL BOARD OF MIAMI-DADE COUNTY",
+        "amount": 9455076.0,
+        "description": "EDU-PARTNERS (PREPARATION, APPRENTICESHIP, RESIDENCY, TEACHING, NEW EDUCATOR READINESS, AND SUPPORT)",
+        "state": "FL"
+      },
+      {
+        "name": "LEE COUNTY SCHOOL BOARD",
+        "amount": 9048677.0,
+        "description": "THE INCREASING DIVERSITY AND ACHIEVEMENT THROUGH RIGOROUS AND ENGAGING (I-DARE) PROGRAMS PHASE II PROJECT",
+        "state": "FL"
+      },
+      {
+        "name": "BAY COUNTY SCHOOL BOARD",
+        "amount": 8576948.0,
+        "description": "BAY DISTRICT SCHOOLS SCHOOL BASED MENTAL HEALTH PROGRAM",
+        "state": "FL"
+      },
+      {
+        "name": "HILLSBOROUGH COUNTY SCHOOL DISTRICT",
+        "amount": 8562135.0,
+        "description": "SCHOOL BASED MENTAL HEALTH (SBMH) SERVICES",
+        "state": "FL"
+      },
+      {
+        "name": "SCHOOL DISTRICT OF MONROE COUNTY FLORIDA",
+        "amount": 7003461.0,
+        "description": "MONROE COUNTY SCHOOL DISTRICT SBMH SERVICES GRANT",
+        "state": "FL"
+      },
+      {
+        "name": "DUVAL COUNTY SCHOOL BOARD",
+        "amount": 5307604.0,
+        "description": "DUVAL COUNTY SCHOOL BASED MENTAL HEALTH PROJECT",
+        "state": "FL"
+      },
+      {
+        "name": "LEE COUNTY SCHOOL BOARD",
+        "amount": 4873659.0,
+        "description": "RIGOROUS AND ENGAGING ACADEMIC PROGRAMS (REAP) MAGNET PROJECT",
+        "state": "FL"
+      },
+      {
+        "name": "WASHINGTON COUNTY SCHOOL DISTRICT",
+        "amount": 4720595.0,
+        "description": "COLLABORATIVE HOLISTIC ALLIANCE TO ADVANCE MENTAL-HEALTH PROFESSIONS IN SCHOOLS (CHAAMPS) PROJECT.",
+        "state": "FL"
+      },
+      {
+        "name": "SCHOOL DISTRICT OF OKALOOSA COUNTY",
+        "amount": 4520536.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "FL"
+      },
+      {
+        "name": "SCHOOL DISTRICT OF OKALOOSA COUNTY",
+        "amount": 4192149.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "FL"
+      },
+      {
+        "name": "PINELLAS COUNTY SCHOOL DISTRICT",
+        "amount": 3522509.38,
+        "description": "PINELLAS SCHOOL CLIMATE TRANSFORMATION",
+        "state": "FL"
+      },
+      {
+        "name": "SCHOOL BOARD OF SEMINOLE COUNTY, FL",
+        "amount": 3170772.0,
+        "description": "SOUTH SEMINOLE ACADEMY OF CAREER EXPLORATION",
+        "state": "FL"
+      }
+    ],
+    "NY": [
+      {
+        "name": "SALAMANCA CITY SCHOOL DISTRICT",
+        "amount": 24396683.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "NY"
+      },
+      {
+        "name": "SALAMANCA CITY SCHOOL DISTRICT",
+        "amount": 22915294.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "NY"
+      },
+      {
+        "name": "INDIAN RIVER CENTRAL SCHOOL DISTRICT",
+        "amount": 21242046.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "NY"
+      },
+      {
+        "name": "INDIAN RIVER CENTRAL SCHOOL DISTRICT",
+        "amount": 20840934.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "NY"
+      },
+      {
+        "name": "NORTHEAST CHARTER SCHOOLS NETWORK, INC.",
+        "amount": 14706765.0,
+        "description": "GREAT SCHOOLS FOR CONNECTICUT CSP PROEJCT",
+        "state": "NY"
+      },
+      {
+        "name": "SUCCESS ACADEMY CHARTER SCHOOLS INC",
+        "amount": 12132125.0,
+        "description": "SECURING SUCCESS FOR ALL NEW YORK CITY CHILDREN",
+        "state": "NY"
+      },
+      {
+        "name": "TICONDEROGA CENTRAL SCHOOL DISTRICT",
+        "amount": 11620000.0,
+        "description": "GEAR UP: BRILLIANT PATHWAYS",
+        "state": "NY"
+      },
+      {
+        "name": "SUCCESS ACADEMY CHARTER SCHOOLS INC",
+        "amount": 9799540.12,
+        "description": "MISSION POSSIBLE: SECURING SUCCESS FOR NYC CHILDREN",
+        "state": "NY"
+      },
+      {
+        "name": "CARTHAGE CENTRAL SCHOOL DISTRICT",
+        "amount": 9236996.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "NY"
+      },
+      {
+        "name": "SODUS CENTRAL SCHOOL DISTRICT",
+        "amount": 8894558.0,
+        "description": "WAYNE COUNTY COMMUNITY SCHOOLS: EXPANSION AND ENGAGEMENT PROPOSAL",
+        "state": "NY"
+      },
+      {
+        "name": "CARTHAGE CENTRAL SCHOOL DISTRICT",
+        "amount": 8772613.0,
+        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+        "state": "NY"
+      },
+      {
+        "name": "SUCCESS ACADEMY CHARTER SCHOOLS INC",
+        "amount": 5634865.0,
+        "description": "SECURING SUCCESS FOR ALL NEW YORK CITY CHILDREN",
+        "state": "NY"
+      },
+      {
+        "name": "HAVERSTRAW STONY POINT CENTRAL SCHOOL DISTRICT",
+        "amount": 5250000.0,
+        "description": "NORTH ROCKLAND CENTRAL SCHOOL DISTRICT MENTAL HEALTH GRANT",
+        "state": "NY"
+      }
+    ]
+  }
+}
