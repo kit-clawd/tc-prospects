@@ -374,11 +374,7 @@
                 </li>
             `}).join('');
             
-            const countNote = (totalCount && totalCount > awards.length) 
-                ? `<p style="color:#666;font-size:12px;margin-top:8px;">Showing top ${awards.length} of ${totalCount} awards</p>`
-                : '';
-            
-            return `<ul class="award-list">${items}</ul>${countNote}`;
+            return `<ul class="award-list">${items}</ul>`;
         }
         
         function toggleRow(districtId) {
