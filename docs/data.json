@@ -28,12 +28,36 @@
       "website": "https://www.seattleschools.org",
       "contacts": [
         {
-          "name": "Brent Jones",
+          "name": "Ben Shuldiner",
           "title": "Superintendent",
-          "email": "brent.jones@seattleschools.org",
+          "email": "bshuldiner@seattleschools.org",
           "email_guessed": true,
           "phone": null,
-          "source": "Ballotpedia"
+          "source": "District website"
+        },
+        {
+          "name": "Carlos Del Valle",
+          "title": "Assistant Superintendent of Technology",
+          "email": "cdelvalle@seattleschools.org",
+          "source": "District website"
+        },
+        {
+          "name": "Fred Podesta",
+          "title": "Chief Operations Officer",
+          "email": "fpodesta@seattleschools.org",
+          "source": "District website"
+        },
+        {
+          "name": "Bev Redmond",
+          "title": "Chief of Staff",
+          "email": "bredmond@seattleschools.org",
+          "source": "District website"
+        },
+        {
+          "name": "Dr. Kurt Buttleman",
+          "title": "Assistant Superintendent of Finance",
+          "email": "kbuttleman@seattleschools.org",
+          "source": "District website"
         }
       ],
       "directory_url": "https://www.seattleschools.org/news/seattle-public-schools-plants-first-mini-forest-at-robert-eagle-staff/"
