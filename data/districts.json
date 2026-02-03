@@ -372,16 +372,79 @@
       "enrollment": 420000,
       "city": "Los Angeles",
       "type": "Urban",
-      "federal_awards": 3600000.0,
+      "federal_awards": 143017260.63,
       "title_i": 0,
-      "recent_awards": 1,
+      "recent_awards": 22,
       "award_details": [
+        {
+          "amount": 30525600.0,
+          "description": "GEAR UP 4 LA WILL SERVICES 5568 STUDENTS IN THE LOS ANGELES UNIFIED SCHOOL DISTRICT TO SUPPORT HIGH SCHOOL GRADUATION, AND POST-SECONDARY ENROLLMENT AND PERSISTENCE.",
+          "program": "84.334",
+          "start_date": "2018-10-01",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 29005600.0,
+          "description": "GEAR UP 4 LA WILL SERVICES 5203 STUDENTS IN THE LOS ANGELES UNIFIED SCHOOL DISTRICT TO SUPPORT HIGH SCHOOL GRADUATION, AND POST-SECONDARY ENROLLMENT AND PERSISTENCE.",
+          "program": "84.334",
+          "start_date": "2018-10-01",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 20374355.0,
+          "description": "DESCRIPTION:THE AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO THE LOS ANGELES UNIFIED SCHOOL DISTRICT TO REPLACE IN-USE, NON-ZERO-EMISSION HEAVY-DUTY VEHICLES WITH NEW ZERO-EMI",
+          "program": "66.049",
+          "start_date": "2025-01-01",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 19750000.0,
+          "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) TO THE LOS ANGELES UNIFIED SCHOOL DISTRICT. THIS AGREEMENT IS TO REPLACE EXISTING SCHOOL BUSES WITH ",
+          "program": "66.045",
+          "start_date": "2024-04-01",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 17104290.91,
+          "description": "GAINING EARLY AWARENESS AND READINESS FOR UNDERGRADUATE PROGRAMS (GEAR UP PARTNERSHIP)",
+          "program": "84.334",
+          "start_date": "2020-02-13",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 12458927.15,
+          "description": "GAINING EARLY AWARENESS AND READINESS FOR UNDERGRADUATE PROGRAMS (GEAR UP PARTNERSHIP)",
+          "program": "84.334",
+          "start_date": "2014-09-25",
+          "year": "2023-2026"
+        },
         {
           "amount": 3600000.0,
           "description": "LAUSD MENTAL HEALTH CAREER PATHWAY DEMONSTRATION PROJECT",
           "program": "84.184",
           "start_date": "2023-04-01",
-          "year": "2024-2025"
+          "year": "2023-2026"
+        },
+        {
+          "amount": 3009606.0,
+          "description": "LAUSD IS APPLYING FOR COMPONENT 1: SCHOOL-BASED SURVEILLANCE, AND COMPONENT 1: SCHOOL-BASED HIV/STD PREVENTION IN ORDER TO REDUCE HIV AND STD INFECTIONS AMONG ADOLESCENTS AS WELL AS TEEN PREGNANCY.",
+          "program": "93.283",
+          "start_date": "2018-08-01",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 2500000.0,
+          "description": "PURPOSE: ECONOMIC DEVELOPMENT INITIATIVE, COMMUNITY PROJECT FUNDING/CONGRESSIONAL DIRECTED SPENDING AWARDS ARE AUTHORIZED UNDER THE CONSOLIDATED APPROPRIATIONS ACT, 2022 PUBLIC LAW 117-328 AND THE EXP",
+          "program": "14.251",
+          "start_date": "2024-08-13",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 1000000.0,
+          "description": "LATTC MOBILE LEARNING INNOVATION",
+          "program": "84.116",
+          "start_date": "2023-06-01",
+          "year": "2023-2026"
         }
       ],
       "website": "https://www.lausd.org",
@@ -410,16 +473,79 @@
       "enrollment": 97000,
       "city": "San Diego",
       "type": "Urban",
-      "federal_awards": 2690608.0,
+      "federal_awards": 288814608.48,
       "title_i": 0,
-      "recent_awards": 1,
+      "recent_awards": 44,
       "award_details": [
         {
-          "amount": 2690608.0,
-          "description": "CON CARI\u00d1O: SCHOOL MENTAL HEALTH WITH HEART",
-          "program": "84.184",
-          "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "amount": 78188734.0,
+          "description": "REBUILD CHESTERTON ELEMENTARY SCHOOL",
+          "program": "12.600",
+          "start_date": "2021-12-01",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 58600279.0,
+          "description": "DESCRIPTION:THE PURPOSE OF THIS AWARD IS TO PROVIDE FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO PORT AUTHORITY: SAN DIEGO UNIFIED PORT DISTRICT.  SPECIFICALLY, THE RECIPIENT WILL ELECTRIFY OPER",
+          "program": "66.051",
+          "start_date": "2025-01-01",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 14988439.0,
+          "description": "AMPLIFYING THE ARTS IN THE SAN DIEGO UNIFIED SCHOOL DISTRICT",
+          "program": "84.165",
+          "start_date": "2021-04-01",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 12431000.0,
+          "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) TO THE SAN DIEGO UNIFIED SCHOOL DISTRICT TO REPLACE EXISTING SCHOOL BUSES WITH ZERO EMISSION (ZE) SC",
+          "program": "66.045",
+          "start_date": "2024-09-01",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 11504155.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 10399390.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 9326033.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 9077011.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 8997722.0,
+          "description": "MAGNIFYING MEDIA ARTS IN THE SAN DIEGO UNIFIED SCHOOL DISTRICT",
+          "program": "84.165",
+          "start_date": "2023-10-01",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 6274223.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7002",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2023-2026"
         }
       ],
       "website": "https://www.sandiegounified.org",
@@ -441,41 +567,79 @@
       "enrollment": 187000,
       "city": "Houston",
       "type": "Urban",
-      "federal_awards": 45442913.44,
+      "federal_awards": 102574431.27,
       "title_i": 0,
-      "recent_awards": 2,
+      "recent_awards": 26,
       "award_details": [
         {
           "amount": 14929592.72,
           "description": "PARTNERSHIPS THAT FUEL OPPORTUNITIES IN STEM EDUCATION",
-          "cfda_code": "84.165",
           "program": "84.165",
           "start_date": "2017-10-01",
-          "year": "2024"
+          "year": "2023-2026"
+        },
+        {
+          "amount": 13818124.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 13542796.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 12438754.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 11694078.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 9912939.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2023-2026"
         },
         {
           "amount": 7791864.0,
           "description": "HOUSTON ISD MAGNET SCHOOLS ASSISTANCE PROGRAM: STEM + M MAGNET INITIATIVE",
-          "cfda_code": "84.165",
           "program": "84.165",
           "start_date": "2024-04-01",
-          "year": "2024"
+          "year": "2023-2026"
         },
         {
-          "amount": 14929592.72,
-          "description": "PARTNERSHIPS THAT FUEL OPPORTUNITIES IN STEM EDUCATION",
-          "cfda_code": "84.165",
-          "program": "84.165",
-          "start_date": "2017-10-01",
-          "year": "2025"
+          "amount": 4864261.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "2025-10-01",
+          "year": "2023-2026"
         },
         {
-          "amount": 7791864.0,
-          "description": "HOUSTON ISD MAGNET SCHOOLS ASSISTANCE PROGRAM: STEM + M MAGNET INITIATIVE",
-          "cfda_code": "84.165",
-          "program": "84.165",
-          "start_date": "2024-04-01",
-          "year": "2025"
+          "amount": 2651158.0,
+          "description": "RESTORING AND RENEWING OUR YOUTH AND COMMUNITIES THROUGH SCHOOL HEALTH PREVENTIONCOMPONENTS 1 AND 2",
+          "program": "93.941",
+          "start_date": "2018-08-01",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 2291992.68,
+          "description": "EVERY COMMUNITY, EVERY SCHOOL",
+          "program": "84.215",
+          "start_date": "2018-10-01",
+          "year": "2023-2026"
         }
       ],
       "website": "https://www.houstonisd.org",
@@ -497,10 +661,81 @@
       "enrollment": 140000,
       "city": "Dallas",
       "type": "Urban",
-      "federal_awards": 0,
+      "federal_awards": 5895118.98,
       "title_i": 0,
-      "recent_awards": 0,
-      "award_details": [],
+      "recent_awards": 13,
+      "award_details": [
+        {
+          "amount": 2184164.0,
+          "description": "DESCRIPTION:THE AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO THE DALLAS INDEPENDENT SCHOOL DISTRICT (DISD) TO REPLACE IN-USE, NON-ZERO-EMISSION HEAVY-DUTY VEHICLES WITH NEW ZE",
+          "program": "66.049",
+          "start_date": "2025-01-14",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 481972.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7002",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 474591.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7002",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 469388.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7002",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 459113.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7002",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 453258.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7002",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 353757.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7002",
+          "program": "84.041",
+          "start_date": "2025-10-01",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 336500.0,
+          "description": "SCHOOL EMERGENCY RESPONSE TO VIOLENCE (PROJECT SERV)",
+          "program": "84.184",
+          "start_date": "2025-08-01",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 145501.66,
+          "description": "INDIAN EDUCATION FORMULA GRANTS TO LEAS",
+          "program": "84.060",
+          "start_date": "2021-07-01",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 143942.55,
+          "description": "INDIAN EDUCATION FORMULA GRANTS TO LEAS",
+          "program": "84.060",
+          "start_date": "2020-07-01",
+          "year": "2023-2026"
+        }
+      ],
       "website": "https://www.dallasisd.org",
       "contacts": [
         {
@@ -520,10 +755,81 @@
       "enrollment": 72000,
       "city": "Austin",
       "type": "Urban",
-      "federal_awards": 0,
+      "federal_awards": 63229741.699999996,
       "title_i": 0,
-      "recent_awards": 0,
-      "award_details": [],
+      "recent_awards": 19,
+      "award_details": [
+        {
+          "amount": 14946533.0,
+          "description": "IIJA: SOLAR FOR SCHOOLS AT AUSTIN ISD",
+          "program": "81.086",
+          "start_date": "2024-02-01",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 13863927.0,
+          "description": "GEAR UP AUSTIN WILL SERVE 6TH GRADE STUDENTS ENROLLED IN (11) AUSTIN MIDDLE SCHOOLS IN 2017-2018 AND FOLLOW THEM AS A COHORT TO (7) HIGH SCHOOLS THROUGH THE SUMMER AFTER 12TH GRADE.",
+          "program": "84.334",
+          "start_date": "2017-09-26",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 8884894.87,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2019-07-01",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 6250000.0,
+          "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) TO AUSTIN INDEPENDENT SCHOOL DISTRICT TO HELP IMPROVE AIR QUALITY BY REDUCING GREENHOUSE GAS EMISSIO",
+          "program": "66.045",
+          "start_date": "2024-07-09",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 3515462.56,
+          "description": "SUPPORTING BEHAVIOR AND IMPROVING SCHOOL CLIMATE THROUGH THE ELEMENTARY TO MIDDLE SCHOOL TRANSITION: WHOLE SCHOOL RESTORATIVE PRACTICES IN AUSTIN INDEPENDENT SCHOOL DISTRICT (AISD)",
+          "program": "84.411",
+          "start_date": "2017-10-01",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 3000000.0,
+          "description": "PURPOSE: ECONOMIC DEVELOPMENT INITIATIVE, COMMUNITY PROJECT FUNDING/CONGRESSIONAL DIRECTED SPENDING AWARDS ARE AUTHORIZED UNDER THE CONSOLIDATED APPROPRIATIONS ACT, 2022 PUBLIC LAW 117-328 AND THE EXP",
+          "program": "14.251",
+          "start_date": "2024-08-13",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 2650737.0,
+          "description": "AUSTIN ISD NAVIGATES: NURTURING ACADEMIC VISIONS WITH GIFTED AND TALENTED EDUCATION STUDENTS",
+          "program": "84.206",
+          "start_date": "2022-09-01",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 2015750.0,
+          "description": "EQUITABLE ACCESS TO OUTDOOR SPACES",
+          "program": "84.215",
+          "start_date": "2023-08-16",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 1950000.0,
+          "description": "RESILIENCE AND INNOVATION THROUGH COMMUNITY SCHOOLS IN EAST AUSTIN",
+          "program": "84.215",
+          "start_date": "2023-01-01",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 1924220.0,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2025-05-01",
+          "year": "2023-2026"
+        }
+      ],
       "website": "https://www.austinisd.org",
       "contacts": [
         {
@@ -688,44 +994,79 @@
       "enrollment": 217000,
       "city": "Tampa",
       "type": "Urban",
-      "federal_awards": 10805479.16,
+      "federal_awards": 920391360.8,
       "title_i": 0,
-      "recent_awards": 5,
+      "recent_awards": 50,
       "award_details": [
         {
-          "amount": 7003461.0,
-          "description": "MONROE COUNTY SCHOOL DISTRICT SBMH SERVICES GRANT",
-          "program": "84.184",
-          "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "amount": 166915815.4,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2019-10-01",
+          "year": "2023-2026"
         },
         {
-          "amount": 2723904.0,
-          "description": "SCPS: SUPPORTING MENTAL HEALTH NEEDS-TODAY, TOMORROW, AND BEYOND",
-          "program": "84.184",
-          "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "amount": 86374326.0,
+          "description": "NEW CONSTRUCTION OF TINKER ELEMENTARY/MIDDLE SCHOOL",
+          "program": "12.600",
+          "start_date": "2023-05-01",
+          "year": "2023-2026"
         },
         {
-          "amount": 1028780.0,
-          "description": "BROWARD\u2019S PATH  (PSYCHOLOGIST ADVANCEMENT AND TRAINING HUB) FORWARD",
-          "program": "84.184",
-          "start_date": "2026-01-01",
-          "year": "2024-2025"
+          "amount": 74592338.0,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2024-10-01",
+          "year": "2023-2026"
         },
         {
-          "amount": 32593.16,
-          "description": "EMERGENCY FINANCIAL AID GRANTS TO STUDENTS UNDER THE CORONAVIRUS AID, RELIEF, AND ECONOMIC SECURITY (CARES) ACT",
-          "program": "84.425",
-          "start_date": "2020-04-24",
-          "year": "2024-2025"
+          "amount": 74103244.46,
+          "description": "HIV EMERGENCY RELIEF PROJECT GRANTS",
+          "program": "93.914",
+          "start_date": "1993-04-04",
+          "year": "2023-2026"
         },
         {
-          "amount": 16741.0,
-          "description": "COVID-19 EMERGENCY RELIEF FOR FLAGLER TECHNICAL INSTITUTE (INSTITUTION)",
-          "program": "84.425",
-          "start_date": "2020-05-07",
-          "year": "2024-2025"
+          "amount": 55950248.0,
+          "description": "PURPOSE: CONSTRUCT APRON.  ACTIVITIES TO BE PERFORMED/EXPECTED OUTCOMES: THIS PROJECT CONSTRUCTS A NEW 126,900 SQUARE YARD AIRSIDE D APRON TO BRING THE AIRPORT INTO CONFORMITY WITH CURRENT STANDARDS. ",
+          "program": "20.106",
+          "start_date": "2025-07-29",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 47765443.0,
+          "description": "THIS IS AN FFY 2021 SECTION 5307 ARP APPLICATION IN THE AMOUNT OF $47765443 REPRESENTING 100% (UP TO 100%) FEDERAL SHARE OF THE TOTAL ELIGIBLE AMOUNT. THIS APPLICATION UTILIZES ARP FUNDING TO PREVENT ",
+          "program": "20.507",
+          "start_date": "2022-02-01",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 40000000.0,
+          "description": "PURPOSE: INSTALL PASSENGER BOARDING BRIDGES; CONSTRUCT TERMINAL PEOPLE MOVER.  ACTIVITIES TO BE PERFORMED/EXPECTED OUTCOMES: THIS PROJECT ACQUIRES AND INSTALLS NINE NEW PASSENGER BOARDING BRIDGES TO B",
+          "program": "20.106",
+          "start_date": "2025-07-08",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 35466200.0,
+          "description": "PURPOSE: COMMUNITY DEVELOPMENT BLOCK GRANT DISASTER RECOVERY (CDBG-DR) AND COMMUNITY DEVELOPMENT BLOCK GRANT MITIGATION (CDBG-MIT) GRANT FUNDS ARE APPROPRIATED BY CONGRESS AND ALLOCATED BY THE DEPARTM",
+          "program": "14.228",
+          "start_date": "2025-05-15",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 23506841.0,
+          "description": "APPLICATION PURPOSE: PURPOSE: THE PURPOSE OF THIS AWARD IS TO PROVIDE SIGNIFICANT FUNDING FOR PREVENTIVE MAINTENANCE FOR ADA COMPLEMENTARY SERVICES BUS AND STREETCAR MAINTENANCE. FUNDS WILL ALSO BE US",
+          "program": "20.507",
+          "start_date": "2025-09-18",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 23424338.0,
+          "description": "APPLICATION PURPOSE: THE PURPOSE OF THIS AWARD IS TO PROVIDE SIGNIFICANT FUNDING FOR PREVENTIVE MAINTENANCE FOR ADA COMPLEMENTARY SERVICES BUS AND STREETCAR MAINTENANCE. FUNDS WILL ALSO BE USED FOR TH",
+          "program": "20.507",
+          "start_date": "2024-09-12",
+          "year": "2023-2026"
         }
       ],
       "website": "https://www.hillsboroughschools.org",
@@ -747,44 +1088,79 @@
       "enrollment": 206000,
       "city": "Orlando",
       "type": "Urban",
-      "federal_awards": 10805479.16,
+      "federal_awards": 2054835016.67,
       "title_i": 0,
-      "recent_awards": 5,
+      "recent_awards": 50,
       "award_details": [
         {
-          "amount": 7003461.0,
-          "description": "MONROE COUNTY SCHOOL DISTRICT SBMH SERVICES GRANT",
-          "program": "84.184",
-          "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "amount": 219712000.0,
+          "description": "PURPOSE: COMMUNITY DEVELOPMENT BLOCK GRANT DISASTER RECOVERY (CDBG-DR) AND COMMUNITY DEVELOPMENT BLOCK GRANT MITIGATION (CDBG-MIT) GRANT FUNDS ARE APPROPRIATED BY CONGRESS AND ALLOCATED BY THE DEPARTM",
+          "program": "14.228",
+          "start_date": "",
+          "year": "2023-2026"
         },
         {
-          "amount": 2723904.0,
-          "description": "SCPS: SUPPORTING MENTAL HEALTH NEEDS-TODAY, TOMORROW, AND BEYOND",
-          "program": "84.184",
-          "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "amount": 219500822.21,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2019-07-01",
+          "year": "2023-2026"
         },
         {
-          "amount": 1028780.0,
-          "description": "BROWARD\u2019S PATH  (PSYCHOLOGIST ADVANCEMENT AND TRAINING HUB) FORWARD",
-          "program": "84.184",
-          "start_date": "2026-01-01",
-          "year": "2024-2025"
+          "amount": 163993248.0,
+          "description": "THIS IS AN FFY2021 SECTION 5307 AMERICAN RESCUE PLAN ACT (ARPA) APPLICATION IN THE AMOUNT OF $163993248 REPRESENTING 100% FEDERAL SHARE OF THE TOTAL ELIGIBLE AMOUNT. THIS APPLICATION UTILIZES ARPA FUN",
+          "program": "20.507",
+          "start_date": "2021-08-11",
+          "year": "2023-2026"
         },
         {
-          "amount": 32593.16,
-          "description": "EMERGENCY FINANCIAL AID GRANTS TO STUDENTS UNDER THE CORONAVIRUS AID, RELIEF, AND ECONOMIC SECURITY (CARES) ACT",
-          "program": "84.425",
-          "start_date": "2020-04-24",
-          "year": "2024-2025"
+          "amount": 96820798.0,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2024-07-01",
+          "year": "2023-2026"
         },
         {
-          "amount": 16741.0,
-          "description": "COVID-19 EMERGENCY RELIEF FOR FLAGLER TECHNICAL INSTITUTE (INSTITUTION)",
-          "program": "84.425",
-          "start_date": "2020-05-07",
-          "year": "2024-2025"
+          "amount": 82866972.0,
+          "description": "RESIDENTIAL (SHELTER AND/OR TRANSITIONAL FOSTER CARE) SERVICES FOR UNACCOMPANIED CHILDREN-LICENSED AND TEXAS-EXEMPT AND FLORIDA-DELICENSED ONLY",
+          "program": "93.566",
+          "start_date": "2023-04-01",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 77605352.0,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2020-10-01",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 76843769.0,
+          "description": "CMAQ TRANSFER GRANT - PURCHASE OF 40-FOOT ALTERNATIVE FUEL REPLACEMENT VEHICLES - PHASE 1 BRAVO BUSES (ROLLING STOCK) RIDESHARE VANPOOL CAPITAL LEASE ANAHEIM CANYON STATION",
+          "program": "20.507",
+          "start_date": "2020-04-23",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 75905707.47,
+          "description": "HIV EMERGENCY RELIEF PROJECT GRANTS",
+          "program": "93.914",
+          "start_date": "1994-04-04",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 68943055.0,
+          "description": "APPLICATION PURPOSE: THE PURPOSE OF THIS GRANT IS TO SUPPORT MAINTENANCE AND OPERATING COSTS FOR THE ORANGE COUNTY TRANSPORTATION AUTHORITY AND ANAHEIM TRANSPORTATION NETWORK.; ACTIVITIES PERFORMED: T",
+          "program": "20.507",
+          "start_date": "2024-07-17",
+          "year": "2023-2026"
+        },
+        {
+          "amount": 64481724.0,
+          "description": "APPLICATION PURPOSE: THE PURPOSE OF THIS GRANT IS TO SUPPORT MAINTENANCE AND OPERATING COSTS FOR THE ORANGE COUNTY TRANSPORTATION AUTHORITY AND ANAHEIM TRANSPORTATION NETWORK.; ACTIVITIES PERFORMED: T",
+          "program": "20.507",
+          "start_date": "2025-09-05",
+          "year": "2023-2026"
         }
       ],
       "website": "https://www.ocps.net",
