@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EdClub Competitor Intel</title>
+    <style>
+        * { box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #1a1a2e;
+            color: #eee;
+        }
+        h1 { color: #fff; margin-bottom: 5px; }
+        .subtitle { color: #888; margin-bottom: 20px; }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        .stat-card {
+            background: #16213e;
+            padding: 20px;
+            border-radius: 12px;
+            text-align: center;
+        }
+        .stat-card .number {
+            font-size: 36px;
+            font-weight: 700;
+            color: #e94560;
+        }
+        .stat-card .label {
+            color: #888;
+            font-size: 14px;
+            margin-top: 5px;
+        }
+        .stat-card.highlight .number { color: #0f3460; background: #e94560; padding: 5px 15px; border-radius: 8px; }
+        
+        .filters {
+            background: #16213e;
+            padding: 15px 20px;
+            border-radius: 12px;
+            margin-bottom: 20px;
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+        .filters label { color: #888; font-size: 14px; }
+        .filters select, .filters input {
+            padding: 10px 15px;
+            border: 1px solid #0f3460;
+            border-radius: 8px;
+            background: #1a1a2e;
+            color: #fff;
+            font-size: 14px;
+        }
+        .filters input[type="text"] { width: 250px; }
+        .filters select:focus, .filters input:focus { outline: none; border-color: #e94560; }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: #16213e;
+            border-radius: 12px;
+            overflow: hidden;
+        }
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid #0f3460;
+        }
+        th {
+            background: #0f3460;
+            font-weight: 600;
+            color: #fff;
+            cursor: pointer;
+            user-select: none;
+        }
+        th:hover { background: #1a3a6e; }
+        th.sorted-asc::after { content: ' ↑'; color: #e94560; }
+        th.sorted-desc::after { content: ' ↓'; color: #e94560; }
+        
+        tr:hover { background: #1a2744; }
+        
+        .confidence-high { color: #4ade80; }
+        .confidence-medium { color: #fbbf24; }
+        .confidence-low { color: #888; }
+        
+        .matched-badge {
+            display: inline-block;
+            padding: 3px 10px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 500;
+        }
+        .matched-badge.yes { background: #065f46; color: #6ee7b7; }
+        .matched-badge.no { background: #374151; color: #9ca3af; }
+        
+        .enrollment { color: #60a5fa; }
+        
+        a { color: #e94560; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        
+        .empty-state {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+        }
+        
+        footer {
+            margin-top: 30px;
+            text-align: center;
+            color: #555;
+            font-size: 13px;
+        }
+        
+        .export-btn {
+            background: #e94560;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+        .export-btn:hover { background: #d63850; }
+    </style>
+</head>
+<body>
+    <h1>⚔️ EdClub Competitor Intel</h1>
+    <p class="subtitle">1,282 schools/districts using TypingClub/EdClub — identified via DNS enumeration</p>
+    
+    <div class="stats-grid">
+        <div class="stat-card">
+            <div class="number" id="totalCount">-</div>
+            <div class="label">Total EdClub Customers</div>
+        </div>
+        <div class="stat-card">
+            <div class="number" id="matchedCount">-</div>
+            <div class="label">Matched to Districts</div>
+        </div>
+        <div class="stat-card">
+            <div class="number" id="unmatchedCount">-</div>
+            <div class="label">Unmatched (Other Schools)</div>
+        </div>
+        <div class="stat-card">
+            <div class="number" id="enrollmentTotal">-</div>
+            <div class="label">Total Enrollment (Matched)</div>
+        </div>
+    </div>
+    
+    <div class="filters">
+        <div>
+            <label>Filter:</label>
+            <select id="matchFilter">
+                <option value="">All Customers</option>
+                <option value="matched">Matched to District</option>
+                <option value="unmatched">Unmatched</option>
+                <option value="high">High Confidence Match</option>
+            </select>
+        </div>
+        <div>
+            <label>Search:</label>
+            <input type="text" id="searchFilter" placeholder="Search by name or subdomain...">
+        </div>
+        <div style="margin-left: auto;">
+            <button class="export-btn" onclick="exportCSV()">📥 Export CSV</button>
+        </div>
+    </div>
+    
+    <table id="competitorTable">
+        <thead>
+            <tr>
+                <th data-sort="name">Customer Name</th>
+                <th data-sort="subdomain">Subdomain</th>
+                <th data-sort="matched">Matched</th>
+                <th data-sort="district">District Match</th>
+                <th data-sort="state">State</th>
+                <th data-sort="enrollment">Enrollment</th>
+                <th data-sort="confidence">Confidence</th>
+            </tr>
+        </thead>
+        <tbody id="tableBody">
+        </tbody>
+    </table>
+    
+    <footer>
+        Data source: RapidDNS passive DNS | Last updated: <span id="lastUpdated">2026-02-03</span>
+    </footer>
+
+    <script>
+        let allCompetitors = [];
+        let currentSort = { field: 'name', direction: 'asc' };
+        
+        async function loadData() {
+            try {
+                const resp = await fetch('competitors.json');
+                const data = await resp.json();
+                allCompetitors = data.competitors || [];
+                
+                // Update stats
+                document.getElementById('totalCount').textContent = data.meta.total_subdomains.toLocaleString();
+                document.getElementById('matchedCount').textContent = data.meta.matched.toLocaleString();
+                document.getElementById('unmatchedCount').textContent = data.meta.unmatched.toLocaleString();
+                
+                const totalEnrollment = allCompetitors
+                    .filter(c => c.match)
+                    .reduce((sum, c) => sum + (c.match.enrollment || 0), 0);
+                document.getElementById('enrollmentTotal').textContent = totalEnrollment.toLocaleString();
+                
+                renderTable();
+            } catch (e) {
+                console.error('Failed to load data:', e);
+                document.getElementById('tableBody').innerHTML = 
+                    '<tr><td colspan="7" class="empty-state">Failed to load competitor data.</td></tr>';
+            }
+        }
+        
+        function getFilteredCompetitors() {
+            const matchFilter = document.getElementById('matchFilter').value;
+            const search = document.getElementById('searchFilter').value.toLowerCase();
+            
+            return allCompetitors.filter(c => {
+                if (matchFilter === 'matched' && !c.match) return false;
+                if (matchFilter === 'unmatched' && c.match) return false;
+                if (matchFilter === 'high' && (!c.match || c.match.confidence < 0.7)) return false;
+                
+                if (search) {
+                    const searchable = `${c.name} ${c.subdomain} ${c.match?.district || ''}`.toLowerCase();
+                    if (!searchable.includes(search)) return false;
+                }
+                
+                return true;
+            });
+        }
+        
+        function sortCompetitors(competitors) {
+            const { field, direction } = currentSort;
+            return [...competitors].sort((a, b) => {
+                let aVal, bVal;
+                
+                switch(field) {
+                    case 'matched':
+                        aVal = a.match ? 1 : 0;
+                        bVal = b.match ? 1 : 0;
+                        break;
+                    case 'district':
+                        aVal = a.match?.district || '';
+                        bVal = b.match?.district || '';
+                        break;
+                    case 'state':
+                        aVal = a.match?.state || '';
+                        bVal = b.match?.state || '';
+                        break;
+                    case 'enrollment':
+                        aVal = a.match?.enrollment || 0;
+                        bVal = b.match?.enrollment || 0;
+                        break;
+                    case 'confidence':
+                        aVal = a.match?.confidence || 0;
+                        bVal = b.match?.confidence || 0;
+                        break;
+                    default:
+                        aVal = a[field] || '';
+                        bVal = b[field] || '';
+                }
+                
+                if (typeof aVal === 'number') {
+                    return direction === 'asc' ? aVal - bVal : bVal - aVal;
+                }
+                return direction === 'asc' 
+                    ? String(aVal).localeCompare(String(bVal))
+                    : String(bVal).localeCompare(String(aVal));
+            });
+        }
+        
+        function renderTable() {
+            const filtered = getFilteredCompetitors();
+            const sorted = sortCompetitors(filtered);
+            
+            // Update sort indicators
+            document.querySelectorAll('th').forEach(th => {
+                th.classList.remove('sorted-asc', 'sorted-desc');
+                if (th.dataset.sort === currentSort.field) {
+                    th.classList.add(`sorted-${currentSort.direction}`);
+                }
+            });
+            
+            const tbody = document.getElementById('tableBody');
+            if (sorted.length === 0) {
+                tbody.innerHTML = '<tr><td colspan="7" class="empty-state">No competitors match your filters</td></tr>';
+                return;
+            }
+            
+            // Only show first 500 for performance
+            const display = sorted.slice(0, 500);
+            
+            let html = '';
+            display.forEach(c => {
+                const confidenceClass = c.match 
+                    ? (c.match.confidence >= 0.7 ? 'confidence-high' : 'confidence-medium')
+                    : 'confidence-low';
+                
+                html += `
+                    <tr>
+                        <td><strong>${c.name}</strong></td>
+                        <td><a href="https://${c.subdomain}" target="_blank">${c.subdomain}</a></td>
+                        <td><span class="matched-badge ${c.match ? 'yes' : 'no'}">${c.match ? 'Yes' : 'No'}</span></td>
+                        <td>${c.match?.district || '-'}</td>
+                        <td>${c.match?.state || '-'}</td>
+                        <td class="enrollment">${c.match?.enrollment?.toLocaleString() || '-'}</td>
+                        <td class="${confidenceClass}">${c.match ? (c.match.confidence * 100).toFixed(0) + '%' : '-'}</td>
+                    </tr>
+                `;
+            });
+            
+            if (sorted.length > 500) {
+                html += `<tr><td colspan="7" class="empty-state">Showing 500 of ${sorted.length} results. Use search to narrow down.</td></tr>`;
+            }
+            
+            tbody.innerHTML = html;
+        }
+        
+        function exportCSV() {
+            const filtered = getFilteredCompetitors();
+            const rows = [['Name', 'Subdomain', 'Matched District', 'State', 'Enrollment', 'Confidence']];
+            
+            filtered.forEach(c => {
+                rows.push([
+                    c.name,
+                    c.subdomain,
+                    c.match?.district || '',
+                    c.match?.state || '',
+                    c.match?.enrollment || '',
+                    c.match?.confidence || ''
+                ]);
+            });
+            
+            const csv = rows.map(r => r.map(cell => `"${cell}"`).join(',')).join('\n');
+            const blob = new Blob([csv], { type: 'text/csv' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'edclub_competitors.csv';
+            a.click();
+        }
+        
+        // Event listeners
+        document.querySelectorAll('.filters select, .filters input').forEach(el => {
+            el.addEventListener('change', renderTable);
+            el.addEventListener('input', renderTable);
+        });
+        
+        document.querySelectorAll('th[data-sort]').forEach(th => {
+            th.addEventListener('click', () => {
+                const field = th.dataset.sort;
+                if (currentSort.field === field) {
+                    currentSort.direction = currentSort.direction === 'asc' ? 'desc' : 'asc';
+                } else {
+                    currentSort.field = field;
+                    currentSort.direction = 'asc';
+                }
+                renderTable();
+            });
+        });
+        
+        loadData();
+    </script>
+</body>
+</html>
