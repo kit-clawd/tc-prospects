@@ -8,7 +8,7 @@
         * { box-sizing: border-box; }
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            max-width: 1200px;
+            max-width: 1400px;
             margin: 0 auto;
             padding: 20px;
             background: #f5f5f5;
@@ -35,6 +35,7 @@
             font-size: 14px;
         }
         .filters input[type="text"] { width: 200px; }
+        .filters input[type="checkbox"] { width: auto; margin-right: 5px; }
         
         .stats {
             background: #e8f4fd;
@@ -64,22 +65,26 @@
             color: #333;
             cursor: pointer;
             user-select: none;
+            white-space: nowrap;
         }
         th:hover { background: #f0f0f0; }
         th.sorted-asc::after { content: ' ↑'; }
         th.sorted-desc::after { content: ' ↓'; }
-        tr:hover { background: #f8f9fa; }
+        
+        tr.district-row { cursor: pointer; }
+        tr.district-row:hover { background: #f8f9fa; }
+        tr.expanded { background: #f0f7ff; }
         
         .enrollment { font-weight: 500; }
         .enrollment.large { color: #1a73e8; }
         .enrollment.medium { color: #34a853; }
         .enrollment.small { color: #666; }
         
-        .federal-award {
+        .amount {
             font-family: monospace;
             font-size: 13px;
         }
-        .federal-award.high { color: #ea4335; font-weight: 500; }
+        .amount.high { color: #ea4335; font-weight: 500; }
         
         .type-badge {
             display: inline-block;
@@ -91,6 +96,66 @@
         .type-badge.Urban { background: #e8f0fe; color: #1967d2; }
         .type-badge.Suburban { background: #e6f4ea; color: #137333; }
         .type-badge.Rural { background: #fef7e0; color: #b06000; }
+        
+        .recent-badge {
+            display: inline-block;
+            background: #34a853;
+            color: white;
+            padding: 2px 6px;
+            border-radius: 10px;
+            font-size: 11px;
+            font-weight: 500;
+        }
+        
+        .detail-row {
+            display: none;
+        }
+        .detail-row.visible {
+            display: table-row;
+        }
+        .detail-row td {
+            background: #fafbfc;
+            padding: 15px 20px;
+        }
+        
+        .award-list {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+        .award-list li {
+            padding: 8px 0;
+            border-bottom: 1px solid #eee;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            gap: 20px;
+        }
+        .award-list li:last-child { border-bottom: none; }
+        .award-program {
+            font-weight: 500;
+            color: #333;
+        }
+        .award-desc {
+            color: #666;
+            font-size: 13px;
+            flex: 1;
+        }
+        .award-amount {
+            font-family: monospace;
+            font-weight: 500;
+            color: #1a73e8;
+            white-space: nowrap;
+        }
+        .award-date {
+            color: #999;
+            font-size: 12px;
+        }
+        
+        .no-awards {
+            color: #999;
+            font-style: italic;
+        }
         
         .empty-state {
             text-align: center;
@@ -104,11 +169,21 @@
             color: #999;
             font-size: 12px;
         }
+        
+        .expand-icon {
+            color: #999;
+            margin-right: 8px;
+            transition: transform 0.2s;
+            display: inline-block;
+        }
+        .expanded .expand-icon {
+            transform: rotate(90deg);
+        }
     </style>
 </head>
 <body>
     <h1>🎯 TC Prospects</h1>
-    <p class="subtitle">School district prospecting browser</p>
+    <p class="subtitle">School district prospecting browser — click a row to see award details</p>
     
     <div class="filters">
         <div>
@@ -138,6 +213,12 @@
             </select>
         </div>
         <div>
+            <label><input type="checkbox" id="titleIFilter"> Has Title I</label>
+        </div>
+        <div>
+            <label><input type="checkbox" id="recentFilter"> Recent Awards (2025+)</label>
+        </div>
+        <div>
             <label>Search:</label>
             <input type="text" id="searchFilter" placeholder="District name...">
         </div>
@@ -153,7 +234,9 @@
                 <th data-sort="city">City</th>
                 <th data-sort="type">Type</th>
                 <th data-sort="enrollment">Enrollment</th>
-                <th data-sort="federal_awards">Federal Awards</th>
+                <th data-sort="federal_awards">Total Awards</th>
+                <th data-sort="title_i">Title I</th>
+                <th data-sort="recent_awards">Recent</th>
             </tr>
         </thead>
         <tbody id="tableBody">
@@ -167,6 +250,7 @@
     <script>
         let allDistricts = [];
         let currentSort = { field: 'enrollment', direction: 'desc' };
+        let expandedRows = new Set();
         
         async function loadData() {
             try {
@@ -194,7 +278,7 @@
             } catch (e) {
                 console.error('Failed to load data:', e);
                 document.getElementById('tableBody').innerHTML = 
-                    '<tr><td colspan="6" class="empty-state">Failed to load data. Run fetch_data.py first.</td></tr>';
+                    '<tr><td colspan="8" class="empty-state">Failed to load data. Run fetch_data.py first.</td></tr>';
             }
         }
         
@@ -203,12 +287,16 @@
             const type = document.getElementById('typeFilter').value;
             const minEnrollment = parseInt(document.getElementById('enrollmentFilter').value) || 0;
             const search = document.getElementById('searchFilter').value.toLowerCase();
+            const titleIOnly = document.getElementById('titleIFilter').checked;
+            const recentOnly = document.getElementById('recentFilter').checked;
             
             return allDistricts.filter(d => {
                 if (state && d.state !== state) return false;
                 if (type && d.type !== type) return false;
-                if (d.enrollment < minEnrollment) return false;
+                if (d.enrollment && d.enrollment < minEnrollment) return false;
                 if (search && !d.name.toLowerCase().includes(search)) return false;
+                if (titleIOnly && (!d.title_i || d.title_i <= 0)) return false;
+                if (recentOnly && (!d.recent_awards || d.recent_awards <= 0)) return false;
                 return true;
             });
         }
@@ -219,13 +307,54 @@
                 let aVal = a[field] ?? '';
                 let bVal = b[field] ?? '';
                 
-                if (typeof aVal === 'number') {
+                // Handle nulls - push to bottom
+                if (aVal === null || aVal === '') aVal = direction === 'asc' ? Infinity : -Infinity;
+                if (bVal === null || bVal === '') bVal = direction === 'asc' ? Infinity : -Infinity;
+                
+                if (typeof aVal === 'number' || typeof bVal === 'number') {
+                    aVal = Number(aVal) || 0;
+                    bVal = Number(bVal) || 0;
                     return direction === 'asc' ? aVal - bVal : bVal - aVal;
                 }
                 return direction === 'asc' 
                     ? String(aVal).localeCompare(String(bVal))
                     : String(bVal).localeCompare(String(aVal));
             });
+        }
+        
+        function formatMoney(amount) {
+            if (!amount || amount <= 0) return '-';
+            if (amount >= 1000000) return `$${(amount/1000000).toFixed(1)}M`;
+            if (amount >= 1000) return `$${(amount/1000).toFixed(0)}K`;
+            return `$${amount.toFixed(0)}`;
+        }
+        
+        function renderAwardDetails(awards) {
+            if (!awards || awards.length === 0) {
+                return '<p class="no-awards">No detailed award data available</p>';
+            }
+            
+            const items = awards.map(a => `
+                <li>
+                    <div>
+                        <div class="award-program">${a.program || 'Federal Grant'}</div>
+                        <div class="award-desc">${a.description || ''}</div>
+                        ${a.start_date ? `<div class="award-date">${a.start_date}</div>` : ''}
+                    </div>
+                    <div class="award-amount">${formatMoney(a.amount)}</div>
+                </li>
+            `).join('');
+            
+            return `<ul class="award-list">${items}</ul>`;
+        }
+        
+        function toggleRow(districtId) {
+            if (expandedRows.has(districtId)) {
+                expandedRows.delete(districtId);
+            } else {
+                expandedRows.add(districtId);
+            }
+            renderTable();
         }
         
         function renderTable() {
@@ -235,10 +364,12 @@
             // Update stats
             const totalEnrollment = sorted.reduce((sum, d) => sum + (d.enrollment || 0), 0);
             const totalAwards = sorted.reduce((sum, d) => sum + (d.federal_awards || 0), 0);
+            const totalTitleI = sorted.reduce((sum, d) => sum + (d.title_i || 0), 0);
             document.getElementById('stats').innerHTML = 
                 `Showing <strong>${sorted.length}</strong> districts | ` +
-                `Total enrollment: <strong>${totalEnrollment.toLocaleString()}</strong> | ` +
-                `Federal awards: <strong>$${(totalAwards/1000000).toFixed(1)}M</strong>`;
+                `Enrollment: <strong>${totalEnrollment.toLocaleString()}</strong> | ` +
+                `Total Awards: <strong>${formatMoney(totalAwards)}</strong> | ` +
+                `Title I: <strong>${formatMoney(totalTitleI)}</strong>`;
             
             // Update sort indicators
             document.querySelectorAll('th').forEach(th => {
@@ -251,26 +382,39 @@
             // Render rows
             const tbody = document.getElementById('tableBody');
             if (sorted.length === 0) {
-                tbody.innerHTML = '<tr><td colspan="6" class="empty-state">No districts match your filters</td></tr>';
+                tbody.innerHTML = '<tr><td colspan="8" class="empty-state">No districts match your filters</td></tr>';
                 return;
             }
             
-            tbody.innerHTML = sorted.map(d => {
+            let html = '';
+            sorted.forEach((d, idx) => {
+                const districtId = `district-${idx}`;
+                const isExpanded = expandedRows.has(districtId);
                 const enrollmentClass = d.enrollment >= 50000 ? 'large' : d.enrollment >= 10000 ? 'medium' : 'small';
                 const awardClass = d.federal_awards >= 10000000 ? 'high' : '';
-                const awardDisplay = d.federal_awards ? `$${(d.federal_awards/1000000).toFixed(1)}M` : '-';
+                const titleIClass = d.title_i >= 5000000 ? 'high' : '';
                 
-                return `
-                    <tr>
-                        <td><strong>${d.name}</strong></td>
+                html += `
+                    <tr class="district-row ${isExpanded ? 'expanded' : ''}" onclick="toggleRow('${districtId}')">
+                        <td><span class="expand-icon">▶</span><strong>${d.name}</strong></td>
                         <td>${d.state}</td>
                         <td>${d.city || '-'}</td>
-                        <td><span class="type-badge ${d.type}">${d.type || '-'}</span></td>
+                        <td>${d.type ? `<span class="type-badge ${d.type}">${d.type}</span>` : '-'}</td>
                         <td class="enrollment ${enrollmentClass}">${d.enrollment?.toLocaleString() || '-'}</td>
-                        <td class="federal-award ${awardClass}">${awardDisplay}</td>
+                        <td class="amount ${awardClass}">${formatMoney(d.federal_awards)}</td>
+                        <td class="amount ${titleIClass}">${formatMoney(d.title_i)}</td>
+                        <td>${d.recent_awards ? `<span class="recent-badge">${d.recent_awards} new</span>` : '-'}</td>
+                    </tr>
+                    <tr class="detail-row ${isExpanded ? 'visible' : ''}" id="${districtId}-details">
+                        <td colspan="8">
+                            <strong>Award Details:</strong>
+                            ${renderAwardDetails(d.award_details)}
+                        </td>
                     </tr>
                 `;
-            }).join('');
+            });
+            
+            tbody.innerHTML = html;
         }
         
         // Event listeners

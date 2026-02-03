@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-02-03T16:50:24.173278",
+    "updated": "2026-02-03T17:07:51.282589",
     "sources": [
       "USASpending.gov",
       "NCES"
@@ -21,7 +21,10 @@
       "enrollment": 49000,
       "city": "Seattle",
       "type": "Urban",
-      "federal_awards": 0
+      "federal_awards": 0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": []
     },
     {
       "name": "Spokane Public Schools",
@@ -29,7 +32,10 @@
       "enrollment": 28000,
       "city": "Spokane",
       "type": "Urban",
-      "federal_awards": 0
+      "federal_awards": 0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": []
     },
     {
       "name": "Tacoma Public Schools",
@@ -37,7 +43,19 @@
       "enrollment": 27000,
       "city": "Tacoma",
       "type": "Urban",
-      "federal_awards": 3410650.0
+      "federal_awards": 3410650.0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": [
+        {
+          "amount": 3410650.0,
+          "description": "THE TACOMA WHOLE CHILD: INCREASING STUDENT ACCESS TO DIVERSE MENTAL HEALTH SERVICES PROVIDERS",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2024"
+        }
+      ]
     },
     {
       "name": "Kent School District",
@@ -45,7 +63,10 @@
       "enrollment": 25000,
       "city": "Kent",
       "type": "Suburban",
-      "federal_awards": 0
+      "federal_awards": 0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": []
     },
     {
       "name": "Federal Way Public Schools",
@@ -53,7 +74,10 @@
       "enrollment": 22000,
       "city": "Federal Way",
       "type": "Suburban",
-      "federal_awards": 0
+      "federal_awards": 0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": []
     },
     {
       "name": "Lake Washington School District",
@@ -61,7 +85,10 @@
       "enrollment": 32000,
       "city": "Kirkland",
       "type": "Suburban",
-      "federal_awards": 0
+      "federal_awards": 0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": []
     },
     {
       "name": "Northshore School District",
@@ -69,7 +96,10 @@
       "enrollment": 23000,
       "city": "Bothell",
       "type": "Suburban",
-      "federal_awards": 0
+      "federal_awards": 0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": []
     },
     {
       "name": "Bellevue School District",
@@ -77,55 +107,223 @@
       "enrollment": 19000,
       "city": "Bellevue",
       "type": "Suburban",
-      "federal_awards": 0
+      "federal_awards": 0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": []
     },
     {
-      "name": "Los Angeles USD",
+      "name": "Los Angeles Unified School District",
       "state": "CA",
       "enrollment": 420000,
       "city": "Los Angeles",
       "type": "Urban",
-      "federal_awards": 0
+      "federal_awards": 89094418.06,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": [
+        {
+          "amount": 30525600.0,
+          "description": "GEAR UP 4 LA WILL SERVICES 5568 STUDENTS IN THE LOS ANGELES UNIFIED SCHOOL DISTRICT TO SUPPORT HIGH SCHOOL GRADUATION, AND POST-SECONDARY ENROLLMENT AND PERSISTENCE.",
+          "cfda_code": "84.334",
+          "program": "84.334",
+          "start_date": "2018-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 29005600.0,
+          "description": "GEAR UP 4 LA WILL SERVICES 5203 STUDENTS IN THE LOS ANGELES UNIFIED SCHOOL DISTRICT TO SUPPORT HIGH SCHOOL GRADUATION, AND POST-SECONDARY ENROLLMENT AND PERSISTENCE.",
+          "cfda_code": "84.334",
+          "program": "84.334",
+          "start_date": "2018-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 17104290.91,
+          "description": "GAINING EARLY AWARENESS AND READINESS FOR UNDERGRADUATE PROGRAMS (GEAR UP PARTNERSHIP)",
+          "cfda_code": "84.334",
+          "program": "84.334",
+          "start_date": "2020-02-13",
+          "year": "2024"
+        },
+        {
+          "amount": 12458927.15,
+          "description": "GAINING EARLY AWARENESS AND READINESS FOR UNDERGRADUATE PROGRAMS (GEAR UP PARTNERSHIP)",
+          "cfda_code": "84.334",
+          "program": "84.334",
+          "start_date": "2014-09-25",
+          "year": "2024"
+        }
+      ]
     },
     {
-      "name": "San Diego USD",
+      "name": "San Diego Unified School District",
       "state": "CA",
       "enrollment": 97000,
       "city": "San Diego",
       "type": "Urban",
-      "federal_awards": 0
+      "federal_awards": 93816388.0,
+      "title_i": 0,
+      "recent_awards": 5,
+      "award_details": [
+        {
+          "amount": 14988439.0,
+          "description": "AMPLIFYING THE ARTS IN THE SAN DIEGO UNIFIED SCHOOL DISTRICT",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2021-04-01",
+          "year": "2024"
+        },
+        {
+          "amount": 10399390.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 9077011.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 8997722.0,
+          "description": "MAGNIFYING MEDIA ARTS IN THE SAN DIEGO UNIFIED SCHOOL DISTRICT",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2023-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 6241671.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7002",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 14988439.0,
+          "description": "AMPLIFYING THE ARTS IN THE SAN DIEGO UNIFIED SCHOOL DISTRICT",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2021-04-01",
+          "year": "2025"
+        },
+        {
+          "amount": 9077011.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2025"
+        },
+        {
+          "amount": 8997722.0,
+          "description": "MAGNIFYING MEDIA ARTS IN THE SAN DIEGO UNIFIED SCHOOL DISTRICT",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2023-10-01",
+          "year": "2025"
+        },
+        {
+          "amount": 6274223.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7002",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2025"
+        },
+        {
+          "amount": 4774760.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7002",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": "2025-10-01",
+          "year": "2025"
+        }
+      ]
     },
     {
-      "name": "Houston ISD",
+      "name": "Houston Independent School District",
       "state": "TX",
       "enrollment": 187000,
       "city": "Houston",
       "type": "Urban",
-      "federal_awards": 0
+      "federal_awards": 45442913.44,
+      "title_i": 0,
+      "recent_awards": 2,
+      "award_details": [
+        {
+          "amount": 14929592.72,
+          "description": "PARTNERSHIPS THAT FUEL OPPORTUNITIES IN STEM EDUCATION",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2017-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 7791864.0,
+          "description": "HOUSTON ISD MAGNET SCHOOLS ASSISTANCE PROGRAM: STEM + M MAGNET INITIATIVE",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2024-04-01",
+          "year": "2024"
+        },
+        {
+          "amount": 14929592.72,
+          "description": "PARTNERSHIPS THAT FUEL OPPORTUNITIES IN STEM EDUCATION",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2017-10-01",
+          "year": "2025"
+        },
+        {
+          "amount": 7791864.0,
+          "description": "HOUSTON ISD MAGNET SCHOOLS ASSISTANCE PROGRAM: STEM + M MAGNET INITIATIVE",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2024-04-01",
+          "year": "2025"
+        }
+      ]
     },
     {
-      "name": "Dallas ISD",
+      "name": "Dallas Independent School District",
       "state": "TX",
       "enrollment": 140000,
       "city": "Dallas",
       "type": "Urban",
-      "federal_awards": 0
+      "federal_awards": 0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": []
     },
     {
-      "name": "Austin ISD",
+      "name": "Austin Independent School District",
       "state": "TX",
       "enrollment": 72000,
       "city": "Austin",
       "type": "Urban",
-      "federal_awards": 0
+      "federal_awards": 0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": []
     },
     {
-      "name": "New York City DOE",
+      "name": "New York City Department of Education",
       "state": "NY",
       "enrollment": 915000,
       "city": "New York",
       "type": "Urban",
-      "federal_awards": 0
+      "federal_awards": 0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": []
     },
     {
       "name": "Portland Public Schools",
@@ -133,779 +331,3807 @@
       "enrollment": 43000,
       "city": "Portland",
       "type": "Urban",
-      "federal_awards": 0
+      "federal_awards": 0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": []
     },
     {
-      "name": "Miami-Dade County",
+      "name": "Miami-Dade County Public Schools",
       "state": "FL",
       "enrollment": 334000,
       "city": "Miami",
       "type": "Urban",
-      "federal_awards": 65725242.66
+      "federal_awards": 0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": []
+    },
+    {
+      "name": "Hillsborough County Public Schools",
+      "state": "FL",
+      "enrollment": 217000,
+      "city": "Tampa",
+      "type": "Urban",
+      "federal_awards": 0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": []
+    },
+    {
+      "name": "Orange County Public Schools",
+      "state": "FL",
+      "enrollment": 206000,
+      "city": "Orlando",
+      "type": "Urban",
+      "federal_awards": 0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": []
+    },
+    {
+      "name": "WORKFORCE TRAINING & EDUCATION COORDINAT",
+      "state": "WA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 74796230.85,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 22862861.59,
+          "description": "CAREER AND TECHNICAL EDUCATION - BASIC GRANTS TO STATES",
+          "cfda_code": "84.048",
+          "program": "84.048",
+          "start_date": "2020-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 21374928.98,
+          "description": "UNKNOWN TITLE",
+          "cfda_code": "84.048",
+          "program": "84.048",
+          "start_date": "2018-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 15279220.14,
+          "description": "CAREER AND TECHNICAL EDUCATION - BASIC GRANTS TO STATES",
+          "cfda_code": "84.048",
+          "program": "84.048",
+          "start_date": "2024-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 15279220.14,
+          "description": "CAREER AND TECHNICAL EDUCATION - BASIC GRANTS TO STATES",
+          "cfda_code": "84.048",
+          "program": "84.048",
+          "start_date": "2024-07-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "CENTRAL KITSAP SCHOOL DISTRICT",
+      "state": "WA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 68517216.0,
+      "title_i": 0,
+      "recent_awards": 2,
+      "award_details": [
+        {
+          "amount": 22058179.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 20914443.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 22058179.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2025"
+        },
+        {
+          "amount": 3486415.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": "2025-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "SCHOOL DIST #201 ISLAND COUNTY",
+      "state": "WA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 51321840.0,
+      "title_i": 0,
+      "recent_awards": 2,
+      "award_details": [
+        {
+          "amount": 19220080.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 14686974.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 14686974.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2025"
+        },
+        {
+          "amount": 2727812.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": "2025-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "CLOVER PARK SCHOOL DISTRICT",
+      "state": "WA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 45935674.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 15467213.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 15001248.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 15467213.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "EDUCATIONAL SERVICE DISTRICT 105",
+      "state": "WA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 30552941.0,
+      "title_i": 0,
+      "recent_awards": 3,
+      "award_details": [
+        {
+          "amount": 7408935.0,
+          "description": "YAKIMA CONSORTIUM FULL-SERVICE COMMUNITY SCHOOLS",
+          "cfda_code": "84.215",
+          "program": "84.215",
+          "start_date": "2024-01-01",
+          "year": "2024"
+        },
+        {
+          "amount": 3720370.0,
+          "description": "INNOVATIVE APPROACHES TO LITERACY PROGRAM - READING THROUGH MIRRORS AND WINDOWS",
+          "cfda_code": "84.215",
+          "program": "84.215",
+          "start_date": "2021-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 3498519.0,
+          "description": "YAKAMA GROW OUR OWN CONSORTIUM",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2024"
+        },
+        {
+          "amount": 2397906.0,
+          "description": "SOUTH-CENTRAL WASHINGTON VIOLENCE INTERVENTION, PREVENTION, EDUCATION, AND RESPONSE (VIPER)",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2024-01-01",
+          "year": "2024"
+        },
+        {
+          "amount": 7408935.0,
+          "description": "YAKIMA CONSORTIUM FULL-SERVICE COMMUNITY SCHOOLS",
+          "cfda_code": "84.215",
+          "program": "84.215",
+          "start_date": "2024-01-01",
+          "year": "2025"
+        },
+        {
+          "amount": 3720370.0,
+          "description": "INNOVATIVE APPROACHES TO LITERACY PROGRAM - READING THROUGH MIRRORS AND WINDOWS",
+          "cfda_code": "84.215",
+          "program": "84.215",
+          "start_date": "2021-10-01",
+          "year": "2025"
+        },
+        {
+          "amount": 2397906.0,
+          "description": "SOUTH-CENTRAL WASHINGTON VIOLENCE INTERVENTION, PREVENTION, EDUCATION, AND RESPONSE (VIPER)",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2024-01-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "NORTHWEST EDUCATIONAL SERVICE DISTRICT",
+      "state": "WA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 11810516.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 5905258.0,
+          "description": "NWESD SCHOOL-BASED MENTAL HEALTH SERVICES (SBMHP+): RESPONDING TO THE NEEDS OF STUDENTS WITH THE MOST COMPLEX MENTAL HEALTH CONCERNS",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2024"
+        },
+        {
+          "amount": 5905258.0,
+          "description": "NWESD SCHOOL-BASED MENTAL HEALTH SERVICES (SBMHP+): RESPONDING TO THE NEEDS OF STUDENTS WITH THE MOST COMPLEX MENTAL HEALTH CONCERNS",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "VANCOUVER SCHOOL DISTRICT 37",
+      "state": "WA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 7713706.0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": [
+        {
+          "amount": 5315306.0,
+          "description": "VANCOUVER PUBLIC SCHOOLS SCHOOL BASED MENTAL HEALTH",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2024"
+        },
+        {
+          "amount": 2398400.0,
+          "description": "VPS FULL-SERVICE COMMUNITY SCHOOLS: ROADMAP TO LEARNING",
+          "cfda_code": "84.215",
+          "program": "84.215",
+          "start_date": "2020-10-01",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "name": "MT ADAMS SCHOOL DISTRICT",
+      "state": "WA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 18198856.0,
+      "title_i": 0,
+      "recent_awards": 2,
+      "award_details": [
+        {
+          "amount": 5280126.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 5047135.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 5047135.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2025"
+        },
+        {
+          "amount": 2824460.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": "2025-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "CAPE FLATTERY SCHOOL DIST 401",
+      "state": "WA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 14699415.0,
+      "title_i": 0,
+      "recent_awards": 2,
+      "award_details": [
+        {
+          "amount": 4231719.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 3932307.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 4231719.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2025"
+        },
+        {
+          "amount": 2303670.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": "2025-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "WELLPINIT SCHOOL DISTRICT 49",
+      "state": "WA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 15464970.0,
+      "title_i": 0,
+      "recent_awards": 3,
+      "award_details": [
+        {
+          "amount": 3847869.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 3681479.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 3847869.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2025"
+        },
+        {
+          "amount": 2089725.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": "2025-10-01",
+          "year": "2025"
+        },
+        {
+          "amount": 1998028.0,
+          "description": "WELLPINIT SCHOOL DISTRICT NATIVE YOUTH COMMUNITY PROJECT",
+          "cfda_code": "84.299",
+          "program": "84.299",
+          "start_date": "2022-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "WAPATO SCHOOL DISTRICT",
+      "state": "WA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 9221467.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 3231353.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 2995057.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 2995057.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "MEDICAL LAKE SCHOOL DISTRICT #326",
+      "state": "WA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 10455018.0,
+      "title_i": 0,
+      "recent_awards": 2,
+      "award_details": [
+        {
+          "amount": 2716917.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 2392122.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 2716917.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2025"
+        },
+        {
+          "amount": 2629062.0,
+          "description": "RECRUITING, TRAINING, AND RETAINING THE SCHOOL PSYCHOLOGY WORKFORCE FOR SCHOOL-BASED MENTAL HEALTH IN RURAL COMMUNITIES",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2026-01-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "LACONNER SCHOOL DISTRICT",
+      "state": "WA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 4396380.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 2313049.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 2083331.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "COUNTY OF YAKIMA 200 SCHOOL DISTRICT",
+      "state": "WA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 3000000.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 3000000.0,
+          "description": "YAKIMA VALLEY SCHOOL PSYCHOLOGY CONSORTIUM (YVSPC)",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2026-01-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "NESPELEM SCHOOL DISTRICT 14",
+      "state": "WA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 2183671.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 2183671.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "TAHOLAH SCHOOL DISTRICT 77",
+      "state": "WA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 1999036.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 1999036.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "OREGON DEPARTMENT OF EDUCATION",
+      "state": "OR",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 1748175559.1599998,
+      "title_i": 902685642.2,
+      "recent_awards": 26,
+      "award_details": [
+        {
+          "amount": 167711982.0,
+          "description": "TITLE I PART A BASIC GRANTS TO LEAS",
+          "cfda_code": "84.010",
+          "program": "Title I - Improving Basic Programs",
+          "start_date": "2024-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 160235236.0,
+          "description": "STATE GRANT - B (611)",
+          "cfda_code": "84.027",
+          "program": "IDEA - Special Education Grants",
+          "start_date": "2024-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 149403563.34,
+          "description": "TITLE I PART A BASIC GRANTS TO LEAS",
+          "cfda_code": "84.010",
+          "program": "Title I - Improving Basic Programs",
+          "start_date": "2020-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 143867643.44,
+          "description": "TITLE I PART A BASIC GRANTS TO LEAS",
+          "cfda_code": "84.010",
+          "program": "Title I - Improving Basic Programs",
+          "start_date": "2021-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 133348915.73,
+          "description": "STATE GRANT - B (611)",
+          "cfda_code": "84.027",
+          "program": "IDEA - Special Education Grants",
+          "start_date": "2020-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 29062804.92,
+          "description": "INDIVIDUALS WITH DISABILITIES EDUCATION ACT/AMERICAN RESCUE PLAN ACT OF 2021 (ARP)",
+          "cfda_code": "84.027",
+          "program": "IDEA - Special Education Grants",
+          "start_date": "2021-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 26780956.99,
+          "description": "MIGRANT EDUCATION",
+          "cfda_code": "84.011",
+          "program": "Title I - Migrant Education",
+          "start_date": "2020-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 23156072.0,
+          "description": "OREGON'S COMPREHENSIVE LITERACY STATE DEVELOPMENT PROJECT PROPOSAL",
+          "cfda_code": "84.371",
+          "program": "84.371",
+          "start_date": "2024-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 22280229.0,
+          "description": "MIGRANT EDUCATION",
+          "cfda_code": "84.011",
+          "program": "Title I - Migrant Education",
+          "start_date": "2024-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 20127136.0,
+          "description": "SUPPORTING EFFECTIVE INSTRUCTION",
+          "cfda_code": "84.367",
+          "program": "Supporting Effective Instruction",
+          "start_date": "2024-07-01",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "name": "MULTNOMAH COUNTY SCHOOL DIST 1J",
+      "state": "OR",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 20964967.0,
+      "title_i": 0,
+      "recent_awards": 2,
+      "award_details": [
+        {
+          "amount": 10964800.0,
+          "description": "ENGAGE, EMPOWER, ELEVATE - E3\"\"",
+          "cfda_code": "84.334",
+          "program": "84.334",
+          "start_date": "2018-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 2550897.0,
+          "description": "ADVANCING STUDENT MENTAL HEALTH BY INCREASING THE NUMBER AND THE CULTURAL AND LINGUISTIC DIVERSITY OF SCHOOL PSYCHOLOGISTS",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2024"
+        },
+        {
+          "amount": 4898373.0,
+          "description": "ADVANCING STUDENT MENTAL HEALTH BY INCREASING THE NUMBER OF SCHOOL PSYCHOLOGISTS",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2026-01-01",
+          "year": "2025"
+        },
+        {
+          "amount": 2550897.0,
+          "description": "ADVANCING STUDENT MENTAL HEALTH BY INCREASING THE NUMBER AND THE CULTURAL AND LINGUISTIC DIVERSITY OF SCHOOL PSYCHOLOGISTS",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "HIGHER EDUCATION COORDINATING COMMISSION",
+      "state": "OR",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 7594941.0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": [
+        {
+          "amount": 7594941.0,
+          "description": "ADULT EDUCATION AND FAMILY LITERACY ACT STATE GRANT",
+          "cfda_code": "84.002",
+          "program": "84.002",
+          "start_date": "2024-07-01",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "name": "DOUGLAS EDUCATION SERVICE DISTRICT",
+      "state": "OR",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 6808215.0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": [
+        {
+          "amount": 6808215.0,
+          "description": "ELEVATING AND DIVERSIFYING SCHOOL-BASED BEHAVIORAL HEALTH IN RURAL OREGON: CREATING INNOVATIVE SOLUTIONS TO MEET STUDENTS WHERE THEY ARE",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "name": "EDUCATION NORTHWEST",
+      "state": "OR",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 15341807.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 6115302.0,
+          "description": "REGION 11 COMPREHENSIVE CENTER",
+          "cfda_code": "84.283",
+          "program": "84.283",
+          "start_date": "2024-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 3111203.0,
+          "description": "WASHINGTON STATEWIDE FAMILY ENGAGEMENT CENTER",
+          "cfda_code": "84.310",
+          "program": "84.310",
+          "start_date": "2022-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 6115302.0,
+          "description": "REGION 11 COMPREHENSIVE CENTER",
+          "cfda_code": "84.283",
+          "program": "84.283",
+          "start_date": "2024-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "OREGON SOCIAL LEARNING CENTER, INC",
+      "state": "OR",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 3298313.0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": [
+        {
+          "amount": 3298313.0,
+          "description": "EFFICACY OF THE STUDENTS WITH INVOLVED FAMILIES AND TEACHER (SWIFT) PROGRAM FOR STUDENTS WITH EMOTIONAL AND BEHAVIORAL DISORDERS",
+          "cfda_code": "84.324",
+          "program": "84.324",
+          "start_date": "2019-07-01",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "name": "JEFFERSON COUNTY SCHOOL DISTRICT 509J",
+      "state": "OR",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 11032520.0,
+      "title_i": 0,
+      "recent_awards": 2,
+      "award_details": [
+        {
+          "amount": 3251158.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 3094482.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 3094482.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2025"
+        },
+        {
+          "amount": 1592398.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": "2025-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "CORBETT SCHOOL DISTRICT 39",
+      "state": "OR",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 2760684.0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": [
+        {
+          "amount": 2760684.0,
+          "description": "CORBETT SCHOOL DISTRICT (SD) LOCAL EDUCATION AGENCY (LEA) SCHOOL-BASED MENTAL HEALTH PROJECT. CORBETT SD WILL RECRUIT AND HIRE FIVE NEW AND DIVERSE CERTIFIED MENTAL HEALTH STAFF FOR K-12 SCHOOL.",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "name": "DEPARTMENT OF EDUCATION CALIFORNIA",
+      "state": "CA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 15374217892.22,
+      "title_i": 8799593958.0,
+      "recent_awards": 25,
+      "award_details": [
+        {
+          "amount": 2236833545.0,
+          "description": "TITLE I PART A BASIC GRANTS TO LEAS",
+          "cfda_code": "84.010",
+          "program": "Title I - Improving Basic Programs",
+          "start_date": "2024-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 1963151597.0,
+          "description": "UNKNOWN TITLE",
+          "cfda_code": "84.010",
+          "program": "Title I - Improving Basic Programs",
+          "start_date": "2019-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 1474208303.0,
+          "description": "STATE GRANT - B (611)",
+          "cfda_code": "84.027",
+          "program": "IDEA - Special Education Grants",
+          "start_date": "2024-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 251884637.33,
+          "description": "INDIVIDUALS WITH DISABILITIES EDUCATION ACT/AMERICAN RESCUE PLAN ACT OF 2021 (ARP)",
+          "cfda_code": "84.027",
+          "program": "IDEA - Special Education Grants",
+          "start_date": "2021-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 232911649.0,
+          "description": "SUPPORTING EFFECTIVE INSTRUCTION",
+          "cfda_code": "84.367",
+          "program": "Supporting Effective Instruction",
+          "start_date": "2024-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 158425581.0,
+          "description": "ENGLISH LANGUAGE ACQUISITION: STATE FORMULA GRANT PROGRAM",
+          "cfda_code": "84.365",
+          "program": "English Language Acquisition",
+          "start_date": "2024-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 153639284.0,
+          "description": "STUDENT SUPPORT AND ACADEMIC ENRICHMENT GRANTS",
+          "cfda_code": "84.424",
+          "program": "Student Support and Academic Enrichment",
+          "start_date": "2024-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 146686976.0,
+          "description": "21ST CENTURY COMMUNITY LEARNING CENTERS PROGRAM",
+          "cfda_code": "84.287",
+          "program": "21st Century Community Learning",
+          "start_date": "2024-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 121405621.0,
+          "description": "MIGRANT EDUCATION",
+          "cfda_code": "84.011",
+          "program": "Title I - Migrant Education",
+          "start_date": "2024-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 120202952.0,
+          "description": "STRONGER CONNECTIONS GRANT (SCG) PROGRAM",
+          "cfda_code": "84.424",
+          "program": "Student Support and Academic Enrichment",
+          "start_date": "2022-09-15",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "name": "LINDSAY UNIFIED SCHOOL DISTRICT",
+      "state": "CA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 43220107.59,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": [
+        {
+          "amount": 43220107.59,
+          "description": "LINDSAY UNIFIED SCHOOL DISTRICT, EMPOWER LINDSAY, A TEACHER & SCHOOL LEADER INCENTIVE PROGRAM",
+          "cfda_code": "84.374",
+          "program": "84.374",
+          "start_date": "2017-10-01",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "name": "INSIGHT EDUCATION GROUP, INC.",
+      "state": "CA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 15772866.66,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": [
+        {
+          "amount": 15772866.66,
+          "description": "PROJECT IGNITE, INNOVATION GENERATED BY NETWORKED IMPROVEMENT TEAMS OF EDUCATORS",
+          "cfda_code": "84.374",
+          "program": "84.374",
+          "start_date": "2020-10-01",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "name": "PALMDALE SCHOOL DISTRICT",
+      "state": "CA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 29167776.4,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 14583888.2,
+          "description": "PALMDALE PROMISE MSAP",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2017-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 14583888.2,
+          "description": "PALMDALE PROMISE MSAP",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2017-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "SILVER VALLEY UNIFIED SCHOOL DISTRICT",
+      "state": "CA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 43344251.0,
+      "title_i": 0,
+      "recent_awards": 2,
+      "award_details": [
+        {
+          "amount": 12777249.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 10499812.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 12777249.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2025"
+        },
+        {
+          "amount": 7289941.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": "2025-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "YPI CHARTER SCHOOLS, INC,",
+      "state": "CA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 12334735.57,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": [
+        {
+          "amount": 12334735.57,
+          "description": "GAINING EARLY AWARENESS AND READINESS FOR UNDERGRADUATE PROGRAMS (GEAR UP PARTNERSHIP)",
+          "cfda_code": "84.334",
+          "program": "84.334",
+          "start_date": "2014-09-25",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "name": "PASADENA UNIFIED SCHOOL DISTRICT",
+      "state": "CA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 24612644.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 12306322.0,
+          "description": "STRENGTHENING PASADENA'S K-12 MAGNET PATHWAYS IN ARTS, LANGUAGE AND CROSS-CULTURAL LEARNING, AND ENVIRONMENTAL STUDIES",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 12306322.0,
+          "description": "STRENGTHENING PASADENA'S K-12 MAGNET PATHWAYS IN ARTS, LANGUAGE AND CROSS-CULTURAL LEARNING, AND ENVIRONMENTAL STUDIES",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "CENTER FOR CIVIC EDUCATION",
+      "state": "CA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 17611140.0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": [
+        {
+          "amount": 11653965.0,
+          "description": "WE THE PEOPLE: CIVICS THAT EMPOWERS ALL STUDENTS",
+          "cfda_code": "84.423",
+          "program": "84.423",
+          "start_date": "2022-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 5957175.0,
+          "description": "INTEGRATED CIVIC SEL",
+          "cfda_code": "84.411",
+          "program": "84.411",
+          "start_date": "2025-01-01",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "name": "ALDER GRADUATE SCHOOL OF EDUCATION",
+      "state": "CA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 34075259.16,
+      "title_i": 0,
+      "recent_awards": 2,
+      "award_details": [
+        {
+          "amount": 10805267.06,
+          "description": "STUDENTS FIRST: COORDINATING RESIDENT AND MENTOR ROLES TO SUPPORT STUDENT LEARNING AND DEVELOP EFFECTIVE TEACHERS FOR HIGH-NEED STUDENTS IN CALIFORNIA, MASSACHUSETTS, AND TENNESSEE",
+          "cfda_code": "84.423",
+          "program": "84.423",
+          "start_date": "2018-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 6232362.52,
+          "description": "EMPOWERING DISTRICTS TO BUILD SUSTAINABLE PIPELINES OF EFFECTIVE TEACHERS FOR HIGH-NEED SCHOOLS",
+          "cfda_code": "84.336",
+          "program": "84.336",
+          "start_date": "2020-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 10805267.06,
+          "description": "STUDENTS FIRST: COORDINATING RESIDENT AND MENTOR ROLES TO SUPPORT STUDENT LEARNING AND DEVELOP EFFECTIVE TEACHERS FOR HIGH-NEED STUDENTS IN CALIFORNIA, MASSACHUSETTS, AND TENNESSEE",
+          "cfda_code": "84.423",
+          "program": "84.423",
+          "start_date": "2018-10-01",
+          "year": "2025"
+        },
+        {
+          "amount": 6232362.52,
+          "description": "EMPOWERING DISTRICTS TO BUILD SUSTAINABLE PIPELINES OF EFFECTIVE TEACHERS FOR HIGH-NEED SCHOOLS",
+          "cfda_code": "84.336",
+          "program": "84.336",
+          "start_date": "2020-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "CALIFORNIA SCHOOL FINANCE AUTHORITY",
+      "state": "CA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 21010000.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 10505000.0,
+          "description": "STATE CHARTER SCHOOL FACILITIES INCENTIVE GRANTS PROGRAM",
+          "cfda_code": "84.282",
+          "program": "84.282",
+          "start_date": "2024-10-30",
+          "year": "2024"
+        },
+        {
+          "amount": 10505000.0,
+          "description": "STATE CHARTER SCHOOL FACILITIES INCENTIVE GRANTS PROGRAM",
+          "cfda_code": "84.282",
+          "program": "84.282",
+          "start_date": "2024-10-30",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "NAPA VALLEY UNIFIED SCHOOL DISTRICT",
+      "state": "CA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 35456843.3,
+      "title_i": 0,
+      "recent_awards": 2,
+      "award_details": [
+        {
+          "amount": 9939802.65,
+          "description": "THIS PROPOSED MSAP PROJECT WILL ENABLE NVUSD TO IMPLEMENT ITS VISION OF CREATING RACIAL/ETHNIC AND SOCIOECONOMIC DIVERSE SCHOOLS AND CONDUCT TWO QUASI-EXPERIMENTAL STUDIES TO FURTHER MAGNET RESEARCH.",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2017-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 7788619.0,
+          "description": "THIS PROPOSED MSAP PROJECT WILL ENABLE NVUSD TO IMPLEMENT ITS VISION OF CREATING RACIAL/ETHNIC AND SOCIOECONOMIC DIVERSE SCHOOLS AND CONDUCT TWO QUASI-EXPERIMENTAL STUDIES TO FURTHER MAGNET RESEARCH.",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2023-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 9939802.65,
+          "description": "THIS PROPOSED MSAP PROJECT WILL ENABLE NVUSD TO IMPLEMENT ITS VISION OF CREATING RACIAL/ETHNIC AND SOCIOECONOMIC DIVERSE SCHOOLS AND CONDUCT TWO QUASI-EXPERIMENTAL STUDIES TO FURTHER MAGNET RESEARCH.",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2017-10-01",
+          "year": "2025"
+        },
+        {
+          "amount": 7788619.0,
+          "description": "THIS PROPOSED MSAP PROJECT WILL ENABLE NVUSD TO IMPLEMENT ITS VISION OF CREATING RACIAL/ETHNIC AND SOCIOECONOMIC DIVERSE SCHOOLS AND CONDUCT TWO QUASI-EXPERIMENTAL STUDIES TO FURTHER MAGNET RESEARCH.",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2023-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "LIVERMORE VALLEY JOINT UNIFIED SCHOOL DISTRICT",
+      "state": "CA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 18974110.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 9487055.0,
+          "description": "THE LIVERMORE VALLEY JOINT UNIFIED SCHOOL DISTRICT PROJECT BUILD WILL CREATE A NEW MAGNET SCHOOL AND MODIFY AN EXISTING PROGRAM TO REDUCE MINORITY GROUP ISOLATION.",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 9487055.0,
+          "description": "THE LIVERMORE VALLEY JOINT UNIFIED SCHOOL DISTRICT PROJECT BUILD WILL CREATE A NEW MAGNET SCHOOL AND MODIFY AN EXISTING PROGRAM TO REDUCE MINORITY GROUP ISOLATION.",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "CENTRAL UNION ELEMENTARY SCHOOL DISTRICT",
+      "state": "CA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 30748053.0,
+      "title_i": 0,
+      "recent_awards": 2,
+      "award_details": [
+        {
+          "amount": 9052918.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 8383997.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 9052918.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2025"
+        },
+        {
+          "amount": 4258220.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": "2025-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "CUTLER-OROSI JOINT UNIFIED SCHOOL DISTRICT",
+      "state": "CA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 26990169.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 9000000.0,
+          "description": "CUTLER-OROSI AND MONSON-SULTANA (COMS) FULL-SERVICE COMMUNITY SCHOOLS INITIATIVE (CFI).",
+          "cfda_code": "84.215",
+          "program": "84.215",
+          "start_date": "2024-01-01",
+          "year": "2024"
+        },
+        {
+          "amount": 8990169.0,
+          "description": "CULTER-OROSI AND MONSON-SULTANA MENTAL HEALTH SERVICES PROGRAM (COMS-MHSP)",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2024"
+        },
+        {
+          "amount": 9000000.0,
+          "description": "CUTLER-OROSI AND MONSON-SULTANA (COMS) FULL-SERVICE COMMUNITY SCHOOLS INITIATIVE (CFI).",
+          "cfda_code": "84.215",
+          "program": "84.215",
+          "start_date": "2024-01-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "TULARE COUNTY OFFICE OF EDUCATION",
+      "state": "CA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 8982444.0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": [
+        {
+          "amount": 8982444.0,
+          "description": "TULARE COUNTY OFFICE OF EDUCATION'S 2022 SCHOOL BASED MENTAL HEALTH PROGRAM, PREPARING RURAL INCLUSIVE MENTAL HEALTH EDUCATORS (PRIMHE)",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "name": "RIVERSIDE COUNTY OFFICE OF EDUCATION",
+      "state": "CA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 8493409.0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": [
+        {
+          "amount": 8493409.0,
+          "description": "RIVERSIDE COUNTY WELLNESS COLLABORATIVE (RCWC) PROJECT",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "name": "GREEN DOT PUBLIC SCHOOLS CALIFORNIA",
+      "state": "CA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 7417679.0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": [
+        {
+          "amount": 7417679.0,
+          "description": "RECRUITING AND RETAINING SCHOOL-BASED MENTAL HEALTH SERVICE PROVIDERS AT GREEN DOT PUBLIC SCHOOLS TO SUPPORT STUDENTS WITH HIGHEST NEEDS",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "name": "IMPERIAL COUNTY OFFICE OF EDUCATION",
+      "state": "CA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 7040000.0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": [
+        {
+          "amount": 7040000.0,
+          "description": "IMPERIAL COUNTY SCHOOL-BASED MENTAL HEALTH CONSORTIUM - ELEMENTARY/MIDDLE",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "name": "CONEJO VALLEY UNIFIED SCHOOL DISTRICT",
+      "state": "CA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 6412626.0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": [
+        {
+          "amount": 6412626.0,
+          "description": "CONEJO VALLEY UNIFIED SCHOOL DISTRICT (CVUSD) MENTAL HEALTH AND WELLNESS SERVICES",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "name": "LA MESA-SPRING VALLEY SCHOOL DISTRICT",
+      "state": "CA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 6159006.0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": [
+        {
+          "amount": 6159006.0,
+          "description": "LMSV SCHOOL-BASED MENTAL HEALTH SERVICES EXPANSION",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "name": "NORTHERN HUMBOLDT UNION HIGH SCHOOL DISTRICT",
+      "state": "CA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 15285454.0,
+      "title_i": 0,
+      "recent_awards": 2,
+      "award_details": [
+        {
+          "amount": 9999985.0,
+          "description": "LITERACY PLUS",
+          "cfda_code": "84.411",
+          "program": "84.411",
+          "start_date": "2026-01-01",
+          "year": "2025"
+        },
+        {
+          "amount": 5285469.0,
+          "description": "HUMBOLDT-SISKIYOU COUNTIES SCHOOL BASED MENTAL HEALTH PROGRAM",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2026-01-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "KLAMATH-TRINITY JOINT UNIFIED SCHOOL DISTRICT",
+      "state": "CA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 5678822.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 5678822.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "ROCKETSHIP EDUCATION",
+      "state": "CA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 4816005.26,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 4816005.26,
+          "description": "ROCKETSHIP EDUCATION CSP REPLICATION",
+          "cfda_code": "84.282",
+          "program": "84.282",
+          "start_date": "2017-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "SAN PASQUAL VALLEY UNIFIED SCHOOL DISTRICT",
+      "state": "CA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 4642480.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 4642480.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "FALLBROOK UNION ELEMENTARY SCHOOL DISTRICT",
+      "state": "CA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 4533018.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 4533018.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "FARMERSVILLE USD",
+      "state": "CA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 4312740.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 4312740.0,
+          "description": "BRIDGING BEHAVIORAL HEALTH GAPS: EXPANDING ACCESS TO CREDENTIALED SCHOOL PSYCHOLOGISTS IN RURAL CALIFORNIA",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2026-01-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "MADERA UNIFIED SCHOOL DISTRICT",
+      "state": "CA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 4240952.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 4240952.0,
+          "description": "ENHANCING MUSD PUPIL OVERALL WELLBEING BY EMPLOYING AND RETAINING EXCEPTIONAL AND DIVERSE STAFF (EMPOWERED STAFF) PROGRAM",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "WAHUPA EDUCATIONAL ENTERPRISES, INC",
+      "state": "CA",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 4144030.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 4144030.0,
+          "description": "THE WAHUPA TS COUNTY PROJECT PROVIDES SERVICES PRIMARILY TO LOW-INCOME AND/OR FIRST-GENERATION HIGH SCHOOL STUDENTS TO SUCCESSFULLY COMPLETE HIGH-SCHOOL AND ENTER INTO A POSTSECONDARY INSTITUTION.",
+          "cfda_code": "84.044",
+          "program": "84.044",
+          "start_date": "2021-09-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "TX EDUCATION AGENCY",
+      "state": "TX",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 17026050722.190006,
+      "title_i": 6935020618.9,
+      "recent_awards": 32,
+      "award_details": [
+        {
+          "amount": 1851187951.0,
+          "description": "TITLE I PART A BASIC GRANTS TO LEAS",
+          "cfda_code": "84.010",
+          "program": "Title I - Improving Basic Programs",
+          "start_date": "2024-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 1625592296.29,
+          "description": "TITLE I PART A BASIC GRANTS TO LEAS",
+          "cfda_code": "84.010",
+          "program": "Title I - Improving Basic Programs",
+          "start_date": "2020-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 1512284442.71,
+          "description": "UNKNOWN TITLE",
+          "cfda_code": "84.010",
+          "program": "Title I - Improving Basic Programs",
+          "start_date": "2019-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 1217469323.0,
+          "description": "STATE GRANT - B (611)",
+          "cfda_code": "84.027",
+          "program": "IDEA - Special Education Grants",
+          "start_date": "2024-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 1143752099.34,
+          "description": "STATE GRANT - B (611)",
+          "cfda_code": "84.027",
+          "program": "IDEA - Special Education Grants",
+          "start_date": "2021-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 242608295.0,
+          "description": "SUPPORTING EFFECTIVE INSTRUCTION",
+          "cfda_code": "84.367",
+          "program": "Supporting Effective Instruction",
+          "start_date": "2024-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 219342672.93,
+          "description": "INDIVIDUALS WITH DISABILITIES EDUCATION ACT/AMERICAN RESCUE PLAN ACT OF 2021 (ARP)",
+          "cfda_code": "84.027",
+          "program": "IDEA - Special Education Grants",
+          "start_date": "2021-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 209820937.92,
+          "description": "SUPPORTING EFFECTIVE INSTRUCTION",
+          "cfda_code": "84.367",
+          "program": "Supporting Effective Instruction",
+          "start_date": "2021-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 204555130.92,
+          "description": "SUPPORTING EFFECTIVE INSTRUCTION",
+          "cfda_code": "84.367",
+          "program": "Supporting Effective Instruction",
+          "start_date": "2020-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 140563951.0,
+          "description": "ENGLISH LANGUAGE ACQUISITION: STATE FORMULA GRANT PROGRAM",
+          "cfda_code": "84.365",
+          "program": "English Language Acquisition",
+          "start_date": "2024-07-01",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "name": "KILLEEN INDEPENDENT SCHOOL DISTRICT",
+      "state": "TX",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 208251066.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 70591527.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 67068012.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 70591527.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "REGION 18 EDUCATION SERVICE CENTER",
+      "state": "TX",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 48724975.13,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": [
+        {
+          "amount": 48724975.13,
+          "description": "TEXAS TSL PROJECT",
+          "cfda_code": "84.374",
+          "program": "84.374",
+          "start_date": "2017-10-01",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "name": "REGION ONE EDUCATION SRV CENTER",
+      "state": "TX",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 152350197.0,
+      "title_i": 0,
+      "recent_awards": 5,
+      "award_details": [
+        {
+          "amount": 45390936.0,
+          "description": "COLLEGE NOW - CAREER CONNECTED!",
+          "cfda_code": "84.334",
+          "program": "84.334",
+          "start_date": "2018-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 31660349.0,
+          "description": "COLLEGE READY, CAREER SET!",
+          "cfda_code": "84.334",
+          "program": "84.334",
+          "start_date": "2018-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 20040000.0,
+          "description": "PATHWAYS TO THE FUTURE!",
+          "cfda_code": "84.334",
+          "program": "84.334",
+          "start_date": "2021-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 9662400.0,
+          "description": "CHOOSING COLLEGE CHANGING LIVES - GEAR UP (C3L - GU)!",
+          "cfda_code": "84.334",
+          "program": "84.334",
+          "start_date": "2024-09-01",
+          "year": "2024"
+        },
+        {
+          "amount": 20040000.0,
+          "description": "PATHWAYS TO THE FUTURE!",
+          "cfda_code": "84.334",
+          "program": "84.334",
+          "start_date": "2021-10-01",
+          "year": "2025"
+        },
+        {
+          "amount": 9662400.0,
+          "description": "CHOOSING COLLEGE CHANGING LIVES - GEAR UP (C3L - GU)!",
+          "cfda_code": "84.334",
+          "program": "84.334",
+          "start_date": "2024-09-01",
+          "year": "2025"
+        },
+        {
+          "amount": 5900282.0,
+          "description": "REGION ONE BUILDING MENTAL HEALTH LEADERS (RBMHL) PROJECT!",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2025"
+        },
+        {
+          "amount": 4998630.0,
+          "description": "NEXT GEN REGION ONE PROJECT LEAD (LEADERS - EXCELLING - ACHIEVING - DEVELOPING)!",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2025-01-01",
+          "year": "2025"
+        },
+        {
+          "amount": 4995200.0,
+          "description": "JOURNEY TO COLLEGE, CAREER AND SUCCESS - GEAR UP (JC2S-GU)!",
+          "cfda_code": "84.334",
+          "program": "84.334",
+          "start_date": "2025-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "IDEA PUBLIC SCHOOLS",
+      "state": "TX",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 193853341.08,
+      "title_i": 0,
+      "recent_awards": 4,
+      "award_details": [
+        {
+          "amount": 43203029.13,
+          "description": "IDEA AMPLIFY TEXAS",
+          "cfda_code": "84.282",
+          "program": "84.282",
+          "start_date": "2017-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 32458062.85,
+          "description": "IDEA 100K",
+          "cfda_code": "84.282",
+          "program": "84.282",
+          "start_date": "2019-03-29",
+          "year": "2024"
+        },
+        {
+          "amount": 11482532.19,
+          "description": "IDEA COMPREHENSIVE HEALTH PROFESSIONS",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2017-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 9783046.37,
+          "description": "CHARTER SCHOOLS MANAGEMENT ORGANIZATIONS",
+          "cfda_code": "84.282",
+          "program": "84.282",
+          "start_date": "2016-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 43203029.13,
+          "description": "IDEA AMPLIFY TEXAS",
+          "cfda_code": "84.282",
+          "program": "84.282",
+          "start_date": "2017-10-01",
+          "year": "2025"
+        },
+        {
+          "amount": 32458062.85,
+          "description": "IDEA 100K",
+          "cfda_code": "84.282",
+          "program": "84.282",
+          "start_date": "2019-03-29",
+          "year": "2025"
+        },
+        {
+          "amount": 11482532.19,
+          "description": "IDEA COMPREHENSIVE HEALTH PROFESSIONS",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2017-10-01",
+          "year": "2025"
+        },
+        {
+          "amount": 9783046.37,
+          "description": "CHARTER SCHOOLS MANAGEMENT ORGANIZATIONS",
+          "cfda_code": "84.282",
+          "program": "84.282",
+          "start_date": "2016-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "YES PREP PUBLIC SCHOOLS INC",
+      "state": "TX",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 21626549.0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": [
+        {
+          "amount": 21626549.0,
+          "description": "LEADING HOUSTON FORWARD CAMPAIGN",
+          "cfda_code": "84.282",
+          "program": "84.282",
+          "start_date": "2020-04-01",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "name": "EDUCATION SERVICE CTR REGION XII",
+      "state": "TX",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 19283903.0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": [
+        {
+          "amount": 19283903.0,
+          "description": "COLLEGE BOUND",
+          "cfda_code": "84.334",
+          "program": "84.334",
+          "start_date": "2018-10-01",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "name": "HARMONY PUBLIC SCHOOLS",
+      "state": "TX",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 41852524.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 17006794.0,
+          "description": "INSPIRING FUTURES ACROSS TX",
+          "cfda_code": "84.282",
+          "program": "84.282",
+          "start_date": "2023-04-01",
+          "year": "2024"
+        },
+        {
+          "amount": 7838936.0,
+          "description": "TRAINING INSTRUCTIONAL LEADERSHIP TEAMS FORWARD (TILT FORWARD), HARMONY PUBLIC SCHOOLS",
+          "cfda_code": "84.374",
+          "program": "84.374",
+          "start_date": "2023-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 17006794.0,
+          "description": "INSPIRING FUTURES ACROSS TX",
+          "cfda_code": "84.282",
+          "program": "84.282",
+          "start_date": "2023-04-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "LONGVIEW INDEPENDENT SCHOOL DISTRICT",
+      "state": "TX",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 24098590.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 12049295.0,
+          "description": "WIN PROJECT",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2023-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 12049295.0,
+          "description": "WIN PROJECT",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2023-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "LACKLAND INDEPENDENT SCHOOL DISTRICT",
+      "state": "TX",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 35489708.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 12039684.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 11410340.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 12039684.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "VICTORIA INDEPENDENT SCHOOL DISTRICT",
+      "state": "TX",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 23999714.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 11999857.0,
+          "description": "CHOICE STEM PATHWAY PROJECT",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2023-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 11999857.0,
+          "description": "CHOICE STEM PATHWAY PROJECT",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2023-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "DESOTO INDEPENDENT SCHOOL DISTRICT",
+      "state": "TX",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 37968490.660000004,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 11120569.92,
+          "description": "MAGNET - A2&E2 (ACADEMIES FOR ACADEMIC ENHANCEMENT AND EXCELLENCE)",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2017-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 8222351.0,
+          "description": "NEXT - GENERATION GEAR UP",
+          "cfda_code": "84.334",
+          "program": "84.334",
+          "start_date": "2018-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 7504999.82,
+          "description": "GAINING EARLY AWARENESS AND READINESS FOR UNDERGRADUATE PROGRAMS (GEAR UP PARTNERSHIP)",
+          "cfda_code": "84.334",
+          "program": "84.334",
+          "start_date": "2014-09-25",
+          "year": "2024"
+        },
+        {
+          "amount": 11120569.92,
+          "description": "MAGNET - A2&E2 (ACADEMIES FOR ACADEMIC ENHANCEMENT AND EXCELLENCE)",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2017-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "UPLIFT EDUCATION",
+      "state": "TX",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 18026992.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 9013496.0,
+          "description": "UPLIFT EDUCATION RECRUIT & RETAIN -- R&R STRONG",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2024"
+        },
+        {
+          "amount": 9013496.0,
+          "description": "UPLIFT EDUCATION RECRUIT & RETAIN -- R&R STRONG",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "RANDOLPH FIELD INDEPENDENT SCHOOL DISTRICT",
+      "state": "TX",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 26095056.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 8833305.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 8428446.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 8833305.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "KARNES CITY INDEPENDENT SCHOOL DISTRICT",
+      "state": "TX",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 15636680.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 7818340.0,
+          "description": "RURAL AREA MENTAL HEALTH PROFESSIONAL ENHANCEMENT AND DEVELOPMENT (RAMPED) PROGRAM",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-04-01",
+          "year": "2024"
+        },
+        {
+          "amount": 7818340.0,
+          "description": "RURAL AREA MENTAL HEALTH PROFESSIONAL ENHANCEMENT AND DEVELOPMENT (RAMPED) PROGRAM",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-04-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "EDUCATION SERVICE CENTER - REGION 10",
+      "state": "TX",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 12760800.0,
+      "title_i": 0,
+      "recent_awards": 2,
+      "award_details": [
+        {
+          "amount": 7212800.0,
+          "description": "OFFICE OF POST SECONDARY EDUCATION: GAINING EARLY AWARENESS AND READINESS FOR UNDERGRADUATESPROGRAMS (PARTNERSHIP GRANT). ESC 10 GEAR UP, COLLEGE AND BEYOND.",
+          "cfda_code": "84.334",
+          "program": "84.334",
+          "start_date": "2024-09-01",
+          "year": "2025"
+        },
+        {
+          "amount": 5548000.0,
+          "description": "OFFICE OF POST SECONDARY EDUCATION: GAINING EARLY AWARENESS AND READINESS FOR UNDERGRADUATES PROGRAMS (PARTNERSHIP GRANT). ESC 10 GEAR UP, COLLEGE AND BEYOND.",
+          "cfda_code": "84.334",
+          "program": "84.334",
+          "start_date": "2021-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "EL PASO INDEPENDENT SCHOOL DISTRICT",
+      "state": "TX",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 5999211.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 5999211.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "PASADENA INDEPENDENT SCHOOL DISTRICT",
+      "state": "TX",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 5569693.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 5569693.0,
+          "description": "PASADENA ISD'S MENTAL HEALTH IS GRREAT",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "TEXAS EDUCATION AGENCY",
+      "state": "TX",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 4999250.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 4999250.0,
+          "description": "PROJECT RURAL INVESTMENTS FOR SUCCESS IN EDUCATION AND UNIVERSITY PROGRAMS (RISE UP) IS A CONSORTIUM OF BETWEEN EDUCATION SERVICE CENTER-REGION 2, 6 RURAL SCHOOL DISTRICTS AND 4 LOCAL IHES.",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2025-01-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "FLORIDA DEPARTMENT OF EDUCATION",
+      "state": "FL",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 8218061598.9800005,
+      "title_i": 2029581964.0,
+      "recent_awards": 33,
+      "award_details": [
+        {
+          "amount": 1002332843.0,
+          "description": "TITLE I PART A BASIC GRANTS TO LEAS",
+          "cfda_code": "84.010",
+          "program": "Title I - Improving Basic Programs",
+          "start_date": "2024-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 787872110.0,
+          "description": "STATE GRANT - B (611)",
+          "cfda_code": "84.027",
+          "program": "IDEA - Special Education Grants",
+          "start_date": "2024-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 711429525.59,
+          "description": "STATE GRANT - B (611)",
+          "cfda_code": "84.027",
+          "program": "IDEA - Special Education Grants",
+          "start_date": "2021-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 212204412.0,
+          "description": "STATE VOCATIONAL REHABILITATION SERVICES (VR)",
+          "cfda_code": "84.126",
+          "program": "84.126",
+          "start_date": "2024-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 184931573.0,
+          "description": "STATE VOCATIONAL REHABILITATION SERVICES (VR)",
+          "cfda_code": "84.126",
+          "program": "84.126",
+          "start_date": "2023-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 175063093.01,
+          "description": "STATE VOCATIONAL REHABILITATION SERVICES (VR)",
+          "cfda_code": "84.126",
+          "program": "84.126",
+          "start_date": "2021-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 172158412.88,
+          "description": "STATE VOCATIONAL REHABILITATION SERVICES (VR)",
+          "cfda_code": "84.126",
+          "program": "84.126",
+          "start_date": "2020-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 140533387.18,
+          "description": "INDIVIDUALS WITH DISABILITIES EDUCATION ACT/AMERICAN RESCUE PLAN ACT OF 2021 (ARP)",
+          "cfda_code": "84.027",
+          "program": "IDEA - Special Education Grants",
+          "start_date": "2021-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 124608404.0,
+          "description": "SUPPORTING EFFECTIVE INSTRUCTION",
+          "cfda_code": "84.367",
+          "program": "Supporting Effective Instruction",
+          "start_date": "2024-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 78333333.0,
+          "description": "FLORIDA 2016 CSP GRANT APPLICATION -- REVISED",
+          "cfda_code": "84.282",
+          "program": "84.282",
+          "start_date": "2020-10-01",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "name": "SCHOOL BOARD OF MIAMI-DADE COUNTY",
+      "state": "FL",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 134450485.32,
+      "title_i": 0,
+      "recent_awards": 6,
+      "award_details": [
+        {
+          "amount": 15000000.0,
+          "description": "R3 - RECRUITMENT, RETENTION, AND RESILIENCY PROJECT",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2024"
+        },
+        {
+          "amount": 14966039.66,
+          "description": "SCIENCE, TECHNOLOGY, ENGINEERING AND MATHEMATICS (STEM) PATHWAYS PROJECT",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2017-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 14181942.0,
+          "description": "STARTS - SCIENCE, TECHNOLOGY, AND ARTS EXPLORATION INNOVATION PROJECT",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2021-04-01",
+          "year": "2024"
+        },
+        {
+          "amount": 12122185.0,
+          "description": "SCIENCE TECHNOLOGY AND ARTS EXPLORATION & INNOVATION PROJECT (STARTS2 PROJECT)",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 9455076.0,
+          "description": "EDU-PARTNERS (PREPARATION, APPRENTICESHIP, RESIDENCY, TEACHING, NEW EDUCATOR READINESS, AND SUPPORT)",
+          "cfda_code": "84.336",
+          "program": "84.336",
+          "start_date": "2024-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 15000000.0,
+          "description": "R3 - RECRUITMENT, RETENTION, AND RESILIENCY PROJECT",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2025"
+        },
+        {
+          "amount": 14966039.66,
+          "description": "SCIENCE, TECHNOLOGY, ENGINEERING AND MATHEMATICS (STEM) PATHWAYS PROJECT",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2017-10-01",
+          "year": "2025"
+        },
+        {
+          "amount": 14181942.0,
+          "description": "STARTS - SCIENCE, TECHNOLOGY, AND ARTS EXPLORATION INNOVATION PROJECT",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2021-04-01",
+          "year": "2025"
+        },
+        {
+          "amount": 12122185.0,
+          "description": "SCIENCE TECHNOLOGY AND ARTS EXPLORATION & INNOVATION PROJECT (STARTS2 PROJECT)",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2025"
+        },
+        {
+          "amount": 9455076.0,
+          "description": "EDU-PARTNERS (PREPARATION, APPRENTICESHIP, RESIDENCY, TEACHING, NEW EDUCATOR READINESS, AND SUPPORT)",
+          "cfda_code": "84.336",
+          "program": "84.336",
+          "start_date": "2024-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "SCHOOL BOARD OF SEMINOLE COUNTY, FL",
+      "state": "FL",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 35849914.8,
+      "title_i": 0,
+      "recent_awards": 2,
+      "award_details": [
+        {
+          "amount": 14977619.4,
+          "description": "EPATHWAYS FOR ELEMENTARY SCHOOLS: SMALL STEPS TO BIG CAREERS",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2017-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 3170772.0,
+          "description": "SOUTH SEMINOLE ACADEMY OF CAREER EXPLORATION",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2024-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 14977619.4,
+          "description": "EPATHWAYS FOR ELEMENTARY SCHOOLS: SMALL STEPS TO BIG CAREERS",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2017-10-01",
+          "year": "2025"
+        },
+        {
+          "amount": 2723904.0,
+          "description": "SCPS: SUPPORTING MENTAL HEALTH NEEDS-TODAY, TOMORROW, AND BEYOND",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "THE SCHOOL BOARD OF BROWARD COUNTY, FLORIDA",
+      "state": "FL",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 24866888.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 12433444.0,
+          "description": "ACHIEVING CAREER EQUITY FOR STUDENTS",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 12433444.0,
+          "description": "ACHIEVING CAREER EQUITY FOR STUDENTS",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "POLK COUNTY SCHOOL BOARD",
+      "state": "FL",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 24247150.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 12123575.0,
+          "description": "AMPLIFYING MAGNET PROGRAMS",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 12123575.0,
+          "description": "AMPLIFYING MAGNET PROGRAMS",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "THE SCHOOL BOARD OF ST LUCIE COUNTY",
+      "state": "FL",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 23761456.92,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 11880728.46,
+          "description": "ST. LUCIE PUBLIC SCHOOLS MAGNET SCHOOL GRANT  APPLICATION",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2017-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 11880728.46,
+          "description": "ST. LUCIE PUBLIC SCHOOLS MAGNET SCHOOL GRANT  APPLICATION",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2017-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "DUVAL COUNTY SCHOOL BOARD",
+      "state": "FL",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 35150827.0,
+      "title_i": 0,
+      "recent_awards": 3,
+      "award_details": [
+        {
+          "amount": 10449126.0,
+          "description": "BELIEF: BUILDING ENGAGED LEARNERS TO INCREASE EXPECTATIONS FOR THE FUTURE",
+          "cfda_code": "84.334",
+          "program": "84.334",
+          "start_date": "2021-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 5307604.0,
+          "description": "DUVAL COUNTY SCHOOL BASED MENTAL HEALTH PROJECT",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2024"
+        },
+        {
+          "amount": 10449126.0,
+          "description": "BELIEF: BUILDING ENGAGED LEARNERS TO INCREASE EXPECTATIONS FOR THE FUTURE",
+          "cfda_code": "84.334",
+          "program": "84.334",
+          "start_date": "2021-10-01",
+          "year": "2025"
+        },
+        {
+          "amount": 5307604.0,
+          "description": "DUVAL COUNTY SCHOOL BASED MENTAL HEALTH PROJECT",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2025"
+        },
+        {
+          "amount": 3637367.0,
+          "description": "DUVAL MENTAL HEALTH SERVICE PROFESSIONAL DEMONSTRATION GRANT PROGRAM",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2026-01-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "LEE COUNTY SCHOOL BOARD",
+      "state": "FL",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 48163390.72,
+      "title_i": 0,
+      "recent_awards": 3,
+      "award_details": [
+        {
+          "amount": 10159359.36,
+          "description": "INCREASING DIVERSITY AND ACHIEVEMENT THROUGH RIGOROUS AND ENGAGING (I-DARE) PROGRAMS PROJECT",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2017-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 9048677.0,
+          "description": "THE INCREASING DIVERSITY AND ACHIEVEMENT THROUGH RIGOROUS AND ENGAGING (I-DARE) PROGRAMS PHASE II PROJECT",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2021-04-01",
+          "year": "2024"
+        },
+        {
+          "amount": 4873659.0,
+          "description": "RIGOROUS AND ENGAGING ACADEMIC PROGRAMS (REAP) MAGNET PROJECT",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2024-04-01",
+          "year": "2024"
+        },
+        {
+          "amount": 10159359.36,
+          "description": "INCREASING DIVERSITY AND ACHIEVEMENT THROUGH RIGOROUS AND ENGAGING (I-DARE) PROGRAMS PROJECT",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2017-10-01",
+          "year": "2025"
+        },
+        {
+          "amount": 9048677.0,
+          "description": "THE INCREASING DIVERSITY AND ACHIEVEMENT THROUGH RIGOROUS AND ENGAGING (I-DARE) PROGRAMS PHASE II PROJECT",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2021-04-01",
+          "year": "2025"
+        },
+        {
+          "amount": 4873659.0,
+          "description": "RIGOROUS AND ENGAGING ACADEMIC PROGRAMS (REAP) MAGNET PROJECT",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2024-04-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "BAY COUNTY SCHOOL BOARD",
+      "state": "FL",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 17153896.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 8576948.0,
+          "description": "BAY DISTRICT SCHOOLS SCHOOL BASED MENTAL HEALTH PROGRAM",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2024"
+        },
+        {
+          "amount": 8576948.0,
+          "description": "BAY DISTRICT SCHOOLS SCHOOL BASED MENTAL HEALTH PROGRAM",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "HILLSBOROUGH COUNTY SCHOOL DISTRICT",
+      "state": "FL",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 17124270.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 8562135.0,
+          "description": "SCHOOL BASED MENTAL HEALTH (SBMH) SERVICES",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2024"
+        },
+        {
+          "amount": 8562135.0,
+          "description": "SCHOOL BASED MENTAL HEALTH (SBMH) SERVICES",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "SCHOOL DISTRICT OF MONROE COUNTY FLORIDA",
+      "state": "FL",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 14006922.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 7003461.0,
+          "description": "MONROE COUNTY SCHOOL DISTRICT SBMH SERVICES GRANT",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2024"
+        },
+        {
+          "amount": 7003461.0,
+          "description": "MONROE COUNTY SCHOOL DISTRICT SBMH SERVICES GRANT",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "WASHINGTON COUNTY SCHOOL DISTRICT",
+      "state": "FL",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 9441190.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 4720595.0,
+          "description": "COLLABORATIVE HOLISTIC ALLIANCE TO ADVANCE MENTAL-HEALTH PROFESSIONS IN SCHOOLS (CHAAMPS) PROJECT.",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2025-01-01",
+          "year": "2024"
+        },
+        {
+          "amount": 4720595.0,
+          "description": "COLLABORATIVE HOLISTIC ALLIANCE TO ADVANCE MENTAL-HEALTH PROFESSIONS IN SCHOOLS (CHAAMPS) PROJECT.",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2025-01-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "SCHOOL DISTRICT OF OKALOOSA COUNTY",
+      "state": "FL",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 12904834.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 4520536.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 4192149.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 4192149.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "PINELLAS COUNTY SCHOOL DISTRICT",
+      "state": "FL",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 7045018.76,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 3522509.38,
+          "description": "PINELLAS SCHOOL CLIMATE TRANSFORMATION",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2019-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 3522509.38,
+          "description": "PINELLAS SCHOOL CLIMATE TRANSFORMATION",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2019-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "PUTNAM CO DISTRICT SCHOOL BOARD",
+      "state": "FL",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 9998004.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 9998004.0,
+          "description": "RURAL CONNECT FLORIDA",
+          "cfda_code": "84.411",
+          "program": "84.411",
+          "start_date": "2026-01-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "NEW YORK STATE EDUCATION DEPARTMENT",
+      "state": "NY",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 15472483859.880001,
+      "title_i": 6636463315.72,
+      "recent_awards": 36,
+      "award_details": [
+        {
+          "amount": 1489259094.0,
+          "description": "TITLE I PART A BASIC GRANTS TO LEAS",
+          "cfda_code": "84.010",
+          "program": "Title I - Improving Basic Programs",
+          "start_date": "2024-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 1219468324.0,
+          "description": "UNKNOWN TITLE",
+          "cfda_code": "84.010",
+          "program": "Title I - Improving Basic Programs",
+          "start_date": "2019-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 1196024768.0,
+          "description": "TITLE I PART A BASIC GRANTS TO LEAS",
+          "cfda_code": "84.010",
+          "program": "Title I - Improving Basic Programs",
+          "start_date": "2020-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 907542158.0,
+          "description": "STATE GRANT - B (611)",
+          "cfda_code": "84.027",
+          "program": "IDEA - Special Education Grants",
+          "start_date": "2024-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 835124876.92,
+          "description": "STATE GRANT - B (611)",
+          "cfda_code": "84.027",
+          "program": "IDEA - Special Education Grants",
+          "start_date": "2021-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 824196148.82,
+          "description": "STATE GRANT - B (611)",
+          "cfda_code": "84.027",
+          "program": "IDEA - Special Education Grants",
+          "start_date": "2020-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 153464351.0,
+          "description": "STATE VOCATIONAL REHABILITATION SERVICES (VR)",
+          "cfda_code": "84.126",
+          "program": "84.126",
+          "start_date": "2024-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 148444884.33,
+          "description": "UNKNOWN TITLE",
+          "cfda_code": "84.367",
+          "program": "Supporting Effective Instruction",
+          "start_date": "2019-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 147412801.15,
+          "description": "INDIVIDUALS WITH DISABILITIES EDUCATION ACT/AMERICAN RESCUE PLAN ACT OF 2021 (ARP)",
+          "cfda_code": "84.027",
+          "program": "IDEA - Special Education Grants",
+          "start_date": "2021-07-01",
+          "year": "2024"
+        },
+        {
+          "amount": 140809453.0,
+          "description": "SUPPORTING EFFECTIVE INSTRUCTION",
+          "cfda_code": "84.367",
+          "program": "Supporting Effective Instruction",
+          "start_date": "2020-07-01",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "name": "SALAMANCA CITY SCHOOL DISTRICT",
+      "state": "NY",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 71708660.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 24396683.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 22915294.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 24396683.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "NEW YORK STATE HIGHER EDUCATION SERVICES CORPORATION",
+      "state": "NY",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 56912309.97999999,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 22111126.49,
+          "description": "GAINING EARLY AWARENESS AND READINESS FOR UNDERGRADUATE PROGRAMS (GEAR UP STATE)",
+          "cfda_code": "84.334",
+          "program": "84.334",
+          "start_date": "2014-09-25",
+          "year": "2024"
+        },
+        {
+          "amount": 12690057.0,
+          "description": "NEW YORK STATE HIGHER EDUCATION SERVICES CORPORATION: NYGEAR UP 2021 - 2028",
+          "cfda_code": "84.334",
+          "program": "84.334",
+          "start_date": "2022-09-01",
+          "year": "2024"
+        },
+        {
+          "amount": 22111126.49,
+          "description": "GAINING EARLY AWARENESS AND READINESS FOR UNDERGRADUATE PROGRAMS (GEAR UP STATE)",
+          "cfda_code": "84.334",
+          "program": "84.334",
+          "start_date": "2014-09-25",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "INDIAN RIVER CENTRAL SCHOOL DISTRICT",
+      "state": "NY",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 71755098.0,
+      "title_i": 0,
+      "recent_awards": 2,
+      "award_details": [
+        {
+          "amount": 21242046.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 20840934.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 20840934.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2025"
+        },
+        {
+          "amount": 8831184.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": "2025-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "CITY OF NEW YORK BOARD OF EDUCATION",
+      "state": "NY",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 111250390.0,
+      "title_i": 0,
+      "recent_awards": 5,
+      "award_details": [
+        {
+          "amount": 14999995.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 13-14-16 BROOKLYN NORTH CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2021-04-01",
+          "year": "2024"
+        },
+        {
+          "amount": 14693254.0,
+          "description": "COMMUNITY SCHOOL DISTRICT 28  MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2017-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 32-16 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 19-27 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 28-29 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 6858525.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 5829746.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 14999995.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 13-14-16 BROOKLYN NORTH CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2021-04-01",
+          "year": "2025"
+        },
+        {
+          "amount": 14693254.0,
+          "description": "COMMUNITY SCHOOL DISTRICT 28  MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "cfda_code": "84.165",
+          "program": "84.165",
+          "start_date": "2017-10-01",
+          "year": "2025"
+        },
+        {
+          "amount": 5829746.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "NORTHEAST CHARTER SCHOOLS NETWORK, INC.",
+      "state": "NY",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 29413530.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 14706765.0,
+          "description": "GREAT SCHOOLS FOR CONNECTICUT CSP PROEJCT",
+          "cfda_code": "84.282",
+          "program": "84.282",
+          "start_date": "2022-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 14706765.0,
+          "description": "GREAT SCHOOLS FOR CONNECTICUT CSP PROEJCT",
+          "cfda_code": "84.282",
+          "program": "84.282",
+          "start_date": "2022-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "SUCCESS ACADEMY CHARTER SCHOOLS INC",
+      "state": "NY",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 55133060.239999995,
+      "title_i": 0,
+      "recent_awards": 3,
+      "award_details": [
+        {
+          "amount": 12132125.0,
+          "description": "SECURING SUCCESS FOR ALL NEW YORK CITY CHILDREN",
+          "cfda_code": "84.282",
+          "program": "84.282",
+          "start_date": "2023-04-01",
+          "year": "2024"
+        },
+        {
+          "amount": 9799540.12,
+          "description": "MISSION POSSIBLE: SECURING SUCCESS FOR NYC CHILDREN",
+          "cfda_code": "84.282",
+          "program": "84.282",
+          "start_date": "2019-03-29",
+          "year": "2024"
+        },
+        {
+          "amount": 5634865.0,
+          "description": "SECURING SUCCESS FOR ALL NEW YORK CITY CHILDREN",
+          "cfda_code": "84.282",
+          "program": "84.282",
+          "start_date": "2024-04-01",
+          "year": "2024"
+        },
+        {
+          "amount": 12132125.0,
+          "description": "SECURING SUCCESS FOR ALL NEW YORK CITY CHILDREN",
+          "cfda_code": "84.282",
+          "program": "84.282",
+          "start_date": "2023-04-01",
+          "year": "2025"
+        },
+        {
+          "amount": 9799540.12,
+          "description": "MISSION POSSIBLE: SECURING SUCCESS FOR NYC CHILDREN",
+          "cfda_code": "84.282",
+          "program": "84.282",
+          "start_date": "2019-03-29",
+          "year": "2025"
+        },
+        {
+          "amount": 5634865.0,
+          "description": "SECURING SUCCESS FOR ALL NEW YORK CITY CHILDREN",
+          "cfda_code": "84.282",
+          "program": "84.282",
+          "start_date": "2024-04-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "TICONDEROGA CENTRAL SCHOOL DISTRICT",
+      "state": "NY",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 11620000.0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": [
+        {
+          "amount": 11620000.0,
+          "description": "GEAR UP: BRILLIANT PATHWAYS",
+          "cfda_code": "84.334",
+          "program": "84.334",
+          "start_date": "2018-10-01",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "name": "CARTHAGE CENTRAL SCHOOL DISTRICT",
+      "state": "NY",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 31192256.0,
+      "title_i": 0,
+      "recent_awards": 2,
+      "award_details": [
+        {
+          "amount": 9236996.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 8772613.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2024"
+        },
+        {
+          "amount": 9236996.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2025"
+        },
+        {
+          "amount": 3945651.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": "2025-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "SODUS CENTRAL SCHOOL DISTRICT",
+      "state": "NY",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 8894558.0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": [
+        {
+          "amount": 8894558.0,
+          "description": "WAYNE COUNTY COMMUNITY SCHOOLS: EXPANSION AND ENGAGEMENT PROPOSAL",
+          "cfda_code": "84.215",
+          "program": "84.215",
+          "start_date": "2023-01-01",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "name": "ASCEND LEARNING INC",
+      "state": "NY",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 11233118.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 7463109.0,
+          "description": "ASCEND LEARNING: EXPANSION AND REPLICATION OF HIGH-QUALITY CHARTER SCHOOLS IN BROOKLYN, NY",
+          "cfda_code": "84.282",
+          "program": "84.282",
+          "start_date": "2017-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 3770009.0,
+          "description": "REPLICATION AND EXPANSION OF HIGH-QUALITY CHARTER SCHOOLS IN BROOKLYN, NY",
+          "cfda_code": "84.282",
+          "program": "84.282",
+          "start_date": "2023-04-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "CENTER FOR EDUCATIONAL INNOVATION INC",
+      "state": "NY",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 16230911.0,
+      "title_i": 0,
+      "recent_awards": 2,
+      "award_details": [
+        {
+          "amount": 6000000.0,
+          "description": "CENTER FOR EDUCATIONAL INNOVATION MULTISENSORY EDUCATION THROUGH ART (META)",
+          "cfda_code": "84.351",
+          "program": "84.351",
+          "start_date": "2021-10-01",
+          "year": "2024"
+        },
+        {
+          "amount": 6000000.0,
+          "description": "CENTER FOR EDUCATIONAL INNOVATION MULTISENSORY EDUCATION THROUGH ART (META)",
+          "cfda_code": "84.351",
+          "program": "84.351",
+          "start_date": "2021-10-01",
+          "year": "2025"
+        },
+        {
+          "amount": 4230911.0,
+          "description": "MERIDIAN USA",
+          "cfda_code": "84.351",
+          "program": "84.351",
+          "start_date": "2025-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "UNBOUNDED LEARNING INC",
+      "state": "NY",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 5476057.0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": [
+        {
+          "amount": 5476057.0,
+          "description": "TEACHER AND LEADER PREPARATION AND PROFESSIONAL DEVELOPMENT GRANT PROGRAM",
+          "cfda_code": "84.423",
+          "program": "84.423",
+          "start_date": "2023-12-12",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "name": "HAVERSTRAW STONY POINT CENTRAL SCHOOL DISTRICT",
+      "state": "NY",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 5250000.0,
+      "title_i": 0,
+      "recent_awards": 0,
+      "award_details": [
+        {
+          "amount": 5250000.0,
+          "description": "NORTH ROCKLAND CENTRAL SCHOOL DISTRICT MENTAL HEALTH GRANT",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "name": "ZETA CHARTER SCHOOLS, INC.",
+      "state": "NY",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 5540645.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 5540645.0,
+          "description": "REPLICATING ZETA'S HIGH-QUALITY CHARTER SCHOOLS",
+          "cfda_code": "84.282",
+          "program": "84.282",
+          "start_date": "2025-04-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "LYONS CENTRAL SCHOOL DISTRICT",
+      "state": "NY",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 5165000.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 5165000.0,
+          "description": "EXPANDING THE SCHOOL PSYCHOLOGY WORKFORCE FOR STUDENTS PROJECT",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2026-01-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "HIGHLAND FALLS FORT MONTGOMERY SCHOOL DISTRICT",
+      "state": "NY",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 3754814.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 3754814.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7002",
+          "cfda_code": "84.041",
+          "program": "84.041",
+          "start_date": null,
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "ROSCOE CENTRAL SCHOOL DISTRICT",
+      "state": "NY",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 3337682.13,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 3337682.13,
+          "description": "R.I.S.E.: RIGOROUS INTERVENTIONS SUPPORT EXCELLENCE",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2019-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "ELMIRA CITY SCHOOL DISTRICT",
+      "state": "NY",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 3289726.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 3289726.0,
+          "description": "EXPRESS PLAN TO RAISE AND EMPOWER STUDENT SUCCESS(EXPRESS PROJECT)",
+          "cfda_code": "84.215",
+          "program": "84.215",
+          "start_date": "2021-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "UNIONDALE UNION FREE SCHOOL DISTRICT",
+      "state": "NY",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 3200000.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 3200000.0,
+          "description": "VIOLENCE PREVENTION IN UNIONDALE, NY",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "HORNELL CITY SCHOOL DISTRICT",
+      "state": "NY",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 3079772.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 3079772.0,
+          "description": "PROJECT ACCELERATED LITERACY (PAL)",
+          "cfda_code": "84.215",
+          "program": "84.215",
+          "start_date": "2021-10-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "SYRACUSE CITY SCHOOL DISTRICT",
+      "state": "NY",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 2962216.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 2962216.0,
+          "description": "SYRACUSE CITY SCHOOL DISTRICT SCHOOL PSYCHOLOGY TRAINING AND RETENTION PROGRAM",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2026-01-01",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "name": "RENAISSANCE CHARTER SCHOOL",
+      "state": "NY",
+      "enrollment": null,
+      "city": null,
+      "type": null,
+      "federal_awards": 2827442.0,
+      "title_i": 0,
+      "recent_awards": 1,
+      "award_details": [
+        {
+          "amount": 2827442.0,
+          "description": "THE NEW YORK CITY CHARTER SCHOOL CONSORTIUM TO ....",
+          "cfda_code": "84.184",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2025"
+        }
+      ]
     }
-  ],
-  "federal_awards": {
-    "WA": [
-      {
-        "name": "CENTRAL KITSAP SCHOOL DISTRICT",
-        "amount": 22058179.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "WA"
-      },
-      {
-        "name": "CENTRAL KITSAP SCHOOL DISTRICT",
-        "amount": 20914443.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "WA"
-      },
-      {
-        "name": "SCHOOL DIST #201 ISLAND COUNTY",
-        "amount": 19220080.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "WA"
-      },
-      {
-        "name": "CLOVER PARK SCHOOL DISTRICT",
-        "amount": 15467213.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "WA"
-      },
-      {
-        "name": "CLOVER PARK SCHOOL DISTRICT",
-        "amount": 15001248.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "WA"
-      },
-      {
-        "name": "SCHOOL DIST #201 ISLAND COUNTY",
-        "amount": 14686974.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "WA"
-      },
-      {
-        "name": "EDUCATIONAL SERVICE DISTRICT 105",
-        "amount": 7408935.0,
-        "description": "YAKIMA CONSORTIUM FULL-SERVICE COMMUNITY SCHOOLS",
-        "state": "WA"
-      },
-      {
-        "name": "NORTHWEST EDUCATIONAL SERVICE DISTRICT",
-        "amount": 5905258.0,
-        "description": "NWESD SCHOOL-BASED MENTAL HEALTH SERVICES (SBMHP+): RESPONDING TO THE NEEDS OF STUDENTS WITH THE MOST COMPLEX MENTAL HEALTH CONCERNS",
-        "state": "WA"
-      },
-      {
-        "name": "VANCOUVER SCHOOL DISTRICT 37",
-        "amount": 5315306.0,
-        "description": "VANCOUVER PUBLIC SCHOOLS SCHOOL BASED MENTAL HEALTH",
-        "state": "WA"
-      },
-      {
-        "name": "MT ADAMS SCHOOL DISTRICT",
-        "amount": 5280126.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "WA"
-      },
-      {
-        "name": "MT ADAMS SCHOOL DISTRICT",
-        "amount": 5047135.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "WA"
-      },
-      {
-        "name": "CAPE FLATTERY SCHOOL DIST 401",
-        "amount": 4231719.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "WA"
-      },
-      {
-        "name": "CAPE FLATTERY SCHOOL DIST 401",
-        "amount": 3932307.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "WA"
-      },
-      {
-        "name": "WELLPINIT SCHOOL DISTRICT 49",
-        "amount": 3847869.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "WA"
-      },
-      {
-        "name": "EDUCATIONAL SERVICE DISTRICT 105",
-        "amount": 3720370.0,
-        "description": "INNOVATIVE APPROACHES TO LITERACY PROGRAM - READING THROUGH MIRRORS AND WINDOWS",
-        "state": "WA"
-      },
-      {
-        "name": "WELLPINIT SCHOOL DISTRICT 49",
-        "amount": 3681479.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "WA"
-      },
-      {
-        "name": "EDUCATIONAL SERVICE DISTRICT 105",
-        "amount": 3498519.0,
-        "description": "YAKAMA GROW OUR OWN CONSORTIUM",
-        "state": "WA"
-      },
-      {
-        "name": "TACOMA PUBLIC SCHOOLS",
-        "amount": 3410650.0,
-        "description": "THE TACOMA WHOLE CHILD: INCREASING STUDENT ACCESS TO DIVERSE MENTAL HEALTH SERVICES PROVIDERS",
-        "state": "WA"
-      },
-      {
-        "name": "WAPATO SCHOOL DISTRICT",
-        "amount": 3231353.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "WA"
-      },
-      {
-        "name": "WAPATO SCHOOL DISTRICT",
-        "amount": 2995057.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "WA"
-      },
-      {
-        "name": "MEDICAL LAKE SCHOOL DISTRICT #326",
-        "amount": 2716917.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "WA"
-      },
-      {
-        "name": "VANCOUVER SCHOOL DISTRICT 37",
-        "amount": 2398400.0,
-        "description": "VPS FULL-SERVICE COMMUNITY SCHOOLS: ROADMAP TO LEARNING",
-        "state": "WA"
-      },
-      {
-        "name": "EDUCATIONAL SERVICE DISTRICT 105",
-        "amount": 2397906.0,
-        "description": "SOUTH-CENTRAL WASHINGTON VIOLENCE INTERVENTION, PREVENTION, EDUCATION, AND RESPONSE (VIPER)",
-        "state": "WA"
-      },
-      {
-        "name": "MEDICAL LAKE SCHOOL DISTRICT #326",
-        "amount": 2392122.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "WA"
-      },
-      {
-        "name": "LACONNER SCHOOL DISTRICT",
-        "amount": 2313049.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "WA"
-      }
-    ],
-    "OR": [
-      {
-        "name": "MULTNOMAH COUNTY SCHOOL DIST 1J",
-        "amount": 10964800.0,
-        "description": "ENGAGE, EMPOWER, ELEVATE - E3\"\"",
-        "state": "OR"
-      },
-      {
-        "name": "DOUGLAS EDUCATION SERVICE DISTRICT",
-        "amount": 6808215.0,
-        "description": "ELEVATING AND DIVERSIFYING SCHOOL-BASED BEHAVIORAL HEALTH IN RURAL OREGON: CREATING INNOVATIVE SOLUTIONS TO MEET STUDENTS WHERE THEY ARE",
-        "state": "OR"
-      },
-      {
-        "name": "JEFFERSON COUNTY SCHOOL DISTRICT 509J",
-        "amount": 3251158.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "OR"
-      },
-      {
-        "name": "JEFFERSON COUNTY SCHOOL DISTRICT 509J",
-        "amount": 3094482.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "OR"
-      },
-      {
-        "name": "CORBETT SCHOOL DISTRICT 39",
-        "amount": 2760684.0,
-        "description": "CORBETT SCHOOL DISTRICT (SD) LOCAL EDUCATION AGENCY (LEA) SCHOOL-BASED MENTAL HEALTH PROJECT. CORBETT SD WILL RECRUIT AND HIRE FIVE NEW AND DIVERSE CERTIFIED MENTAL HEALTH STAFF FOR K-12 SCHOOL.",
-        "state": "OR"
-      },
-      {
-        "name": "MULTNOMAH COUNTY SCHOOL DIST 1J",
-        "amount": 2550897.0,
-        "description": "ADVANCING STUDENT MENTAL HEALTH BY INCREASING THE NUMBER AND THE CULTURAL AND LINGUISTIC DIVERSITY OF SCHOOL PSYCHOLOGISTS",
-        "state": "OR"
-      },
-      {
-        "name": "CHEMEKETA COMMUNITY COLLEGE DISTRICT",
-        "amount": 2401649.42,
-        "description": "CHEMEKETA ACCELERATED PATHWAYS TO SUCCESS (CAPS)",
-        "state": "OR"
-      },
-      {
-        "name": "CHEMEKETA COMMUNITY COLLEGE DISTRICT",
-        "amount": 2125000.0,
-        "description": "CHEMEKETA CAMP INCREASES COLLEGE SUCCESS FOR STUDENTS FROM MSFW FAMILIES BY PROVIDING WRAP AROUND STUDENT SUCCESS SERVICES INCLUDING ADVISING, TUTORING, AND FINANCIAL PLANNING SUPPORT.",
-        "state": "OR"
-      },
-      {
-        "name": "CHEMEKETA COMMUNITY COLLEGE DISTRICT",
-        "amount": 1994615.0,
-        "description": "CHEMEKETA CHILD CARE ACCESS MEANS PARENTS IN SCHOOL (CCAMPIS) PROGRAM",
-        "state": "OR"
-      },
-      {
-        "name": "CHEMEKETA COMMUNITY COLLEGE DISTRICT",
-        "amount": 1728526.91,
-        "description": "CHEMEKETA COMMUNITY COLLEGE UPWARD BOUND",
-        "state": "OR"
-      },
-      {
-        "name": "ROGUE COMMUNITY COLLEGE DISTRICT",
-        "amount": 1681476.0,
-        "description": "ROGUE COMMUNITY COLLEGE ETS PROGRAM IS IN RURAL SOUTHERN OREGON. THE PROJECT WILL SERVE 4 HIGH SCHOOLS AND 4 MIDDLE SCHOOLS FOR AGES 6-12 GRADES REACHING AT LEAST 592 STUDENTS.",
-        "state": "OR"
-      }
-    ],
-    "CA": [
-      {
-        "name": "LINDSAY UNIFIED SCHOOL DISTRICT",
-        "amount": 43220107.59,
-        "description": "LINDSAY UNIFIED SCHOOL DISTRICT, EMPOWER LINDSAY, A TEACHER & SCHOOL LEADER INCENTIVE PROGRAM",
-        "state": "CA"
-      },
-      {
-        "name": "LOS ANGELES UNIFIED SCHOOL DISTRICT",
-        "amount": 30525600.0,
-        "description": "GEAR UP 4 LA WILL SERVICES 5568 STUDENTS IN THE LOS ANGELES UNIFIED SCHOOL DISTRICT TO SUPPORT HIGH SCHOOL GRADUATION, AND POST-SECONDARY ENROLLMENT AND PERSISTENCE.",
-        "state": "CA"
-      },
-      {
-        "name": "LOS ANGELES UNIFIED SCHOOL DISTRICT",
-        "amount": 29005600.0,
-        "description": "GEAR UP 4 LA WILL SERVICES 5203 STUDENTS IN THE LOS ANGELES UNIFIED SCHOOL DISTRICT TO SUPPORT HIGH SCHOOL GRADUATION, AND POST-SECONDARY ENROLLMENT AND PERSISTENCE.",
-        "state": "CA"
-      },
-      {
-        "name": "LOS ANGELES UNIFIED SCHOOL DISTRICT",
-        "amount": 17104290.91,
-        "description": "GAINING EARLY AWARENESS AND READINESS FOR UNDERGRADUATE PROGRAMS (GEAR UP PARTNERSHIP)",
-        "state": "CA"
-      },
-      {
-        "name": "SAN DIEGO UNIFIED SCHOOL DISTRICT",
-        "amount": 14988439.0,
-        "description": "AMPLIFYING THE ARTS IN THE SAN DIEGO UNIFIED SCHOOL DISTRICT",
-        "state": "CA"
-      },
-      {
-        "name": "PALMDALE SCHOOL DISTRICT",
-        "amount": 14583888.2,
-        "description": "PALMDALE PROMISE MSAP",
-        "state": "CA"
-      },
-      {
-        "name": "SILVER VALLEY UNIFIED SCHOOL DISTRICT",
-        "amount": 12777249.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "CA"
-      },
-      {
-        "name": "LOS ANGELES UNIFIED SCHOOL DISTRICT",
-        "amount": 12458927.15,
-        "description": "GAINING EARLY AWARENESS AND READINESS FOR UNDERGRADUATE PROGRAMS (GEAR UP PARTNERSHIP)",
-        "state": "CA"
-      },
-      {
-        "name": "YPI CHARTER SCHOOLS, INC,",
-        "amount": 12334735.57,
-        "description": "GAINING EARLY AWARENESS AND READINESS FOR UNDERGRADUATE PROGRAMS (GEAR UP PARTNERSHIP)",
-        "state": "CA"
-      },
-      {
-        "name": "PASADENA UNIFIED SCHOOL DISTRICT",
-        "amount": 12306322.0,
-        "description": "STRENGTHENING PASADENA'S K-12 MAGNET PATHWAYS IN ARTS, LANGUAGE AND CROSS-CULTURAL LEARNING, AND ENVIRONMENTAL STUDIES",
-        "state": "CA"
-      },
-      {
-        "name": "MIRACOSTA COMMUNITY COLLEGE DISTRICT",
-        "amount": 11667488.0,
-        "description": "MIRACOSTA COLLEGE/OCEANSIDE GEAR UP PARTNERSHIP",
-        "state": "CA"
-      },
-      {
-        "name": "ALDER GRADUATE SCHOOL OF EDUCATION",
-        "amount": 10805267.06,
-        "description": "STUDENTS FIRST: COORDINATING RESIDENT AND MENTOR ROLES TO SUPPORT STUDENT LEARNING AND DEVELOP EFFECTIVE TEACHERS FOR HIGH-NEED STUDENTS IN CALIFORNIA, MASSACHUSETTS, AND TENNESSEE",
-        "state": "CA"
-      },
-      {
-        "name": "CALIFORNIA SCHOOL FINANCE AUTHORITY",
-        "amount": 10505000.0,
-        "description": "STATE CHARTER SCHOOL FACILITIES INCENTIVE GRANTS PROGRAM",
-        "state": "CA"
-      },
-      {
-        "name": "SILVER VALLEY UNIFIED SCHOOL DISTRICT",
-        "amount": 10499812.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "CA"
-      },
-      {
-        "name": "SAN DIEGO UNIFIED SCHOOL DISTRICT",
-        "amount": 10399390.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "CA"
-      },
-      {
-        "name": "NAPA VALLEY UNIFIED SCHOOL DISTRICT",
-        "amount": 9939802.65,
-        "description": "THIS PROPOSED MSAP PROJECT WILL ENABLE NVUSD TO IMPLEMENT ITS VISION OF CREATING RACIAL/ETHNIC AND SOCIOECONOMIC DIVERSE SCHOOLS AND CONDUCT TWO QUASI-EXPERIMENTAL STUDIES TO FURTHER MAGNET RESEARCH.",
-        "state": "CA"
-      },
-      {
-        "name": "LIVERMORE VALLEY JOINT UNIFIED SCHOOL DISTRICT",
-        "amount": 9487055.0,
-        "description": "THE LIVERMORE VALLEY JOINT UNIFIED SCHOOL DISTRICT PROJECT BUILD WILL CREATE A NEW MAGNET SCHOOL AND MODIFY AN EXISTING PROGRAM TO REDUCE MINORITY GROUP ISOLATION.",
-        "state": "CA"
-      },
-      {
-        "name": "SAN DIEGO UNIFIED SCHOOL DISTRICT",
-        "amount": 9077011.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "CA"
-      },
-      {
-        "name": "CENTRAL UNION ELEMENTARY SCHOOL DISTRICT",
-        "amount": 9052918.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "CA"
-      },
-      {
-        "name": "CUTLER-OROSI JOINT UNIFIED SCHOOL DISTRICT",
-        "amount": 9000000.0,
-        "description": "CUTLER-OROSI AND MONSON-SULTANA (COMS) FULL-SERVICE COMMUNITY SCHOOLS INITIATIVE (CFI).",
-        "state": "CA"
-      },
-      {
-        "name": "SAN DIEGO UNIFIED SCHOOL DISTRICT",
-        "amount": 8997722.0,
-        "description": "MAGNIFYING MEDIA ARTS IN THE SAN DIEGO UNIFIED SCHOOL DISTRICT",
-        "state": "CA"
-      },
-      {
-        "name": "CUTLER-OROSI JOINT UNIFIED SCHOOL DISTRICT",
-        "amount": 8990169.0,
-        "description": "CULTER-OROSI AND MONSON-SULTANA MENTAL HEALTH SERVICES PROGRAM (COMS-MHSP)",
-        "state": "CA"
-      },
-      {
-        "name": "CENTRAL UNION ELEMENTARY SCHOOL DISTRICT",
-        "amount": 8383997.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "CA"
-      },
-      {
-        "name": "NAPA VALLEY UNIFIED SCHOOL DISTRICT",
-        "amount": 7788619.0,
-        "description": "THIS PROPOSED MSAP PROJECT WILL ENABLE NVUSD TO IMPLEMENT ITS VISION OF CREATING RACIAL/ETHNIC AND SOCIOECONOMIC DIVERSE SCHOOLS AND CONDUCT TWO QUASI-EXPERIMENTAL STUDIES TO FURTHER MAGNET RESEARCH.",
-        "state": "CA"
-      },
-      {
-        "name": "GREEN DOT PUBLIC SCHOOLS CALIFORNIA",
-        "amount": 7417679.0,
-        "description": "RECRUITING AND RETAINING SCHOOL-BASED MENTAL HEALTH SERVICE PROVIDERS AT GREEN DOT PUBLIC SCHOOLS TO SUPPORT STUDENTS WITH HIGHEST NEEDS",
-        "state": "CA"
-      },
-      {
-        "name": "CONEJO VALLEY UNIFIED SCHOOL DISTRICT",
-        "amount": 6412626.0,
-        "description": "CONEJO VALLEY UNIFIED SCHOOL DISTRICT (CVUSD) MENTAL HEALTH AND WELLNESS SERVICES",
-        "state": "CA"
-      },
-      {
-        "name": "SAN DIEGO UNIFIED SCHOOL DISTRICT",
-        "amount": 6241671.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7002",
-        "state": "CA"
-      },
-      {
-        "name": "ALDER GRADUATE SCHOOL OF EDUCATION",
-        "amount": 6232362.52,
-        "description": "EMPOWERING DISTRICTS TO BUILD SUSTAINABLE PIPELINES OF EFFECTIVE TEACHERS FOR HIGH-NEED SCHOOLS",
-        "state": "CA"
-      },
-      {
-        "name": "LA MESA-SPRING VALLEY SCHOOL DISTRICT",
-        "amount": 6159006.0,
-        "description": "LMSV SCHOOL-BASED MENTAL HEALTH SERVICES EXPANSION",
-        "state": "CA"
-      }
-    ],
-    "TX": [
-      {
-        "name": "KILLEEN INDEPENDENT SCHOOL DISTRICT",
-        "amount": 70591527.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "TX"
-      },
-      {
-        "name": "KILLEEN INDEPENDENT SCHOOL DISTRICT",
-        "amount": 67068012.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "TX"
-      },
-      {
-        "name": "ALAMO COMMUNITY COLLEGE DISTRICT",
-        "amount": 57181397.0,
-        "description": "HISTORICALLY BLACK COLLEGES AND UNIVERSITIES PROGRAM",
-        "state": "TX"
-      },
-      {
-        "name": "IDEA PUBLIC SCHOOLS",
-        "amount": 43203029.13,
-        "description": "IDEA AMPLIFY TEXAS",
-        "state": "TX"
-      },
-      {
-        "name": "IDEA PUBLIC SCHOOLS",
-        "amount": 32458062.85,
-        "description": "IDEA 100K",
-        "state": "TX"
-      },
-      {
-        "name": "ALAMO COMMUNITY COLLEGE DISTRICT",
-        "amount": 32235969.75,
-        "description": "UNKNOWN TITLE",
-        "state": "TX"
-      },
-      {
-        "name": "YES PREP PUBLIC SCHOOLS INC",
-        "amount": 21626549.0,
-        "description": "LEADING HOUSTON FORWARD CAMPAIGN",
-        "state": "TX"
-      },
-      {
-        "name": "HARMONY PUBLIC SCHOOLS",
-        "amount": 17006794.0,
-        "description": "INSPIRING FUTURES ACROSS TX",
-        "state": "TX"
-      },
-      {
-        "name": "HOUSTON INDEPENDENT SCHOOL DISTRICT",
-        "amount": 14929592.72,
-        "description": "PARTNERSHIPS THAT FUEL OPPORTUNITIES IN STEM EDUCATION",
-        "state": "TX"
-      },
-      {
-        "name": "FT SAM HOUSTON INDEPENDENT SCHOOL DISTRICT",
-        "amount": 13818124.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "TX"
-      },
-      {
-        "name": "FT SAM HOUSTON INDEPENDENT SCHOOL DISTRICT",
-        "amount": 13542796.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "TX"
-      },
-      {
-        "name": "LONGVIEW INDEPENDENT SCHOOL DISTRICT",
-        "amount": 12049295.0,
-        "description": "WIN PROJECT",
-        "state": "TX"
-      },
-      {
-        "name": "LACKLAND INDEPENDENT SCHOOL DISTRICT",
-        "amount": 12039684.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "TX"
-      },
-      {
-        "name": "VICTORIA INDEPENDENT SCHOOL DISTRICT",
-        "amount": 11999857.0,
-        "description": "CHOICE STEM PATHWAY PROJECT",
-        "state": "TX"
-      },
-      {
-        "name": "IDEA PUBLIC SCHOOLS",
-        "amount": 11482532.19,
-        "description": "IDEA COMPREHENSIVE HEALTH PROFESSIONS",
-        "state": "TX"
-      },
-      {
-        "name": "LACKLAND INDEPENDENT SCHOOL DISTRICT",
-        "amount": 11410340.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "TX"
-      },
-      {
-        "name": "DESOTO INDEPENDENT SCHOOL DISTRICT",
-        "amount": 11120569.92,
-        "description": "MAGNET - A2&E2 (ACADEMIES FOR ACADEMIC ENHANCEMENT AND EXCELLENCE)",
-        "state": "TX"
-      },
-      {
-        "name": "IDEA PUBLIC SCHOOLS",
-        "amount": 9783046.37,
-        "description": "CHARTER SCHOOLS MANAGEMENT ORGANIZATIONS",
-        "state": "TX"
-      },
-      {
-        "name": "RANDOLPH FIELD INDEPENDENT SCHOOL DISTRICT",
-        "amount": 8833305.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "TX"
-      },
-      {
-        "name": "RANDOLPH FIELD INDEPENDENT SCHOOL DISTRICT",
-        "amount": 8428446.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "TX"
-      },
-      {
-        "name": "DESOTO INDEPENDENT SCHOOL DISTRICT",
-        "amount": 8222351.0,
-        "description": "NEXT - GENERATION GEAR UP",
-        "state": "TX"
-      },
-      {
-        "name": "HARMONY PUBLIC SCHOOLS",
-        "amount": 7838936.0,
-        "description": "TRAINING INSTRUCTIONAL LEADERSHIP TEAMS FORWARD (TILT FORWARD), HARMONY PUBLIC SCHOOLS",
-        "state": "TX"
-      },
-      {
-        "name": "KARNES CITY INDEPENDENT SCHOOL DISTRICT",
-        "amount": 7818340.0,
-        "description": "RURAL AREA MENTAL HEALTH PROFESSIONAL ENHANCEMENT AND DEVELOPMENT (RAMPED) PROGRAM",
-        "state": "TX"
-      },
-      {
-        "name": "HOUSTON INDEPENDENT SCHOOL DISTRICT",
-        "amount": 7791864.0,
-        "description": "HOUSTON ISD MAGNET SCHOOLS ASSISTANCE PROGRAM: STEM + M MAGNET INITIATIVE",
-        "state": "TX"
-      },
-      {
-        "name": "DESOTO INDEPENDENT SCHOOL DISTRICT",
-        "amount": 7504999.82,
-        "description": "GAINING EARLY AWARENESS AND READINESS FOR UNDERGRADUATE PROGRAMS (GEAR UP PARTNERSHIP)",
-        "state": "TX"
-      }
-    ],
-    "FL": [
-      {
-        "name": "SCHOOL BOARD OF MIAMI-DADE COUNTY",
-        "amount": 15000000.0,
-        "description": "R3 - RECRUITMENT, RETENTION, AND RESILIENCY PROJECT",
-        "state": "FL"
-      },
-      {
-        "name": "SCHOOL BOARD OF SEMINOLE COUNTY, FL",
-        "amount": 14977619.4,
-        "description": "EPATHWAYS FOR ELEMENTARY SCHOOLS: SMALL STEPS TO BIG CAREERS",
-        "state": "FL"
-      },
-      {
-        "name": "SCHOOL BOARD OF MIAMI-DADE COUNTY",
-        "amount": 14966039.66,
-        "description": "SCIENCE, TECHNOLOGY, ENGINEERING AND MATHEMATICS (STEM) PATHWAYS PROJECT",
-        "state": "FL"
-      },
-      {
-        "name": "SCHOOL BOARD OF MIAMI-DADE COUNTY",
-        "amount": 14181942.0,
-        "description": "STARTS - SCIENCE, TECHNOLOGY, AND ARTS EXPLORATION INNOVATION PROJECT",
-        "state": "FL"
-      },
-      {
-        "name": "THE SCHOOL BOARD OF BROWARD COUNTY, FLORIDA",
-        "amount": 12433444.0,
-        "description": "ACHIEVING CAREER EQUITY FOR STUDENTS",
-        "state": "FL"
-      },
-      {
-        "name": "POLK COUNTY SCHOOL BOARD",
-        "amount": 12123575.0,
-        "description": "AMPLIFYING MAGNET PROGRAMS",
-        "state": "FL"
-      },
-      {
-        "name": "SCHOOL BOARD OF MIAMI-DADE COUNTY",
-        "amount": 12122185.0,
-        "description": "SCIENCE TECHNOLOGY AND ARTS EXPLORATION & INNOVATION PROJECT (STARTS2 PROJECT)",
-        "state": "FL"
-      },
-      {
-        "name": "THE SCHOOL BOARD OF ST LUCIE COUNTY",
-        "amount": 11880728.46,
-        "description": "ST. LUCIE PUBLIC SCHOOLS MAGNET SCHOOL GRANT  APPLICATION",
-        "state": "FL"
-      },
-      {
-        "name": "DUVAL COUNTY SCHOOL BOARD",
-        "amount": 10449126.0,
-        "description": "BELIEF: BUILDING ENGAGED LEARNERS TO INCREASE EXPECTATIONS FOR THE FUTURE",
-        "state": "FL"
-      },
-      {
-        "name": "LEE COUNTY SCHOOL BOARD",
-        "amount": 10159359.36,
-        "description": "INCREASING DIVERSITY AND ACHIEVEMENT THROUGH RIGOROUS AND ENGAGING (I-DARE) PROGRAMS PROJECT",
-        "state": "FL"
-      },
-      {
-        "name": "SCHOOL BOARD OF MIAMI-DADE COUNTY",
-        "amount": 9455076.0,
-        "description": "EDU-PARTNERS (PREPARATION, APPRENTICESHIP, RESIDENCY, TEACHING, NEW EDUCATOR READINESS, AND SUPPORT)",
-        "state": "FL"
-      },
-      {
-        "name": "LEE COUNTY SCHOOL BOARD",
-        "amount": 9048677.0,
-        "description": "THE INCREASING DIVERSITY AND ACHIEVEMENT THROUGH RIGOROUS AND ENGAGING (I-DARE) PROGRAMS PHASE II PROJECT",
-        "state": "FL"
-      },
-      {
-        "name": "BAY COUNTY SCHOOL BOARD",
-        "amount": 8576948.0,
-        "description": "BAY DISTRICT SCHOOLS SCHOOL BASED MENTAL HEALTH PROGRAM",
-        "state": "FL"
-      },
-      {
-        "name": "HILLSBOROUGH COUNTY SCHOOL DISTRICT",
-        "amount": 8562135.0,
-        "description": "SCHOOL BASED MENTAL HEALTH (SBMH) SERVICES",
-        "state": "FL"
-      },
-      {
-        "name": "SCHOOL DISTRICT OF MONROE COUNTY FLORIDA",
-        "amount": 7003461.0,
-        "description": "MONROE COUNTY SCHOOL DISTRICT SBMH SERVICES GRANT",
-        "state": "FL"
-      },
-      {
-        "name": "DUVAL COUNTY SCHOOL BOARD",
-        "amount": 5307604.0,
-        "description": "DUVAL COUNTY SCHOOL BASED MENTAL HEALTH PROJECT",
-        "state": "FL"
-      },
-      {
-        "name": "LEE COUNTY SCHOOL BOARD",
-        "amount": 4873659.0,
-        "description": "RIGOROUS AND ENGAGING ACADEMIC PROGRAMS (REAP) MAGNET PROJECT",
-        "state": "FL"
-      },
-      {
-        "name": "WASHINGTON COUNTY SCHOOL DISTRICT",
-        "amount": 4720595.0,
-        "description": "COLLABORATIVE HOLISTIC ALLIANCE TO ADVANCE MENTAL-HEALTH PROFESSIONS IN SCHOOLS (CHAAMPS) PROJECT.",
-        "state": "FL"
-      },
-      {
-        "name": "SCHOOL DISTRICT OF OKALOOSA COUNTY",
-        "amount": 4520536.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "FL"
-      },
-      {
-        "name": "SCHOOL DISTRICT OF OKALOOSA COUNTY",
-        "amount": 4192149.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "FL"
-      },
-      {
-        "name": "PINELLAS COUNTY SCHOOL DISTRICT",
-        "amount": 3522509.38,
-        "description": "PINELLAS SCHOOL CLIMATE TRANSFORMATION",
-        "state": "FL"
-      },
-      {
-        "name": "SCHOOL BOARD OF SEMINOLE COUNTY, FL",
-        "amount": 3170772.0,
-        "description": "SOUTH SEMINOLE ACADEMY OF CAREER EXPLORATION",
-        "state": "FL"
-      }
-    ],
-    "NY": [
-      {
-        "name": "SALAMANCA CITY SCHOOL DISTRICT",
-        "amount": 24396683.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "NY"
-      },
-      {
-        "name": "SALAMANCA CITY SCHOOL DISTRICT",
-        "amount": 22915294.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "NY"
-      },
-      {
-        "name": "INDIAN RIVER CENTRAL SCHOOL DISTRICT",
-        "amount": 21242046.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "NY"
-      },
-      {
-        "name": "INDIAN RIVER CENTRAL SCHOOL DISTRICT",
-        "amount": 20840934.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "NY"
-      },
-      {
-        "name": "NORTHEAST CHARTER SCHOOLS NETWORK, INC.",
-        "amount": 14706765.0,
-        "description": "GREAT SCHOOLS FOR CONNECTICUT CSP PROEJCT",
-        "state": "NY"
-      },
-      {
-        "name": "SUCCESS ACADEMY CHARTER SCHOOLS INC",
-        "amount": 12132125.0,
-        "description": "SECURING SUCCESS FOR ALL NEW YORK CITY CHILDREN",
-        "state": "NY"
-      },
-      {
-        "name": "TICONDEROGA CENTRAL SCHOOL DISTRICT",
-        "amount": 11620000.0,
-        "description": "GEAR UP: BRILLIANT PATHWAYS",
-        "state": "NY"
-      },
-      {
-        "name": "SUCCESS ACADEMY CHARTER SCHOOLS INC",
-        "amount": 9799540.12,
-        "description": "MISSION POSSIBLE: SECURING SUCCESS FOR NYC CHILDREN",
-        "state": "NY"
-      },
-      {
-        "name": "CARTHAGE CENTRAL SCHOOL DISTRICT",
-        "amount": 9236996.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "NY"
-      },
-      {
-        "name": "SODUS CENTRAL SCHOOL DISTRICT",
-        "amount": 8894558.0,
-        "description": "WAYNE COUNTY COMMUNITY SCHOOLS: EXPANSION AND ENGAGEMENT PROPOSAL",
-        "state": "NY"
-      },
-      {
-        "name": "CARTHAGE CENTRAL SCHOOL DISTRICT",
-        "amount": 8772613.0,
-        "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-        "state": "NY"
-      },
-      {
-        "name": "SUCCESS ACADEMY CHARTER SCHOOLS INC",
-        "amount": 5634865.0,
-        "description": "SECURING SUCCESS FOR ALL NEW YORK CITY CHILDREN",
-        "state": "NY"
-      },
-      {
-        "name": "HAVERSTRAW STONY POINT CENTRAL SCHOOL DISTRICT",
-        "amount": 5250000.0,
-        "description": "NORTH ROCKLAND CENTRAL SCHOOL DISTRICT MENTAL HEALTH GRANT",
-        "state": "NY"
-      }
-    ]
-  }
+  ]
 }
