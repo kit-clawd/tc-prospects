@@ -91,17 +91,44 @@
       "enrollment": 27000,
       "city": "Tacoma",
       "type": "Urban",
-      "federal_awards": 3410650.0,
+      "federal_awards": 53300822.82,
       "title_i": 0,
-      "recent_awards": 0,
+      "recent_awards": 5,
       "award_details": [
+        {
+          "amount": 33786716.82,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2019-07-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 14782144.0,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2024-09-01",
+          "year": "2024-2026"
+        },
         {
           "amount": 3410650.0,
           "description": "THE TACOMA WHOLE CHILD: INCREASING STUDENT ACCESS TO DIVERSE MENTAL HEALTH SERVICES PROVIDERS",
-          "cfda_code": "84.184",
           "program": "84.184",
           "start_date": "2023-01-01",
-          "year": "2024"
+          "year": "2024-2026"
+        },
+        {
+          "amount": 1050000.0,
+          "description": "DESCRIPTION:THE LARCHMONT COMMUNITY SCHOOLYARD IS A JOINT E#64256;ORT BETWEEN TACOMA PUBLIC SCHOOLS, TRUST FOR PUBLIC LAND, AND THE COMMUNITY TO TRANSFORM THE SCHOOLYARD FROM ASPHALT INTO A GREEN SPAC",
+          "program": "66.312",
+          "start_date": "2024-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 271312.0,
+          "description": "INDIAN EDUCATION FORMULA GRANTS TO LEAS",
+          "program": "84.060",
+          "start_date": "2025-07-01",
+          "year": "2024-2026"
         }
       ],
       "website": "https://www.tacomaschools.org",
@@ -135,44 +162,51 @@
       "enrollment": 25000,
       "city": "Kent",
       "type": "Suburban",
-      "federal_awards": 14811592.0,
+      "federal_awards": 21090811.73,
       "title_i": 0,
-      "recent_awards": 5,
+      "recent_awards": 6,
       "award_details": [
         {
-          "amount": 3600000.0,
-          "description": "LAUSD MENTAL HEALTH CAREER PATHWAY DEMONSTRATION PROJECT",
-          "program": "84.184",
-          "start_date": "2023-04-01",
-          "year": "2024-2025"
+          "amount": 8632139.73,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2019-08-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 2794002.0,
-          "description": "ENHANCING PATHWAYS FOR DIVERSE MENTAL HEALTH PROVIDERS",
-          "program": "84.184",
-          "start_date": "2023-04-01",
-          "year": "2024-2025"
-        },
-        {
-          "amount": 2668215.0,
-          "description": "NLMUSD'S PROJECT PROPOSES INNOVATIVE WAYS TO INCREASE THE NUMBER OF MENTAL HEALTH SERVICE PROVIDERS FOR SCHOOL-BASED MH PROGRAM BY STIPENDS FOR MSW AND BSW INTERNS AND PROVIDING EFFECTIVE TRAINING.",
+          "amount": 7003461.0,
+          "description": "MONROE COUNTY SCHOOL DISTRICT SBMH SERVICES GRANT",
           "program": "84.184",
           "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "year": "2024-2026"
         },
         {
-          "amount": 4720595.0,
-          "description": "COLLABORATIVE HOLISTIC ALLIANCE TO ADVANCE MENTAL-HEALTH PROFESSIONS IN SCHOOLS (CHAAMPS) PROJECT.",
-          "program": "84.184",
-          "start_date": "2025-01-01",
-          "year": "2024-2025"
+          "amount": 3736196.0,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2024-08-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 1028780.0,
-          "description": "BROWARD\u2019S PATH  (PSYCHOLOGIST ADVANCEMENT AND TRAINING HUB) FORWARD",
-          "program": "84.184",
-          "start_date": "2026-01-01",
-          "year": "2024-2025"
+          "amount": 949471.0,
+          "description": "THE PURPOSE OF THIS PROJECT IS TO IMPLEMENT SCHOOL SAFETY SOLUTIONS TO PREVENT VIOLENCE AND IMPROVE SCHOOL CLIMATE, BY PROVIDING TARGETED SUPPORT FOR IMMIGRANT STUDENTS WHO HAVE HISTORICALLY BEEN UNDE",
+          "program": "16.839",
+          "start_date": "2024-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 500000.0,
+          "description": "MILITARY-CONNECTED LOCAL EDUCATIONAL AGENCIES FOR ACADEMIC AND SUPPORT PROGRAM",
+          "program": "12.556",
+          "start_date": "2024-09-30",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 269544.0,
+          "description": "AMERICAN RESCUE PLAN",
+          "program": "93.600",
+          "start_date": "2021-04-01",
+          "year": "2024-2026"
         }
       ],
       "website": "https://www.kent.k12.wa.us",
@@ -217,16 +251,51 @@
       "enrollment": 32000,
       "city": "Kirkland",
       "type": "Suburban",
-      "federal_awards": 4720595.0,
+      "federal_awards": 21090811.73,
       "title_i": 0,
-      "recent_awards": 1,
+      "recent_awards": 6,
       "award_details": [
         {
-          "amount": 4720595.0,
-          "description": "COLLABORATIVE HOLISTIC ALLIANCE TO ADVANCE MENTAL-HEALTH PROFESSIONS IN SCHOOLS (CHAAMPS) PROJECT.",
+          "amount": 8632139.73,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2019-08-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 7003461.0,
+          "description": "MONROE COUNTY SCHOOL DISTRICT SBMH SERVICES GRANT",
           "program": "84.184",
-          "start_date": "2025-01-01",
-          "year": "2024-2025"
+          "start_date": "2023-01-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 3736196.0,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2024-08-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 949471.0,
+          "description": "THE PURPOSE OF THIS PROJECT IS TO IMPLEMENT SCHOOL SAFETY SOLUTIONS TO PREVENT VIOLENCE AND IMPROVE SCHOOL CLIMATE, BY PROVIDING TARGETED SUPPORT FOR IMMIGRANT STUDENTS WHO HAVE HISTORICALLY BEEN UNDE",
+          "program": "16.839",
+          "start_date": "2024-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 500000.0,
+          "description": "MILITARY-CONNECTED LOCAL EDUCATIONAL AGENCIES FOR ACADEMIC AND SUPPORT PROGRAM",
+          "program": "12.556",
+          "start_date": "2024-09-30",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 269544.0,
+          "description": "AMERICAN RESCUE PLAN",
+          "program": "93.600",
+          "start_date": "2021-04-01",
+          "year": "2024-2026"
         }
       ],
       "website": "https://www.lwsd.org",
@@ -248,44 +317,51 @@
       "enrollment": 23000,
       "city": "Bothell",
       "type": "Suburban",
-      "federal_awards": 14811592.0,
+      "federal_awards": 21090811.73,
       "title_i": 0,
-      "recent_awards": 5,
+      "recent_awards": 6,
       "award_details": [
         {
-          "amount": 3600000.0,
-          "description": "LAUSD MENTAL HEALTH CAREER PATHWAY DEMONSTRATION PROJECT",
-          "program": "84.184",
-          "start_date": "2023-04-01",
-          "year": "2024-2025"
+          "amount": 8632139.73,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2019-08-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 2794002.0,
-          "description": "ENHANCING PATHWAYS FOR DIVERSE MENTAL HEALTH PROVIDERS",
-          "program": "84.184",
-          "start_date": "2023-04-01",
-          "year": "2024-2025"
-        },
-        {
-          "amount": 2668215.0,
-          "description": "NLMUSD'S PROJECT PROPOSES INNOVATIVE WAYS TO INCREASE THE NUMBER OF MENTAL HEALTH SERVICE PROVIDERS FOR SCHOOL-BASED MH PROGRAM BY STIPENDS FOR MSW AND BSW INTERNS AND PROVIDING EFFECTIVE TRAINING.",
+          "amount": 7003461.0,
+          "description": "MONROE COUNTY SCHOOL DISTRICT SBMH SERVICES GRANT",
           "program": "84.184",
           "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "year": "2024-2026"
         },
         {
-          "amount": 4720595.0,
-          "description": "COLLABORATIVE HOLISTIC ALLIANCE TO ADVANCE MENTAL-HEALTH PROFESSIONS IN SCHOOLS (CHAAMPS) PROJECT.",
-          "program": "84.184",
-          "start_date": "2025-01-01",
-          "year": "2024-2025"
+          "amount": 3736196.0,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2024-08-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 1028780.0,
-          "description": "BROWARD\u2019S PATH  (PSYCHOLOGIST ADVANCEMENT AND TRAINING HUB) FORWARD",
-          "program": "84.184",
-          "start_date": "2026-01-01",
-          "year": "2024-2025"
+          "amount": 949471.0,
+          "description": "THE PURPOSE OF THIS PROJECT IS TO IMPLEMENT SCHOOL SAFETY SOLUTIONS TO PREVENT VIOLENCE AND IMPROVE SCHOOL CLIMATE, BY PROVIDING TARGETED SUPPORT FOR IMMIGRANT STUDENTS WHO HAVE HISTORICALLY BEEN UNDE",
+          "program": "16.839",
+          "start_date": "2024-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 500000.0,
+          "description": "MILITARY-CONNECTED LOCAL EDUCATIONAL AGENCIES FOR ACADEMIC AND SUPPORT PROGRAM",
+          "program": "12.556",
+          "start_date": "2024-09-30",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 269544.0,
+          "description": "AMERICAN RESCUE PLAN",
+          "program": "93.600",
+          "start_date": "2021-04-01",
+          "year": "2024-2026"
         }
       ],
       "website": "https://www.nsd.org",
@@ -313,44 +389,51 @@
       "enrollment": 19000,
       "city": "Bellevue",
       "type": "Suburban",
-      "federal_awards": 14811592.0,
+      "federal_awards": 21090811.73,
       "title_i": 0,
-      "recent_awards": 5,
+      "recent_awards": 6,
       "award_details": [
         {
-          "amount": 3600000.0,
-          "description": "LAUSD MENTAL HEALTH CAREER PATHWAY DEMONSTRATION PROJECT",
-          "program": "84.184",
-          "start_date": "2023-04-01",
-          "year": "2024-2025"
+          "amount": 8632139.73,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2019-08-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 2794002.0,
-          "description": "ENHANCING PATHWAYS FOR DIVERSE MENTAL HEALTH PROVIDERS",
-          "program": "84.184",
-          "start_date": "2023-04-01",
-          "year": "2024-2025"
-        },
-        {
-          "amount": 2668215.0,
-          "description": "NLMUSD'S PROJECT PROPOSES INNOVATIVE WAYS TO INCREASE THE NUMBER OF MENTAL HEALTH SERVICE PROVIDERS FOR SCHOOL-BASED MH PROGRAM BY STIPENDS FOR MSW AND BSW INTERNS AND PROVIDING EFFECTIVE TRAINING.",
+          "amount": 7003461.0,
+          "description": "MONROE COUNTY SCHOOL DISTRICT SBMH SERVICES GRANT",
           "program": "84.184",
           "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "year": "2024-2026"
         },
         {
-          "amount": 4720595.0,
-          "description": "COLLABORATIVE HOLISTIC ALLIANCE TO ADVANCE MENTAL-HEALTH PROFESSIONS IN SCHOOLS (CHAAMPS) PROJECT.",
-          "program": "84.184",
-          "start_date": "2025-01-01",
-          "year": "2024-2025"
+          "amount": 3736196.0,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2024-08-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 1028780.0,
-          "description": "BROWARD\u2019S PATH  (PSYCHOLOGIST ADVANCEMENT AND TRAINING HUB) FORWARD",
-          "program": "84.184",
-          "start_date": "2026-01-01",
-          "year": "2024-2025"
+          "amount": 949471.0,
+          "description": "THE PURPOSE OF THIS PROJECT IS TO IMPLEMENT SCHOOL SAFETY SOLUTIONS TO PREVENT VIOLENCE AND IMPROVE SCHOOL CLIMATE, BY PROVIDING TARGETED SUPPORT FOR IMMIGRANT STUDENTS WHO HAVE HISTORICALLY BEEN UNDE",
+          "program": "16.839",
+          "start_date": "2024-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 500000.0,
+          "description": "MILITARY-CONNECTED LOCAL EDUCATIONAL AGENCIES FOR ACADEMIC AND SUPPORT PROGRAM",
+          "program": "12.556",
+          "start_date": "2024-09-30",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 269544.0,
+          "description": "AMERICAN RESCUE PLAN",
+          "program": "93.600",
+          "start_date": "2021-04-01",
+          "year": "2024-2026"
         }
       ],
       "website": "https://bsd405.org",
@@ -849,10 +932,81 @@
       "enrollment": 915000,
       "city": "New York",
       "type": "Urban",
-      "federal_awards": 0,
+      "federal_awards": 556345917.36,
       "title_i": 0,
-      "recent_awards": 0,
-      "award_details": [],
+      "recent_awards": 22,
+      "award_details": [
+        {
+          "amount": 355204337.36,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2019-07-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 106888182.0,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2024-07-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 14999995.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 13-14-16 BROOKLYN NORTH CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2021-04-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 14693254.0,
+          "description": "COMMUNITY SCHOOL DISTRICT 28  MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2017-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 32-16 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 19-27 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 28-29 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 6858525.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 5829746.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 4220344.0,
+          "description": "PROJECT REACH: RAISING ENGAGEMENT AND ATTENDANCE THROUGH COMMUNITY AND HOME-SCHOOL PARTNERSHIPS",
+          "program": "84.411",
+          "start_date": "2025-01-01",
+          "year": "2024-2026"
+        }
+      ],
       "website": "https://www.schools.nyc.gov",
       "contacts": [
         {
@@ -1391,44 +1545,51 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 14811592.0,
+      "federal_awards": 21090811.73,
       "title_i": 0,
-      "recent_awards": 5,
+      "recent_awards": 6,
       "award_details": [
         {
-          "amount": 3600000.0,
-          "description": "LAUSD MENTAL HEALTH CAREER PATHWAY DEMONSTRATION PROJECT",
-          "program": "84.184",
-          "start_date": "2023-04-01",
-          "year": "2024-2025"
+          "amount": 8632139.73,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2019-08-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 2794002.0,
-          "description": "ENHANCING PATHWAYS FOR DIVERSE MENTAL HEALTH PROVIDERS",
-          "program": "84.184",
-          "start_date": "2023-04-01",
-          "year": "2024-2025"
-        },
-        {
-          "amount": 2668215.0,
-          "description": "NLMUSD'S PROJECT PROPOSES INNOVATIVE WAYS TO INCREASE THE NUMBER OF MENTAL HEALTH SERVICE PROVIDERS FOR SCHOOL-BASED MH PROGRAM BY STIPENDS FOR MSW AND BSW INTERNS AND PROVIDING EFFECTIVE TRAINING.",
+          "amount": 7003461.0,
+          "description": "MONROE COUNTY SCHOOL DISTRICT SBMH SERVICES GRANT",
           "program": "84.184",
           "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "year": "2024-2026"
         },
         {
-          "amount": 4720595.0,
-          "description": "COLLABORATIVE HOLISTIC ALLIANCE TO ADVANCE MENTAL-HEALTH PROFESSIONS IN SCHOOLS (CHAAMPS) PROJECT.",
-          "program": "84.184",
-          "start_date": "2025-01-01",
-          "year": "2024-2025"
+          "amount": 3736196.0,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2024-08-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 1028780.0,
-          "description": "BROWARD\u2019S PATH  (PSYCHOLOGIST ADVANCEMENT AND TRAINING HUB) FORWARD",
-          "program": "84.184",
-          "start_date": "2026-01-01",
-          "year": "2024-2025"
+          "amount": 949471.0,
+          "description": "THE PURPOSE OF THIS PROJECT IS TO IMPLEMENT SCHOOL SAFETY SOLUTIONS TO PREVENT VIOLENCE AND IMPROVE SCHOOL CLIMATE, BY PROVIDING TARGETED SUPPORT FOR IMMIGRANT STUDENTS WHO HAVE HISTORICALLY BEEN UNDE",
+          "program": "16.839",
+          "start_date": "2024-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 500000.0,
+          "description": "MILITARY-CONNECTED LOCAL EDUCATIONAL AGENCIES FOR ACADEMIC AND SUPPORT PROGRAM",
+          "program": "12.556",
+          "start_date": "2024-09-30",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 269544.0,
+          "description": "AMERICAN RESCUE PLAN",
+          "program": "93.600",
+          "start_date": "2021-04-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -1438,41 +1599,51 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 18198856.0,
+      "federal_awards": 21090811.73,
       "title_i": 0,
-      "recent_awards": 2,
+      "recent_awards": 6,
       "award_details": [
         {
-          "amount": 5280126.0,
-          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-          "cfda_code": "84.041",
-          "program": "84.041",
-          "start_date": null,
-          "year": "2024"
+          "amount": 8632139.73,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2019-08-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 5047135.0,
-          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-          "cfda_code": "84.041",
-          "program": "84.041",
-          "start_date": null,
-          "year": "2024"
+          "amount": 7003461.0,
+          "description": "MONROE COUNTY SCHOOL DISTRICT SBMH SERVICES GRANT",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 5047135.0,
-          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-          "cfda_code": "84.041",
-          "program": "84.041",
-          "start_date": null,
-          "year": "2025"
+          "amount": 3736196.0,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2024-08-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 2824460.0,
-          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-          "cfda_code": "84.041",
-          "program": "84.041",
-          "start_date": "2025-10-01",
-          "year": "2025"
+          "amount": 949471.0,
+          "description": "THE PURPOSE OF THIS PROJECT IS TO IMPLEMENT SCHOOL SAFETY SOLUTIONS TO PREVENT VIOLENCE AND IMPROVE SCHOOL CLIMATE, BY PROVIDING TARGETED SUPPORT FOR IMMIGRANT STUDENTS WHO HAVE HISTORICALLY BEEN UNDE",
+          "program": "16.839",
+          "start_date": "2024-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 500000.0,
+          "description": "MILITARY-CONNECTED LOCAL EDUCATIONAL AGENCIES FOR ACADEMIC AND SUPPORT PROGRAM",
+          "program": "12.556",
+          "start_date": "2024-09-30",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 269544.0,
+          "description": "AMERICAN RESCUE PLAN",
+          "program": "93.600",
+          "start_date": "2021-04-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -1526,44 +1697,51 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 14811592.0,
+      "federal_awards": 21090811.73,
       "title_i": 0,
-      "recent_awards": 5,
+      "recent_awards": 6,
       "award_details": [
         {
-          "amount": 3600000.0,
-          "description": "LAUSD MENTAL HEALTH CAREER PATHWAY DEMONSTRATION PROJECT",
-          "program": "84.184",
-          "start_date": "2023-04-01",
-          "year": "2024-2025"
+          "amount": 8632139.73,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2019-08-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 2794002.0,
-          "description": "ENHANCING PATHWAYS FOR DIVERSE MENTAL HEALTH PROVIDERS",
-          "program": "84.184",
-          "start_date": "2023-04-01",
-          "year": "2024-2025"
-        },
-        {
-          "amount": 2668215.0,
-          "description": "NLMUSD'S PROJECT PROPOSES INNOVATIVE WAYS TO INCREASE THE NUMBER OF MENTAL HEALTH SERVICE PROVIDERS FOR SCHOOL-BASED MH PROGRAM BY STIPENDS FOR MSW AND BSW INTERNS AND PROVIDING EFFECTIVE TRAINING.",
+          "amount": 7003461.0,
+          "description": "MONROE COUNTY SCHOOL DISTRICT SBMH SERVICES GRANT",
           "program": "84.184",
           "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "year": "2024-2026"
         },
         {
-          "amount": 4720595.0,
-          "description": "COLLABORATIVE HOLISTIC ALLIANCE TO ADVANCE MENTAL-HEALTH PROFESSIONS IN SCHOOLS (CHAAMPS) PROJECT.",
-          "program": "84.184",
-          "start_date": "2025-01-01",
-          "year": "2024-2025"
+          "amount": 3736196.0,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2024-08-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 1028780.0,
-          "description": "BROWARD\u2019S PATH  (PSYCHOLOGIST ADVANCEMENT AND TRAINING HUB) FORWARD",
-          "program": "84.184",
-          "start_date": "2026-01-01",
-          "year": "2024-2025"
+          "amount": 949471.0,
+          "description": "THE PURPOSE OF THIS PROJECT IS TO IMPLEMENT SCHOOL SAFETY SOLUTIONS TO PREVENT VIOLENCE AND IMPROVE SCHOOL CLIMATE, BY PROVIDING TARGETED SUPPORT FOR IMMIGRANT STUDENTS WHO HAVE HISTORICALLY BEEN UNDE",
+          "program": "16.839",
+          "start_date": "2024-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 500000.0,
+          "description": "MILITARY-CONNECTED LOCAL EDUCATIONAL AGENCIES FOR ACADEMIC AND SUPPORT PROGRAM",
+          "program": "12.556",
+          "start_date": "2024-09-30",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 269544.0,
+          "description": "AMERICAN RESCUE PLAN",
+          "program": "93.600",
+          "start_date": "2021-04-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -1573,44 +1751,51 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 14811592.0,
+      "federal_awards": 21090811.73,
       "title_i": 0,
-      "recent_awards": 5,
+      "recent_awards": 6,
       "award_details": [
         {
-          "amount": 3600000.0,
-          "description": "LAUSD MENTAL HEALTH CAREER PATHWAY DEMONSTRATION PROJECT",
-          "program": "84.184",
-          "start_date": "2023-04-01",
-          "year": "2024-2025"
+          "amount": 8632139.73,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2019-08-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 2794002.0,
-          "description": "ENHANCING PATHWAYS FOR DIVERSE MENTAL HEALTH PROVIDERS",
-          "program": "84.184",
-          "start_date": "2023-04-01",
-          "year": "2024-2025"
-        },
-        {
-          "amount": 2668215.0,
-          "description": "NLMUSD'S PROJECT PROPOSES INNOVATIVE WAYS TO INCREASE THE NUMBER OF MENTAL HEALTH SERVICE PROVIDERS FOR SCHOOL-BASED MH PROGRAM BY STIPENDS FOR MSW AND BSW INTERNS AND PROVIDING EFFECTIVE TRAINING.",
+          "amount": 7003461.0,
+          "description": "MONROE COUNTY SCHOOL DISTRICT SBMH SERVICES GRANT",
           "program": "84.184",
           "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "year": "2024-2026"
         },
         {
-          "amount": 4720595.0,
-          "description": "COLLABORATIVE HOLISTIC ALLIANCE TO ADVANCE MENTAL-HEALTH PROFESSIONS IN SCHOOLS (CHAAMPS) PROJECT.",
-          "program": "84.184",
-          "start_date": "2025-01-01",
-          "year": "2024-2025"
+          "amount": 3736196.0,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2024-08-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 1028780.0,
-          "description": "BROWARD\u2019S PATH  (PSYCHOLOGIST ADVANCEMENT AND TRAINING HUB) FORWARD",
-          "program": "84.184",
-          "start_date": "2026-01-01",
-          "year": "2024-2025"
+          "amount": 949471.0,
+          "description": "THE PURPOSE OF THIS PROJECT IS TO IMPLEMENT SCHOOL SAFETY SOLUTIONS TO PREVENT VIOLENCE AND IMPROVE SCHOOL CLIMATE, BY PROVIDING TARGETED SUPPORT FOR IMMIGRANT STUDENTS WHO HAVE HISTORICALLY BEEN UNDE",
+          "program": "16.839",
+          "start_date": "2024-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 500000.0,
+          "description": "MILITARY-CONNECTED LOCAL EDUCATIONAL AGENCIES FOR ACADEMIC AND SUPPORT PROGRAM",
+          "program": "12.556",
+          "start_date": "2024-09-30",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 269544.0,
+          "description": "AMERICAN RESCUE PLAN",
+          "program": "93.600",
+          "start_date": "2021-04-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -1620,41 +1805,51 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 10455018.0,
+      "federal_awards": 21090811.73,
       "title_i": 0,
-      "recent_awards": 2,
+      "recent_awards": 6,
       "award_details": [
         {
-          "amount": 2716917.0,
-          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-          "cfda_code": "84.041",
-          "program": "84.041",
-          "start_date": null,
-          "year": "2024"
+          "amount": 8632139.73,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2019-08-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 2392122.0,
-          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-          "cfda_code": "84.041",
-          "program": "84.041",
-          "start_date": null,
-          "year": "2024"
-        },
-        {
-          "amount": 2716917.0,
-          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-          "cfda_code": "84.041",
-          "program": "84.041",
-          "start_date": null,
-          "year": "2025"
-        },
-        {
-          "amount": 2629062.0,
-          "description": "RECRUITING, TRAINING, AND RETAINING THE SCHOOL PSYCHOLOGY WORKFORCE FOR SCHOOL-BASED MENTAL HEALTH IN RURAL COMMUNITIES",
-          "cfda_code": "84.184",
+          "amount": 7003461.0,
+          "description": "MONROE COUNTY SCHOOL DISTRICT SBMH SERVICES GRANT",
           "program": "84.184",
-          "start_date": "2026-01-01",
-          "year": "2025"
+          "start_date": "2023-01-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 3736196.0,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2024-08-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 949471.0,
+          "description": "THE PURPOSE OF THIS PROJECT IS TO IMPLEMENT SCHOOL SAFETY SOLUTIONS TO PREVENT VIOLENCE AND IMPROVE SCHOOL CLIMATE, BY PROVIDING TARGETED SUPPORT FOR IMMIGRANT STUDENTS WHO HAVE HISTORICALLY BEEN UNDE",
+          "program": "16.839",
+          "start_date": "2024-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 500000.0,
+          "description": "MILITARY-CONNECTED LOCAL EDUCATIONAL AGENCIES FOR ACADEMIC AND SUPPORT PROGRAM",
+          "program": "12.556",
+          "start_date": "2024-09-30",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 269544.0,
+          "description": "AMERICAN RESCUE PLAN",
+          "program": "93.600",
+          "start_date": "2021-04-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -1664,44 +1859,51 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 14811592.0,
+      "federal_awards": 21090811.73,
       "title_i": 0,
-      "recent_awards": 5,
+      "recent_awards": 6,
       "award_details": [
         {
-          "amount": 3600000.0,
-          "description": "LAUSD MENTAL HEALTH CAREER PATHWAY DEMONSTRATION PROJECT",
-          "program": "84.184",
-          "start_date": "2023-04-01",
-          "year": "2024-2025"
+          "amount": 8632139.73,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2019-08-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 2794002.0,
-          "description": "ENHANCING PATHWAYS FOR DIVERSE MENTAL HEALTH PROVIDERS",
-          "program": "84.184",
-          "start_date": "2023-04-01",
-          "year": "2024-2025"
-        },
-        {
-          "amount": 2668215.0,
-          "description": "NLMUSD'S PROJECT PROPOSES INNOVATIVE WAYS TO INCREASE THE NUMBER OF MENTAL HEALTH SERVICE PROVIDERS FOR SCHOOL-BASED MH PROGRAM BY STIPENDS FOR MSW AND BSW INTERNS AND PROVIDING EFFECTIVE TRAINING.",
+          "amount": 7003461.0,
+          "description": "MONROE COUNTY SCHOOL DISTRICT SBMH SERVICES GRANT",
           "program": "84.184",
           "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "year": "2024-2026"
         },
         {
-          "amount": 4720595.0,
-          "description": "COLLABORATIVE HOLISTIC ALLIANCE TO ADVANCE MENTAL-HEALTH PROFESSIONS IN SCHOOLS (CHAAMPS) PROJECT.",
-          "program": "84.184",
-          "start_date": "2025-01-01",
-          "year": "2024-2025"
+          "amount": 3736196.0,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2024-08-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 1028780.0,
-          "description": "BROWARD\u2019S PATH  (PSYCHOLOGIST ADVANCEMENT AND TRAINING HUB) FORWARD",
-          "program": "84.184",
-          "start_date": "2026-01-01",
-          "year": "2024-2025"
+          "amount": 949471.0,
+          "description": "THE PURPOSE OF THIS PROJECT IS TO IMPLEMENT SCHOOL SAFETY SOLUTIONS TO PREVENT VIOLENCE AND IMPROVE SCHOOL CLIMATE, BY PROVIDING TARGETED SUPPORT FOR IMMIGRANT STUDENTS WHO HAVE HISTORICALLY BEEN UNDE",
+          "program": "16.839",
+          "start_date": "2024-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 500000.0,
+          "description": "MILITARY-CONNECTED LOCAL EDUCATIONAL AGENCIES FOR ACADEMIC AND SUPPORT PROGRAM",
+          "program": "12.556",
+          "start_date": "2024-09-30",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 269544.0,
+          "description": "AMERICAN RESCUE PLAN",
+          "program": "93.600",
+          "start_date": "2021-04-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -1711,30 +1913,30 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 8543377.0,
+      "federal_awards": 25740075.6,
       "title_i": 0,
       "recent_awards": 3,
       "award_details": [
         {
-          "amount": 2794002.0,
-          "description": "ENHANCING PATHWAYS FOR DIVERSE MENTAL HEALTH PROVIDERS",
-          "program": "84.184",
-          "start_date": "2023-04-01",
-          "year": "2024-2025"
+          "amount": 17406692.6,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2019-07-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 4720595.0,
-          "description": "COLLABORATIVE HOLISTIC ALLIANCE TO ADVANCE MENTAL-HEALTH PROFESSIONS IN SCHOOLS (CHAAMPS) PROJECT.",
-          "program": "84.184",
-          "start_date": "2025-01-01",
-          "year": "2024-2025"
+          "amount": 7714928.0,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2024-07-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 1028780.0,
-          "description": "BROWARD\u2019S PATH  (PSYCHOLOGIST ADVANCEMENT AND TRAINING HUB) FORWARD",
-          "program": "84.184",
-          "start_date": "2026-01-01",
-          "year": "2024-2025"
+          "amount": 618455.0,
+          "description": "AMERICAN RESCUE PLAN",
+          "program": "93.600",
+          "start_date": "2021-04-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -1744,44 +1946,51 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 14811592.0,
+      "federal_awards": 21090811.73,
       "title_i": 0,
-      "recent_awards": 5,
+      "recent_awards": 6,
       "award_details": [
         {
-          "amount": 3600000.0,
-          "description": "LAUSD MENTAL HEALTH CAREER PATHWAY DEMONSTRATION PROJECT",
-          "program": "84.184",
-          "start_date": "2023-04-01",
-          "year": "2024-2025"
+          "amount": 8632139.73,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2019-08-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 2794002.0,
-          "description": "ENHANCING PATHWAYS FOR DIVERSE MENTAL HEALTH PROVIDERS",
-          "program": "84.184",
-          "start_date": "2023-04-01",
-          "year": "2024-2025"
-        },
-        {
-          "amount": 2668215.0,
-          "description": "NLMUSD'S PROJECT PROPOSES INNOVATIVE WAYS TO INCREASE THE NUMBER OF MENTAL HEALTH SERVICE PROVIDERS FOR SCHOOL-BASED MH PROGRAM BY STIPENDS FOR MSW AND BSW INTERNS AND PROVIDING EFFECTIVE TRAINING.",
+          "amount": 7003461.0,
+          "description": "MONROE COUNTY SCHOOL DISTRICT SBMH SERVICES GRANT",
           "program": "84.184",
           "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "year": "2024-2026"
         },
         {
-          "amount": 4720595.0,
-          "description": "COLLABORATIVE HOLISTIC ALLIANCE TO ADVANCE MENTAL-HEALTH PROFESSIONS IN SCHOOLS (CHAAMPS) PROJECT.",
-          "program": "84.184",
-          "start_date": "2025-01-01",
-          "year": "2024-2025"
+          "amount": 3736196.0,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2024-08-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 1028780.0,
-          "description": "BROWARD\u2019S PATH  (PSYCHOLOGIST ADVANCEMENT AND TRAINING HUB) FORWARD",
-          "program": "84.184",
-          "start_date": "2026-01-01",
-          "year": "2024-2025"
+          "amount": 949471.0,
+          "description": "THE PURPOSE OF THIS PROJECT IS TO IMPLEMENT SCHOOL SAFETY SOLUTIONS TO PREVENT VIOLENCE AND IMPROVE SCHOOL CLIMATE, BY PROVIDING TARGETED SUPPORT FOR IMMIGRANT STUDENTS WHO HAVE HISTORICALLY BEEN UNDE",
+          "program": "16.839",
+          "start_date": "2024-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 500000.0,
+          "description": "MILITARY-CONNECTED LOCAL EDUCATIONAL AGENCIES FOR ACADEMIC AND SUPPORT PROGRAM",
+          "program": "12.556",
+          "start_date": "2024-09-30",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 269544.0,
+          "description": "AMERICAN RESCUE PLAN",
+          "program": "93.600",
+          "start_date": "2021-04-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -1791,44 +2000,51 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 14811592.0,
+      "federal_awards": 21090811.73,
       "title_i": 0,
-      "recent_awards": 5,
+      "recent_awards": 6,
       "award_details": [
         {
-          "amount": 3600000.0,
-          "description": "LAUSD MENTAL HEALTH CAREER PATHWAY DEMONSTRATION PROJECT",
-          "program": "84.184",
-          "start_date": "2023-04-01",
-          "year": "2024-2025"
+          "amount": 8632139.73,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2019-08-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 2794002.0,
-          "description": "ENHANCING PATHWAYS FOR DIVERSE MENTAL HEALTH PROVIDERS",
-          "program": "84.184",
-          "start_date": "2023-04-01",
-          "year": "2024-2025"
-        },
-        {
-          "amount": 2668215.0,
-          "description": "NLMUSD'S PROJECT PROPOSES INNOVATIVE WAYS TO INCREASE THE NUMBER OF MENTAL HEALTH SERVICE PROVIDERS FOR SCHOOL-BASED MH PROGRAM BY STIPENDS FOR MSW AND BSW INTERNS AND PROVIDING EFFECTIVE TRAINING.",
+          "amount": 7003461.0,
+          "description": "MONROE COUNTY SCHOOL DISTRICT SBMH SERVICES GRANT",
           "program": "84.184",
           "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "year": "2024-2026"
         },
         {
-          "amount": 4720595.0,
-          "description": "COLLABORATIVE HOLISTIC ALLIANCE TO ADVANCE MENTAL-HEALTH PROFESSIONS IN SCHOOLS (CHAAMPS) PROJECT.",
-          "program": "84.184",
-          "start_date": "2025-01-01",
-          "year": "2024-2025"
+          "amount": 3736196.0,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2024-08-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 1028780.0,
-          "description": "BROWARD\u2019S PATH  (PSYCHOLOGIST ADVANCEMENT AND TRAINING HUB) FORWARD",
-          "program": "84.184",
-          "start_date": "2026-01-01",
-          "year": "2024-2025"
+          "amount": 949471.0,
+          "description": "THE PURPOSE OF THIS PROJECT IS TO IMPLEMENT SCHOOL SAFETY SOLUTIONS TO PREVENT VIOLENCE AND IMPROVE SCHOOL CLIMATE, BY PROVIDING TARGETED SUPPORT FOR IMMIGRANT STUDENTS WHO HAVE HISTORICALLY BEEN UNDE",
+          "program": "16.839",
+          "start_date": "2024-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 500000.0,
+          "description": "MILITARY-CONNECTED LOCAL EDUCATIONAL AGENCIES FOR ACADEMIC AND SUPPORT PROGRAM",
+          "program": "12.556",
+          "start_date": "2024-09-30",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 269544.0,
+          "description": "AMERICAN RESCUE PLAN",
+          "program": "93.600",
+          "start_date": "2021-04-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -2232,30 +2448,79 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 1549334.16,
+      "federal_awards": 556345917.36,
       "title_i": 8799593958.0,
-      "recent_awards": 3,
+      "recent_awards": 22,
       "award_details": [
         {
-          "amount": 32593.16,
-          "description": "EMERGENCY FINANCIAL AID GRANTS TO STUDENTS UNDER THE CORONAVIRUS AID, RELIEF, AND ECONOMIC SECURITY (CARES) ACT",
-          "program": "84.425",
-          "start_date": "2020-04-24",
-          "year": "2024-2025"
+          "amount": 355204337.36,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2019-07-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 16741.0,
-          "description": "COVID-19 EMERGENCY RELIEF FOR FLAGLER TECHNICAL INSTITUTE (INSTITUTION)",
-          "program": "84.425",
-          "start_date": "2020-05-07",
-          "year": "2024-2025"
+          "amount": 106888182.0,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2024-07-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 1500000.0,
-          "description": "MENTAL HEALTH SERVICE PROVIDER RECRUITMENT, INDUCTION, SUPPORT, AND EQUITY PROGRAM (RISE PROGRAM)",
-          "program": "84.184",
-          "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "amount": 14999995.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 13-14-16 BROOKLYN NORTH CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2021-04-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 14693254.0,
+          "description": "COMMUNITY SCHOOL DISTRICT 28  MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2017-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 32-16 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 19-27 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 28-29 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 6858525.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 5829746.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 4220344.0,
+          "description": "PROJECT REACH: RAISING ENGAGEMENT AND ATTENDANCE THROUGH COMMUNITY AND HOME-SCHOOL PARTNERSHIPS",
+          "program": "84.411",
+          "start_date": "2025-01-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -2265,16 +2530,30 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 3600000.0,
+      "federal_awards": 51256740.59,
       "title_i": 0,
-      "recent_awards": 1,
+      "recent_awards": 3,
       "award_details": [
         {
-          "amount": 3600000.0,
-          "description": "LAUSD MENTAL HEALTH CAREER PATHWAY DEMONSTRATION PROJECT",
-          "program": "84.184",
-          "start_date": "2023-04-01",
-          "year": "2024-2025"
+          "amount": 43220107.59,
+          "description": "LINDSAY UNIFIED SCHOOL DISTRICT, EMPOWER LINDSAY, A TEACHER & SCHOOL LEADER INCENTIVE PROGRAM",
+          "program": "84.374",
+          "start_date": "2017-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 4317403.0,
+          "description": "LINDSAY UNIFIED SCHOOL DISTRICT (LUSD) 2023 TSL INCENTIVE PROGRAM: CULTIVATING OPPORTUNITIES IN THE REDESIGN OF EQUITY IN EDUCATION CORE LINDSAY",
+          "program": "84.374",
+          "start_date": "2023-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 3719230.0,
+          "description": "LINDSAY UNIFIED TEACHER QUALITY PARTNERSHIP-CULTIVATING OPPORTUNITIES IN THE REDESIGN OF EQUITY IN EDUCATION (CORE)",
+          "program": "84.336",
+          "start_date": "2023-10-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -2441,16 +2720,16 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 3600000.0,
+      "federal_awards": 12306322.0,
       "title_i": 0,
       "recent_awards": 1,
       "award_details": [
         {
-          "amount": 3600000.0,
-          "description": "LAUSD MENTAL HEALTH CAREER PATHWAY DEMONSTRATION PROJECT",
-          "program": "84.184",
-          "start_date": "2023-04-01",
-          "year": "2024-2025"
+          "amount": 12306322.0,
+          "description": "STRENGTHENING PASADENA'S K-12 MAGNET PATHWAYS IN ARTS, LANGUAGE AND CROSS-CULTURAL LEARNING, AND ENVIRONMENTAL STUDIES",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -2479,41 +2758,79 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 34075259.16,
+      "federal_awards": 556345917.36,
       "title_i": 0,
-      "recent_awards": 2,
+      "recent_awards": 22,
       "award_details": [
         {
-          "amount": 10805267.06,
-          "description": "STUDENTS FIRST: COORDINATING RESIDENT AND MENTOR ROLES TO SUPPORT STUDENT LEARNING AND DEVELOP EFFECTIVE TEACHERS FOR HIGH-NEED STUDENTS IN CALIFORNIA, MASSACHUSETTS, AND TENNESSEE",
-          "cfda_code": "84.423",
-          "program": "84.423",
-          "start_date": "2018-10-01",
-          "year": "2024"
+          "amount": 355204337.36,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2019-07-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 6232362.52,
-          "description": "EMPOWERING DISTRICTS TO BUILD SUSTAINABLE PIPELINES OF EFFECTIVE TEACHERS FOR HIGH-NEED SCHOOLS",
-          "cfda_code": "84.336",
-          "program": "84.336",
-          "start_date": "2020-10-01",
-          "year": "2024"
+          "amount": 106888182.0,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2024-07-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 10805267.06,
-          "description": "STUDENTS FIRST: COORDINATING RESIDENT AND MENTOR ROLES TO SUPPORT STUDENT LEARNING AND DEVELOP EFFECTIVE TEACHERS FOR HIGH-NEED STUDENTS IN CALIFORNIA, MASSACHUSETTS, AND TENNESSEE",
-          "cfda_code": "84.423",
-          "program": "84.423",
-          "start_date": "2018-10-01",
-          "year": "2025"
+          "amount": 14999995.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 13-14-16 BROOKLYN NORTH CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2021-04-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 6232362.52,
-          "description": "EMPOWERING DISTRICTS TO BUILD SUSTAINABLE PIPELINES OF EFFECTIVE TEACHERS FOR HIGH-NEED SCHOOLS",
-          "cfda_code": "84.336",
-          "program": "84.336",
-          "start_date": "2020-10-01",
-          "year": "2025"
+          "amount": 14693254.0,
+          "description": "COMMUNITY SCHOOL DISTRICT 28  MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2017-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 32-16 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 19-27 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 28-29 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 6858525.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 5829746.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 4220344.0,
+          "description": "PROJECT REACH: RAISING ENGAGEMENT AND ATTENDANCE THROUGH COMMUNITY AND HOME-SCHOOL PARTNERSHIPS",
+          "program": "84.411",
+          "start_date": "2025-01-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -2614,25 +2931,30 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 18974110.0,
+      "federal_awards": 30567002.0,
       "title_i": 0,
-      "recent_awards": 1,
+      "recent_awards": 3,
       "award_details": [
         {
-          "amount": 9487055.0,
-          "description": "THE LIVERMORE VALLEY JOINT UNIFIED SCHOOL DISTRICT PROJECT BUILD WILL CREATE A NEW MAGNET SCHOOL AND MODIFY AN EXISTING PROGRAM TO REDUCE MINORITY GROUP ISOLATION.",
-          "cfda_code": "84.165",
-          "program": "84.165",
-          "start_date": "2022-10-01",
-          "year": "2024"
+          "amount": 12777249.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
         },
         {
-          "amount": 9487055.0,
-          "description": "THE LIVERMORE VALLEY JOINT UNIFIED SCHOOL DISTRICT PROJECT BUILD WILL CREATE A NEW MAGNET SCHOOL AND MODIFY AN EXISTING PROGRAM TO REDUCE MINORITY GROUP ISOLATION.",
-          "cfda_code": "84.165",
-          "program": "84.165",
-          "start_date": "2022-10-01",
-          "year": "2025"
+          "amount": 10499812.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 7289941.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "2025-10-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -2642,16 +2964,37 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 1799834.0,
+      "federal_awards": 58294213.0,
       "title_i": 0,
-      "recent_awards": 1,
+      "recent_awards": 4,
       "award_details": [
         {
-          "amount": 1799834.0,
-          "description": "APPLICATION FOR SCHOOL-BASED MENTAL HEALTH SERVICES GRANT",
-          "program": "84.184",
-          "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "amount": 36599078.0,
+          "description": "RICHARD JOSEPH NEUTRA - MODERNIZATION AND NEW CONSTRUCTION DESIGN",
+          "program": "12.600",
+          "start_date": "2023-03-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 9052918.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8383997.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 4258220.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "2025-10-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -2697,23 +3040,79 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 49334.16,
+      "federal_awards": 556345917.36,
       "title_i": 0,
-      "recent_awards": 2,
+      "recent_awards": 22,
       "award_details": [
         {
-          "amount": 32593.16,
-          "description": "EMERGENCY FINANCIAL AID GRANTS TO STUDENTS UNDER THE CORONAVIRUS AID, RELIEF, AND ECONOMIC SECURITY (CARES) ACT",
-          "program": "84.425",
-          "start_date": "2020-04-24",
-          "year": "2024-2025"
+          "amount": 355204337.36,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2019-07-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 16741.0,
-          "description": "COVID-19 EMERGENCY RELIEF FOR FLAGLER TECHNICAL INSTITUTE (INSTITUTION)",
-          "program": "84.425",
-          "start_date": "2020-05-07",
-          "year": "2024-2025"
+          "amount": 106888182.0,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2024-07-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 14999995.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 13-14-16 BROOKLYN NORTH CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2021-04-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 14693254.0,
+          "description": "COMMUNITY SCHOOL DISTRICT 28  MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2017-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 32-16 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 19-27 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 28-29 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 6858525.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 5829746.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 4220344.0,
+          "description": "PROJECT REACH: RAISING ENGAGEMENT AND ATTENDANCE THROUGH COMMUNITY AND HOME-SCHOOL PARTNERSHIPS",
+          "program": "84.411",
+          "start_date": "2025-01-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -2723,23 +3122,79 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 49334.16,
+      "federal_awards": 556345917.36,
       "title_i": 0,
-      "recent_awards": 2,
+      "recent_awards": 22,
       "award_details": [
         {
-          "amount": 32593.16,
-          "description": "EMERGENCY FINANCIAL AID GRANTS TO STUDENTS UNDER THE CORONAVIRUS AID, RELIEF, AND ECONOMIC SECURITY (CARES) ACT",
-          "program": "84.425",
-          "start_date": "2020-04-24",
-          "year": "2024-2025"
+          "amount": 355204337.36,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2019-07-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 16741.0,
-          "description": "COVID-19 EMERGENCY RELIEF FOR FLAGLER TECHNICAL INSTITUTE (INSTITUTION)",
-          "program": "84.425",
-          "start_date": "2020-05-07",
-          "year": "2024-2025"
+          "amount": 106888182.0,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2024-07-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 14999995.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 13-14-16 BROOKLYN NORTH CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2021-04-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 14693254.0,
+          "description": "COMMUNITY SCHOOL DISTRICT 28  MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2017-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 32-16 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 19-27 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 28-29 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 6858525.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 5829746.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 4220344.0,
+          "description": "PROJECT REACH: RAISING ENGAGEMENT AND ATTENDANCE THROUGH COMMUNITY AND HOME-SCHOOL PARTNERSHIPS",
+          "program": "84.411",
+          "start_date": "2025-01-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -2768,23 +3223,79 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 49334.16,
+      "federal_awards": 556345917.36,
       "title_i": 0,
-      "recent_awards": 2,
+      "recent_awards": 22,
       "award_details": [
         {
-          "amount": 32593.16,
-          "description": "EMERGENCY FINANCIAL AID GRANTS TO STUDENTS UNDER THE CORONAVIRUS AID, RELIEF, AND ECONOMIC SECURITY (CARES) ACT",
-          "program": "84.425",
-          "start_date": "2020-04-24",
-          "year": "2024-2025"
+          "amount": 355204337.36,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2019-07-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 16741.0,
-          "description": "COVID-19 EMERGENCY RELIEF FOR FLAGLER TECHNICAL INSTITUTE (INSTITUTION)",
-          "program": "84.425",
-          "start_date": "2020-05-07",
-          "year": "2024-2025"
+          "amount": 106888182.0,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2024-07-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 14999995.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 13-14-16 BROOKLYN NORTH CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2021-04-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 14693254.0,
+          "description": "COMMUNITY SCHOOL DISTRICT 28  MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2017-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 32-16 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 19-27 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 28-29 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 6858525.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 5829746.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 4220344.0,
+          "description": "PROJECT REACH: RAISING ENGAGEMENT AND ATTENDANCE THROUGH COMMUNITY AND HOME-SCHOOL PARTNERSHIPS",
+          "program": "84.411",
+          "start_date": "2025-01-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -2794,17 +3305,30 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 6412626.0,
+      "federal_awards": 30567002.0,
       "title_i": 0,
-      "recent_awards": 0,
+      "recent_awards": 3,
       "award_details": [
         {
-          "amount": 6412626.0,
-          "description": "CONEJO VALLEY UNIFIED SCHOOL DISTRICT (CVUSD) MENTAL HEALTH AND WELLNESS SERVICES",
-          "cfda_code": "84.184",
-          "program": "84.184",
-          "start_date": "2023-01-01",
-          "year": "2024"
+          "amount": 12777249.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 10499812.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 7289941.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "2025-10-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -2854,25 +3378,16 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 15285454.0,
+      "federal_awards": 15405000.0,
       "title_i": 0,
-      "recent_awards": 2,
+      "recent_awards": 1,
       "award_details": [
         {
-          "amount": 9999985.0,
-          "description": "LITERACY PLUS",
-          "cfda_code": "84.411",
-          "program": "84.411",
-          "start_date": "2026-01-01",
-          "year": "2025"
-        },
-        {
-          "amount": 5285469.0,
-          "description": "HUMBOLDT-SISKIYOU COUNTIES SCHOOL BASED MENTAL HEALTH PROGRAM",
-          "cfda_code": "84.184",
-          "program": "84.184",
-          "start_date": "2026-01-01",
-          "year": "2025"
+          "amount": 15405000.0,
+          "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) TO KERN UNION HIGH SCHOOL DISTRICT. THIS AGREEMENT IS TO REPLACE EXISTING SCHOOL BUSES WITH CLEAN AN",
+          "program": "66.045",
+          "start_date": "2024-05-15",
+          "year": "2024-2026"
         }
       ]
     },
@@ -2882,17 +3397,16 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 5678822.0,
+      "federal_awards": 9487055.0,
       "title_i": 0,
       "recent_awards": 1,
       "award_details": [
         {
-          "amount": 5678822.0,
-          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-          "cfda_code": "84.041",
-          "program": "84.041",
-          "start_date": null,
-          "year": "2025"
+          "amount": 9487055.0,
+          "description": "THE LIVERMORE VALLEY JOINT UNIFIED SCHOOL DISTRICT PROJECT BUILD WILL CREATE A NEW MAGNET SCHOOL AND MODIFY AN EXISTING PROGRAM TO REDUCE MINORITY GROUP ISOLATION.",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -2949,16 +3463,79 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 2690608.0,
+      "federal_awards": 157236051.0,
       "title_i": 0,
-      "recent_awards": 1,
+      "recent_awards": 11,
       "award_details": [
         {
-          "amount": 2690608.0,
-          "description": "CON CARI\u00d1O: SCHOOL MENTAL HEALTH WITH HEART",
-          "program": "84.184",
-          "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "amount": 78188734.0,
+          "description": "REBUILD CHESTERTON ELEMENTARY SCHOOL",
+          "program": "12.600",
+          "start_date": "2021-12-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 14988439.0,
+          "description": "AMPLIFYING THE ARTS IN THE SAN DIEGO UNIFIED SCHOOL DISTRICT",
+          "program": "84.165",
+          "start_date": "2021-04-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 12431000.0,
+          "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) TO THE SAN DIEGO UNIFIED SCHOOL DISTRICT TO REPLACE EXISTING SCHOOL BUSES WITH ZERO EMISSION (ZE) SC",
+          "program": "66.045",
+          "start_date": "2024-09-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 10399390.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 9077011.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8997722.0,
+          "description": "MAGNIFYING MEDIA ARTS IN THE SAN DIEGO UNIFIED SCHOOL DISTRICT",
+          "program": "84.165",
+          "start_date": "2023-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 6274223.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7002",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 6241671.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7002",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 4774760.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7002",
+          "program": "84.041",
+          "start_date": "2025-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 3258362.0,
+          "description": "CONDUCT SCHOOL-BASED SURVEILLANCE VIA COMPONENT 1 AND PROVIDE SCHOOL-BASED HIV/STD PREVENTION VIA COMPONENT 2, WHICH INCLUDES SUPPORTS FOR STUDENTS, DISTRICT STAFF, AND PARENTS.",
+          "program": "93.941",
+          "start_date": "2018-08-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -2968,16 +3545,37 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 1799834.0,
+      "federal_awards": 58294213.0,
       "title_i": 0,
-      "recent_awards": 1,
+      "recent_awards": 4,
       "award_details": [
         {
-          "amount": 1799834.0,
-          "description": "APPLICATION FOR SCHOOL-BASED MENTAL HEALTH SERVICES GRANT",
-          "program": "84.184",
-          "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "amount": 36599078.0,
+          "description": "RICHARD JOSEPH NEUTRA - MODERNIZATION AND NEW CONSTRUCTION DESIGN",
+          "program": "12.600",
+          "start_date": "2023-03-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 9052918.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8383997.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 4258220.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "2025-10-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -3007,16 +3605,16 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 3600000.0,
+      "federal_awards": 4240952.0,
       "title_i": 0,
       "recent_awards": 1,
       "award_details": [
         {
-          "amount": 3600000.0,
-          "description": "LAUSD MENTAL HEALTH CAREER PATHWAY DEMONSTRATION PROJECT",
+          "amount": 4240952.0,
+          "description": "ENHANCING MUSD PUPIL OVERALL WELLBEING BY EMPLOYING AND RETAINING EXCEPTIONAL AND DIVERSE STAFF (EMPOWERED STAFF) PROGRAM",
           "program": "84.184",
-          "start_date": "2023-04-01",
-          "year": "2024-2025"
+          "start_date": "2023-01-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -3381,17 +3979,23 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 21626549.0,
+      "federal_awards": 25767357.0,
       "title_i": 0,
-      "recent_awards": 0,
+      "recent_awards": 2,
       "award_details": [
         {
           "amount": 21626549.0,
           "description": "LEADING HOUSTON FORWARD CAMPAIGN",
-          "cfda_code": "84.282",
           "program": "84.282",
           "start_date": "2020-04-01",
-          "year": "2024"
+          "year": "2024-2026"
+        },
+        {
+          "amount": 4140808.0,
+          "description": "LEADING HOUSTON FORWARD PHASE II",
+          "program": "84.282",
+          "start_date": "2025-04-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -3713,17 +4317,30 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 5999211.0,
+      "federal_awards": 16028842.0,
       "title_i": 0,
-      "recent_awards": 1,
+      "recent_awards": 3,
       "award_details": [
+        {
+          "amount": 7071856.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
         {
           "amount": 5999211.0,
           "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-          "cfda_code": "84.041",
           "program": "84.041",
-          "start_date": null,
-          "year": "2025"
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 2957775.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "2025-10-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -3733,17 +4350,23 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 5569693.0,
+      "federal_awards": 7769693.0,
       "title_i": 0,
-      "recent_awards": 1,
+      "recent_awards": 2,
       "award_details": [
         {
           "amount": 5569693.0,
           "description": "PASADENA ISD'S MENTAL HEALTH IS GRREAT",
-          "cfda_code": "84.184",
           "program": "84.184",
           "start_date": "2023-01-01",
-          "year": "2025"
+          "year": "2024-2026"
+        },
+        {
+          "amount": 2200000.0,
+          "description": "SEE NOTICE OF AWARD, ATTACHMENT 1 - TERMS AND CONDITIONS, ATTACHMENT D, STATEMENT OF WORK, ABSTRACT.",
+          "program": "17.289",
+          "start_date": "2024-01-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -3773,30 +4396,79 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 8064834.16,
+      "federal_awards": 556345917.36,
       "title_i": 2029581964.0,
-      "recent_awards": 3,
+      "recent_awards": 22,
       "award_details": [
         {
-          "amount": 7003461.0,
-          "description": "MONROE COUNTY SCHOOL DISTRICT SBMH SERVICES GRANT",
-          "program": "84.184",
-          "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "amount": 355204337.36,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2019-07-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 1028780.0,
-          "description": "BROWARD\u2019S PATH  (PSYCHOLOGIST ADVANCEMENT AND TRAINING HUB) FORWARD",
-          "program": "84.184",
-          "start_date": "2026-01-01",
-          "year": "2024-2025"
+          "amount": 106888182.0,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2024-07-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 32593.16,
-          "description": "EMERGENCY FINANCIAL AID GRANTS TO STUDENTS UNDER THE CORONAVIRUS AID, RELIEF, AND ECONOMIC SECURITY (CARES) ACT",
-          "program": "84.425",
-          "start_date": "2020-04-24",
-          "year": "2024-2025"
+          "amount": 14999995.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 13-14-16 BROOKLYN NORTH CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2021-04-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 14693254.0,
+          "description": "COMMUNITY SCHOOL DISTRICT 28  MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2017-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 32-16 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 19-27 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 28-29 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 6858525.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 5829746.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 4220344.0,
+          "description": "PROJECT REACH: RAISING ENGAGEMENT AND ATTENDANCE THROUGH COMMUNITY AND HOME-SCHOOL PARTNERSHIPS",
+          "program": "84.411",
+          "start_date": "2025-01-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -3806,44 +4478,79 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 10805479.16,
+      "federal_awards": 556345917.36,
       "title_i": 0,
-      "recent_awards": 5,
+      "recent_awards": 22,
       "award_details": [
         {
-          "amount": 7003461.0,
-          "description": "MONROE COUNTY SCHOOL DISTRICT SBMH SERVICES GRANT",
-          "program": "84.184",
-          "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "amount": 355204337.36,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2019-07-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 2723904.0,
-          "description": "SCPS: SUPPORTING MENTAL HEALTH NEEDS-TODAY, TOMORROW, AND BEYOND",
-          "program": "84.184",
-          "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "amount": 106888182.0,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2024-07-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 1028780.0,
-          "description": "BROWARD\u2019S PATH  (PSYCHOLOGIST ADVANCEMENT AND TRAINING HUB) FORWARD",
-          "program": "84.184",
-          "start_date": "2026-01-01",
-          "year": "2024-2025"
+          "amount": 14999995.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 13-14-16 BROOKLYN NORTH CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2021-04-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 32593.16,
-          "description": "EMERGENCY FINANCIAL AID GRANTS TO STUDENTS UNDER THE CORONAVIRUS AID, RELIEF, AND ECONOMIC SECURITY (CARES) ACT",
-          "program": "84.425",
-          "start_date": "2020-04-24",
-          "year": "2024-2025"
+          "amount": 14693254.0,
+          "description": "COMMUNITY SCHOOL DISTRICT 28  MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2017-10-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 16741.0,
-          "description": "COVID-19 EMERGENCY RELIEF FOR FLAGLER TECHNICAL INSTITUTE (INSTITUTION)",
-          "program": "84.425",
-          "start_date": "2020-05-07",
-          "year": "2024-2025"
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 32-16 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 19-27 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 28-29 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 6858525.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 5829746.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 4220344.0,
+          "description": "PROJECT REACH: RAISING ENGAGEMENT AND ATTENDANCE THROUGH COMMUNITY AND HOME-SCHOOL PARTNERSHIPS",
+          "program": "84.411",
+          "start_date": "2025-01-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -3853,44 +4560,79 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 10805479.16,
+      "federal_awards": 556345917.36,
       "title_i": 0,
-      "recent_awards": 5,
+      "recent_awards": 22,
       "award_details": [
         {
-          "amount": 7003461.0,
-          "description": "MONROE COUNTY SCHOOL DISTRICT SBMH SERVICES GRANT",
-          "program": "84.184",
-          "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "amount": 355204337.36,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2019-07-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 2723904.0,
-          "description": "SCPS: SUPPORTING MENTAL HEALTH NEEDS-TODAY, TOMORROW, AND BEYOND",
-          "program": "84.184",
-          "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "amount": 106888182.0,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2024-07-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 1028780.0,
-          "description": "BROWARD\u2019S PATH  (PSYCHOLOGIST ADVANCEMENT AND TRAINING HUB) FORWARD",
-          "program": "84.184",
-          "start_date": "2026-01-01",
-          "year": "2024-2025"
+          "amount": 14999995.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 13-14-16 BROOKLYN NORTH CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2021-04-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 32593.16,
-          "description": "EMERGENCY FINANCIAL AID GRANTS TO STUDENTS UNDER THE CORONAVIRUS AID, RELIEF, AND ECONOMIC SECURITY (CARES) ACT",
-          "program": "84.425",
-          "start_date": "2020-04-24",
-          "year": "2024-2025"
+          "amount": 14693254.0,
+          "description": "COMMUNITY SCHOOL DISTRICT 28  MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2017-10-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 16741.0,
-          "description": "COVID-19 EMERGENCY RELIEF FOR FLAGLER TECHNICAL INSTITUTE (INSTITUTION)",
-          "program": "84.425",
-          "start_date": "2020-05-07",
-          "year": "2024-2025"
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 32-16 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 19-27 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 28-29 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 6858525.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 5829746.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 4220344.0,
+          "description": "PROJECT REACH: RAISING ENGAGEMENT AND ATTENDANCE THROUGH COMMUNITY AND HOME-SCHOOL PARTNERSHIPS",
+          "program": "84.411",
+          "start_date": "2025-01-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -3900,44 +4642,79 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 10805479.16,
+      "federal_awards": 556345917.36,
       "title_i": 0,
-      "recent_awards": 5,
+      "recent_awards": 22,
       "award_details": [
         {
-          "amount": 7003461.0,
-          "description": "MONROE COUNTY SCHOOL DISTRICT SBMH SERVICES GRANT",
-          "program": "84.184",
-          "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "amount": 355204337.36,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2019-07-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 2723904.0,
-          "description": "SCPS: SUPPORTING MENTAL HEALTH NEEDS-TODAY, TOMORROW, AND BEYOND",
-          "program": "84.184",
-          "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "amount": 106888182.0,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2024-07-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 1028780.0,
-          "description": "BROWARD\u2019S PATH  (PSYCHOLOGIST ADVANCEMENT AND TRAINING HUB) FORWARD",
-          "program": "84.184",
-          "start_date": "2026-01-01",
-          "year": "2024-2025"
+          "amount": 14999995.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 13-14-16 BROOKLYN NORTH CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2021-04-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 32593.16,
-          "description": "EMERGENCY FINANCIAL AID GRANTS TO STUDENTS UNDER THE CORONAVIRUS AID, RELIEF, AND ECONOMIC SECURITY (CARES) ACT",
-          "program": "84.425",
-          "start_date": "2020-04-24",
-          "year": "2024-2025"
+          "amount": 14693254.0,
+          "description": "COMMUNITY SCHOOL DISTRICT 28  MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2017-10-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 16741.0,
-          "description": "COVID-19 EMERGENCY RELIEF FOR FLAGLER TECHNICAL INSTITUTE (INSTITUTION)",
-          "program": "84.425",
-          "start_date": "2020-05-07",
-          "year": "2024-2025"
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 32-16 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 19-27 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 28-29 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 6858525.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 5829746.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 4220344.0,
+          "description": "PROJECT REACH: RAISING ENGAGEMENT AND ATTENDANCE THROUGH COMMUNITY AND HOME-SCHOOL PARTNERSHIPS",
+          "program": "84.411",
+          "start_date": "2025-01-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -3994,44 +4771,79 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 10805479.16,
+      "federal_awards": 556345917.36,
       "title_i": 0,
-      "recent_awards": 5,
+      "recent_awards": 22,
       "award_details": [
         {
-          "amount": 7003461.0,
-          "description": "MONROE COUNTY SCHOOL DISTRICT SBMH SERVICES GRANT",
-          "program": "84.184",
-          "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "amount": 355204337.36,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2019-07-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 2723904.0,
-          "description": "SCPS: SUPPORTING MENTAL HEALTH NEEDS-TODAY, TOMORROW, AND BEYOND",
-          "program": "84.184",
-          "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "amount": 106888182.0,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2024-07-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 1028780.0,
-          "description": "BROWARD\u2019S PATH  (PSYCHOLOGIST ADVANCEMENT AND TRAINING HUB) FORWARD",
-          "program": "84.184",
-          "start_date": "2026-01-01",
-          "year": "2024-2025"
+          "amount": 14999995.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 13-14-16 BROOKLYN NORTH CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2021-04-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 32593.16,
-          "description": "EMERGENCY FINANCIAL AID GRANTS TO STUDENTS UNDER THE CORONAVIRUS AID, RELIEF, AND ECONOMIC SECURITY (CARES) ACT",
-          "program": "84.425",
-          "start_date": "2020-04-24",
-          "year": "2024-2025"
+          "amount": 14693254.0,
+          "description": "COMMUNITY SCHOOL DISTRICT 28  MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2017-10-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 16741.0,
-          "description": "COVID-19 EMERGENCY RELIEF FOR FLAGLER TECHNICAL INSTITUTE (INSTITUTION)",
-          "program": "84.425",
-          "start_date": "2020-05-07",
-          "year": "2024-2025"
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 32-16 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 19-27 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 28-29 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 6858525.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 5829746.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 4220344.0,
+          "description": "PROJECT REACH: RAISING ENGAGEMENT AND ATTENDANCE THROUGH COMMUNITY AND HOME-SCHOOL PARTNERSHIPS",
+          "program": "84.411",
+          "start_date": "2025-01-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -4182,44 +4994,79 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 10805479.16,
+      "federal_awards": 105972120.14,
       "title_i": 0,
-      "recent_awards": 5,
+      "recent_awards": 10,
       "award_details": [
         {
-          "amount": 7003461.0,
-          "description": "MONROE COUNTY SCHOOL DISTRICT SBMH SERVICES GRANT",
+          "amount": 86374326.0,
+          "description": "NEW CONSTRUCTION OF TINKER ELEMENTARY/MIDDLE SCHOOL",
+          "program": "12.600",
+          "start_date": "2023-05-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8562135.0,
+          "description": "SCHOOL BASED MENTAL HEALTH (SBMH) SERVICES",
           "program": "84.184",
           "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "year": "2024-2026"
         },
         {
-          "amount": 2723904.0,
-          "description": "SCPS: SUPPORTING MENTAL HEALTH NEEDS-TODAY, TOMORROW, AND BEYOND",
-          "program": "84.184",
-          "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "amount": 7900000.0,
+          "description": "DESCRIPTION:THIS ACTION APPROVES AN AWARD IN THE AMOUNT OF $7,900,000 TO HILLSBOROUGH COUNTY SCHOOL DISTRICT. THIS AGREEMENT PROVIDES FUNDING UNDER THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) TO",
+          "program": "66.045",
+          "start_date": "2024-04-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 1028780.0,
-          "description": "BROWARD\u2019S PATH  (PSYCHOLOGIST ADVANCEMENT AND TRAINING HUB) FORWARD",
-          "program": "84.184",
-          "start_date": "2026-01-01",
-          "year": "2024-2025"
+          "amount": 1055029.22,
+          "description": "CONGRESSIONALLY FUNDED COMMUNITY PROJECT: ARTS EDUCATION",
+          "program": "84.215",
+          "start_date": "2023-08-07",
+          "year": "2024-2026"
         },
         {
-          "amount": 32593.16,
-          "description": "EMERGENCY FINANCIAL AID GRANTS TO STUDENTS UNDER THE CORONAVIRUS AID, RELIEF, AND ECONOMIC SECURITY (CARES) ACT",
-          "program": "84.425",
-          "start_date": "2020-04-24",
-          "year": "2024-2025"
+          "amount": 1000000.0,
+          "description": "PURPOSE: ECONOMIC DEVELOPMENT INITIATIVE, COMMUNITY PROJECT FUNDING/CONGRESSIONAL DIRECTED SPENDING AWARDS ARE AUTHORIZED UNDER THE CONSOLIDATED APPROPRIATIONS ACT, 2022 PUBLIC LAW 117-328 AND THE EXP",
+          "program": "14.251",
+          "start_date": "2024-08-13",
+          "year": "2024-2026"
         },
         {
-          "amount": 16741.0,
-          "description": "COVID-19 EMERGENCY RELIEF FOR FLAGLER TECHNICAL INSTITUTE (INSTITUTION)",
-          "program": "84.425",
-          "start_date": "2020-05-07",
-          "year": "2024-2025"
+          "amount": 555755.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 492613.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 12247.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "2025-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 10066.94,
+          "description": "INDIAN EDUCATION FORMULA GRANTS TO LEAS",
+          "program": "84.060",
+          "start_date": "2020-07-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 9947.98,
+          "description": "INDIAN EDUCATION FORMULA GRANTS TO LEAS",
+          "program": "84.060",
+          "start_date": "2021-07-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -4229,44 +5076,23 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 10805479.16,
+      "federal_awards": 199193237.28,
       "title_i": 0,
-      "recent_awards": 5,
+      "recent_awards": 2,
       "award_details": [
         {
-          "amount": 7003461.0,
-          "description": "MONROE COUNTY SCHOOL DISTRICT SBMH SERVICES GRANT",
-          "program": "84.184",
-          "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "amount": 137512055.28,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2019-07-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 2723904.0,
-          "description": "SCPS: SUPPORTING MENTAL HEALTH NEEDS-TODAY, TOMORROW, AND BEYOND",
-          "program": "84.184",
-          "start_date": "2023-01-01",
-          "year": "2024-2025"
-        },
-        {
-          "amount": 1028780.0,
-          "description": "BROWARD\u2019S PATH  (PSYCHOLOGIST ADVANCEMENT AND TRAINING HUB) FORWARD",
-          "program": "84.184",
-          "start_date": "2026-01-01",
-          "year": "2024-2025"
-        },
-        {
-          "amount": 32593.16,
-          "description": "EMERGENCY FINANCIAL AID GRANTS TO STUDENTS UNDER THE CORONAVIRUS AID, RELIEF, AND ECONOMIC SECURITY (CARES) ACT",
-          "program": "84.425",
-          "start_date": "2020-04-24",
-          "year": "2024-2025"
-        },
-        {
-          "amount": 16741.0,
-          "description": "COVID-19 EMERGENCY RELIEF FOR FLAGLER TECHNICAL INSTITUTE (INSTITUTION)",
-          "program": "84.425",
-          "start_date": "2020-05-07",
-          "year": "2024-2025"
+          "amount": 61681182.0,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2024-07-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -4276,44 +5102,51 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 10805479.16,
+      "federal_awards": 21090811.73,
       "title_i": 0,
-      "recent_awards": 5,
+      "recent_awards": 6,
       "award_details": [
+        {
+          "amount": 8632139.73,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2019-08-01",
+          "year": "2024-2026"
+        },
         {
           "amount": 7003461.0,
           "description": "MONROE COUNTY SCHOOL DISTRICT SBMH SERVICES GRANT",
           "program": "84.184",
           "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "year": "2024-2026"
         },
         {
-          "amount": 2723904.0,
-          "description": "SCPS: SUPPORTING MENTAL HEALTH NEEDS-TODAY, TOMORROW, AND BEYOND",
-          "program": "84.184",
-          "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "amount": 3736196.0,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2024-08-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 1028780.0,
-          "description": "BROWARD\u2019S PATH  (PSYCHOLOGIST ADVANCEMENT AND TRAINING HUB) FORWARD",
-          "program": "84.184",
-          "start_date": "2026-01-01",
-          "year": "2024-2025"
+          "amount": 949471.0,
+          "description": "THE PURPOSE OF THIS PROJECT IS TO IMPLEMENT SCHOOL SAFETY SOLUTIONS TO PREVENT VIOLENCE AND IMPROVE SCHOOL CLIMATE, BY PROVIDING TARGETED SUPPORT FOR IMMIGRANT STUDENTS WHO HAVE HISTORICALLY BEEN UNDE",
+          "program": "16.839",
+          "start_date": "2024-10-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 32593.16,
-          "description": "EMERGENCY FINANCIAL AID GRANTS TO STUDENTS UNDER THE CORONAVIRUS AID, RELIEF, AND ECONOMIC SECURITY (CARES) ACT",
-          "program": "84.425",
-          "start_date": "2020-04-24",
-          "year": "2024-2025"
+          "amount": 500000.0,
+          "description": "MILITARY-CONNECTED LOCAL EDUCATIONAL AGENCIES FOR ACADEMIC AND SUPPORT PROGRAM",
+          "program": "12.556",
+          "start_date": "2024-09-30",
+          "year": "2024-2026"
         },
         {
-          "amount": 16741.0,
-          "description": "COVID-19 EMERGENCY RELIEF FOR FLAGLER TECHNICAL INSTITUTE (INSTITUTION)",
-          "program": "84.425",
-          "start_date": "2020-05-07",
-          "year": "2024-2025"
+          "amount": 269544.0,
+          "description": "AMERICAN RESCUE PLAN",
+          "program": "93.600",
+          "start_date": "2021-04-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -4323,44 +5156,23 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 10805479.16,
+      "federal_awards": 199193237.28,
       "title_i": 0,
-      "recent_awards": 5,
+      "recent_awards": 2,
       "award_details": [
         {
-          "amount": 7003461.0,
-          "description": "MONROE COUNTY SCHOOL DISTRICT SBMH SERVICES GRANT",
-          "program": "84.184",
-          "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "amount": 137512055.28,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2019-07-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 2723904.0,
-          "description": "SCPS: SUPPORTING MENTAL HEALTH NEEDS-TODAY, TOMORROW, AND BEYOND",
-          "program": "84.184",
-          "start_date": "2023-01-01",
-          "year": "2024-2025"
-        },
-        {
-          "amount": 1028780.0,
-          "description": "BROWARD\u2019S PATH  (PSYCHOLOGIST ADVANCEMENT AND TRAINING HUB) FORWARD",
-          "program": "84.184",
-          "start_date": "2026-01-01",
-          "year": "2024-2025"
-        },
-        {
-          "amount": 32593.16,
-          "description": "EMERGENCY FINANCIAL AID GRANTS TO STUDENTS UNDER THE CORONAVIRUS AID, RELIEF, AND ECONOMIC SECURITY (CARES) ACT",
-          "program": "84.425",
-          "start_date": "2020-04-24",
-          "year": "2024-2025"
-        },
-        {
-          "amount": 16741.0,
-          "description": "COVID-19 EMERGENCY RELIEF FOR FLAGLER TECHNICAL INSTITUTE (INSTITUTION)",
-          "program": "84.425",
-          "start_date": "2020-05-07",
-          "year": "2024-2025"
+          "amount": 61681182.0,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2024-07-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -4370,44 +5182,51 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 10805479.16,
+      "federal_awards": 21090811.73,
       "title_i": 0,
-      "recent_awards": 5,
+      "recent_awards": 6,
       "award_details": [
+        {
+          "amount": 8632139.73,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2019-08-01",
+          "year": "2024-2026"
+        },
         {
           "amount": 7003461.0,
           "description": "MONROE COUNTY SCHOOL DISTRICT SBMH SERVICES GRANT",
           "program": "84.184",
           "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "year": "2024-2026"
         },
         {
-          "amount": 2723904.0,
-          "description": "SCPS: SUPPORTING MENTAL HEALTH NEEDS-TODAY, TOMORROW, AND BEYOND",
-          "program": "84.184",
-          "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "amount": 3736196.0,
+          "description": "HEAD START",
+          "program": "93.600",
+          "start_date": "2024-08-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 1028780.0,
-          "description": "BROWARD\u2019S PATH  (PSYCHOLOGIST ADVANCEMENT AND TRAINING HUB) FORWARD",
-          "program": "84.184",
-          "start_date": "2026-01-01",
-          "year": "2024-2025"
+          "amount": 949471.0,
+          "description": "THE PURPOSE OF THIS PROJECT IS TO IMPLEMENT SCHOOL SAFETY SOLUTIONS TO PREVENT VIOLENCE AND IMPROVE SCHOOL CLIMATE, BY PROVIDING TARGETED SUPPORT FOR IMMIGRANT STUDENTS WHO HAVE HISTORICALLY BEEN UNDE",
+          "program": "16.839",
+          "start_date": "2024-10-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 32593.16,
-          "description": "EMERGENCY FINANCIAL AID GRANTS TO STUDENTS UNDER THE CORONAVIRUS AID, RELIEF, AND ECONOMIC SECURITY (CARES) ACT",
-          "program": "84.425",
-          "start_date": "2020-04-24",
-          "year": "2024-2025"
+          "amount": 500000.0,
+          "description": "MILITARY-CONNECTED LOCAL EDUCATIONAL AGENCIES FOR ACADEMIC AND SUPPORT PROGRAM",
+          "program": "12.556",
+          "start_date": "2024-09-30",
+          "year": "2024-2026"
         },
         {
-          "amount": 16741.0,
-          "description": "COVID-19 EMERGENCY RELIEF FOR FLAGLER TECHNICAL INSTITUTE (INSTITUTION)",
-          "program": "84.425",
-          "start_date": "2020-05-07",
-          "year": "2024-2025"
+          "amount": 269544.0,
+          "description": "AMERICAN RESCUE PLAN",
+          "program": "93.600",
+          "start_date": "2021-04-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -4592,33 +5411,79 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 56912309.97999999,
+      "federal_awards": 556345917.36,
       "title_i": 0,
-      "recent_awards": 1,
+      "recent_awards": 22,
       "award_details": [
         {
-          "amount": 22111126.49,
-          "description": "GAINING EARLY AWARENESS AND READINESS FOR UNDERGRADUATE PROGRAMS (GEAR UP STATE)",
-          "cfda_code": "84.334",
-          "program": "84.334",
-          "start_date": "2014-09-25",
-          "year": "2024"
+          "amount": 355204337.36,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2019-07-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 12690057.0,
-          "description": "NEW YORK STATE HIGHER EDUCATION SERVICES CORPORATION: NYGEAR UP 2021 - 2028",
-          "cfda_code": "84.334",
-          "program": "84.334",
-          "start_date": "2022-09-01",
-          "year": "2024"
+          "amount": 106888182.0,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2024-07-01",
+          "year": "2024-2026"
         },
         {
-          "amount": 22111126.49,
-          "description": "GAINING EARLY AWARENESS AND READINESS FOR UNDERGRADUATE PROGRAMS (GEAR UP STATE)",
-          "cfda_code": "84.334",
-          "program": "84.334",
-          "start_date": "2014-09-25",
-          "year": "2025"
+          "amount": 14999995.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 13-14-16 BROOKLYN NORTH CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2021-04-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 14693254.0,
+          "description": "COMMUNITY SCHOOL DISTRICT 28  MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2017-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 32-16 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 19-27 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8999997.0,
+          "description": "COMMUNITY SCHOOL DISTRICTS 28-29 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
+          "program": "84.165",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 6858525.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 5829746.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 4220344.0,
+          "description": "PROJECT REACH: RAISING ENGAGEMENT AND ATTENDANCE THROUGH COMMUNITY AND HOME-SCHOOL PARTNERSHIPS",
+          "program": "84.411",
+          "start_date": "2025-01-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -4672,89 +5537,79 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 111250390.0,
+      "federal_awards": 556345917.36,
       "title_i": 0,
-      "recent_awards": 5,
+      "recent_awards": 22,
       "award_details": [
+        {
+          "amount": 355204337.36,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2019-07-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 106888182.0,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2024-07-01",
+          "year": "2024-2026"
+        },
         {
           "amount": 14999995.0,
           "description": "COMMUNITY SCHOOL DISTRICTS 13-14-16 BROOKLYN NORTH CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
-          "cfda_code": "84.165",
           "program": "84.165",
           "start_date": "2021-04-01",
-          "year": "2024"
+          "year": "2024-2026"
         },
         {
           "amount": 14693254.0,
           "description": "COMMUNITY SCHOOL DISTRICT 28  MAGNET SCHOOLS ASSISTANCE PROGRAM",
-          "cfda_code": "84.165",
           "program": "84.165",
           "start_date": "2017-10-01",
-          "year": "2024"
+          "year": "2024-2026"
         },
         {
           "amount": 8999997.0,
           "description": "COMMUNITY SCHOOL DISTRICTS 32-16 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
-          "cfda_code": "84.165",
           "program": "84.165",
           "start_date": "2022-10-01",
-          "year": "2024"
+          "year": "2024-2026"
         },
         {
           "amount": 8999997.0,
           "description": "COMMUNITY SCHOOL DISTRICTS 19-27 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
-          "cfda_code": "84.165",
           "program": "84.165",
           "start_date": "2022-10-01",
-          "year": "2024"
+          "year": "2024-2026"
         },
         {
           "amount": 8999997.0,
           "description": "COMMUNITY SCHOOL DISTRICTS 28-29 CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
-          "cfda_code": "84.165",
           "program": "84.165",
           "start_date": "2022-10-01",
-          "year": "2024"
+          "year": "2024-2026"
         },
         {
           "amount": 6858525.0,
           "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-          "cfda_code": "84.041",
           "program": "84.041",
-          "start_date": null,
-          "year": "2024"
+          "start_date": "",
+          "year": "2024-2026"
         },
         {
           "amount": 5829746.0,
           "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-          "cfda_code": "84.041",
           "program": "84.041",
-          "start_date": null,
-          "year": "2024"
+          "start_date": "",
+          "year": "2024-2026"
         },
         {
-          "amount": 14999995.0,
-          "description": "COMMUNITY SCHOOL DISTRICTS 13-14-16 BROOKLYN NORTH CONSORTIUM MAGNET SCHOOLS ASSISTANCE PROGRAM",
-          "cfda_code": "84.165",
-          "program": "84.165",
-          "start_date": "2021-04-01",
-          "year": "2025"
-        },
-        {
-          "amount": 14693254.0,
-          "description": "COMMUNITY SCHOOL DISTRICT 28  MAGNET SCHOOLS ASSISTANCE PROGRAM",
-          "cfda_code": "84.165",
-          "program": "84.165",
-          "start_date": "2017-10-01",
-          "year": "2025"
-        },
-        {
-          "amount": 5829746.0,
-          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
-          "cfda_code": "84.041",
-          "program": "84.041",
-          "start_date": null,
-          "year": "2025"
+          "amount": 4220344.0,
+          "description": "PROJECT REACH: RAISING ENGAGEMENT AND ATTENDANCE THROUGH COMMUNITY AND HOME-SCHOOL PARTNERSHIPS",
+          "program": "84.411",
+          "start_date": "2025-01-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -4843,16 +5698,16 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 5250000.0,
+      "federal_awards": 11620000.0,
       "title_i": 0,
       "recent_awards": 1,
       "award_details": [
         {
-          "amount": 5250000.0,
-          "description": "NORTH ROCKLAND CENTRAL SCHOOL DISTRICT MENTAL HEALTH GRANT",
-          "program": "84.184",
-          "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "amount": 11620000.0,
+          "description": "GEAR UP: BRILLIANT PATHWAYS",
+          "program": "84.334",
+          "start_date": "2018-10-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -4862,16 +5717,30 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 5250000.0,
+      "federal_awards": 21955260.0,
       "title_i": 0,
-      "recent_awards": 1,
+      "recent_awards": 3,
       "award_details": [
         {
-          "amount": 5250000.0,
-          "description": "NORTH ROCKLAND CENTRAL SCHOOL DISTRICT MENTAL HEALTH GRANT",
-          "program": "84.184",
-          "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "amount": 9236996.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 8772613.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 3945651.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7003",
+          "program": "84.041",
+          "start_date": "2025-10-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -4881,16 +5750,58 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 5250000.0,
+      "federal_awards": 18957905.0,
       "title_i": 0,
-      "recent_awards": 1,
+      "recent_awards": 7,
       "award_details": [
         {
-          "amount": 5250000.0,
-          "description": "NORTH ROCKLAND CENTRAL SCHOOL DISTRICT MENTAL HEALTH GRANT",
-          "program": "84.184",
+          "amount": 8894558.0,
+          "description": "WAYNE COUNTY COMMUNITY SCHOOLS: EXPANSION AND ENGAGEMENT PROPOSAL",
+          "program": "84.215",
           "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "year": "2024-2026"
+        },
+        {
+          "amount": 3880000.0,
+          "description": "WAYNE COUNTY COMMUNITY SCHOOLS:  SAFE SCHOOLS HEALTHY STUDENTS INITIATIVE - SODUS CENTRAL SCHOOL DISTRICT, THE WAYNE COUNTY DEPARTMENT OF MENTAL HEALTH, AND THE WAYNE COUNTY ACTION PROGRAM CONVENE AND",
+          "program": "93.243",
+          "start_date": "2022-09-30",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 3018067.0,
+          "description": "COMMUNITY SCHOOLS: OPTIMAL HEALTH INITIATIVE - TO REDUCE TEEN PREGNANCY AND SEXUALLY TRANSMITTED INFECTIONS, OUR COMMUNITY SCHOOLS: OPTIMAL HEALTH INITIATIVE FORM A CONSORTIUM OF NINE SCHOOL DISTRICTS",
+          "program": "93.297",
+          "start_date": "2021-07-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 1274280.0,
+          "description": "COMMUNITY SCHOOLS: OPTIMAL HEALTH INITIATIVE",
+          "program": "93.060",
+          "start_date": "2021-09-30",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 891000.0,
+          "description": "WAYNE COUNTY COMMUNITY SCHOOLS: OPTIMAL HEALTH INITIATIVE",
+          "program": "93.060",
+          "start_date": "2024-09-30",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 500000.0,
+          "description": "WAYNE COUNTY COMMUNITY SCHOOLS DRUG FREE COMMUNITY COALITION - THE WAYNE COUNTY COMMUNITY SCHOOLS DRUG FREE COMMUNITY COALITION  (WCCS-DFCC) WAS AWARDED A FY2022 DRUG-FREE COMMUNITIES SUPPORT PROGRAM ",
+          "program": "93.276",
+          "start_date": "2022-09-30",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 500000.0,
+          "description": "HEALING LITTLE HEARTS",
+          "program": "16.888",
+          "start_date": "2020-10-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -4984,16 +5895,23 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 5250000.0,
+      "federal_awards": 9682513.0,
       "title_i": 0,
-      "recent_awards": 1,
+      "recent_awards": 2,
       "award_details": [
         {
           "amount": 5250000.0,
           "description": "NORTH ROCKLAND CENTRAL SCHOOL DISTRICT MENTAL HEALTH GRANT",
           "program": "84.184",
           "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "year": "2024-2026"
+        },
+        {
+          "amount": 4432513.0,
+          "description": "DESCRIPTION:THE AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO HAVERSTRAW-STONY POINT CENTRAL SCHOOL DISTRICT (NORTH ROCKLAND CSD) TO REPLACE IN-USE, NON-ZERO-EMISSION HEAVY-DUT",
+          "program": "66.049",
+          "start_date": "2025-01-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -5022,16 +5940,23 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 5250000.0,
+      "federal_awards": 6165000.0,
       "title_i": 0,
-      "recent_awards": 1,
+      "recent_awards": 2,
       "award_details": [
         {
-          "amount": 5250000.0,
-          "description": "NORTH ROCKLAND CENTRAL SCHOOL DISTRICT MENTAL HEALTH GRANT",
+          "amount": 5165000.0,
+          "description": "EXPANDING THE SCHOOL PSYCHOLOGY WORKFORCE FOR STUDENTS PROJECT",
           "program": "84.184",
-          "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "start_date": "2026-01-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 1000000.0,
+          "description": "GENERATING RESILIENCE AND OPPORTUNITIES WITHIN THE MENTAL HEALTH WORKFORCE FOR DIVERSITY AND SUSTAINABILITY (GROWTH) PROJECT",
+          "program": "84.184",
+          "start_date": "2025-01-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -5041,17 +5966,30 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 3754814.0,
+      "federal_awards": 9774070.0,
       "title_i": 0,
-      "recent_awards": 1,
+      "recent_awards": 3,
       "award_details": [
+        {
+          "amount": 3764562.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7002",
+          "program": "84.041",
+          "start_date": "",
+          "year": "2024-2026"
+        },
         {
           "amount": 3754814.0,
           "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7002",
-          "cfda_code": "84.041",
           "program": "84.041",
-          "start_date": null,
-          "year": "2025"
+          "start_date": "",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 2254694.0,
+          "description": "IMPACT AID PROGRAM, TITLE VII, SECTION 7002",
+          "program": "84.041",
+          "start_date": "2025-10-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -5080,17 +6018,30 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 3289726.0,
+      "federal_awards": 14084913.0,
       "title_i": 0,
-      "recent_awards": 1,
+      "recent_awards": 3,
       "award_details": [
         {
-          "amount": 3289726.0,
-          "description": "EXPRESS PLAN TO RAISE AND EMPOWER STUDENT SUCCESS(EXPRESS PROJECT)",
-          "cfda_code": "84.215",
-          "program": "84.215",
-          "start_date": "2021-10-01",
-          "year": "2025"
+          "amount": 11101599.0,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2021-09-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 1983314.0,
+          "description": "SCHOOL-BASED MENTAL HEALTH PROVIDERS PIPELINE",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 1000000.0,
+          "description": "NIAGARA FALLS CITY SCHOOL DISTRICT, IN PARTNERSHIP WITH NIAGARA FALLS POLICE DEPARTMENT, NIAGARA COUNTY SHERIFF\u2019S OFFICE AND TRAINING PARTNERS, WILL CREATE A THREAT ASSESSMENT TEAM AND IMPLEMENT A VIO",
+          "program": "16.839",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -5100,16 +6051,23 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 3200000.0,
+      "federal_awards": 4508794.0,
       "title_i": 0,
-      "recent_awards": 1,
+      "recent_awards": 2,
       "award_details": [
         {
           "amount": 3200000.0,
           "description": "VIOLENCE PREVENTION IN UNIONDALE, NY",
           "program": "84.184",
           "start_date": "2023-01-01",
-          "year": "2024-2025"
+          "year": "2024-2026"
+        },
+        {
+          "amount": 1308794.0,
+          "description": "LONG ISLAND SCHOOL MENTAL HEALTH COLLABORATIVE",
+          "program": "84.184",
+          "start_date": "2026-01-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -5119,17 +6077,30 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 3079772.0,
+      "federal_awards": 14084913.0,
       "title_i": 0,
-      "recent_awards": 1,
+      "recent_awards": 3,
       "award_details": [
         {
-          "amount": 3079772.0,
-          "description": "PROJECT ACCELERATED LITERACY (PAL)",
-          "cfda_code": "84.215",
-          "program": "84.215",
-          "start_date": "2021-10-01",
-          "year": "2025"
+          "amount": 11101599.0,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2021-09-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 1983314.0,
+          "description": "SCHOOL-BASED MENTAL HEALTH PROVIDERS PIPELINE",
+          "program": "84.184",
+          "start_date": "2023-01-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 1000000.0,
+          "description": "NIAGARA FALLS CITY SCHOOL DISTRICT, IN PARTNERSHIP WITH NIAGARA FALLS POLICE DEPARTMENT, NIAGARA COUNTY SHERIFF\u2019S OFFICE AND TRAINING PARTNERS, WILL CREATE A THREAT ASSESSMENT TEAM AND IMPLEMENT A VIO",
+          "program": "16.839",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
         }
       ]
     },
@@ -5139,17 +6110,30 @@
       "enrollment": null,
       "city": null,
       "type": null,
-      "federal_awards": 2962216.0,
+      "federal_awards": 14084913.0,
       "title_i": 0,
-      "recent_awards": 1,
+      "recent_awards": 3,
       "award_details": [
         {
-          "amount": 2962216.0,
-          "description": "SYRACUSE CITY SCHOOL DISTRICT SCHOOL PSYCHOLOGY TRAINING AND RETENTION PROGRAM",
-          "cfda_code": "84.184",
+          "amount": 11101599.0,
+          "description": "HEAD START AND EARLY HEAD START",
+          "program": "93.600",
+          "start_date": "2021-09-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 1983314.0,
+          "description": "SCHOOL-BASED MENTAL HEALTH PROVIDERS PIPELINE",
           "program": "84.184",
-          "start_date": "2026-01-01",
-          "year": "2025"
+          "start_date": "2023-01-01",
+          "year": "2024-2026"
+        },
+        {
+          "amount": 1000000.0,
+          "description": "NIAGARA FALLS CITY SCHOOL DISTRICT, IN PARTNERSHIP WITH NIAGARA FALLS POLICE DEPARTMENT, NIAGARA COUNTY SHERIFF\u2019S OFFICE AND TRAINING PARTNERS, WILL CREATE A THREAT ASSESSMENT TEAM AND IMPLEMENT A VIO",
+          "program": "16.839",
+          "start_date": "2022-10-01",
+          "year": "2024-2026"
         }
       ]
     },
