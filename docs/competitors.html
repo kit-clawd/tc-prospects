@@ -142,27 +142,35 @@
             <div class="label">Total EdClub Customers</div>
         </div>
         <div class="stat-card">
-            <div class="number" id="matchedCount">-</div>
-            <div class="label">Matched to Districts</div>
+            <div class="number" id="active2026">-</div>
+            <div class="label">🟢 Active in 2026</div>
         </div>
         <div class="stat-card">
-            <div class="number" id="unmatchedCount">-</div>
-            <div class="label">Unmatched (Other Schools)</div>
+            <div class="number" id="establishedCount">-</div>
+            <div class="label">⭐ Established (30+ records)</div>
         </div>
         <div class="stat-card">
-            <div class="number" id="enrollmentTotal">-</div>
-            <div class="label">Total Enrollment (Matched)</div>
+            <div class="number" id="newCustomers">-</div>
+            <div class="label">🆕 New (since 2025)</div>
         </div>
     </div>
     
     <div class="filters">
         <div>
-            <label>Filter:</label>
+            <label>Match:</label>
             <select id="matchFilter">
-                <option value="">All Customers</option>
-                <option value="matched">Matched to District</option>
+                <option value="">All</option>
+                <option value="matched">Matched</option>
                 <option value="unmatched">Unmatched</option>
-                <option value="high">High Confidence Match</option>
+            </select>
+        </div>
+        <div>
+            <label>Activity:</label>
+            <select id="activityFilter">
+                <option value="">All</option>
+                <option value="active2026">🟢 Active 2026</option>
+                <option value="established">⭐ Established (30+)</option>
+                <option value="new">🆕 New (2025+)</option>
             </select>
         </div>
         <div>
@@ -179,11 +187,12 @@
             <tr>
                 <th data-sort="name">Customer Name</th>
                 <th data-sort="subdomain">Subdomain</th>
+                <th data-sort="first_seen">First Seen</th>
+                <th data-sort="last_seen">Last Seen</th>
+                <th data-sort="record_count">Activity</th>
                 <th data-sort="matched">Matched</th>
                 <th data-sort="district">District Match</th>
-                <th data-sort="state">State</th>
                 <th data-sort="enrollment">Enrollment</th>
-                <th data-sort="confidence">Confidence</th>
             </tr>
         </thead>
         <tbody id="tableBody">
@@ -206,30 +215,30 @@
                 
                 // Update stats
                 document.getElementById('totalCount').textContent = data.meta.total_subdomains.toLocaleString();
-                document.getElementById('matchedCount').textContent = data.meta.matched.toLocaleString();
-                document.getElementById('unmatchedCount').textContent = data.meta.unmatched.toLocaleString();
-                
-                const totalEnrollment = allCompetitors
-                    .filter(c => c.match)
-                    .reduce((sum, c) => sum + (c.match.enrollment || 0), 0);
-                document.getElementById('enrollmentTotal').textContent = totalEnrollment.toLocaleString();
+                document.getElementById('active2026').textContent = (data.meta.active_in_2026 || 0).toLocaleString();
+                document.getElementById('establishedCount').textContent = (data.meta.established_customers || 0).toLocaleString();
+                document.getElementById('newCustomers').textContent = (data.meta.new_customers_2025_26 || 0).toLocaleString();
                 
                 renderTable();
             } catch (e) {
                 console.error('Failed to load data:', e);
                 document.getElementById('tableBody').innerHTML = 
-                    '<tr><td colspan="7" class="empty-state">Failed to load competitor data.</td></tr>';
+                    '<tr><td colspan="8" class="empty-state">Failed to load competitor data.</td></tr>';
             }
         }
         
         function getFilteredCompetitors() {
             const matchFilter = document.getElementById('matchFilter').value;
+            const activityFilter = document.getElementById('activityFilter').value;
             const search = document.getElementById('searchFilter').value.toLowerCase();
             
             return allCompetitors.filter(c => {
                 if (matchFilter === 'matched' && !c.match) return false;
                 if (matchFilter === 'unmatched' && c.match) return false;
-                if (matchFilter === 'high' && (!c.match || c.match.confidence < 0.7)) return false;
+                
+                if (activityFilter === 'active2026' && !c.activity?.last_seen?.startsWith('2026')) return false;
+                if (activityFilter === 'established' && (!c.activity || c.activity.record_count < 30)) return false;
+                if (activityFilter === 'new' && (!c.activity || c.activity.first_seen < '2025')) return false;
                 
                 if (search) {
                     const searchable = `${c.name} ${c.subdomain} ${c.match?.district || ''}`.toLowerCase();
@@ -254,17 +263,21 @@
                         aVal = a.match?.district || '';
                         bVal = b.match?.district || '';
                         break;
-                    case 'state':
-                        aVal = a.match?.state || '';
-                        bVal = b.match?.state || '';
-                        break;
                     case 'enrollment':
                         aVal = a.match?.enrollment || 0;
                         bVal = b.match?.enrollment || 0;
                         break;
-                    case 'confidence':
-                        aVal = a.match?.confidence || 0;
-                        bVal = b.match?.confidence || 0;
+                    case 'first_seen':
+                        aVal = a.activity?.first_seen || '';
+                        bVal = b.activity?.first_seen || '';
+                        break;
+                    case 'last_seen':
+                        aVal = a.activity?.last_seen || '';
+                        bVal = b.activity?.last_seen || '';
+                        break;
+                    case 'record_count':
+                        aVal = a.activity?.record_count || 0;
+                        bVal = b.activity?.record_count || 0;
                         break;
                     default:
                         aVal = a[field] || '';
@@ -294,7 +307,7 @@
             
             const tbody = document.getElementById('tableBody');
             if (sorted.length === 0) {
-                tbody.innerHTML = '<tr><td colspan="7" class="empty-state">No competitors match your filters</td></tr>';
+                tbody.innerHTML = '<tr><td colspan="8" class="empty-state">No competitors match your filters</td></tr>';
                 return;
             }
             
@@ -303,25 +316,27 @@
             
             let html = '';
             display.forEach(c => {
-                const confidenceClass = c.match 
-                    ? (c.match.confidence >= 0.7 ? 'confidence-high' : 'confidence-medium')
-                    : 'confidence-low';
+                const activityClass = c.activity?.record_count >= 30 ? 'confidence-high' : 
+                                     c.activity?.record_count >= 15 ? 'confidence-medium' : 'confidence-low';
+                const isActive2026 = c.activity?.last_seen?.startsWith('2026');
+                const lastSeenClass = isActive2026 ? 'confidence-high' : 'confidence-medium';
                 
                 html += `
                     <tr>
                         <td><strong>${c.name}</strong></td>
                         <td><a href="https://${c.subdomain}" target="_blank">${c.subdomain}</a></td>
+                        <td>${c.activity?.first_seen || '-'}</td>
+                        <td class="${lastSeenClass}">${c.activity?.last_seen || '-'} ${isActive2026 ? '🟢' : ''}</td>
+                        <td class="${activityClass}">${c.activity?.record_count || '-'}</td>
                         <td><span class="matched-badge ${c.match ? 'yes' : 'no'}">${c.match ? 'Yes' : 'No'}</span></td>
                         <td>${c.match?.district || '-'}</td>
-                        <td>${c.match?.state || '-'}</td>
                         <td class="enrollment">${c.match?.enrollment?.toLocaleString() || '-'}</td>
-                        <td class="${confidenceClass}">${c.match ? (c.match.confidence * 100).toFixed(0) + '%' : '-'}</td>
                     </tr>
                 `;
             });
             
             if (sorted.length > 500) {
-                html += `<tr><td colspan="7" class="empty-state">Showing 500 of ${sorted.length} results. Use search to narrow down.</td></tr>`;
+                html += `<tr><td colspan="8" class="empty-state">Showing 500 of ${sorted.length} results. Use search to narrow down.</td></tr>`;
             }
             
             tbody.innerHTML = html;
@@ -329,16 +344,18 @@
         
         function exportCSV() {
             const filtered = getFilteredCompetitors();
-            const rows = [['Name', 'Subdomain', 'Matched District', 'State', 'Enrollment', 'Confidence']];
+            const rows = [['Name', 'Subdomain', 'First Seen', 'Last Seen', 'Activity Score', 'Matched District', 'State', 'Enrollment']];
             
             filtered.forEach(c => {
                 rows.push([
                     c.name,
                     c.subdomain,
+                    c.activity?.first_seen || '',
+                    c.activity?.last_seen || '',
+                    c.activity?.record_count || '',
                     c.match?.district || '',
                     c.match?.state || '',
-                    c.match?.enrollment || '',
-                    c.match?.confidence || ''
+                    c.match?.enrollment || ''
                 ]);
             });
             
