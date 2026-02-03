@@ -355,16 +355,24 @@
                 return '<p class="no-awards">No detailed award data available</p>';
             }
             
-            const items = awards.map(a => `
+            const items = awards.map(a => {
+                const awardUrl = a.award_id 
+                    ? `https://www.usaspending.gov/award/${a.award_id}`
+                    : null;
+                const amountHtml = awardUrl
+                    ? `<a href="${awardUrl}" target="_blank" class="award-amount" style="color:#1a73e8;text-decoration:none;">${formatMoney(a.amount)} ↗</a>`
+                    : `<div class="award-amount">${formatMoney(a.amount)}</div>`;
+                
+                return `
                 <li>
                     <div>
                         <div class="award-program">${a.program || 'Federal Grant'}</div>
                         <div class="award-desc">${a.description || ''}</div>
                         ${a.start_date ? `<div class="award-date">${a.start_date}</div>` : ''}
                     </div>
-                    <div class="award-amount">${formatMoney(a.amount)}</div>
+                    ${amountHtml}
                 </li>
-            `).join('');
+            `}).join('');
             
             const countNote = (totalCount && totalCount > awards.length) 
                 ? `<p style="color:#666;font-size:12px;margin-top:8px;">Showing top ${awards.length} of ${totalCount} awards</p>`
