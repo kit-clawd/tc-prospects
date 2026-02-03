@@ -350,7 +350,7 @@
             return `<ul class="award-list">${items}</ul>`;
         }
         
-        function renderAwardDetails(awards) {
+        function renderAwardDetails(awards, totalCount) {
             if (!awards || awards.length === 0) {
                 return '<p class="no-awards">No detailed award data available</p>';
             }
@@ -366,7 +366,11 @@
                 </li>
             `).join('');
             
-            return `<ul class="award-list">${items}</ul>`;
+            const countNote = (totalCount && totalCount > awards.length) 
+                ? `<p style="color:#666;font-size:12px;margin-top:8px;">Showing top ${awards.length} of ${totalCount} awards</p>`
+                : '';
+            
+            return `<ul class="award-list">${items}</ul>${countNote}`;
         }
         
         function toggleRow(districtId) {
@@ -435,7 +439,7 @@
                                 </div>
                                 <div>
                                     <strong>💰 Award Details:</strong>
-                                    ${renderAwardDetails(d.award_details)}
+                                    ${renderAwardDetails(d.award_details, d.recent_awards)}
                                 </div>
                             </div>
                             ${d.website ? `<div style="margin-top: 10px;"><a href="${d.website}" target="_blank">🔗 District Website</a></div>` : ''}
