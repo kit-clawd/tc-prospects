@@ -393,6 +393,13 @@
           "email_guessed": true,
           "phone": null,
           "source": "Ballotpedia"
+        },
+        {
+          "name": "Soheil Katal",
+          "title": "Chief Information Officer",
+          "email": "soheil.katal@lausd.net",
+          "email_guessed": true,
+          "source": "LAUSD website"
         }
       ],
       "directory_url": null
@@ -549,6 +556,13 @@
           "email_guessed": true,
           "phone": null,
           "source": "Ballotpedia"
+        },
+        {
+          "name": "Intekhab Shakil",
+          "title": "Chief Information Officer",
+          "email": "ishakil@schools.nyc.gov",
+          "email_guessed": true,
+          "source": "GovMarketNews March 2024"
         }
       ],
       "directory_url": null
@@ -657,6 +671,13 @@
           "email_guessed": true,
           "phone": null,
           "source": "Ballotpedia"
+        },
+        {
+          "name": "Jorge Fernandez",
+          "title": "Chief Information Officer",
+          "email": "jfernandez@dadeschools.net",
+          "email_guessed": true,
+          "source": "RocketReach/LinkedIn"
         }
       ],
       "directory_url": null
