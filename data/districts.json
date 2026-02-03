@@ -12,7 +12,8 @@
       "TX",
       "FL",
       "NY"
-    ]
+    ],
+    "edclub_enrichment": true
   },
   "districts": [
     {
@@ -245,7 +246,8 @@
           "source": "District website"
         }
       ],
-      "directory_url": "https://www.seattleschools.org/news/seattle-public-schools-plants-first-mini-forest-at-robert-eagle-staff/"
+      "directory_url": "https://www.seattleschools.org/news/seattle-public-schools-plants-first-mini-forest-at-robert-eagle-staff/",
+      "uses_edclub": true
     },
     {
       "name": "Spokane Public Schools",
@@ -268,7 +270,8 @@
           "source": "Ballotpedia"
         }
       ],
-      "directory_url": null
+      "directory_url": null,
+      "uses_edclub": true
     },
     {
       "name": "Tacoma Public Schools",
@@ -408,7 +411,8 @@
           "phone": "253-571-1015"
         }
       ],
-      "directory_url": "https://www.tacomaschools.org/departments"
+      "directory_url": "https://www.tacomaschools.org/departments",
+      "uses_edclub": true
     },
     {
       "name": "Kent School District",
@@ -488,7 +492,8 @@
           "source": "Ballotpedia"
         }
       ],
-      "directory_url": null
+      "directory_url": null,
+      "uses_edclub": true
     },
     {
       "name": "Federal Way Public Schools",
@@ -511,7 +516,8 @@
           "source": "Ballotpedia"
         }
       ],
-      "directory_url": "https://www.fwps.org/staff"
+      "directory_url": "https://www.fwps.org/staff",
+      "uses_edclub": true
     },
     {
       "name": "Lake Washington School District",
@@ -591,7 +597,8 @@
           "source": "Ballotpedia"
         }
       ],
-      "directory_url": "https://www.lwsd.org/staff-links"
+      "directory_url": "https://www.lwsd.org/staff-links",
+      "uses_edclub": true
     },
     {
       "name": "Northshore School District",
@@ -677,7 +684,8 @@
           "phone": "425-408-7701"
         }
       ],
-      "directory_url": "https://www.nsd.org/our-district/who-we-are/racial-educational-justice/training-resources"
+      "directory_url": "https://www.nsd.org/our-district/who-we-are/racial-educational-justice/training-resources",
+      "uses_edclub": true
     },
     {
       "name": "Bellevue School District",
@@ -757,7 +765,8 @@
           "source": "Ballotpedia"
         }
       ],
-      "directory_url": "https://bsd405.org/staff"
+      "directory_url": "https://bsd405.org/staff",
+      "uses_edclub": true
     },
     {
       "name": "Los Angeles Unified School District",
@@ -1036,7 +1045,8 @@
           "source": "LAUSD website"
         }
       ],
-      "directory_url": null
+      "directory_url": null,
+      "uses_edclub": true
     },
     {
       "name": "San Diego Unified School District",
@@ -1572,7 +1582,8 @@
           "source": "Ballotpedia"
         }
       ],
-      "directory_url": "https://www.sandiegounified.org/about/staff_portal"
+      "directory_url": "https://www.sandiegounified.org/about/staff_portal",
+      "uses_edclub": true
     },
     {
       "name": "Houston Independent School District",
@@ -1844,7 +1855,8 @@
           "source": "Ballotpedia"
         }
       ],
-      "directory_url": "https://www.houstonisd.org/our-district/leadership-team"
+      "directory_url": "https://www.houstonisd.org/our-district/leadership-team",
+      "uses_edclub": true
     },
     {
       "name": "Dallas Independent School District",
@@ -1876,7 +1888,8 @@
           "source": "Ballotpedia"
         }
       ],
-      "directory_url": "https://www.dallasisd.org/team-dallas-isd/team-dallas-isd-home"
+      "directory_url": "https://www.dallasisd.org/team-dallas-isd/team-dallas-isd-home",
+      "uses_edclub": true
     },
     {
       "name": "Austin Independent School District",
@@ -1956,7 +1969,8 @@
           "source": "Ballotpedia"
         }
       ],
-      "directory_url": "https://www.austinisd.org/staff"
+      "directory_url": "https://www.austinisd.org/staff",
+      "uses_edclub": false
     },
     {
       "name": "New York City Department of Education",
@@ -2323,7 +2337,8 @@
           "source": "GovMarketNews March 2024"
         }
       ],
-      "directory_url": null
+      "directory_url": null,
+      "uses_edclub": true
     },
     {
       "name": "Portland Public Schools",
@@ -2525,7 +2540,8 @@
           "phone": "503-916-3337"
         }
       ],
-      "directory_url": "https://www.pps.net/about/portland-public-schools-information/leadership/our-superintendent"
+      "directory_url": "https://www.pps.net/about/portland-public-schools-information/leadership/our-superintendent",
+      "uses_edclub": true
     },
     {
       "name": "Miami-Dade County Public Schools",
@@ -2604,7 +2620,8 @@
           "source": "RocketReach/LinkedIn"
         }
       ],
-      "directory_url": null
+      "directory_url": null,
+      "uses_edclub": true
     },
     {
       "name": "Hillsborough County Public Schools",
@@ -2948,7 +2965,8 @@
           "source": "Ballotpedia"
         }
       ],
-      "directory_url": null
+      "directory_url": null,
+      "uses_edclub": true
     },
     {
       "name": "Orange County Public Schools",
@@ -3028,7 +3046,8 @@
           "source": "Ballotpedia"
         }
       ],
-      "directory_url": "https://www.ocps.net/executive-leadership"
+      "directory_url": "https://www.ocps.net/executive-leadership",
+      "uses_edclub": true
     },
     {
       "name": "WORKFORCE TRAINING & EDUCATION COORDINAT",
@@ -3072,7 +3091,8 @@
           "start_date": "2024-07-01",
           "year": "2025"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "CENTRAL KITSAP SCHOOL DISTRICT",
@@ -3140,7 +3160,8 @@
           "award_id": "ASST_NON_HE12542010016_097",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "SCHOOL DIST #201 ISLAND COUNTY",
@@ -3160,7 +3181,8 @@
           "award_id": "ASST_NON_S358A253954_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "CLOVER PARK SCHOOL DISTRICT",
@@ -3228,7 +3250,8 @@
           "award_id": "ASST_NON_HE12542010016_097",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "EDUCATIONAL SERVICE DISTRICT 105",
@@ -3256,7 +3279,8 @@
           "award_id": "ASST_NON_DW370172160A36_1601",
           "year": "2024-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "NORTHWEST EDUCATIONAL SERVICE DISTRICT",
@@ -3275,7 +3299,8 @@
           "start_date": "2024-01-01",
           "year": "2024-2025"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "VANCOUVER SCHOOL DISTRICT 37",
@@ -3343,7 +3368,8 @@
           "award_id": "ASST_NON_HE12542010016_097",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "MT ADAMS SCHOOL DISTRICT",
@@ -3411,7 +3437,8 @@
           "award_id": "ASST_NON_HE12542010016_097",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "CAPE FLATTERY SCHOOL DIST 401",
@@ -3431,7 +3458,8 @@
           "award_id": "ASST_NON_S358A253954_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "WELLPINIT SCHOOL DISTRICT 49",
@@ -3499,7 +3527,8 @@
           "award_id": "ASST_NON_HE12542010016_097",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "WAPATO SCHOOL DISTRICT",
@@ -3567,7 +3596,8 @@
           "award_id": "ASST_NON_HE12542010016_097",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "MEDICAL LAKE SCHOOL DISTRICT #326",
@@ -3635,7 +3665,8 @@
           "award_id": "ASST_NON_HE12542010016_097",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "LACONNER SCHOOL DISTRICT",
@@ -3703,7 +3734,8 @@
           "award_id": "ASST_NON_HE12542010016_097",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "COUNTY OF YAKIMA 200 SCHOOL DISTRICT",
@@ -3739,7 +3771,8 @@
           "award_id": "ASST_NON_2019YSBX0001_015",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "NESPELEM SCHOOL DISTRICT 14",
@@ -3807,7 +3840,8 @@
           "award_id": "ASST_NON_HE12542010016_097",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "TAHOLAH SCHOOL DISTRICT 77",
@@ -3875,7 +3909,8 @@
           "award_id": "ASST_NON_HE12542010016_097",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "OREGON DEPARTMENT OF EDUCATION",
@@ -3895,7 +3930,8 @@
           "award_id": "ASST_NON_S041B263379_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "MULTNOMAH COUNTY SCHOOL DIST 1J",
@@ -3915,7 +3951,8 @@
           "award_id": "ASST_NON_S358A253954_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "HIGHER EDUCATION COORDINATING COMMISSION",
@@ -3962,7 +3999,8 @@
           "start_date": "2023-01-01",
           "year": "2024-2025"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "DOUGLAS EDUCATION SERVICE DISTRICT",
@@ -4009,7 +4047,8 @@
           "start_date": "2023-01-01",
           "year": "2024-2025"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "EDUCATION NORTHWEST",
@@ -4056,7 +4095,8 @@
           "start_date": "2023-01-01",
           "year": "2024-2025"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "OREGON SOCIAL LEARNING CENTER, INC",
@@ -4076,7 +4116,8 @@
           "start_date": "2019-07-01",
           "year": "2024"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "JEFFERSON COUNTY SCHOOL DISTRICT 509J",
@@ -4144,7 +4185,8 @@
           "award_id": "ASST_NON_HE12542010016_097",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "CORBETT SCHOOL DISTRICT 39",
@@ -4212,7 +4254,8 @@
           "award_id": "ASST_NON_HE12542010016_097",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "DEPARTMENT OF EDUCATION CALIFORNIA",
@@ -4232,7 +4275,8 @@
           "award_id": "ASST_NON_S041B263379_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "LINDSAY UNIFIED SCHOOL DISTRICT",
@@ -4300,7 +4344,8 @@
           "award_id": "ASST_NON_HE12542010016_097",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "INSIGHT EDUCATION GROUP, INC.",
@@ -4347,7 +4392,8 @@
           "start_date": "2023-01-01",
           "year": "2024-2025"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "PALMDALE SCHOOL DISTRICT",
@@ -4415,7 +4461,8 @@
           "award_id": "ASST_NON_HE12542010016_097",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "SILVER VALLEY UNIFIED SCHOOL DISTRICT",
@@ -4435,7 +4482,8 @@
           "award_id": "ASST_NON_S041B267102_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "YPI CHARTER SCHOOLS, INC,",
@@ -4454,7 +4502,8 @@
           "start_date": "2023-01-01",
           "year": "2024-2025"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "PASADENA UNIFIED SCHOOL DISTRICT",
@@ -4522,7 +4571,8 @@
           "award_id": "ASST_NON_HE12542010016_097",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "CENTER FOR CIVIC EDUCATION",
@@ -4541,7 +4591,8 @@
           "start_date": "2023-01-01",
           "year": "2024-2025"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "ALDER GRADUATE SCHOOL OF EDUCATION",
@@ -4561,7 +4612,8 @@
           "award_id": "ASST_NON_S041B263379_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "CALIFORNIA SCHOOL FINANCE AUTHORITY",
@@ -4608,7 +4660,8 @@
           "start_date": "2020-04-24",
           "year": "2024-2025"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "NAPA VALLEY UNIFIED SCHOOL DISTRICT",
@@ -4628,7 +4681,8 @@
           "award_id": "ASST_NON_S041B267102_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "LIVERMORE VALLEY JOINT UNIFIED SCHOOL DISTRICT",
@@ -4648,7 +4702,8 @@
           "award_id": "ASST_NON_S041B267102_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "CENTRAL UNION ELEMENTARY SCHOOL DISTRICT",
@@ -4668,7 +4723,8 @@
           "award_id": "ASST_NON_15JCOPS25GG01257SCAX_015",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "CUTLER-OROSI JOINT UNIFIED SCHOOL DISTRICT",
@@ -4688,7 +4744,8 @@
           "award_id": "ASST_NON_S041B261042_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "TULARE COUNTY OFFICE OF EDUCATION",
@@ -4708,7 +4765,8 @@
           "award_id": "ASST_NON_S041B263379_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "RIVERSIDE COUNTY OFFICE OF EDUCATION",
@@ -4728,7 +4786,8 @@
           "award_id": "ASST_NON_S041B263379_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "GREEN DOT PUBLIC SCHOOLS CALIFORNIA",
@@ -4748,7 +4807,8 @@
           "award_id": "ASST_NON_S184H220183_091",
           "year": "2024-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "IMPERIAL COUNTY OFFICE OF EDUCATION",
@@ -4768,7 +4828,8 @@
           "award_id": "ASST_NON_S041B263379_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "CONEJO VALLEY UNIFIED SCHOOL DISTRICT",
@@ -4788,7 +4849,8 @@
           "award_id": "ASST_NON_S041B267102_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "LA MESA-SPRING VALLEY SCHOOL DISTRICT",
@@ -4856,7 +4918,8 @@
           "award_id": "ASST_NON_HE12542010016_097",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "NORTHERN HUMBOLDT UNION HIGH SCHOOL DISTRICT",
@@ -4900,7 +4963,8 @@
           "award_id": "ASST_NON_S299A250057_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "KLAMATH-TRINITY JOINT UNIFIED SCHOOL DISTRICT",
@@ -4920,7 +4984,8 @@
           "award_id": "ASST_NON_S041B261042_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "ROCKETSHIP EDUCATION",
@@ -4967,7 +5032,8 @@
           "start_date": "2023-01-01",
           "year": "2024-2025"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "SAN PASQUAL VALLEY UNIFIED SCHOOL DISTRICT",
@@ -4987,7 +5053,8 @@
           "award_id": "ASST_NON_S041B267102_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "FALLBROOK UNION ELEMENTARY SCHOOL DISTRICT",
@@ -5007,7 +5074,8 @@
           "award_id": "ASST_NON_15JCOPS25GG01257SCAX_015",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "FARMERSVILLE USD",
@@ -5027,7 +5095,8 @@
           "award_id": "ASST_NON_S184H250097_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "MADERA UNIFIED SCHOOL DISTRICT",
@@ -5095,7 +5164,8 @@
           "award_id": "ASST_NON_HE12542010016_097",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "WAHUPA EDUCATIONAL ENTERPRISES, INC",
@@ -5142,7 +5212,8 @@
           "start_date": "2023-01-01",
           "year": "2024-2025"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "TX EDUCATION AGENCY",
@@ -5234,7 +5305,8 @@
           "start_date": "2024-07-01",
           "year": "2024"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "KILLEEN INDEPENDENT SCHOOL DISTRICT",
@@ -5302,7 +5374,8 @@
           "award_id": "ASST_NON_HE12542010016_097",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "REGION 18 EDUCATION SERVICE CENTER",
@@ -5322,7 +5395,8 @@
           "start_date": "2017-10-01",
           "year": "2024"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "REGION ONE EDUCATION SRV CENTER",
@@ -5406,7 +5480,8 @@
           "start_date": "2025-10-01",
           "year": "2025"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "IDEA PUBLIC SCHOOLS",
@@ -5466,7 +5541,8 @@
           "award_id": "ASST_NON_U411C190117_091",
           "year": "2024-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "YES PREP PUBLIC SCHOOLS INC",
@@ -5494,7 +5570,8 @@
           "award_id": "ASST_NON_S282M250050_091",
           "year": "2024-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "EDUCATION SERVICE CTR REGION XII",
@@ -5514,7 +5591,8 @@
           "start_date": "2018-10-01",
           "year": "2024"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "HARMONY PUBLIC SCHOOLS",
@@ -5542,7 +5620,8 @@
           "award_id": "ASST_NON_S374A230017_091",
           "year": "2024-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "LONGVIEW INDEPENDENT SCHOOL DISTRICT",
@@ -5610,7 +5689,8 @@
           "award_id": "ASST_NON_HE12542010016_097",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "LACKLAND INDEPENDENT SCHOOL DISTRICT",
@@ -5630,7 +5710,8 @@
           "award_id": "ASST_NON_S041B265001_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "VICTORIA INDEPENDENT SCHOOL DISTRICT",
@@ -5698,7 +5779,8 @@
           "award_id": "ASST_NON_HE12542010016_097",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "DESOTO INDEPENDENT SCHOOL DISTRICT",
@@ -5766,7 +5848,8 @@
           "award_id": "ASST_NON_HE12542010016_097",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "UPLIFT EDUCATION",
@@ -5794,7 +5877,8 @@
           "start_date": "2023-01-01",
           "year": "2025"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "RANDOLPH FIELD INDEPENDENT SCHOOL DISTRICT",
@@ -5814,7 +5898,8 @@
           "award_id": "ASST_NON_S041B265090_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "KARNES CITY INDEPENDENT SCHOOL DISTRICT",
@@ -5834,7 +5919,8 @@
           "award_id": "ASST_NON_S041B265127_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "EDUCATION SERVICE CENTER - REGION 10",
@@ -5862,7 +5948,8 @@
           "start_date": "2021-10-01",
           "year": "2025"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "EL PASO INDEPENDENT SCHOOL DISTRICT",
@@ -5882,7 +5969,8 @@
           "award_id": "ASST_NON_S041B264905_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "PASADENA INDEPENDENT SCHOOL DISTRICT",
@@ -5950,7 +6038,8 @@
           "award_id": "ASST_NON_HE12542010016_097",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "TEXAS EDUCATION AGENCY",
@@ -5970,7 +6059,8 @@
           "start_date": "2025-01-01",
           "year": "2025"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "FLORIDA DEPARTMENT OF EDUCATION",
@@ -5990,7 +6080,8 @@
           "award_id": "ASST_NON_S041B263379_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "SCHOOL BOARD OF MIAMI-DADE COUNTY",
@@ -6010,7 +6101,8 @@
           "award_id": "ASST_NON_S041B263379_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "SCHOOL BOARD OF SEMINOLE COUNTY, FL",
@@ -6030,7 +6122,8 @@
           "award_id": "ASST_NON_S041B263379_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "THE SCHOOL BOARD OF BROWARD COUNTY, FLORIDA",
@@ -6050,7 +6143,8 @@
           "award_id": "ASST_NON_S041B263379_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "POLK COUNTY SCHOOL BOARD",
@@ -6070,7 +6164,8 @@
           "award_id": "ASST_NON_S411B250018_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "THE SCHOOL BOARD OF ST LUCIE COUNTY",
@@ -6090,7 +6185,8 @@
           "award_id": "ASST_NON_S041B263379_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "DUVAL COUNTY SCHOOL BOARD",
@@ -6110,7 +6206,8 @@
           "award_id": "ASST_NON_S411B250018_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "LEE COUNTY SCHOOL BOARD",
@@ -6130,7 +6227,8 @@
           "award_id": "ASST_NON_S411B250018_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "BAY COUNTY SCHOOL BOARD",
@@ -6150,7 +6248,8 @@
           "award_id": "ASST_NON_S411B250018_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "HILLSBOROUGH COUNTY SCHOOL DISTRICT",
@@ -6218,7 +6317,8 @@
           "award_id": "ASST_NON_HE12542010016_097",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "SCHOOL DISTRICT OF MONROE COUNTY FLORIDA",
@@ -6262,7 +6362,8 @@
           "award_id": "ASST_NON_S299A250057_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "WASHINGTON COUNTY SCHOOL DISTRICT",
@@ -6330,7 +6431,8 @@
           "award_id": "ASST_NON_HE12542010016_097",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "SCHOOL DISTRICT OF OKALOOSA COUNTY",
@@ -6374,7 +6476,8 @@
           "award_id": "ASST_NON_S299A250057_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "PINELLAS COUNTY SCHOOL DISTRICT",
@@ -6442,7 +6545,8 @@
           "award_id": "ASST_NON_HE12542010016_097",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "PUTNAM CO DISTRICT SCHOOL BOARD",
@@ -6462,7 +6566,8 @@
           "award_id": "ASST_NON_S411B250018_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "NEW YORK STATE EDUCATION DEPARTMENT",
@@ -6482,7 +6587,8 @@
           "award_id": "ASST_NON_S041B263379_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "SALAMANCA CITY SCHOOL DISTRICT",
@@ -6550,7 +6656,8 @@
           "award_id": "ASST_NON_HE12542010016_097",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "NEW YORK STATE HIGHER EDUCATION SERVICES CORPORATION",
@@ -6570,7 +6677,8 @@
           "award_id": "ASST_NON_S041B263379_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "INDIAN RIVER CENTRAL SCHOOL DISTRICT",
@@ -6590,7 +6698,8 @@
           "award_id": "ASST_NON_S041B263338_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "CITY OF NEW YORK BOARD OF EDUCATION",
@@ -6610,7 +6719,8 @@
           "award_id": "ASST_NON_S041B263379_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "NORTHEAST CHARTER SCHOOLS NETWORK, INC.",
@@ -6629,7 +6739,8 @@
           "start_date": "2023-04-01",
           "year": "2024-2025"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "SUCCESS ACADEMY CHARTER SCHOOLS INC",
@@ -6689,7 +6800,8 @@
           "start_date": "2024-04-01",
           "year": "2025"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "TICONDEROGA CENTRAL SCHOOL DISTRICT",
@@ -6757,7 +6869,8 @@
           "award_id": "ASST_NON_HE12542010016_097",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "CARTHAGE CENTRAL SCHOOL DISTRICT",
@@ -6777,7 +6890,8 @@
           "award_id": "ASST_NON_S041B263262_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "SODUS CENTRAL SCHOOL DISTRICT",
@@ -6845,7 +6959,8 @@
           "award_id": "ASST_NON_HE12542010016_097",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "ASCEND LEARNING INC",
@@ -6873,7 +6988,8 @@
           "start_date": "2023-04-01",
           "year": "2025"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "CENTER FOR EDUCATIONAL INNOVATION INC",
@@ -6909,7 +7025,8 @@
           "start_date": "2025-10-01",
           "year": "2025"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "UNBOUNDED LEARNING INC",
@@ -6929,7 +7046,8 @@
           "start_date": "2023-12-12",
           "year": "2024"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "HAVERSTRAW STONY POINT CENTRAL SCHOOL DISTRICT",
@@ -6997,7 +7115,8 @@
           "award_id": "ASST_NON_HE12542010016_097",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "ZETA CHARTER SCHOOLS, INC.",
@@ -7016,7 +7135,8 @@
           "start_date": "2023-04-01",
           "year": "2024-2025"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "LYONS CENTRAL SCHOOL DISTRICT",
@@ -7036,7 +7156,8 @@
           "award_id": "ASST_NON_S184H250009_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "HIGHLAND FALLS FORT MONTGOMERY SCHOOL DISTRICT",
@@ -7056,7 +7177,8 @@
           "award_id": "ASST_NON_S041A263327_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": false
     },
     {
       "name": "ROSCOE CENTRAL SCHOOL DISTRICT",
@@ -7124,7 +7246,8 @@
           "award_id": "ASST_NON_HE12542010016_097",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "ELMIRA CITY SCHOOL DISTRICT",
@@ -7192,7 +7315,8 @@
           "award_id": "ASST_NON_HE12542010016_097",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "UNIONDALE UNION FREE SCHOOL DISTRICT",
@@ -7212,7 +7336,8 @@
           "award_id": "ASST_NON_S184X250078_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "HORNELL CITY SCHOOL DISTRICT",
@@ -7280,7 +7405,8 @@
           "award_id": "ASST_NON_HE12542010016_097",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "SYRACUSE CITY SCHOOL DISTRICT",
@@ -7308,7 +7434,8 @@
           "award_id": "ASST_NON_S041B263473_091",
           "year": "2020-2026"
         }
-      ]
+      ],
+      "uses_edclub": true
     },
     {
       "name": "RENAISSANCE CHARTER SCHOOL",
@@ -7327,7 +7454,8 @@
           "start_date": "2023-04-01",
           "year": "2024-2025"
         }
-      ]
+      ],
+      "uses_edclub": true
     }
   ]
 }

@@ -1,0 +1,8095 @@
+{
+  "meta": {
+    "total_subdomains": 1282,
+    "matched": 335,
+    "unmatched": 947,
+    "districts_using_edclub": 75
+  },
+  "competitors": [
+    {
+      "subdomain": "3-5-stjohns.typingclub.com",
+      "name": "3 5 Stjohns",
+      "match": null
+    },
+    {
+      "subdomain": "3gearing.typingclub.com",
+      "name": "3Gearing",
+      "match": null
+    },
+    {
+      "subdomain": "7hills.typingclub.com",
+      "name": "7Hills",
+      "match": null
+    },
+    {
+      "subdomain": "abbyel.typingclub.com",
+      "name": "Abbyel",
+      "match": null
+    },
+    {
+      "subdomain": "aca-bowen.typingclub.com",
+      "name": "Aca Bowen",
+      "match": null
+    },
+    {
+      "subdomain": "academiesatgbds.typingclub.com",
+      "name": "Academiesatgbds",
+      "match": null
+    },
+    {
+      "subdomain": "actonlascruces.typingclub.com",
+      "name": "Actonlascruces",
+      "match": null
+    },
+    {
+      "subdomain": "addison-elementary3.typingclub.com",
+      "name": "Addison Elementary3",
+      "match": null
+    },
+    {
+      "subdomain": "addison-elementary4.typingclub.com",
+      "name": "Addison Elementary4",
+      "match": null
+    },
+    {
+      "subdomain": "aespanthers.typingclub.com",
+      "name": "Aespanthers",
+      "match": {
+        "district": "Spokane Public Schools",
+        "state": "WA",
+        "enrollment": 28000,
+        "confidence": 0.56
+      }
+    },
+    {
+      "subdomain": "afton-lakeland-elementary.typingclub.com",
+      "name": "Afton Lakeland Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "ahsbruck.typingclub.com",
+      "name": "Ahsbruck",
+      "match": null
+    },
+    {
+      "subdomain": "ainsworthschools.typingclub.com",
+      "name": "Ainsworthschools",
+      "match": {
+        "district": "Northshore School District",
+        "state": "WA",
+        "enrollment": 23000,
+        "confidence": 0.62
+      }
+    },
+    {
+      "subdomain": "aja2018.typingclub.com",
+      "name": "Aja2018",
+      "match": null
+    },
+    {
+      "subdomain": "alachua-elementary.typingclub.com",
+      "name": "Alachua Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "alak12.typingclub.com",
+      "name": "Alak12",
+      "match": null
+    },
+    {
+      "subdomain": "alamedaschools.typingclub.com",
+      "name": "Alamedaschools",
+      "match": {
+        "district": "PALMDALE SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "alan-shepard.typingclub.com",
+      "name": "Alan Shepard",
+      "match": null
+    },
+    {
+      "subdomain": "albanyusd.typingclub.com",
+      "name": "Albanyusd",
+      "match": null
+    },
+    {
+      "subdomain": "alleneast.typingclub.com",
+      "name": "Alleneast",
+      "match": {
+        "district": "Dallas Independent School District",
+        "state": "TX",
+        "enrollment": 140000,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "allenstown-elementary.typingclub.com",
+      "name": "Allenstown Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "allenstown-school.typingclub.com",
+      "name": "Allenstown School",
+      "match": null
+    },
+    {
+      "subdomain": "allenvillageschool.typingclub.com",
+      "name": "Allenvillageschool",
+      "match": null
+    },
+    {
+      "subdomain": "allschools.typingclub.com",
+      "name": "Allschools",
+      "match": null
+    },
+    {
+      "subdomain": "alpenaschools.typingclub.com",
+      "name": "Alpenaschools",
+      "match": null
+    },
+    {
+      "subdomain": "alshomoukh.typingclub.com",
+      "name": "Alshomoukh",
+      "match": null
+    },
+    {
+      "subdomain": "altavista.typingclub.com",
+      "name": "Altavista",
+      "match": null
+    },
+    {
+      "subdomain": "amboy-junior2.typingclub.com",
+      "name": "Amboy Junior2",
+      "match": {
+        "district": "FALLBROOK UNION ELEMENTARY SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "amsterdam.typingclub.com",
+      "name": "Amsterdam",
+      "match": {
+        "district": "MADERA UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "anne-sullivan-communication-center.typingclub.com",
+      "name": "Anne Sullivan Communication Center",
+      "match": {
+        "district": "REGION ONE EDUCATION SRV CENTER",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "antelope-creek.typingclub.com",
+      "name": "Antelope Creek",
+      "match": null
+    },
+    {
+      "subdomain": "apex-elementary-school.typingclub.com",
+      "name": "Apex Elementary School",
+      "match": null
+    },
+    {
+      "subdomain": "apex-elementary.typingclub.com",
+      "name": "Apex Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "appleton.typingclub.com",
+      "name": "Appleton",
+      "match": {
+        "district": "WAPATO SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "apps.typingclub.com",
+      "name": "Apps",
+      "match": null
+    },
+    {
+      "subdomain": "apsva.typingclub.com",
+      "name": "Apsva",
+      "match": {
+        "district": "WAPATO SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "arborland.typingclub.com",
+      "name": "Arborland",
+      "match": {
+        "district": "Portland Public Schools",
+        "state": "OR",
+        "enrollment": 43000,
+        "confidence": 0.71
+      }
+    },
+    {
+      "subdomain": "arcadia-wi-school.typingclub.com",
+      "name": "Arcadia Wi School",
+      "match": null
+    },
+    {
+      "subdomain": "archdale-elementary-school.typingclub.com",
+      "name": "Archdale Elementary School",
+      "match": {
+        "district": "PALMDALE SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.62
+      }
+    },
+    {
+      "subdomain": "ardmore.typingclub.com",
+      "name": "Ardmore",
+      "match": {
+        "district": "HARMONY PUBLIC SCHOOLS",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "arlingtonsciencefocusschool.typingclub.com",
+      "name": "Arlingtonsciencefocusschool",
+      "match": null
+    },
+    {
+      "subdomain": "arlmiddleschool.typingclub.com",
+      "name": "Arlmiddleschool",
+      "match": {
+        "district": "PALMDALE SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "armstrong-elementary.typingclub.com",
+      "name": "Armstrong Elementary",
+      "match": {
+        "district": "HARMONY PUBLIC SCHOOLS",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.62
+      }
+    },
+    {
+      "subdomain": "arsu.typingclub.com",
+      "name": "Arsu",
+      "match": null
+    },
+    {
+      "subdomain": "asaadams.typingclub.com",
+      "name": "Asaadams",
+      "match": {
+        "district": "MT ADAMS SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.62
+      }
+    },
+    {
+      "subdomain": "asbschool.typingclub.com",
+      "name": "Asbschool",
+      "match": null
+    },
+    {
+      "subdomain": "ascs-typing.typingclub.com",
+      "name": "Ascs Typing",
+      "match": null
+    },
+    {
+      "subdomain": "asdk12-cte.typingclub.com",
+      "name": "Asdk12 Cte",
+      "match": null
+    },
+    {
+      "subdomain": "ashby-elementary.typingclub.com",
+      "name": "Ashby Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "aspenk12.typingclub.com",
+      "name": "Aspenk12",
+      "match": null
+    },
+    {
+      "subdomain": "auburndaleelementary.typingclub.com",
+      "name": "Auburndaleelementary",
+      "match": null
+    },
+    {
+      "subdomain": "auburnvillageschool.typingclub.com",
+      "name": "Auburnvillageschool",
+      "match": null
+    },
+    {
+      "subdomain": "aurora-borealis.typingclub.com",
+      "name": "Aurora Borealis",
+      "match": null
+    },
+    {
+      "subdomain": "avilla-school.typingclub.com",
+      "name": "Avilla School",
+      "match": {
+        "district": "FARMERSVILLE USD",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.56
+      }
+    },
+    {
+      "subdomain": "b40middle.typingclub.com",
+      "name": "B40Middle",
+      "match": null
+    },
+    {
+      "subdomain": "baldwin2016.typingclub.com",
+      "name": "Baldwin2016",
+      "match": null
+    },
+    {
+      "subdomain": "baldwin-woodville-ar.typingclub.com",
+      "name": "Baldwin Woodville Ar",
+      "match": null
+    },
+    {
+      "subdomain": "balmoral.typingclub.com",
+      "name": "Balmoral",
+      "match": {
+        "district": "PALMDALE SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.62
+      }
+    },
+    {
+      "subdomain": "barranca.typingclub.com",
+      "name": "Barranca",
+      "match": null
+    },
+    {
+      "subdomain": "barrington220.typingclub.com",
+      "name": "Barrington220",
+      "match": null
+    },
+    {
+      "subdomain": "bartelsobraves.typingclub.com",
+      "name": "Bartelsobraves",
+      "match": null
+    },
+    {
+      "subdomain": "bathcats.typingclub.com",
+      "name": "Bathcats",
+      "match": null
+    },
+    {
+      "subdomain": "battell.typingclub.com",
+      "name": "Battell",
+      "match": {
+        "district": "Seattle Public Schools",
+        "state": "WA",
+        "enrollment": 49000,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "bayvillageschools.typingclub.com",
+      "name": "Bayvillageschools",
+      "match": null
+    },
+    {
+      "subdomain": "bbcps.typingclub.com",
+      "name": "Bbcps",
+      "match": null
+    },
+    {
+      "subdomain": "bcpsmcalear.typingclub.com",
+      "name": "Bcpsmcalear",
+      "match": {
+        "district": "PALMDALE SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "bcsberlin.typingclub.com",
+      "name": "Bcsberlin",
+      "match": {
+        "district": "CENTRAL UNION ELEMENTARY SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "bcsdbearcats.typingclub.com",
+      "name": "Bcsdbearcats",
+      "match": null
+    },
+    {
+      "subdomain": "bcsetech.typingclub.com",
+      "name": "Bcsetech",
+      "match": {
+        "district": "Seattle Public Schools",
+        "state": "WA",
+        "enrollment": 49000,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "beachmont.typingclub.com",
+      "name": "Beachmont",
+      "match": null
+    },
+    {
+      "subdomain": "beattie-elementary.typingclub.com",
+      "name": "Beattie Elementary",
+      "match": {
+        "district": "Seattle Public Schools",
+        "state": "WA",
+        "enrollment": 49000,
+        "confidence": 0.71
+      }
+    },
+    {
+      "subdomain": "beauregard-parish.typingclub.com",
+      "name": "Beauregard Parish",
+      "match": null
+    },
+    {
+      "subdomain": "becker.typingclub.com",
+      "name": "Becker",
+      "match": null
+    },
+    {
+      "subdomain": "beemanschool.typingclub.com",
+      "name": "Beemanschool",
+      "match": null
+    },
+    {
+      "subdomain": "beersstreetschool.typingclub.com",
+      "name": "Beersstreetschool",
+      "match": null
+    },
+    {
+      "subdomain": "bellevuees.typingclub.com",
+      "name": "Bellevuees",
+      "match": {
+        "district": "Bellevue School District",
+        "state": "WA",
+        "enrollment": 19000,
+        "confidence": 1.1
+      }
+    },
+    {
+      "subdomain": "belmar-elementary2.typingclub.com",
+      "name": "Belmar Elementary2",
+      "match": null
+    },
+    {
+      "subdomain": "belmar-elementary.typingclub.com",
+      "name": "Belmar Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "belmay.typingclub.com",
+      "name": "Belmay",
+      "match": {
+        "district": "ELMIRA CITY SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.59
+      }
+    },
+    {
+      "subdomain": "benito34.typingclub.com",
+      "name": "Benito34",
+      "match": null
+    },
+    {
+      "subdomain": "bennettib.typingclub.com",
+      "name": "Bennettib",
+      "match": null
+    },
+    {
+      "subdomain": "benparker.typingclub.com",
+      "name": "Benparker",
+      "match": null
+    },
+    {
+      "subdomain": "benton.typingclub.com",
+      "name": "Benton",
+      "match": {
+        "district": "Kent School District",
+        "state": "WA",
+        "enrollment": 25000,
+        "confidence": 0.6
+      }
+    },
+    {
+      "subdomain": "bergsdeafed.typingclub.com",
+      "name": "Bergsdeafed",
+      "match": null
+    },
+    {
+      "subdomain": "berino-elementary.typingclub.com",
+      "name": "Berino Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "berkeley-unified.typingclub.com",
+      "name": "Berkeley Unified",
+      "match": null
+    },
+    {
+      "subdomain": "berlinschools.typingclub.com",
+      "name": "Berlinschools",
+      "match": null
+    },
+    {
+      "subdomain": "bernards-township.typingclub.com",
+      "name": "Bernards Township",
+      "match": null
+    },
+    {
+      "subdomain": "berry-school.typingclub.com",
+      "name": "Berry School",
+      "match": null
+    },
+    {
+      "subdomain": "beta.typingclub.com",
+      "name": "Beta",
+      "match": null
+    },
+    {
+      "subdomain": "bethanyeagles.typingclub.com",
+      "name": "Bethanyeagles",
+      "match": null
+    },
+    {
+      "subdomain": "bethel-elementary.typingclub.com",
+      "name": "Bethel Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "bethke.typingclub.com",
+      "name": "Bethke",
+      "match": null
+    },
+    {
+      "subdomain": "beulah-heights.typingclub.com",
+      "name": "Beulah Heights",
+      "match": null
+    },
+    {
+      "subdomain": "beverly-hills.typingclub.com",
+      "name": "Beverly Hills",
+      "match": null
+    },
+    {
+      "subdomain": "bexleyschools.typingclub.com",
+      "name": "Bexleyschools",
+      "match": null
+    },
+    {
+      "subdomain": "bfcds.typingclub.com",
+      "name": "Bfcds",
+      "match": null
+    },
+    {
+      "subdomain": "bgcparkersburg.typingclub.com",
+      "name": "Bgcparkersburg",
+      "match": null
+    },
+    {
+      "subdomain": "bgsbulldogs.typingclub.com",
+      "name": "Bgsbulldogs",
+      "match": null
+    },
+    {
+      "subdomain": "big-bear-bbesbobcats.typingclub.com",
+      "name": "Big Bear Bbesbobcats",
+      "match": null
+    },
+    {
+      "subdomain": "big-sky.typingclub.com",
+      "name": "Big Sky",
+      "match": null
+    },
+    {
+      "subdomain": "biloxischools.typingclub.com",
+      "name": "Biloxischools",
+      "match": null
+    },
+    {
+      "subdomain": "birchwood-school.typingclub.com",
+      "name": "Birchwood School",
+      "match": null
+    },
+    {
+      "subdomain": "birchwood.typingclub.com",
+      "name": "Birchwood",
+      "match": null
+    },
+    {
+      "subdomain": "bison.typingclub.com",
+      "name": "Bison",
+      "match": null
+    },
+    {
+      "subdomain": "blackfoxtyping.typingclub.com",
+      "name": "Blackfoxtyping",
+      "match": null
+    },
+    {
+      "subdomain": "blanchester-local.typingclub.com",
+      "name": "Blanchester Local",
+      "match": {
+        "district": "LYONS CENTRAL SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "blanintermediate.typingclub.com",
+      "name": "Blanintermediate",
+      "match": null
+    },
+    {
+      "subdomain": "bliss-school.typingclub.com",
+      "name": "Bliss School",
+      "match": null
+    },
+    {
+      "subdomain": "blog.typingclub.com",
+      "name": "Blog",
+      "match": null
+    },
+    {
+      "subdomain": "bloomfield07003.typingclub.com",
+      "name": "Bloomfield07003",
+      "match": null
+    },
+    {
+      "subdomain": "bloomfieldcsd.typingclub.com",
+      "name": "Bloomfieldcsd",
+      "match": null
+    },
+    {
+      "subdomain": "bloomingdale13.typingclub.com",
+      "name": "Bloomingdale13",
+      "match": {
+        "district": "PALMDALE SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "blue-mountain.typingclub.com",
+      "name": "Blue Mountain",
+      "match": {
+        "district": "LEE COUNTY SCHOOL BOARD",
+        "state": "FL",
+        "enrollment": null,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "blue-valley-school.typingclub.com",
+      "name": "Blue Valley School",
+      "match": {
+        "district": "SILVER VALLEY UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.75
+      }
+    },
+    {
+      "subdomain": "bluffridge.typingclub.com",
+      "name": "Bluffridge",
+      "match": null
+    },
+    {
+      "subdomain": "boltoncentralschool.typingclub.com",
+      "name": "Boltoncentralschool",
+      "match": {
+        "district": "LYONS CENTRAL SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.62
+      }
+    },
+    {
+      "subdomain": "bonner.typingclub.com",
+      "name": "Bonner",
+      "match": {
+        "district": "LACONNER SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.71
+      }
+    },
+    {
+      "subdomain": "bonneville.typingclub.com",
+      "name": "Bonneville",
+      "match": {
+        "district": "CONEJO VALLEY UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.61
+      }
+    },
+    {
+      "subdomain": "bow-valley.typingclub.com",
+      "name": "Bow Valley",
+      "match": {
+        "district": "CONEJO VALLEY UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.7
+      }
+    },
+    {
+      "subdomain": "bpme1.typingclub.com",
+      "name": "Bpme1",
+      "match": null
+    },
+    {
+      "subdomain": "brakenbury.typingclub.com",
+      "name": "Brakenbury",
+      "match": null
+    },
+    {
+      "subdomain": "branch.typingclub.com",
+      "name": "Branch",
+      "match": null
+    },
+    {
+      "subdomain": "branciforte.typingclub.com",
+      "name": "Branciforte",
+      "match": null
+    },
+    {
+      "subdomain": "breck-el.typingclub.com",
+      "name": "Breck El",
+      "match": null
+    },
+    {
+      "subdomain": "brentwoodlowerschool.typingclub.com",
+      "name": "Brentwoodlowerschool",
+      "match": null
+    },
+    {
+      "subdomain": "briarcrest.typingclub.com",
+      "name": "Briarcrest",
+      "match": null
+    },
+    {
+      "subdomain": "bridgeportbobcats.typingclub.com",
+      "name": "Bridgeportbobcats",
+      "match": null
+    },
+    {
+      "subdomain": "bridgeport-gradejones.typingclub.com",
+      "name": "Bridgeport Gradejones",
+      "match": null
+    },
+    {
+      "subdomain": "bridgeport-grade-nash.typingclub.com",
+      "name": "Bridgeport Grade Nash",
+      "match": null
+    },
+    {
+      "subdomain": "bridgeport-gradewaggoner.typingclub.com",
+      "name": "Bridgeport Gradewaggoner",
+      "match": null
+    },
+    {
+      "subdomain": "bridgeway-island3.typingclub.com",
+      "name": "Bridgeway Island3",
+      "match": null
+    },
+    {
+      "subdomain": "bridgeway-island4.typingclub.com",
+      "name": "Bridgeway Island4",
+      "match": null
+    },
+    {
+      "subdomain": "bridgeway-island-elementary-school.typingclub.com",
+      "name": "Bridgeway Island Elementary School",
+      "match": null
+    },
+    {
+      "subdomain": "bronxville-elementary.typingclub.com",
+      "name": "Bronxville Elementary",
+      "match": {
+        "district": "FARMERSVILLE USD",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "brookfieldschool.typingclub.com",
+      "name": "Brookfieldschool",
+      "match": null
+    },
+    {
+      "subdomain": "bruceton.typingclub.com",
+      "name": "Bruceton",
+      "match": null
+    },
+    {
+      "subdomain": "bryn-mawr.typingclub.com",
+      "name": "Bryn Mawr",
+      "match": null
+    },
+    {
+      "subdomain": "bsusd.typingclub.com",
+      "name": "Bsusd",
+      "match": null
+    },
+    {
+      "subdomain": "bullpups.typingclub.com",
+      "name": "Bullpups",
+      "match": null
+    },
+    {
+      "subdomain": "buncombe.typingclub.com",
+      "name": "Buncombe",
+      "match": null
+    },
+    {
+      "subdomain": "burley.typingclub.com",
+      "name": "Burley",
+      "match": null
+    },
+    {
+      "subdomain": "burlington-edison.typingclub.com",
+      "name": "Burlington Edison",
+      "match": {
+        "district": "UPLIFT EDUCATION",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.61
+      }
+    },
+    {
+      "subdomain": "burton-valley.typingclub.com",
+      "name": "Burton Valley",
+      "match": {
+        "district": "CONEJO VALLEY UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.69
+      }
+    },
+    {
+      "subdomain": "busbee-bulldogs.typingclub.com",
+      "name": "Busbee Bulldogs",
+      "match": null
+    },
+    {
+      "subdomain": "busd.typingclub.com",
+      "name": "Busd",
+      "match": null
+    },
+    {
+      "subdomain": "busdtyping.typingclub.com",
+      "name": "Busdtyping",
+      "match": null
+    },
+    {
+      "subdomain": "bushland.typingclub.com",
+      "name": "Bushland",
+      "match": null
+    },
+    {
+      "subdomain": "cache-lpe.typingclub.com",
+      "name": "Cache Lpe",
+      "match": null
+    },
+    {
+      "subdomain": "cacprimary.typingclub.com",
+      "name": "Cacprimary",
+      "match": null
+    },
+    {
+      "subdomain": "caliche-elementary-school.typingclub.com",
+      "name": "Caliche Elementary School",
+      "match": null
+    },
+    {
+      "subdomain": "calwheat.typingclub.com",
+      "name": "Calwheat",
+      "match": null
+    },
+    {
+      "subdomain": "cambridge-intermediate.typingclub.com",
+      "name": "Cambridge Intermediate",
+      "match": {
+        "district": "CARTHAGE CENTRAL SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "cambridgemontessori.typingclub.com",
+      "name": "Cambridgemontessori",
+      "match": null
+    },
+    {
+      "subdomain": "cambridge.typingclub.com",
+      "name": "Cambridge",
+      "match": null
+    },
+    {
+      "subdomain": "camelot-elem.typingclub.com",
+      "name": "Camelot Elem",
+      "match": {
+        "district": "Los Angeles Unified School District",
+        "state": "CA",
+        "enrollment": 420000,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "campion.typingclub.com",
+      "name": "Campion",
+      "match": {
+        "district": "HARMONY PUBLIC SCHOOLS",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "canyon-view.typingclub.com",
+      "name": "Canyon View",
+      "match": null
+    },
+    {
+      "subdomain": "cappelletti.typingclub.com",
+      "name": "Cappelletti",
+      "match": null
+    },
+    {
+      "subdomain": "caroline-school.typingclub.com",
+      "name": "Caroline School",
+      "match": {
+        "district": "HARMONY PUBLIC SCHOOLS",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "carrboro-elementary.typingclub.com",
+      "name": "Carrboro Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "carrillo-ranch.typingclub.com",
+      "name": "Carrillo Ranch",
+      "match": null
+    },
+    {
+      "subdomain": "carroll11.typingclub.com",
+      "name": "Carroll11",
+      "match": null
+    },
+    {
+      "subdomain": "carthage-ot.typingclub.com",
+      "name": "Carthage Ot",
+      "match": {
+        "district": "CARTHAGE CENTRAL SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.74
+      }
+    },
+    {
+      "subdomain": "caseypark.typingclub.com",
+      "name": "Caseypark",
+      "match": {
+        "district": "CLOVER PARK SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.6
+      }
+    },
+    {
+      "subdomain": "catalystschools.typingclub.com",
+      "name": "Catalystschools",
+      "match": null
+    },
+    {
+      "subdomain": "cathedralschool204.typingclub.com",
+      "name": "Cathedralschool204",
+      "match": null
+    },
+    {
+      "subdomain": "cawley.typingclub.com",
+      "name": "Cawley",
+      "match": {
+        "district": "CONEJO VALLEY UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "cbagrade3.typingclub.com",
+      "name": "Cbagrade3",
+      "match": null
+    },
+    {
+      "subdomain": "cbu4sd.typingclub.com",
+      "name": "Cbu4Sd",
+      "match": null
+    },
+    {
+      "subdomain": "ccaschools.typingclub.com",
+      "name": "Ccaschools",
+      "match": null
+    },
+    {
+      "subdomain": "ccla4th.typingclub.com",
+      "name": "Ccla4Th",
+      "match": null
+    },
+    {
+      "subdomain": "ccmt-school.typingclub.com",
+      "name": "Ccmt School",
+      "match": null
+    },
+    {
+      "subdomain": "cdaschools.typingclub.com",
+      "name": "Cdaschools",
+      "match": null
+    },
+    {
+      "subdomain": "cecil-b.typingclub.com",
+      "name": "Cecil B",
+      "match": null
+    },
+    {
+      "subdomain": "centerville-elementary2.typingclub.com",
+      "name": "Centerville Elementary2",
+      "match": null
+    },
+    {
+      "subdomain": "centralelementary.typingclub.com",
+      "name": "Centralelementary",
+      "match": {
+        "district": "CENTRAL KITSAP SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.58
+      }
+    },
+    {
+      "subdomain": "central-middle.typingclub.com",
+      "name": "Central Middle",
+      "match": {
+        "district": "CENTRAL KITSAP SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.9
+      }
+    },
+    {
+      "subdomain": "central-park3.typingclub.com",
+      "name": "Central Park3",
+      "match": {
+        "district": "CENTRAL KITSAP SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.67
+      }
+    },
+    {
+      "subdomain": "century.typingclub.com",
+      "name": "Century",
+      "match": {
+        "district": "Kent School District",
+        "state": "WA",
+        "enrollment": 25000,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "cerra-vista-school.typingclub.com",
+      "name": "Cerra Vista School",
+      "match": {
+        "district": "CENTRAL KITSAP SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.64
+      }
+    },
+    {
+      "subdomain": "ceselementary.typingclub.com",
+      "name": "Ceselementary",
+      "match": null
+    },
+    {
+      "subdomain": "cestyping.typingclub.com",
+      "name": "Cestyping",
+      "match": null
+    },
+    {
+      "subdomain": "c-fbisd.typingclub.com",
+      "name": "C Fbisd",
+      "match": null
+    },
+    {
+      "subdomain": "cfktyping.typingclub.com",
+      "name": "Cfktyping",
+      "match": null
+    },
+    {
+      "subdomain": "cfschools.typingclub.com",
+      "name": "Cfschools",
+      "match": null
+    },
+    {
+      "subdomain": "cf-ssl42897-protected-s.typingclub.com",
+      "name": "Cf Ssl42897 Protected S",
+      "match": null
+    },
+    {
+      "subdomain": "cf-ssl42897-protected-www.typingclub.com",
+      "name": "Cf Ssl42897 Protected Www",
+      "match": null
+    },
+    {
+      "subdomain": "cfstpats.typingclub.com",
+      "name": "Cfstpats",
+      "match": null
+    },
+    {
+      "subdomain": "challenger2.typingclub.com",
+      "name": "Challenger2",
+      "match": null
+    },
+    {
+      "subdomain": "challenger6.typingclub.com",
+      "name": "Challenger6",
+      "match": null
+    },
+    {
+      "subdomain": "champs.typingclub.com",
+      "name": "Champs",
+      "match": null
+    },
+    {
+      "subdomain": "chaneymonge.typingclub.com",
+      "name": "Chaneymonge",
+      "match": {
+        "district": "HARMONY PUBLIC SCHOOLS",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.56
+      }
+    },
+    {
+      "subdomain": "chango2.typingclub.com",
+      "name": "Chango2",
+      "match": null
+    },
+    {
+      "subdomain": "chargers.typingclub.com",
+      "name": "Chargers",
+      "match": {
+        "district": "YPI CHARTER SCHOOLS, INC,",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "charleswright.typingclub.com",
+      "name": "Charleswright",
+      "match": null
+    },
+    {
+      "subdomain": "charlotte-anderson.typingclub.com",
+      "name": "Charlotte Anderson",
+      "match": null
+    },
+    {
+      "subdomain": "chattahoochee-hills.typingclub.com",
+      "name": "Chattahoochee Hills",
+      "match": null
+    },
+    {
+      "subdomain": "checolts.typingclub.com",
+      "name": "Checolts",
+      "match": null
+    },
+    {
+      "subdomain": "chelseavt.typingclub.com",
+      "name": "Chelseavt",
+      "match": null
+    },
+    {
+      "subdomain": "cherryvalley.typingclub.com",
+      "name": "Cherryvalley",
+      "match": {
+        "district": "SILVER VALLEY UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.64
+      }
+    },
+    {
+      "subdomain": "cheyennesd.typingclub.com",
+      "name": "Cheyennesd",
+      "match": null
+    },
+    {
+      "subdomain": "chicocountrydayschool.typingclub.com",
+      "name": "Chicocountrydayschool",
+      "match": null
+    },
+    {
+      "subdomain": "chiefkitsap.typingclub.com",
+      "name": "Chiefkitsap",
+      "match": {
+        "district": "CENTRAL KITSAP SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.64
+      }
+    },
+    {
+      "subdomain": "chipfalls.typingclub.com",
+      "name": "Chipfalls",
+      "match": null
+    },
+    {
+      "subdomain": "chpcs6.typingclub.com",
+      "name": "Chpcs6",
+      "match": null
+    },
+    {
+      "subdomain": "chs-croydon.typingclub.com",
+      "name": "Chs Croydon",
+      "match": null
+    },
+    {
+      "subdomain": "chusd.typingclub.com",
+      "name": "Chusd",
+      "match": null
+    },
+    {
+      "subdomain": "cincy.typingclub.com",
+      "name": "Cincy",
+      "match": null
+    },
+    {
+      "subdomain": "cismanila.typingclub.com",
+      "name": "Cismanila",
+      "match": null
+    },
+    {
+      "subdomain": "clay-battelle.typingclub.com",
+      "name": "Clay Battelle",
+      "match": null
+    },
+    {
+      "subdomain": "cleveland1910.typingclub.com",
+      "name": "Cleveland1910",
+      "match": null
+    },
+    {
+      "subdomain": "clkel.typingclub.com",
+      "name": "Clkel",
+      "match": null
+    },
+    {
+      "subdomain": "cmstech.typingclub.com",
+      "name": "Cmstech",
+      "match": null
+    },
+    {
+      "subdomain": "coalcreekcanyonk8.typingclub.com",
+      "name": "Coalcreekcanyonk8",
+      "match": null
+    },
+    {
+      "subdomain": "cobble-hill-nathalie.typingclub.com",
+      "name": "Cobble Hill Nathalie",
+      "match": null
+    },
+    {
+      "subdomain": "cobblestone-elementarycl.typingclub.com",
+      "name": "Cobblestone Elementarycl",
+      "match": null
+    },
+    {
+      "subdomain": "coedi.typingclub.com",
+      "name": "Coedi",
+      "match": null
+    },
+    {
+      "subdomain": "cojowa.typingclub.com",
+      "name": "Cojowa",
+      "match": {
+        "district": "CONEJO VALLEY UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "colegiolapaz.typingclub.com",
+      "name": "Colegiolapaz",
+      "match": null
+    },
+    {
+      "subdomain": "colegiomexicobachillerato.typingclub.com",
+      "name": "Colegiomexicobachillerato",
+      "match": null
+    },
+    {
+      "subdomain": "colonial-beach.typingclub.com",
+      "name": "Colonial Beach",
+      "match": null
+    },
+    {
+      "subdomain": "columbia-elementary4.typingclub.com",
+      "name": "Columbia Elementary4",
+      "match": null
+    },
+    {
+      "subdomain": "columbia-elementary-school.typingclub.com",
+      "name": "Columbia Elementary School",
+      "match": {
+        "district": "Tacoma Public Schools",
+        "state": "WA",
+        "enrollment": 27000,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "computerlab.typingclub.com",
+      "name": "Computerlab",
+      "match": null
+    },
+    {
+      "subdomain": "cooperfamily2.typingclub.com",
+      "name": "Cooperfamily2",
+      "match": null
+    },
+    {
+      "subdomain": "corry.typingclub.com",
+      "name": "Corry",
+      "match": null
+    },
+    {
+      "subdomain": "cory-elementary.typingclub.com",
+      "name": "Cory Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "cottonwood.typingclub.com",
+      "name": "Cottonwood",
+      "match": null
+    },
+    {
+      "subdomain": "county.typingclub.com",
+      "name": "County",
+      "match": {
+        "district": "Miami-Dade County Public Schools",
+        "state": "FL",
+        "enrollment": 334000,
+        "confidence": 0.9
+      }
+    },
+    {
+      "subdomain": "cppasd.typingclub.com",
+      "name": "Cppasd",
+      "match": {
+        "district": "PASADENA UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "cpp.typingclub.com",
+      "name": "Cpp",
+      "match": null
+    },
+    {
+      "subdomain": "cpsd400.typingclub.com",
+      "name": "Cpsd400",
+      "match": null
+    },
+    {
+      "subdomain": "cpsfc.typingclub.com",
+      "name": "Cpsfc",
+      "match": null
+    },
+    {
+      "subdomain": "crandonelementary.typingclub.com",
+      "name": "Crandonelementary",
+      "match": {
+        "district": "LACKLAND INDEPENDENT SCHOOL DISTRICT",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.54
+      }
+    },
+    {
+      "subdomain": "craneschool.typingclub.com",
+      "name": "Craneschool",
+      "match": null
+    },
+    {
+      "subdomain": "crescent-view1.typingclub.com",
+      "name": "Crescent View1",
+      "match": null
+    },
+    {
+      "subdomain": "cresdories.typingclub.com",
+      "name": "Cresdories",
+      "match": null
+    },
+    {
+      "subdomain": "crewsms.typingclub.com",
+      "name": "Crewsms",
+      "match": null
+    },
+    {
+      "subdomain": "crissman-elementary.typingclub.com",
+      "name": "Crissman Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "crocker-farm.typingclub.com",
+      "name": "Crocker Farm",
+      "match": {
+        "district": "CLOVER PARK SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.61
+      }
+    },
+    {
+      "subdomain": "crocker-highlands.typingclub.com",
+      "name": "Crocker Highlands",
+      "match": null
+    },
+    {
+      "subdomain": "crossvilleelementary.typingclub.com",
+      "name": "Crossvilleelementary",
+      "match": null
+    },
+    {
+      "subdomain": "crownpointmiddle.typingclub.com",
+      "name": "Crownpointmiddle",
+      "match": null
+    },
+    {
+      "subdomain": "csdrcubs.typingclub.com",
+      "name": "Csdrcubs",
+      "match": null
+    },
+    {
+      "subdomain": "cspringsr4.typingclub.com",
+      "name": "Cspringsr4",
+      "match": null
+    },
+    {
+      "subdomain": "cssu.typingclub.com",
+      "name": "Cssu",
+      "match": null
+    },
+    {
+      "subdomain": "ctough2017.typingclub.com",
+      "name": "Ctough2017",
+      "match": null
+    },
+    {
+      "subdomain": "cubak-4.typingclub.com",
+      "name": "Cubak 4",
+      "match": null
+    },
+    {
+      "subdomain": "curleywolves.typingclub.com",
+      "name": "Curleywolves",
+      "match": null
+    },
+    {
+      "subdomain": "cusdk8.typingclub.com",
+      "name": "Cusdk8",
+      "match": null
+    },
+    {
+      "subdomain": "cusd.typingclub.com",
+      "name": "Cusd",
+      "match": null
+    },
+    {
+      "subdomain": "cutler.typingclub.com",
+      "name": "Cutler",
+      "match": {
+        "district": "CUTLER-OROSI JOINT UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.9
+      }
+    },
+    {
+      "subdomain": "cvsd.typingclub.com",
+      "name": "Cvsd",
+      "match": null
+    },
+    {
+      "subdomain": "cvusd.typingclub.com",
+      "name": "Cvusd",
+      "match": null
+    },
+    {
+      "subdomain": "danville-elementary2.typingclub.com",
+      "name": "Danville Elementary2",
+      "match": {
+        "district": "KILLEEN INDEPENDENT SCHOOL DISTRICT",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.51
+      }
+    },
+    {
+      "subdomain": "darien.typingclub.com",
+      "name": "Darien",
+      "match": null
+    },
+    {
+      "subdomain": "davisonkindergarten.typingclub.com",
+      "name": "Davisonkindergarten",
+      "match": {
+        "district": "TICONDEROGA CENTRAL SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "dcsnh.typingclub.com",
+      "name": "Dcsnh",
+      "match": null
+    },
+    {
+      "subdomain": "deforestsd.typingclub.com",
+      "name": "Deforestsd",
+      "match": null
+    },
+    {
+      "subdomain": "del-mar.typingclub.com",
+      "name": "Del Mar",
+      "match": {
+        "district": "Federal Way Public Schools",
+        "state": "WA",
+        "enrollment": 22000,
+        "confidence": 0.56
+      }
+    },
+    {
+      "subdomain": "dennison.typingclub.com",
+      "name": "Dennison",
+      "match": {
+        "district": "CENTRAL UNION ELEMENTARY SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "desoto86.typingclub.com",
+      "name": "Desoto86",
+      "match": null
+    },
+    {
+      "subdomain": "desoto-il.typingclub.com",
+      "name": "Desoto Il",
+      "match": {
+        "district": "DESOTO INDEPENDENT SCHOOL DISTRICT",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.59
+      }
+    },
+    {
+      "subdomain": "desotopirates.typingclub.com",
+      "name": "Desotopirates",
+      "match": {
+        "district": "DESOTO INDEPENDENT SCHOOL DISTRICT",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "desotopsb.typingclub.com",
+      "name": "Desotopsb",
+      "match": {
+        "district": "DESOTO INDEPENDENT SCHOOL DISTRICT",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "deters.typingclub.com",
+      "name": "Deters",
+      "match": null
+    },
+    {
+      "subdomain": "dewar.typingclub.com",
+      "name": "Dewar",
+      "match": {
+        "district": "IDEA PUBLIC SCHOOLS",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.67
+      }
+    },
+    {
+      "subdomain": "dginn.typingclub.com",
+      "name": "Dginn",
+      "match": null
+    },
+    {
+      "subdomain": "diamondvalley.typingclub.com",
+      "name": "Diamondvalley",
+      "match": {
+        "district": "CONEJO VALLEY UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.62
+      }
+    },
+    {
+      "subdomain": "dickinsonalc.typingclub.com",
+      "name": "Dickinsonalc",
+      "match": null
+    },
+    {
+      "subdomain": "dighton-elementary.typingclub.com",
+      "name": "Dighton Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "discoveroja.typingclub.com",
+      "name": "Discoveroja",
+      "match": {
+        "district": "CLOVER PARK SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "discovery3.typingclub.com",
+      "name": "Discovery3",
+      "match": {
+        "district": "VANCOUVER SCHOOL DISTRICT 37",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "discoveryok.typingclub.com",
+      "name": "Discoveryok",
+      "match": {
+        "district": "CLOVER PARK SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "district31.typingclub.com",
+      "name": "District31",
+      "match": null
+    },
+    {
+      "subdomain": "district742.typingclub.com",
+      "name": "District742",
+      "match": null
+    },
+    {
+      "subdomain": "district75.typingclub.com",
+      "name": "District75",
+      "match": null
+    },
+    {
+      "subdomain": "dixieschooldistrict.typingclub.com",
+      "name": "Dixieschooldistrict",
+      "match": null
+    },
+    {
+      "subdomain": "diyardibbaschool.typingclub.com",
+      "name": "Diyardibbaschool",
+      "match": null
+    },
+    {
+      "subdomain": "doland-school.typingclub.com",
+      "name": "Doland School",
+      "match": {
+        "district": "Portland Public Schools",
+        "state": "OR",
+        "enrollment": 43000,
+        "confidence": 0.71
+      }
+    },
+    {
+      "subdomain": "donna-shepard3.typingclub.com",
+      "name": "Donna Shepard3",
+      "match": null
+    },
+    {
+      "subdomain": "donnellmiddleschool.typingclub.com",
+      "name": "Donnellmiddleschool",
+      "match": null
+    },
+    {
+      "subdomain": "dorseybulldogs.typingclub.com",
+      "name": "Dorseybulldogs",
+      "match": null
+    },
+    {
+      "subdomain": "double-peakk8.typingclub.com",
+      "name": "Double Peakk8",
+      "match": null
+    },
+    {
+      "subdomain": "dover-public.typingclub.com",
+      "name": "Dover Public",
+      "match": {
+        "district": "CLOVER PARK SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "dpsnepal.typingclub.com",
+      "name": "Dpsnepal",
+      "match": {
+        "district": "Seattle Public Schools",
+        "state": "WA",
+        "enrollment": 49000,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "dtems.typingclub.com",
+      "name": "Dtems",
+      "match": null
+    },
+    {
+      "subdomain": "dulwich-suzhou.typingclub.com",
+      "name": "Dulwich Suzhou",
+      "match": null
+    },
+    {
+      "subdomain": "dunnib.typingclub.com",
+      "name": "Dunnib",
+      "match": null
+    },
+    {
+      "subdomain": "eajohnson.typingclub.com",
+      "name": "Eajohnson",
+      "match": null
+    },
+    {
+      "subdomain": "earlham-community.typingclub.com",
+      "name": "Earlham Community",
+      "match": {
+        "district": "SALAMANCA CITY SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.58
+      }
+    },
+    {
+      "subdomain": "early.typingclub.com",
+      "name": "Early",
+      "match": null
+    },
+    {
+      "subdomain": "east-carter.typingclub.com",
+      "name": "East Carter",
+      "match": {
+        "district": "ZETA CHARTER SCHOOLS, INC.",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.67
+      }
+    },
+    {
+      "subdomain": "eastelementaryschool.typingclub.com",
+      "name": "Eastelementaryschool",
+      "match": null
+    },
+    {
+      "subdomain": "eastern-christian.typingclub.com",
+      "name": "Eastern Christian",
+      "match": null
+    },
+    {
+      "subdomain": "eastsidegradeschool.typingclub.com",
+      "name": "Eastsidegradeschool",
+      "match": null
+    },
+    {
+      "subdomain": "eastwood-elementary2.typingclub.com",
+      "name": "Eastwood Elementary2",
+      "match": {
+        "district": "DESOTO INDEPENDENT SCHOOL DISTRICT",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "eden-central-school.typingclub.com",
+      "name": "Eden Central School",
+      "match": {
+        "district": "SODUS CENTRAL SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.72
+      }
+    },
+    {
+      "subdomain": "edgellandolson.typingclub.com",
+      "name": "Edgellandolson",
+      "match": null
+    },
+    {
+      "subdomain": "edgertonpublic.typingclub.com",
+      "name": "Edgertonpublic",
+      "match": null
+    },
+    {
+      "subdomain": "edgewood-community2.typingclub.com",
+      "name": "Edgewood Community2",
+      "match": {
+        "district": "Orange County Public Schools",
+        "state": "FL",
+        "enrollment": 206000,
+        "confidence": 0.56
+      }
+    },
+    {
+      "subdomain": "edgewood-community3rd.typingclub.com",
+      "name": "Edgewood Community3Rd",
+      "match": {
+        "district": "LEE COUNTY SCHOOL BOARD",
+        "state": "FL",
+        "enrollment": null,
+        "confidence": 0.59
+      }
+    },
+    {
+      "subdomain": "edgewood-community4.typingclub.com",
+      "name": "Edgewood Community4",
+      "match": {
+        "district": "Orange County Public Schools",
+        "state": "FL",
+        "enrollment": 206000,
+        "confidence": 0.56
+      }
+    },
+    {
+      "subdomain": "edgewood-community-school.typingclub.com",
+      "name": "Edgewood Community School",
+      "match": {
+        "district": "Orange County Public Schools",
+        "state": "FL",
+        "enrollment": 206000,
+        "confidence": 0.58
+      }
+    },
+    {
+      "subdomain": "edgewood-community.typingclub.com",
+      "name": "Edgewood Community",
+      "match": {
+        "district": "Orange County Public Schools",
+        "state": "FL",
+        "enrollment": 206000,
+        "confidence": 0.58
+      }
+    },
+    {
+      "subdomain": "edgewoodmiddleschool.typingclub.com",
+      "name": "Edgewoodmiddleschool",
+      "match": null
+    },
+    {
+      "subdomain": "edgewood-rhian.typingclub.com",
+      "name": "Edgewood Rhian",
+      "match": null
+    },
+    {
+      "subdomain": "edgewood-sumner3rdgrade.typingclub.com",
+      "name": "Edgewood Sumner3Rdgrade",
+      "match": null
+    },
+    {
+      "subdomain": "edgewood.typingclub.com",
+      "name": "Edgewood",
+      "match": null
+    },
+    {
+      "subdomain": "edison-elementary.typingclub.com",
+      "name": "Edison Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "edmonds.typingclub.com",
+      "name": "Edmonds",
+      "match": null
+    },
+    {
+      "subdomain": "ees123.typingclub.com",
+      "name": "Ees123",
+      "match": null
+    },
+    {
+      "subdomain": "elsinboro-twp-school.typingclub.com",
+      "name": "Elsinboro Twp School",
+      "match": null
+    },
+    {
+      "subdomain": "emge-elementary.typingclub.com",
+      "name": "Emge Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "ephesus-greto.typingclub.com",
+      "name": "Ephesus Greto",
+      "match": null
+    },
+    {
+      "subdomain": "ephesus-nisbet.typingclub.com",
+      "name": "Ephesus Nisbet",
+      "match": null
+    },
+    {
+      "subdomain": "ephesus-road-elementary-school.typingclub.com",
+      "name": "Ephesus Road Elementary School",
+      "match": null
+    },
+    {
+      "subdomain": "ephesus.typingclub.com",
+      "name": "Ephesus",
+      "match": null
+    },
+    {
+      "subdomain": "equinox.typingclub.com",
+      "name": "Equinox",
+      "match": null
+    },
+    {
+      "subdomain": "essex-elementary.typingclub.com",
+      "name": "Essex Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "ethel-jones1d.typingclub.com",
+      "name": "Ethel Jones1D",
+      "match": null
+    },
+    {
+      "subdomain": "ethel-joneshansen.typingclub.com",
+      "name": "Ethel Joneshansen",
+      "match": null
+    },
+    {
+      "subdomain": "etowahcityschool.typingclub.com",
+      "name": "Etowahcityschool",
+      "match": null
+    },
+    {
+      "subdomain": "euporahighschool.typingclub.com",
+      "name": "Euporahighschool",
+      "match": null
+    },
+    {
+      "subdomain": "eva-gordon-elementary-school.typingclub.com",
+      "name": "Eva Gordon Elementary School",
+      "match": null
+    },
+    {
+      "subdomain": "evangelacademy.typingclub.com",
+      "name": "Evangelacademy",
+      "match": null
+    },
+    {
+      "subdomain": "evcbruins.typingclub.com",
+      "name": "Evcbruins",
+      "match": null
+    },
+    {
+      "subdomain": "evergreen-elementary3.typingclub.com",
+      "name": "Evergreen Elementary3",
+      "match": null
+    },
+    {
+      "subdomain": "explorers.typingclub.com",
+      "name": "Explorers",
+      "match": null
+    },
+    {
+      "subdomain": "eyestone-elementary.typingclub.com",
+      "name": "Eyestone Elementary",
+      "match": {
+        "district": "Spokane Public Schools",
+        "state": "WA",
+        "enrollment": 28000,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "fairfield-center.typingclub.com",
+      "name": "Fairfield Center",
+      "match": {
+        "district": "CARTHAGE CENTRAL SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.56
+      }
+    },
+    {
+      "subdomain": "fairhaven.typingclub.com",
+      "name": "Fairhaven",
+      "match": null
+    },
+    {
+      "subdomain": "fairlawn1.typingclub.com",
+      "name": "Fairlawn1",
+      "match": null
+    },
+    {
+      "subdomain": "fairless.typingclub.com",
+      "name": "Fairless",
+      "match": null
+    },
+    {
+      "subdomain": "fairmount-elementary.typingclub.com",
+      "name": "Fairmount Elementary",
+      "match": {
+        "district": "HARMONY PUBLIC SCHOOLS",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.62
+      }
+    },
+    {
+      "subdomain": "falkner-elementary.typingclub.com",
+      "name": "Falkner Elementary",
+      "match": {
+        "district": "LACONNER SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "falmouth-public.typingclub.com",
+      "name": "Falmouth Public",
+      "match": null
+    },
+    {
+      "subdomain": "farleigh.typingclub.com",
+      "name": "Farleigh",
+      "match": null
+    },
+    {
+      "subdomain": "farnsworth.typingclub.com",
+      "name": "Farnsworth",
+      "match": null
+    },
+    {
+      "subdomain": "farr-west.typingclub.com",
+      "name": "Farr West",
+      "match": null
+    },
+    {
+      "subdomain": "federal.typingclub.com",
+      "name": "Federal",
+      "match": {
+        "district": "Federal Way Public Schools",
+        "state": "WA",
+        "enrollment": 22000,
+        "confidence": 0.9
+      }
+    },
+    {
+      "subdomain": "feedback.typingclub.com",
+      "name": "Feedback",
+      "match": null
+    },
+    {
+      "subdomain": "fiestagardens.typingclub.com",
+      "name": "Fiestagardens",
+      "match": null
+    },
+    {
+      "subdomain": "firstflightelementary.typingclub.com",
+      "name": "Firstflightelementary",
+      "match": null
+    },
+    {
+      "subdomain": "first-flight.typingclub.com",
+      "name": "First Flight",
+      "match": null
+    },
+    {
+      "subdomain": "firstline.typingclub.com",
+      "name": "Firstline",
+      "match": null
+    },
+    {
+      "subdomain": "flat-bush-school.typingclub.com",
+      "name": "Flat Bush School",
+      "match": null
+    },
+    {
+      "subdomain": "flournoy.typingclub.com",
+      "name": "Flournoy",
+      "match": {
+        "district": "FALLBROOK UNION ELEMENTARY SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "flselk.typingclub.com",
+      "name": "Flselk",
+      "match": null
+    },
+    {
+      "subdomain": "forestparktrojans.typingclub.com",
+      "name": "Forestparktrojans",
+      "match": null
+    },
+    {
+      "subdomain": "forestpark.typingclub.com",
+      "name": "Forestpark",
+      "match": {
+        "district": "CLOVER PARK SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "forest.typingclub.com",
+      "name": "Forest",
+      "match": null
+    },
+    {
+      "subdomain": "foxborough.typingclub.com",
+      "name": "Foxborough",
+      "match": null
+    },
+    {
+      "subdomain": "foxmeadow.typingclub.com",
+      "name": "Foxmeadow",
+      "match": null
+    },
+    {
+      "subdomain": "foxridge.typingclub.com",
+      "name": "Foxridge",
+      "match": null
+    },
+    {
+      "subdomain": "franklin-central.typingclub.com",
+      "name": "Franklin Central",
+      "match": {
+        "district": "CARTHAGE CENTRAL SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.62
+      }
+    },
+    {
+      "subdomain": "franklineagles.typingclub.com",
+      "name": "Franklineagles",
+      "match": null
+    },
+    {
+      "subdomain": "fraser-cascade.typingclub.com",
+      "name": "Fraser Cascade",
+      "match": null
+    },
+    {
+      "subdomain": "free-horizon.typingclub.com",
+      "name": "Free Horizon",
+      "match": null
+    },
+    {
+      "subdomain": "fremont-elementary2.typingclub.com",
+      "name": "Fremont Elementary2",
+      "match": null
+    },
+    {
+      "subdomain": "friesslake.typingclub.com",
+      "name": "Friesslake",
+      "match": null
+    },
+    {
+      "subdomain": "frontier-mosakahiken.typingclub.com",
+      "name": "Frontier Mosakahiken",
+      "match": null
+    },
+    {
+      "subdomain": "frost.typingclub.com",
+      "name": "Frost",
+      "match": null
+    },
+    {
+      "subdomain": "fulton-schools.typingclub.com",
+      "name": "Fulton Schools",
+      "match": null
+    },
+    {
+      "subdomain": "fusion.typingclub.com",
+      "name": "Fusion",
+      "match": null
+    },
+    {
+      "subdomain": "gaccbluejays.typingclub.com",
+      "name": "Gaccbluejays",
+      "match": null
+    },
+    {
+      "subdomain": "galatiak12keyboarding.typingclub.com",
+      "name": "Galatiak12Keyboarding",
+      "match": null
+    },
+    {
+      "subdomain": "gbsd-hall.typingclub.com",
+      "name": "Gbsd Hall",
+      "match": null
+    },
+    {
+      "subdomain": "gearhart-elementary.typingclub.com",
+      "name": "Gearhart Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "geneseeschool.typingclub.com",
+      "name": "Geneseeschool",
+      "match": null
+    },
+    {
+      "subdomain": "gerrardstown-elementary.typingclub.com",
+      "name": "Gerrardstown Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "gertenrichdwyer.typingclub.com",
+      "name": "Gertenrichdwyer",
+      "match": null
+    },
+    {
+      "subdomain": "gfalls.typingclub.com",
+      "name": "Gfalls",
+      "match": null
+    },
+    {
+      "subdomain": "gibsonburg-schools.typingclub.com",
+      "name": "Gibsonburg Schools",
+      "match": null
+    },
+    {
+      "subdomain": "gilesbrook.typingclub.com",
+      "name": "Gilesbrook",
+      "match": null
+    },
+    {
+      "subdomain": "glacierpk.typingclub.com",
+      "name": "Glacierpk",
+      "match": {
+        "district": "LACONNER SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.59
+      }
+    },
+    {
+      "subdomain": "glenellynd41.typingclub.com",
+      "name": "Glenellynd41",
+      "match": null
+    },
+    {
+      "subdomain": "glocester.typingclub.com",
+      "name": "Glocester",
+      "match": {
+        "district": "LYONS CENTRAL SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "goddardusd.typingclub.com",
+      "name": "Goddardusd",
+      "match": null
+    },
+    {
+      "subdomain": "gold-academy.typingclub.com",
+      "name": "Gold Academy",
+      "match": null
+    },
+    {
+      "subdomain": "goodspringselementary.typingclub.com",
+      "name": "Goodspringselementary",
+      "match": null
+    },
+    {
+      "subdomain": "gordon-parks2.typingclub.com",
+      "name": "Gordon Parks2",
+      "match": {
+        "district": "CLOVER PARK SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.58
+      }
+    },
+    {
+      "subdomain": "gordon-parks.typingclub.com",
+      "name": "Gordon Parks",
+      "match": {
+        "district": "CLOVER PARK SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.61
+      }
+    },
+    {
+      "subdomain": "goshen-lempster-school.typingclub.com",
+      "name": "Goshen Lempster School",
+      "match": null
+    },
+    {
+      "subdomain": "goulagautier.typingclub.com",
+      "name": "Goulagautier",
+      "match": null
+    },
+    {
+      "subdomain": "gr4gmarymont.typingclub.com",
+      "name": "Gr4Gmarymont",
+      "match": {
+        "district": "HARMONY PUBLIC SCHOOLS",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "gradethreecox.typingclub.com",
+      "name": "Gradethreecox",
+      "match": null
+    },
+    {
+      "subdomain": "grafton-school.typingclub.com",
+      "name": "Grafton School",
+      "match": null
+    },
+    {
+      "subdomain": "grantstreet.typingclub.com",
+      "name": "Grantstreet",
+      "match": null
+    },
+    {
+      "subdomain": "granville.typingclub.com",
+      "name": "Granville",
+      "match": {
+        "district": "FARMERSVILLE USD",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "greendot.typingclub.com",
+      "name": "Greendot",
+      "match": {
+        "district": "GREEN DOT PUBLIC SCHOOLS CALIFORNIA",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "greenhillselementary.typingclub.com",
+      "name": "Greenhillselementary",
+      "match": null
+    },
+    {
+      "subdomain": "greenmountainbears.typingclub.com",
+      "name": "Greenmountainbears",
+      "match": {
+        "district": "LEE COUNTY SCHOOL BOARD",
+        "state": "FL",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "greenview-school.typingclub.com",
+      "name": "Greenview School",
+      "match": null
+    },
+    {
+      "subdomain": "greenwichps.typingclub.com",
+      "name": "Greenwichps",
+      "match": null
+    },
+    {
+      "subdomain": "griegos-elementary.typingclub.com",
+      "name": "Griegos Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "gsdacs.typingclub.com",
+      "name": "Gsdacs",
+      "match": null
+    },
+    {
+      "subdomain": "gustineges.typingclub.com",
+      "name": "Gustineges",
+      "match": null
+    },
+    {
+      "subdomain": "hadley-luzerne.typingclub.com",
+      "name": "Hadley Luzerne",
+      "match": null
+    },
+    {
+      "subdomain": "haiku-elementary.typingclub.com",
+      "name": "Haiku Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "halfday.typingclub.com",
+      "name": "Halfday",
+      "match": {
+        "district": "LINDSAY UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "halifax.typingclub.com",
+      "name": "Halifax",
+      "match": null
+    },
+    {
+      "subdomain": "hall-kent-elementary.typingclub.com",
+      "name": "Hall Kent Elementary",
+      "match": {
+        "district": "Kent School District",
+        "state": "WA",
+        "enrollment": 25000,
+        "confidence": 1.1
+      }
+    },
+    {
+      "subdomain": "handy.typingclub.com",
+      "name": "Handy",
+      "match": {
+        "district": "HARMONY PUBLIC SCHOOLS",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.67
+      }
+    },
+    {
+      "subdomain": "hanover-nj.typingclub.com",
+      "name": "Hanover Nj",
+      "match": {
+        "district": "VANCOUVER SCHOOL DISTRICT 37",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.64
+      }
+    },
+    {
+      "subdomain": "hardelem.typingclub.com",
+      "name": "Hardelem",
+      "match": {
+        "district": "HARMONY PUBLIC SCHOOLS",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "harmonycomputer.typingclub.com",
+      "name": "Harmonycomputer",
+      "match": {
+        "district": "HARMONY PUBLIC SCHOOLS",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.9
+      }
+    },
+    {
+      "subdomain": "harphawks.typingclub.com",
+      "name": "Harphawks",
+      "match": null
+    },
+    {
+      "subdomain": "harris-esteve.typingclub.com",
+      "name": "Harris Esteve",
+      "match": null
+    },
+    {
+      "subdomain": "harrison-hills.typingclub.com",
+      "name": "Harrison Hills",
+      "match": {
+        "district": "FARMERSVILLE USD",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.54
+      }
+    },
+    {
+      "subdomain": "harrisonjuniorschool.typingclub.com",
+      "name": "Harrisonjuniorschool",
+      "match": null
+    },
+    {
+      "subdomain": "hartford-schools.typingclub.com",
+      "name": "Hartford Schools",
+      "match": {
+        "district": "HARMONY PUBLIC SCHOOLS",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "hatfieldpublicschools.typingclub.com",
+      "name": "Hatfieldpublicschools",
+      "match": null
+    },
+    {
+      "subdomain": "hcsssces.typingclub.com",
+      "name": "Hcsssces",
+      "match": null
+    },
+    {
+      "subdomain": "hcusd5.typingclub.com",
+      "name": "Hcusd5",
+      "match": null
+    },
+    {
+      "subdomain": "heaton-middle-school.typingclub.com",
+      "name": "Heaton Middle School",
+      "match": {
+        "district": "HARMONY PUBLIC SCHOOLS",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.62
+      }
+    },
+    {
+      "subdomain": "hehms.typingclub.com",
+      "name": "Hehms",
+      "match": null
+    },
+    {
+      "subdomain": "helab.typingclub.com",
+      "name": "Helab",
+      "match": null
+    },
+    {
+      "subdomain": "heritagerams.typingclub.com",
+      "name": "Heritagerams",
+      "match": null
+    },
+    {
+      "subdomain": "hermanave.typingclub.com",
+      "name": "Hermanave",
+      "match": null
+    },
+    {
+      "subdomain": "hermonhutchens.typingclub.com",
+      "name": "Hermonhutchens",
+      "match": null
+    },
+    {
+      "subdomain": "hesdk8.typingclub.com",
+      "name": "Hesdk8",
+      "match": null
+    },
+    {
+      "subdomain": "hfcsdsm.typingclub.com",
+      "name": "Hfcsdsm",
+      "match": null
+    },
+    {
+      "subdomain": "hfigueroa.typingclub.com",
+      "name": "Hfigueroa",
+      "match": null
+    },
+    {
+      "subdomain": "hickes.typingclub.com",
+      "name": "Hickes",
+      "match": null
+    },
+    {
+      "subdomain": "hickman-charter.typingclub.com",
+      "name": "Hickman Charter",
+      "match": {
+        "district": "RENAISSANCE CHARTER SCHOOL",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.65
+      }
+    },
+    {
+      "subdomain": "highroad-academy.typingclub.com",
+      "name": "Highroad Academy",
+      "match": null
+    },
+    {
+      "subdomain": "hildabarbour.typingclub.com",
+      "name": "Hildabarbour",
+      "match": null
+    },
+    {
+      "subdomain": "hill25.typingclub.com",
+      "name": "Hill25",
+      "match": null
+    },
+    {
+      "subdomain": "hillcrest-elementary-school-district-381.typingclub.com",
+      "name": "Hillcrest Elementary School District 381",
+      "match": {
+        "district": "CORBETT SCHOOL DISTRICT 39",
+        "state": "OR",
+        "enrollment": null,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "hillsboro-elementary3.typingclub.com",
+      "name": "Hillsboro Elementary3",
+      "match": {
+        "district": "Hillsborough County Public Schools",
+        "state": "FL",
+        "enrollment": 217000,
+        "confidence": 0.65
+      }
+    },
+    {
+      "subdomain": "hillside-elementary36.typingclub.com",
+      "name": "Hillside Elementary36",
+      "match": {
+        "district": "Dallas Independent School District",
+        "state": "TX",
+        "enrollment": 140000,
+        "confidence": 0.51
+      }
+    },
+    {
+      "subdomain": "hilo-union.typingclub.com",
+      "name": "Hilo Union",
+      "match": {
+        "district": "FALLBROOK UNION ELEMENTARY SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.64
+      }
+    },
+    {
+      "subdomain": "hoffman-boston.typingclub.com",
+      "name": "Hoffman Boston",
+      "match": null
+    },
+    {
+      "subdomain": "holcomb-elementary.typingclub.com",
+      "name": "Holcomb Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "hollygrovees.typingclub.com",
+      "name": "Hollygrovees",
+      "match": null
+    },
+    {
+      "subdomain": "holomua.typingclub.com",
+      "name": "Holomua",
+      "match": null
+    },
+    {
+      "subdomain": "holy-cross-academy.typingclub.com",
+      "name": "Holy Cross Academy",
+      "match": null
+    },
+    {
+      "subdomain": "holycrosstech.typingclub.com",
+      "name": "Holycrosstech",
+      "match": null
+    },
+    {
+      "subdomain": "holyfamilydbq.typingclub.com",
+      "name": "Holyfamilydbq",
+      "match": null
+    },
+    {
+      "subdomain": "holyfamilyns.typingclub.com",
+      "name": "Holyfamilyns",
+      "match": null
+    },
+    {
+      "subdomain": "holyfamilysc.typingclub.com",
+      "name": "Holyfamilysc",
+      "match": null
+    },
+    {
+      "subdomain": "holy-trinity-dc.typingclub.com",
+      "name": "Holy Trinity Dc",
+      "match": {
+        "district": "HORNELL CITY SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "holy-trinity-school2.typingclub.com",
+      "name": "Holy Trinity School2",
+      "match": null
+    },
+    {
+      "subdomain": "hong-kong-academy.typingclub.com",
+      "name": "Hong Kong Academy",
+      "match": {
+        "district": "Orange County Public Schools",
+        "state": "FL",
+        "enrollment": 206000,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "hoover-city-schools.typingclub.com",
+      "name": "Hoover City Schools",
+      "match": null
+    },
+    {
+      "subdomain": "hopewelltigers.typingclub.com",
+      "name": "Hopewelltigers",
+      "match": null
+    },
+    {
+      "subdomain": "hopkins.typingclub.com",
+      "name": "Hopkins",
+      "match": null
+    },
+    {
+      "subdomain": "houstonmiddle.typingclub.com",
+      "name": "Houstonmiddle",
+      "match": {
+        "district": "Houston Independent School District",
+        "state": "TX",
+        "enrollment": 187000,
+        "confidence": 0.89
+      }
+    },
+    {
+      "subdomain": "howe-elementary-school.typingclub.com",
+      "name": "Howe Elementary School",
+      "match": null
+    },
+    {
+      "subdomain": "hpseagles.typingclub.com",
+      "name": "Hpseagles",
+      "match": {
+        "district": "Seattle Public Schools",
+        "state": "WA",
+        "enrollment": 49000,
+        "confidence": 0.62
+      }
+    },
+    {
+      "subdomain": "htcmpc.typingclub.com",
+      "name": "Htcmpc",
+      "match": null
+    },
+    {
+      "subdomain": "hueneme-alldistrict.typingclub.com",
+      "name": "Hueneme Alldistrict",
+      "match": null
+    },
+    {
+      "subdomain": "humboldt-park.typingclub.com",
+      "name": "Humboldt Park",
+      "match": null
+    },
+    {
+      "subdomain": "huntersglen.typingclub.com",
+      "name": "Huntersglen",
+      "match": null
+    },
+    {
+      "subdomain": "huntingtonbeach.typingclub.com",
+      "name": "Huntingtonbeach",
+      "match": null
+    },
+    {
+      "subdomain": "hymanfine.typingclub.com",
+      "name": "Hymanfine",
+      "match": null
+    },
+    {
+      "subdomain": "hyundai-foreign.typingclub.com",
+      "name": "Hyundai Foreign",
+      "match": {
+        "district": "UNIONDALE UNION FREE SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.51
+      }
+    },
+    {
+      "subdomain": "iaajordan.typingclub.com",
+      "name": "Iaajordan",
+      "match": null
+    },
+    {
+      "subdomain": "iberia-parish.typingclub.com",
+      "name": "Iberia Parish",
+      "match": null
+    },
+    {
+      "subdomain": "icszprimary.typingclub.com",
+      "name": "Icszprimary",
+      "match": null
+    },
+    {
+      "subdomain": "idaho-hill.typingclub.com",
+      "name": "Idaho Hill",
+      "match": null
+    },
+    {
+      "subdomain": "iftin.typingclub.com",
+      "name": "Iftin",
+      "match": null
+    },
+    {
+      "subdomain": "ilanramondayschool.typingclub.com",
+      "name": "Ilanramondayschool",
+      "match": null
+    },
+    {
+      "subdomain": "ilutheran.typingclub.com",
+      "name": "Ilutheran",
+      "match": null
+    },
+    {
+      "subdomain": "imaginelions.typingclub.com",
+      "name": "Imaginelions",
+      "match": null
+    },
+    {
+      "subdomain": "independence-academy.typingclub.com",
+      "name": "Independence Academy",
+      "match": {
+        "district": "Dallas Independent School District",
+        "state": "TX",
+        "enrollment": 140000,
+        "confidence": 0.67
+      }
+    },
+    {
+      "subdomain": "indyelem.typingclub.com",
+      "name": "Indyelem",
+      "match": {
+        "district": "LINDSAY UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "inlandleaders.typingclub.com",
+      "name": "Inlandleaders",
+      "match": null
+    },
+    {
+      "subdomain": "internationalschoolsingapore.typingclub.com",
+      "name": "Internationalschoolsingapore",
+      "match": null
+    },
+    {
+      "subdomain": "iolak12.typingclub.com",
+      "name": "Iolak12",
+      "match": null
+    },
+    {
+      "subdomain": "ips2017-18.typingclub.com",
+      "name": "Ips2017 18",
+      "match": null
+    },
+    {
+      "subdomain": "irish.typingclub.com",
+      "name": "Irish",
+      "match": null
+    },
+    {
+      "subdomain": "isamsterdam.typingclub.com",
+      "name": "Isamsterdam",
+      "match": null
+    },
+    {
+      "subdomain": "isd-200.typingclub.com",
+      "name": "Isd 200",
+      "match": {
+        "district": "COUNTY OF YAKIMA 200 SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.9
+      }
+    },
+    {
+      "subdomain": "isetype.typingclub.com",
+      "name": "Isetype",
+      "match": {
+        "district": "Seattle Public Schools",
+        "state": "WA",
+        "enrollment": 49000,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "ispstt1.typingclub.com",
+      "name": "Ispstt1",
+      "match": null
+    },
+    {
+      "subdomain": "istclions.typingclub.com",
+      "name": "Istclions",
+      "match": null
+    },
+    {
+      "subdomain": "jaggi.typingclub.com",
+      "name": "Jaggi",
+      "match": null
+    },
+    {
+      "subdomain": "jamestownsd.typingclub.com",
+      "name": "Jamestownsd",
+      "match": null
+    },
+    {
+      "subdomain": "janelong.typingclub.com",
+      "name": "Janelong",
+      "match": null
+    },
+    {
+      "subdomain": "jcfremont.typingclub.com",
+      "name": "Jcfremont",
+      "match": null
+    },
+    {
+      "subdomain": "jeffery-sommer.typingclub.com",
+      "name": "Jeffery Sommer",
+      "match": null
+    },
+    {
+      "subdomain": "jemezvalley.typingclub.com",
+      "name": "Jemezvalley",
+      "match": {
+        "district": "SILVER VALLEY UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.58
+      }
+    },
+    {
+      "subdomain": "jeremy-ranch.typingclub.com",
+      "name": "Jeremy Ranch",
+      "match": null
+    },
+    {
+      "subdomain": "jgmes.typingclub.com",
+      "name": "Jgmes",
+      "match": null
+    },
+    {
+      "subdomain": "john-e-riley-school.typingclub.com",
+      "name": "John E Riley School",
+      "match": null
+    },
+    {
+      "subdomain": "jonathan-jennings.typingclub.com",
+      "name": "Jonathan Jennings",
+      "match": null
+    },
+    {
+      "subdomain": "jones-grade2.typingclub.com",
+      "name": "Jones Grade2",
+      "match": null
+    },
+    {
+      "subdomain": "joynersjewels.typingclub.com",
+      "name": "Joynersjewels",
+      "match": null
+    },
+    {
+      "subdomain": "jserra.typingclub.com",
+      "name": "Jserra",
+      "match": null
+    },
+    {
+      "subdomain": "juliusmarks.typingclub.com",
+      "name": "Juliusmarks",
+      "match": null
+    },
+    {
+      "subdomain": "julma.typingclub.com",
+      "name": "Julma",
+      "match": null
+    },
+    {
+      "subdomain": "juneauschools.typingclub.com",
+      "name": "Juneauschools",
+      "match": null
+    },
+    {
+      "subdomain": "kaahumanu.typingclub.com",
+      "name": "Kaahumanu",
+      "match": null
+    },
+    {
+      "subdomain": "kalaheo-elementary.typingclub.com",
+      "name": "Kalaheo Elementary",
+      "match": {
+        "district": "PALMDALE SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "kamalii.typingclub.com",
+      "name": "Kamalii",
+      "match": null
+    },
+    {
+      "subdomain": "kanesville.typingclub.com",
+      "name": "Kanesville",
+      "match": {
+        "district": "FARMERSVILLE USD",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.73
+      }
+    },
+    {
+      "subdomain": "kanoelanies.typingclub.com",
+      "name": "Kanoelanies",
+      "match": {
+        "district": "Los Angeles Unified School District",
+        "state": "CA",
+        "enrollment": 420000,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "kay-road.typingclub.com",
+      "name": "Kay Road",
+      "match": null
+    },
+    {
+      "subdomain": "kayroad.typingclub.com",
+      "name": "Kayroad",
+      "match": null
+    },
+    {
+      "subdomain": "kcdls.typingclub.com",
+      "name": "Kcdls",
+      "match": null
+    },
+    {
+      "subdomain": "kdhsrams.typingclub.com",
+      "name": "Kdhsrams",
+      "match": null
+    },
+    {
+      "subdomain": "keewatin-elementary.typingclub.com",
+      "name": "Keewatin Elementary",
+      "match": {
+        "district": "Lake Washington School District",
+        "state": "WA",
+        "enrollment": 32000,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "kemptype.typingclub.com",
+      "name": "Kemptype",
+      "match": null
+    },
+    {
+      "subdomain": "kendrick-lakes.typingclub.com",
+      "name": "Kendrick Lakes",
+      "match": {
+        "district": "MEDICAL LAKE SCHOOL DISTRICT #326",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.6
+      }
+    },
+    {
+      "subdomain": "keno-elementary.typingclub.com",
+      "name": "Keno Elementary",
+      "match": {
+        "district": "Kent School District",
+        "state": "WA",
+        "enrollment": 25000,
+        "confidence": 0.75
+      }
+    },
+    {
+      "subdomain": "kent-intermediate.typingclub.com",
+      "name": "Kent Intermediate",
+      "match": {
+        "district": "Kent School District",
+        "state": "WA",
+        "enrollment": 25000,
+        "confidence": 1.1
+      }
+    },
+    {
+      "subdomain": "kerrcomets.typingclub.com",
+      "name": "Kerrcomets",
+      "match": null
+    },
+    {
+      "subdomain": "ketteringjep.typingclub.com",
+      "name": "Ketteringjep",
+      "match": null
+    },
+    {
+      "subdomain": "kingstonchristianacademy.typingclub.com",
+      "name": "Kingstonchristianacademy",
+      "match": null
+    },
+    {
+      "subdomain": "kingstonintermediate.typingclub.com",
+      "name": "Kingstonintermediate",
+      "match": null
+    },
+    {
+      "subdomain": "kinkaidls.typingclub.com",
+      "name": "Kinkaidls",
+      "match": null
+    },
+    {
+      "subdomain": "kinnikinnick-school.typingclub.com",
+      "name": "Kinnikinnick School",
+      "match": null
+    },
+    {
+      "subdomain": "kippexplore.typingclub.com",
+      "name": "Kippexplore",
+      "match": null
+    },
+    {
+      "subdomain": "kittson-centralelem.typingclub.com",
+      "name": "Kittson Centralelem",
+      "match": {
+        "district": "SODUS CENTRAL SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.62
+      }
+    },
+    {
+      "subdomain": "kittyhawk.typingclub.com",
+      "name": "Kittyhawk",
+      "match": null
+    },
+    {
+      "subdomain": "kkiii.typingclub.com",
+      "name": "Kkiii",
+      "match": null
+    },
+    {
+      "subdomain": "kmsdodea.typingclub.com",
+      "name": "Kmsdodea",
+      "match": {
+        "district": "MADERA UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "knox-olympia.typingclub.com",
+      "name": "Knox Olympia",
+      "match": null
+    },
+    {
+      "subdomain": "korea-international2.typingclub.com",
+      "name": "Korea International2",
+      "match": null
+    },
+    {
+      "subdomain": "kristinas-elementary.typingclub.com",
+      "name": "Kristinas Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "kruse.typingclub.com",
+      "name": "Kruse",
+      "match": null
+    },
+    {
+      "subdomain": "kullerstrand.typingclub.com",
+      "name": "Kullerstrand",
+      "match": null
+    },
+    {
+      "subdomain": "kyschoolssouthside.typingclub.com",
+      "name": "Kyschoolssouthside",
+      "match": null
+    },
+    {
+      "subdomain": "ladd-lane2.typingclub.com",
+      "name": "Ladd Lane2",
+      "match": null
+    },
+    {
+      "subdomain": "lafayette-eastside.typingclub.com",
+      "name": "Lafayette Eastside",
+      "match": null
+    },
+    {
+      "subdomain": "laffin.typingclub.com",
+      "name": "Laffin",
+      "match": null
+    },
+    {
+      "subdomain": "lafsd.typingclub.com",
+      "name": "Lafsd",
+      "match": null
+    },
+    {
+      "subdomain": "lakeland-hills2.typingclub.com",
+      "name": "Lakeland Hills2",
+      "match": {
+        "district": "LACKLAND INDEPENDENT SCHOOL DISTRICT",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.51
+      }
+    },
+    {
+      "subdomain": "lakeoconeeacademy.typingclub.com",
+      "name": "Lakeoconeeacademy",
+      "match": null
+    },
+    {
+      "subdomain": "lake-parkaudubon.typingclub.com",
+      "name": "Lake Parkaudubon",
+      "match": {
+        "district": "CLOVER PARK SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "lake-park-elementary.typingclub.com",
+      "name": "Lake Park Elementary",
+      "match": {
+        "district": "CLOVER PARK SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.7
+      }
+    },
+    {
+      "subdomain": "langfordsd.typingclub.com",
+      "name": "Langfordsd",
+      "match": null
+    },
+    {
+      "subdomain": "laurel1.typingclub.com",
+      "name": "Laurel1",
+      "match": null
+    },
+    {
+      "subdomain": "lcmpruim.typingclub.com",
+      "name": "Lcmpruim",
+      "match": null
+    },
+    {
+      "subdomain": "lcusd.typingclub.com",
+      "name": "Lcusd",
+      "match": null
+    },
+    {
+      "subdomain": "lea-hou.typingclub.com",
+      "name": "Lea Hou",
+      "match": null
+    },
+    {
+      "subdomain": "leal-elementary.typingclub.com",
+      "name": "Leal Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "ledbetter.typingclub.com",
+      "name": "Ledbetter",
+      "match": null
+    },
+    {
+      "subdomain": "leehkellogg.typingclub.com",
+      "name": "Leehkellogg",
+      "match": null
+    },
+    {
+      "subdomain": "leevining.typingclub.com",
+      "name": "Leevining",
+      "match": null
+    },
+    {
+      "subdomain": "legacyallianceok.typingclub.com",
+      "name": "Legacyallianceok",
+      "match": null
+    },
+    {
+      "subdomain": "legacyclc.typingclub.com",
+      "name": "Legacyclc",
+      "match": null
+    },
+    {
+      "subdomain": "legacy-elementary.typingclub.com",
+      "name": "Legacy Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "leipsic.typingclub.com",
+      "name": "Leipsic",
+      "match": null
+    },
+    {
+      "subdomain": "lewis.typingclub.com",
+      "name": "Lewis",
+      "match": null
+    },
+    {
+      "subdomain": "lfdcs.typingclub.com",
+      "name": "Lfdcs",
+      "match": null
+    },
+    {
+      "subdomain": "liberty2.typingclub.com",
+      "name": "Liberty2",
+      "match": {
+        "district": "ELMIRA CITY SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "liberty-center-elementary-school.typingclub.com",
+      "name": "Liberty Center Elementary School",
+      "match": {
+        "district": "LYONS CENTRAL SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.59
+      }
+    },
+    {
+      "subdomain": "libertymiddleschool.typingclub.com",
+      "name": "Libertymiddleschool",
+      "match": null
+    },
+    {
+      "subdomain": "liberty-park.typingclub.com",
+      "name": "Liberty Park",
+      "match": {
+        "district": "CLOVER PARK SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.7
+      }
+    },
+    {
+      "subdomain": "liberty-ridge2.typingclub.com",
+      "name": "Liberty Ridge2",
+      "match": null
+    },
+    {
+      "subdomain": "liberty-ridge-elementarylre.typingclub.com",
+      "name": "Liberty Ridge Elementarylre",
+      "match": null
+    },
+    {
+      "subdomain": "liceodelvalle.typingclub.com",
+      "name": "Liceodelvalle",
+      "match": {
+        "district": "CONEJO VALLEY UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.62
+      }
+    },
+    {
+      "subdomain": "lilliandrive.typingclub.com",
+      "name": "Lilliandrive",
+      "match": null
+    },
+    {
+      "subdomain": "lincoln11.typingclub.com",
+      "name": "Lincoln11",
+      "match": null
+    },
+    {
+      "subdomain": "lincolnscec.typingclub.com",
+      "name": "Lincolnscec",
+      "match": {
+        "district": "LACONNER SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "linden.typingclub.com",
+      "name": "Linden",
+      "match": {
+        "district": "LINDSAY UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.62
+      }
+    },
+    {
+      "subdomain": "lintonelementary.typingclub.com",
+      "name": "Lintonelementary",
+      "match": null
+    },
+    {
+      "subdomain": "linvillehillchristian.typingclub.com",
+      "name": "Linvillehillchristian",
+      "match": null
+    },
+    {
+      "subdomain": "liveoaksd.typingclub.com",
+      "name": "Liveoaksd",
+      "match": null
+    },
+    {
+      "subdomain": "lockettelementary.typingclub.com",
+      "name": "Lockettelementary",
+      "match": null
+    },
+    {
+      "subdomain": "lomslions.typingclub.com",
+      "name": "Lomslions",
+      "match": null
+    },
+    {
+      "subdomain": "lonerock.typingclub.com",
+      "name": "Lonerock",
+      "match": {
+        "district": "LACONNER SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.62
+      }
+    },
+    {
+      "subdomain": "longtype.typingclub.com",
+      "name": "Longtype",
+      "match": {
+        "district": "Los Angeles Unified School District",
+        "state": "CA",
+        "enrollment": 420000,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "losaltos.typingclub.com",
+      "name": "Losaltos",
+      "match": {
+        "district": "Los Angeles Unified School District",
+        "state": "CA",
+        "enrollment": 420000,
+        "confidence": 0.63
+      }
+    },
+    {
+      "subdomain": "lovejoy.typingclub.com",
+      "name": "Lovejoy",
+      "match": null
+    },
+    {
+      "subdomain": "lowville.typingclub.com",
+      "name": "Lowville",
+      "match": null
+    },
+    {
+      "subdomain": "lpschools.typingclub.com",
+      "name": "Lpschools",
+      "match": null
+    },
+    {
+      "subdomain": "lsacolecamp.typingclub.com",
+      "name": "Lsacolecamp",
+      "match": {
+        "district": "LACONNER SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "luciamar.typingclub.com",
+      "name": "Luciamar",
+      "match": null
+    },
+    {
+      "subdomain": "lumpkin-county-elementary-school.typingclub.com",
+      "name": "Lumpkin County Elementary School",
+      "match": {
+        "district": "PINELLAS COUNTY SCHOOL DISTRICT",
+        "state": "FL",
+        "enrollment": null,
+        "confidence": 0.69
+      }
+    },
+    {
+      "subdomain": "luxemburg-casco-prim2.typingclub.com",
+      "name": "Luxemburg Casco Prim2",
+      "match": null
+    },
+    {
+      "subdomain": "lymecsd.typingclub.com",
+      "name": "Lymecsd",
+      "match": null
+    },
+    {
+      "subdomain": "lyme-elementary.typingclub.com",
+      "name": "Lyme Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "lynchburg-city2.typingclub.com",
+      "name": "Lynchburg City2",
+      "match": {
+        "district": "SYRACUSE CITY SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "lyonms.typingclub.com",
+      "name": "Lyonms",
+      "match": {
+        "district": "LYONS CENTRAL SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "macquariecollege.typingclub.com",
+      "name": "Macquariecollege",
+      "match": null
+    },
+    {
+      "subdomain": "mahnomen-hs.typingclub.com",
+      "name": "Mahnomen Hs",
+      "match": null
+    },
+    {
+      "subdomain": "mahnomen.typingclub.com",
+      "name": "Mahnomen",
+      "match": null
+    },
+    {
+      "subdomain": "maidu.typingclub.com",
+      "name": "Maidu",
+      "match": {
+        "district": "MADERA UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "malkus.typingclub.com",
+      "name": "Malkus",
+      "match": null
+    },
+    {
+      "subdomain": "malley.typingclub.com",
+      "name": "Malley",
+      "match": {
+        "district": "NAPA VALLEY UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.59
+      }
+    },
+    {
+      "subdomain": "maltahighschool.typingclub.com",
+      "name": "Maltahighschool",
+      "match": null
+    },
+    {
+      "subdomain": "mandarin-chinese.typingclub.com",
+      "name": "Mandarin Chinese",
+      "match": {
+        "district": "ASCEND LEARNING INC",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "mandarin-immersion-magnet.typingclub.com",
+      "name": "Mandarin Immersion Magnet",
+      "match": null
+    },
+    {
+      "subdomain": "mannelementary.typingclub.com",
+      "name": "Mannelementary",
+      "match": null
+    },
+    {
+      "subdomain": "mannms.typingclub.com",
+      "name": "Mannms",
+      "match": {
+        "district": "MT ADAMS SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "manordale.typingclub.com",
+      "name": "Manordale",
+      "match": {
+        "district": "PALMDALE SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.59
+      }
+    },
+    {
+      "subdomain": "mansfield.typingclub.com",
+      "name": "Mansfield",
+      "match": null
+    },
+    {
+      "subdomain": "marioncross.typingclub.com",
+      "name": "Marioncross",
+      "match": null
+    },
+    {
+      "subdomain": "mark-twain5.typingclub.com",
+      "name": "Mark Twain5",
+      "match": {
+        "district": "Lake Washington School District",
+        "state": "WA",
+        "enrollment": 32000,
+        "confidence": 0.54
+      }
+    },
+    {
+      "subdomain": "marlboroschool.typingclub.com",
+      "name": "Marlboroschool",
+      "match": null
+    },
+    {
+      "subdomain": "marshall-hill.typingclub.com",
+      "name": "Marshall Hill",
+      "match": null
+    },
+    {
+      "subdomain": "martens.typingclub.com",
+      "name": "Martens",
+      "match": null
+    },
+    {
+      "subdomain": "marthasville-elementary.typingclub.com",
+      "name": "Marthasville Elementary",
+      "match": {
+        "district": "FARMERSVILLE USD",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.67
+      }
+    },
+    {
+      "subdomain": "martinsferrychristian.typingclub.com",
+      "name": "Martinsferrychristian",
+      "match": null
+    },
+    {
+      "subdomain": "maryblair.typingclub.com",
+      "name": "Maryblair",
+      "match": {
+        "district": "MADERA UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "marysvillejusd.typingclub.com",
+      "name": "Marysvillejusd",
+      "match": {
+        "district": "FARMERSVILLE USD",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.62
+      }
+    },
+    {
+      "subdomain": "masadaschool.typingclub.com",
+      "name": "Masadaschool",
+      "match": null
+    },
+    {
+      "subdomain": "mason-elementary.typingclub.com",
+      "name": "Mason Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "mauro.typingclub.com",
+      "name": "Mauro",
+      "match": {
+        "district": "MADERA UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "max-school.typingclub.com",
+      "name": "Max School",
+      "match": null
+    },
+    {
+      "subdomain": "mayfieldjs.typingclub.com",
+      "name": "Mayfieldjs",
+      "match": null
+    },
+    {
+      "subdomain": "mayhoward.typingclub.com",
+      "name": "Mayhoward",
+      "match": null
+    },
+    {
+      "subdomain": "mayo-middle-school.typingclub.com",
+      "name": "Mayo Middle School",
+      "match": null
+    },
+    {
+      "subdomain": "may-watts.typingclub.com",
+      "name": "May Watts",
+      "match": null
+    },
+    {
+      "subdomain": "maywatts.typingclub.com",
+      "name": "Maywatts",
+      "match": null
+    },
+    {
+      "subdomain": "mbsbr.typingclub.com",
+      "name": "Mbsbr",
+      "match": null
+    },
+    {
+      "subdomain": "mccall.typingclub.com",
+      "name": "Mccall",
+      "match": null
+    },
+    {
+      "subdomain": "mccleary.typingclub.com",
+      "name": "Mccleary",
+      "match": {
+        "district": "CLOVER PARK SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "mccps.typingclub.com",
+      "name": "Mccps",
+      "match": null
+    },
+    {
+      "subdomain": "mcesda.typingclub.com",
+      "name": "Mcesda",
+      "match": null
+    },
+    {
+      "subdomain": "mcfall-elementary.typingclub.com",
+      "name": "Mcfall Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "mcgehee-elementary.typingclub.com",
+      "name": "Mcgehee Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "mcginniswoods.typingclub.com",
+      "name": "Mcginniswoods",
+      "match": null
+    },
+    {
+      "subdomain": "mcgovern.typingclub.com",
+      "name": "Mcgovern",
+      "match": {
+        "district": "CLOVER PARK SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "mcgraw-elementary.typingclub.com",
+      "name": "Mcgraw Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "mckenzie.typingclub.com",
+      "name": "Mckenzie",
+      "match": null
+    },
+    {
+      "subdomain": "mckinley-elementary3.typingclub.com",
+      "name": "Mckinley Elementary3",
+      "match": {
+        "district": "KILLEEN INDEPENDENT SCHOOL DISTRICT",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.51
+      }
+    },
+    {
+      "subdomain": "mckinley-elementary-school.typingclub.com",
+      "name": "Mckinley Elementary School",
+      "match": null
+    },
+    {
+      "subdomain": "mcpasd.typingclub.com",
+      "name": "Mcpasd",
+      "match": {
+        "district": "PASADENA UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "mcswse.typingclub.com",
+      "name": "Mcswse",
+      "match": null
+    },
+    {
+      "subdomain": "mdragons.typingclub.com",
+      "name": "Mdragons",
+      "match": {
+        "district": "MADERA UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "mefford.typingclub.com",
+      "name": "Mefford",
+      "match": null
+    },
+    {
+      "subdomain": "meiklejohn-elem.typingclub.com",
+      "name": "Meiklejohn Elem",
+      "match": null
+    },
+    {
+      "subdomain": "melbourne-elementary.typingclub.com",
+      "name": "Melbourne Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "melville-elementary.typingclub.com",
+      "name": "Melville Elementary",
+      "match": {
+        "district": "FARMERSVILLE USD",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.7
+      }
+    },
+    {
+      "subdomain": "menasha.typingclub.com",
+      "name": "Menasha",
+      "match": null
+    },
+    {
+      "subdomain": "mendocino-elementary.typingclub.com",
+      "name": "Mendocino Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "mendoza-elementary.typingclub.com",
+      "name": "Mendoza Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "mercedes-benz.typingclub.com",
+      "name": "Mercedes Benz",
+      "match": null
+    },
+    {
+      "subdomain": "mercedriver.typingclub.com",
+      "name": "Mercedriver",
+      "match": null
+    },
+    {
+      "subdomain": "mes150.typingclub.com",
+      "name": "Mes150",
+      "match": null
+    },
+    {
+      "subdomain": "mettie-jordan-elementary.typingclub.com",
+      "name": "Mettie Jordan Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "mfschools.typingclub.com",
+      "name": "Mfschools",
+      "match": null
+    },
+    {
+      "subdomain": "mhstevens.typingclub.com",
+      "name": "Mhstevens",
+      "match": null
+    },
+    {
+      "subdomain": "michalski.typingclub.com",
+      "name": "Michalski",
+      "match": null
+    },
+    {
+      "subdomain": "middleton735.typingclub.com",
+      "name": "Middleton735",
+      "match": null
+    },
+    {
+      "subdomain": "middleton-elementary.typingclub.com",
+      "name": "Middleton Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "midget.typingclub.com",
+      "name": "Midget",
+      "match": {
+        "district": "IDEA PUBLIC SCHOOLS",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.6
+      }
+    },
+    {
+      "subdomain": "milpitas-thaonguyen.typingclub.com",
+      "name": "Milpitas Thaonguyen",
+      "match": null
+    },
+    {
+      "subdomain": "milpitas.typingclub.com",
+      "name": "Milpitas",
+      "match": null
+    },
+    {
+      "subdomain": "minidoka.typingclub.com",
+      "name": "Minidoka",
+      "match": {
+        "district": "LINDSAY UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "minster.typingclub.com",
+      "name": "Minster",
+      "match": null
+    },
+    {
+      "subdomain": "mint-canyon.typingclub.com",
+      "name": "Mint Canyon",
+      "match": {
+        "district": "UPLIFT EDUCATION",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "miramarranchelementary.typingclub.com",
+      "name": "Miramarranchelementary",
+      "match": null
+    },
+    {
+      "subdomain": "mischool-typing.typingclub.com",
+      "name": "Mischool Typing",
+      "match": null
+    },
+    {
+      "subdomain": "miss-coker-n12.typingclub.com",
+      "name": "Miss Coker N12",
+      "match": null
+    },
+    {
+      "subdomain": "missk.typingclub.com",
+      "name": "Missk",
+      "match": null
+    },
+    {
+      "subdomain": "missperkinsyork.typingclub.com",
+      "name": "Missperkinsyork",
+      "match": null
+    },
+    {
+      "subdomain": "mitchell-elementary2.typingclub.com",
+      "name": "Mitchell Elementary2",
+      "match": null
+    },
+    {
+      "subdomain": "mmlcsh.typingclub.com",
+      "name": "Mmlcsh",
+      "match": null
+    },
+    {
+      "subdomain": "mmonroe.typingclub.com",
+      "name": "Mmonroe",
+      "match": null
+    },
+    {
+      "subdomain": "mnwcougars.typingclub.com",
+      "name": "Mnwcougars",
+      "match": null
+    },
+    {
+      "subdomain": "mohegan-school.typingclub.com",
+      "name": "Mohegan School",
+      "match": null
+    },
+    {
+      "subdomain": "molineelementary.typingclub.com",
+      "name": "Molineelementary",
+      "match": null
+    },
+    {
+      "subdomain": "monrovia.typingclub.com",
+      "name": "Monrovia",
+      "match": null
+    },
+    {
+      "subdomain": "montara-avenue2.typingclub.com",
+      "name": "Montara Avenue2",
+      "match": null
+    },
+    {
+      "subdomain": "montaukschool.typingclub.com",
+      "name": "Montaukschool",
+      "match": null
+    },
+    {
+      "subdomain": "monticello.typingclub.com",
+      "name": "Monticello",
+      "match": null
+    },
+    {
+      "subdomain": "montpelier-k12.typingclub.com",
+      "name": "Montpelier K12",
+      "match": null
+    },
+    {
+      "subdomain": "moodymiddleschool.typingclub.com",
+      "name": "Moodymiddleschool",
+      "match": null
+    },
+    {
+      "subdomain": "moorestown.typingclub.com",
+      "name": "Moorestown",
+      "match": null
+    },
+    {
+      "subdomain": "moraga.typingclub.com",
+      "name": "Moraga",
+      "match": null
+    },
+    {
+      "subdomain": "morelandsd.typingclub.com",
+      "name": "Morelandsd",
+      "match": {
+        "district": "Portland Public Schools",
+        "state": "OR",
+        "enrollment": 43000,
+        "confidence": 0.67
+      }
+    },
+    {
+      "subdomain": "mortensen-bartuska.typingclub.com",
+      "name": "Mortensen Bartuska",
+      "match": null
+    },
+    {
+      "subdomain": "mortensen-elementary2.typingclub.com",
+      "name": "Mortensen Elementary2",
+      "match": null
+    },
+    {
+      "subdomain": "mortensen-elementary3.typingclub.com",
+      "name": "Mortensen Elementary3",
+      "match": null
+    },
+    {
+      "subdomain": "mortensen-elementaryarent.typingclub.com",
+      "name": "Mortensen Elementaryarent",
+      "match": null
+    },
+    {
+      "subdomain": "mortensen-elementaryolsen.typingclub.com",
+      "name": "Mortensen Elementaryolsen",
+      "match": null
+    },
+    {
+      "subdomain": "mortensen-elementaryrooms.typingclub.com",
+      "name": "Mortensen Elementaryrooms",
+      "match": null
+    },
+    {
+      "subdomain": "mortensen-elementary-school.typingclub.com",
+      "name": "Mortensen Elementary School",
+      "match": null
+    },
+    {
+      "subdomain": "mortensen-franek.typingclub.com",
+      "name": "Mortensen Franek",
+      "match": null
+    },
+    {
+      "subdomain": "mortensen-granell.typingclub.com",
+      "name": "Mortensen Granell",
+      "match": null
+    },
+    {
+      "subdomain": "mortensen-jackson.typingclub.com",
+      "name": "Mortensen Jackson",
+      "match": null
+    },
+    {
+      "subdomain": "mortensen-ranum.typingclub.com",
+      "name": "Mortensen Ranum",
+      "match": null
+    },
+    {
+      "subdomain": "mortensen-stott.typingclub.com",
+      "name": "Mortensen Stott",
+      "match": null
+    },
+    {
+      "subdomain": "morton.typingclub.com",
+      "name": "Morton",
+      "match": {
+        "district": "Portland Public Schools",
+        "state": "OR",
+        "enrollment": 43000,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "mosinee.typingclub.com",
+      "name": "Mosinee",
+      "match": {
+        "district": "Los Angeles Unified School District",
+        "state": "CA",
+        "enrollment": 420000,
+        "confidence": 0.56
+      }
+    },
+    {
+      "subdomain": "moulsford-preparatory.typingclub.com",
+      "name": "Moulsford Preparatory",
+      "match": null
+    },
+    {
+      "subdomain": "mount-horeb.typingclub.com",
+      "name": "Mount Horeb",
+      "match": {
+        "district": "Northshore School District",
+        "state": "WA",
+        "enrollment": 23000,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "mps-abbott.typingclub.com",
+      "name": "Mps Abbott",
+      "match": null
+    },
+    {
+      "subdomain": "mps-ackerman.typingclub.com",
+      "name": "Mps Ackerman",
+      "match": {
+        "district": "MADERA UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.56
+      }
+    },
+    {
+      "subdomain": "mps-aldrich.typingclub.com",
+      "name": "Mps Aldrich",
+      "match": null
+    },
+    {
+      "subdomain": "mps-blackelk.typingclub.com",
+      "name": "Mps Blackelk",
+      "match": null
+    },
+    {
+      "subdomain": "mps-bryan.typingclub.com",
+      "name": "Mps Bryan",
+      "match": null
+    },
+    {
+      "subdomain": "mps-cather.typingclub.com",
+      "name": "Mps Cather",
+      "match": {
+        "district": "YPI CHARTER SCHOOLS, INC,",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.56
+      }
+    },
+    {
+      "subdomain": "mps-cody.typingclub.com",
+      "name": "Mps Cody",
+      "match": {
+        "district": "PINELLAS COUNTY SCHOOL DISTRICT",
+        "state": "FL",
+        "enrollment": null,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "mps-cottonwood.typingclub.com",
+      "name": "Mps Cottonwood",
+      "match": null
+    },
+    {
+      "subdomain": "mps-disney.typingclub.com",
+      "name": "Mps Disney",
+      "match": {
+        "district": "San Diego Unified School District",
+        "state": "CA",
+        "enrollment": 97000,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "mps-ezra.typingclub.com",
+      "name": "Mps Ezra",
+      "match": {
+        "district": "MADERA UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "mps-harveyoaks.typingclub.com",
+      "name": "Mps Harveyoaks",
+      "match": null
+    },
+    {
+      "subdomain": "mps-hitchcock.typingclub.com",
+      "name": "Mps Hitchcock",
+      "match": null
+    },
+    {
+      "subdomain": "mps-hollingheights.typingclub.com",
+      "name": "Mps Hollingheights",
+      "match": null
+    },
+    {
+      "subdomain": "mps-montclair.typingclub.com",
+      "name": "Mps Montclair",
+      "match": null
+    },
+    {
+      "subdomain": "mps-morton.typingclub.com",
+      "name": "Mps Morton",
+      "match": {
+        "district": "Portland Public Schools",
+        "state": "OR",
+        "enrollment": 43000,
+        "confidence": 0.56
+      }
+    },
+    {
+      "subdomain": "mps-neihardt.typingclub.com",
+      "name": "Mps Neihardt",
+      "match": null
+    },
+    {
+      "subdomain": "mpsnorris.typingclub.com",
+      "name": "Mpsnorris",
+      "match": null
+    },
+    {
+      "subdomain": "mps-reagan.typingclub.com",
+      "name": "Mps Reagan",
+      "match": null
+    },
+    {
+      "subdomain": "mps-reeder.typingclub.com",
+      "name": "Mps Reeder",
+      "match": null
+    },
+    {
+      "subdomain": "mps-rockwell.typingclub.com",
+      "name": "Mps Rockwell",
+      "match": null
+    },
+    {
+      "subdomain": "mps-rohwer.typingclub.com",
+      "name": "Mps Rohwer",
+      "match": null
+    },
+    {
+      "subdomain": "mps-sandoz.typingclub.com",
+      "name": "Mps Sandoz",
+      "match": {
+        "district": "San Diego Unified School District",
+        "state": "CA",
+        "enrollment": 97000,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "mps-upchurch.typingclub.com",
+      "name": "Mps Upchurch",
+      "match": null
+    },
+    {
+      "subdomain": "mpsvt.typingclub.com",
+      "name": "Mpsvt",
+      "match": null
+    },
+    {
+      "subdomain": "mps-wheeler.typingclub.com",
+      "name": "Mps Wheeler",
+      "match": null
+    },
+    {
+      "subdomain": "mps-willowdale.typingclub.com",
+      "name": "Mps Willowdale",
+      "match": null
+    },
+    {
+      "subdomain": "mrlam.typingclub.com",
+      "name": "Mrlam",
+      "match": {
+        "district": "MADERA UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "mrlestagegrais.typingclub.com",
+      "name": "Mrlestagegrais",
+      "match": null
+    },
+    {
+      "subdomain": "mrpearse.typingclub.com",
+      "name": "Mrpearse",
+      "match": null
+    },
+    {
+      "subdomain": "mrsallis.typingclub.com",
+      "name": "Mrsallis",
+      "match": null
+    },
+    {
+      "subdomain": "mrsballesteros.typingclub.com",
+      "name": "Mrsballesteros",
+      "match": null
+    },
+    {
+      "subdomain": "mrsberg.typingclub.com",
+      "name": "Mrsberg",
+      "match": null
+    },
+    {
+      "subdomain": "mrscolville.typingclub.com",
+      "name": "Mrscolville",
+      "match": {
+        "district": "FARMERSVILLE USD",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.7
+      }
+    },
+    {
+      "subdomain": "mrsgraves.typingclub.com",
+      "name": "Mrsgraves",
+      "match": null
+    },
+    {
+      "subdomain": "mrsprice.typingclub.com",
+      "name": "Mrsprice",
+      "match": null
+    },
+    {
+      "subdomain": "mrsswindle.typingclub.com",
+      "name": "Mrsswindle",
+      "match": {
+        "district": "FARMERSVILLE USD",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "mr-v-teaches.typingclub.com",
+      "name": "Mr V Teaches",
+      "match": null
+    },
+    {
+      "subdomain": "msfojan.typingclub.com",
+      "name": "Msfojan",
+      "match": {
+        "district": "Spokane Public Schools",
+        "state": "WA",
+        "enrollment": 28000,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "msgarciaroom18.typingclub.com",
+      "name": "Msgarciaroom18",
+      "match": null
+    },
+    {
+      "subdomain": "msmelara.typingclub.com",
+      "name": "Msmelara",
+      "match": {
+        "district": "MADERA UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "mtacc.typingclub.com",
+      "name": "Mtacc",
+      "match": {
+        "district": "Tacoma Public Schools",
+        "state": "WA",
+        "enrollment": 27000,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "mt-eaton.typingclub.com",
+      "name": "Mt Eaton",
+      "match": {
+        "district": "UPLIFT EDUCATION",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.58
+      }
+    },
+    {
+      "subdomain": "mt-vernon.typingclub.com",
+      "name": "Mt Vernon",
+      "match": null
+    },
+    {
+      "subdomain": "muriel-martin.typingclub.com",
+      "name": "Muriel Martin",
+      "match": null
+    },
+    {
+      "subdomain": "mvtechsmart.typingclub.com",
+      "name": "Mvtechsmart",
+      "match": null
+    },
+    {
+      "subdomain": "nacoschool.typingclub.com",
+      "name": "Nacoschool",
+      "match": null
+    },
+    {
+      "subdomain": "nbtigers.typingclub.com",
+      "name": "Nbtigers",
+      "match": null
+    },
+    {
+      "subdomain": "nebcityps.typingclub.com",
+      "name": "Nebcityps",
+      "match": {
+        "district": "HORNELL CITY SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "nebo-elementary2.typingclub.com",
+      "name": "Nebo Elementary2",
+      "match": null
+    },
+    {
+      "subdomain": "nesrocks.typingclub.com",
+      "name": "Nesrocks",
+      "match": null
+    },
+    {
+      "subdomain": "new-albany.typingclub.com",
+      "name": "New Albany",
+      "match": {
+        "district": "CONEJO VALLEY UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "newathens.typingclub.com",
+      "name": "Newathens",
+      "match": null
+    },
+    {
+      "subdomain": "newbury-elementary.typingclub.com",
+      "name": "Newbury Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "newfield-csd.typingclub.com",
+      "name": "Newfield Csd",
+      "match": null
+    },
+    {
+      "subdomain": "newfound.typingclub.com",
+      "name": "Newfound",
+      "match": null
+    },
+    {
+      "subdomain": "newlondps.typingclub.com",
+      "name": "Newlondps",
+      "match": null
+    },
+    {
+      "subdomain": "newwayacademy.typingclub.com",
+      "name": "Newwayacademy",
+      "match": null
+    },
+    {
+      "subdomain": "new-york-mills-elementary-school.typingclub.com",
+      "name": "New York Mills Elementary School",
+      "match": {
+        "district": "New York City Department of Education",
+        "state": "NY",
+        "enrollment": 915000,
+        "confidence": 0.63
+      }
+    },
+    {
+      "subdomain": "nfischer.typingclub.com",
+      "name": "Nfischer",
+      "match": {
+        "district": "RENAISSANCE CHARTER SCHOOL",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "nhaschools.typingclub.com",
+      "name": "Nhaschools",
+      "match": null
+    },
+    {
+      "subdomain": "nikiski-northstar.typingclub.com",
+      "name": "Nikiski Northstar",
+      "match": {
+        "district": "Northshore School District",
+        "state": "WA",
+        "enrollment": 23000,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "nknsd.typingclub.com",
+      "name": "Nknsd",
+      "match": null
+    },
+    {
+      "subdomain": "nmusd.typingclub.com",
+      "name": "Nmusd",
+      "match": null
+    },
+    {
+      "subdomain": "nmuskegon.typingclub.com",
+      "name": "Nmuskegon",
+      "match": null
+    },
+    {
+      "subdomain": "nnr6mustangs.typingclub.com",
+      "name": "Nnr6Mustangs",
+      "match": null
+    },
+    {
+      "subdomain": "norman.typingclub.com",
+      "name": "Norman",
+      "match": {
+        "district": "Portland Public Schools",
+        "state": "OR",
+        "enrollment": 43000,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "northern-adirondack.typingclub.com",
+      "name": "Northern Adirondack",
+      "match": {
+        "district": "NORTHERN HUMBOLDT UNION HIGH SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.62
+      }
+    },
+    {
+      "subdomain": "northgreshamelementary.typingclub.com",
+      "name": "Northgreshamelementary",
+      "match": null
+    },
+    {
+      "subdomain": "northhill.typingclub.com",
+      "name": "Northhill",
+      "match": {
+        "district": "Northshore School District",
+        "state": "WA",
+        "enrollment": 23000,
+        "confidence": 0.63
+      }
+    },
+    {
+      "subdomain": "north-mor-elementary-school.typingclub.com",
+      "name": "North Mor Elementary School",
+      "match": {
+        "district": "Northshore School District",
+        "state": "WA",
+        "enrollment": 23000,
+        "confidence": 0.74
+      }
+    },
+    {
+      "subdomain": "northranch.typingclub.com",
+      "name": "Northranch",
+      "match": {
+        "district": "Northshore School District",
+        "state": "WA",
+        "enrollment": 23000,
+        "confidence": 0.6
+      }
+    },
+    {
+      "subdomain": "northstaracademy.typingclub.com",
+      "name": "Northstaracademy",
+      "match": {
+        "district": "Northshore School District",
+        "state": "WA",
+        "enrollment": 23000,
+        "confidence": 0.62
+      }
+    },
+    {
+      "subdomain": "norththurston.typingclub.com",
+      "name": "Norththurston",
+      "match": {
+        "district": "Northshore School District",
+        "state": "WA",
+        "enrollment": 23000,
+        "confidence": 0.61
+      }
+    },
+    {
+      "subdomain": "northview-elementary3.typingclub.com",
+      "name": "Northview Elementary3",
+      "match": {
+        "district": "LONGVIEW INDEPENDENT SCHOOL DISTRICT",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.54
+      }
+    },
+    {
+      "subdomain": "northwarrenmrc.typingclub.com",
+      "name": "Northwarrenmrc",
+      "match": {
+        "district": "Northshore School District",
+        "state": "WA",
+        "enrollment": 23000,
+        "confidence": 0.58
+      }
+    },
+    {
+      "subdomain": "north-woods-school.typingclub.com",
+      "name": "North Woods School",
+      "match": {
+        "district": "Northshore School District",
+        "state": "WA",
+        "enrollment": 23000,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "norton-creek2.typingclub.com",
+      "name": "Norton Creek2",
+      "match": {
+        "district": "Northshore School District",
+        "state": "WA",
+        "enrollment": 23000,
+        "confidence": 0.61
+      }
+    },
+    {
+      "subdomain": "norton-creek-elementary-school.typingclub.com",
+      "name": "Norton Creek Elementary School",
+      "match": {
+        "district": "Northshore School District",
+        "state": "WA",
+        "enrollment": 23000,
+        "confidence": 0.64
+      }
+    },
+    {
+      "subdomain": "norwalkps.typingclub.com",
+      "name": "Norwalkps",
+      "match": {
+        "district": "CENTRAL KITSAP SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "npekires.typingclub.com",
+      "name": "Npekires",
+      "match": null
+    },
+    {
+      "subdomain": "nrheg.typingclub.com",
+      "name": "Nrheg",
+      "match": {
+        "district": "Northshore School District",
+        "state": "WA",
+        "enrollment": 23000,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "oakhills-elementary-school.typingclub.com",
+      "name": "Oakhills Elementary School",
+      "match": null
+    },
+    {
+      "subdomain": "oak-view.typingclub.com",
+      "name": "Oak View",
+      "match": null
+    },
+    {
+      "subdomain": "oberlincityschools.typingclub.com",
+      "name": "Oberlincityschools",
+      "match": null
+    },
+    {
+      "subdomain": "oberlin.typingclub.com",
+      "name": "Oberlin",
+      "match": {
+        "district": "Portland Public Schools",
+        "state": "OR",
+        "enrollment": 43000,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "odellschool.typingclub.com",
+      "name": "Odellschool",
+      "match": null
+    },
+    {
+      "subdomain": "ogden-elementary.typingclub.com",
+      "name": "Ogden Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "ogden-school.typingclub.com",
+      "name": "Ogden School",
+      "match": null
+    },
+    {
+      "subdomain": "olander-school.typingclub.com",
+      "name": "Olander School",
+      "match": {
+        "district": "Portland Public Schools",
+        "state": "OR",
+        "enrollment": 43000,
+        "confidence": 0.67
+      }
+    },
+    {
+      "subdomain": "olcacademy.typingclub.com",
+      "name": "Olcacademy",
+      "match": null
+    },
+    {
+      "subdomain": "olhd123.typingclub.com",
+      "name": "Olhd123",
+      "match": null
+    },
+    {
+      "subdomain": "oliversprings-ms.typingclub.com",
+      "name": "Oliversprings Ms",
+      "match": null
+    },
+    {
+      "subdomain": "olivia-park-elementary-school.typingclub.com",
+      "name": "Olivia Park Elementary School",
+      "match": {
+        "district": "CLOVER PARK SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.64
+      }
+    },
+    {
+      "subdomain": "ollseattle.typingclub.com",
+      "name": "Ollseattle",
+      "match": {
+        "district": "Seattle Public Schools",
+        "state": "WA",
+        "enrollment": 49000,
+        "confidence": 1.1
+      }
+    },
+    {
+      "subdomain": "olmlancers.typingclub.com",
+      "name": "Olmlancers",
+      "match": {
+        "district": "LACONNER SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.56
+      }
+    },
+    {
+      "subdomain": "olsonmedia.typingclub.com",
+      "name": "Olsonmedia",
+      "match": null
+    },
+    {
+      "subdomain": "oneclay.typingclub.com",
+      "name": "Oneclay",
+      "match": {
+        "district": "HORNELL CITY SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "op-library.typingclub.com",
+      "name": "Op Library",
+      "match": null
+    },
+    {
+      "subdomain": "osc-colombo.typingclub.com",
+      "name": "Osc Colombo",
+      "match": null
+    },
+    {
+      "subdomain": "osdtypes.typingclub.com",
+      "name": "Osdtypes",
+      "match": null
+    },
+    {
+      "subdomain": "otsegops.typingclub.com",
+      "name": "Otsegops",
+      "match": null
+    },
+    {
+      "subdomain": "ourladycape.typingclub.com",
+      "name": "Ourladycape",
+      "match": {
+        "district": "Portland Public Schools",
+        "state": "OR",
+        "enrollment": 43000,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "outwoods-edge.typingclub.com",
+      "name": "Outwoods Edge",
+      "match": null
+    },
+    {
+      "subdomain": "owasco.typingclub.com",
+      "name": "Owasco",
+      "match": null
+    },
+    {
+      "subdomain": "p255qtech.typingclub.com",
+      "name": "P255Qtech",
+      "match": null
+    },
+    {
+      "subdomain": "pacific-union-elementary-school.typingclub.com",
+      "name": "Pacific Union Elementary School",
+      "match": {
+        "district": "CENTRAL UNION ELEMENTARY SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.54
+      }
+    },
+    {
+      "subdomain": "pactcharter.typingclub.com",
+      "name": "Pactcharter",
+      "match": {
+        "district": "YPI CHARTER SCHOOLS, INC,",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.62
+      }
+    },
+    {
+      "subdomain": "page-elementary.typingclub.com",
+      "name": "Page Elementary",
+      "match": {
+        "district": "Spokane Public Schools",
+        "state": "WA",
+        "enrollment": 28000,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "palmer-elementary.typingclub.com",
+      "name": "Palmer Elementary",
+      "match": {
+        "district": "PALMDALE SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.71
+      }
+    },
+    {
+      "subdomain": "palmetto-elementary-school.typingclub.com",
+      "name": "Palmetto Elementary School",
+      "match": {
+        "district": "PALMDALE SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.62
+      }
+    },
+    {
+      "subdomain": "panguitch-middle.typingclub.com",
+      "name": "Panguitch Middle",
+      "match": null
+    },
+    {
+      "subdomain": "panola-schools.typingclub.com",
+      "name": "Panola Schools",
+      "match": {
+        "district": "PALMDALE SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "paradise-valley-elementary-school.typingclub.com",
+      "name": "Paradise Valley Elementary School",
+      "match": {
+        "district": "NAPA VALLEY UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.69
+      }
+    },
+    {
+      "subdomain": "parkade.typingclub.com",
+      "name": "Parkade",
+      "match": {
+        "district": "PASADENA UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.67
+      }
+    },
+    {
+      "subdomain": "park-city.typingclub.com",
+      "name": "Park City",
+      "match": {
+        "district": "ELMIRA CITY SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.6
+      }
+    },
+    {
+      "subdomain": "parkin.typingclub.com",
+      "name": "Parkin",
+      "match": null
+    },
+    {
+      "subdomain": "parklandlutheran.typingclub.com",
+      "name": "Parklandlutheran",
+      "match": null
+    },
+    {
+      "subdomain": "parkland.typingclub.com",
+      "name": "Parkland",
+      "match": {
+        "district": "Portland Public Schools",
+        "state": "OR",
+        "enrollment": 43000,
+        "confidence": 0.75
+      }
+    },
+    {
+      "subdomain": "parkviewknights.typingclub.com",
+      "name": "Parkviewknights",
+      "match": null
+    },
+    {
+      "subdomain": "parkviewpandas.typingclub.com",
+      "name": "Parkviewpandas",
+      "match": null
+    },
+    {
+      "subdomain": "parr-elementary3.typingclub.com",
+      "name": "Parr Elementary3",
+      "match": null
+    },
+    {
+      "subdomain": "pasadenachristian.typingclub.com",
+      "name": "Pasadenachristian",
+      "match": {
+        "district": "PASADENA UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.9
+      }
+    },
+    {
+      "subdomain": "pathfinder.typingclub.com",
+      "name": "Pathfinder",
+      "match": null
+    },
+    {
+      "subdomain": "patrick-e-bowe-school.typingclub.com",
+      "name": "Patrick E Bowe School",
+      "match": null
+    },
+    {
+      "subdomain": "patrick-e.typingclub.com",
+      "name": "Patrick E",
+      "match": null
+    },
+    {
+      "subdomain": "pcr3rocks.typingclub.com",
+      "name": "Pcr3Rocks",
+      "match": null
+    },
+    {
+      "subdomain": "pcr-3.typingclub.com",
+      "name": "Pcr 3",
+      "match": {
+        "district": "CORBETT SCHOOL DISTRICT 39",
+        "state": "OR",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "pcschools.typingclub.com",
+      "name": "Pcschools",
+      "match": null
+    },
+    {
+      "subdomain": "pcsst.typingclub.com",
+      "name": "Pcsst",
+      "match": null
+    },
+    {
+      "subdomain": "pdo-school.typingclub.com",
+      "name": "Pdo School",
+      "match": null
+    },
+    {
+      "subdomain": "peabodysf.typingclub.com",
+      "name": "Peabodysf",
+      "match": null
+    },
+    {
+      "subdomain": "peak-school.typingclub.com",
+      "name": "Peak School",
+      "match": null
+    },
+    {
+      "subdomain": "pebblebrook-high.typingclub.com",
+      "name": "Pebblebrook High",
+      "match": null
+    },
+    {
+      "subdomain": "pecatonica-elementary.typingclub.com",
+      "name": "Pecatonica Elementary",
+      "match": {
+        "district": "UPLIFT EDUCATION",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.54
+      }
+    },
+    {
+      "subdomain": "pembroke-central.typingclub.com",
+      "name": "Pembroke Central",
+      "match": {
+        "district": "ROSCOE CENTRAL SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.73
+      }
+    },
+    {
+      "subdomain": "pembrokehill.typingclub.com",
+      "name": "Pembrokehill",
+      "match": null
+    },
+    {
+      "subdomain": "pemetic.typingclub.com",
+      "name": "Pemetic",
+      "match": null
+    },
+    {
+      "subdomain": "pennridge-school.typingclub.com",
+      "name": "Pennridge School",
+      "match": null
+    },
+    {
+      "subdomain": "pennridge.typingclub.com",
+      "name": "Pennridge",
+      "match": null
+    },
+    {
+      "subdomain": "perrydale.typingclub.com",
+      "name": "Perrydale",
+      "match": {
+        "district": "PALMDALE SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.59
+      }
+    },
+    {
+      "subdomain": "perry.typingclub.com",
+      "name": "Perry",
+      "match": null
+    },
+    {
+      "subdomain": "pes-4th-grade.typingclub.com",
+      "name": "Pes 4Th Grade",
+      "match": null
+    },
+    {
+      "subdomain": "peshtigo-elementary4.typingclub.com",
+      "name": "Peshtigo Elementary4",
+      "match": null
+    },
+    {
+      "subdomain": "pespanda.typingclub.com",
+      "name": "Pespanda",
+      "match": {
+        "district": "Spokane Public Schools",
+        "state": "WA",
+        "enrollment": 28000,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "pewittcisd.typingclub.com",
+      "name": "Pewittcisd",
+      "match": null
+    },
+    {
+      "subdomain": "pgtigers.typingclub.com",
+      "name": "Pgtigers",
+      "match": null
+    },
+    {
+      "subdomain": "phelpscor3.typingclub.com",
+      "name": "Phelpscor3",
+      "match": null
+    },
+    {
+      "subdomain": "phelps-county-r-3.typingclub.com",
+      "name": "Phelps County R 3",
+      "match": {
+        "district": "PINELLAS COUNTY SCHOOL DISTRICT",
+        "state": "FL",
+        "enrollment": null,
+        "confidence": 0.69
+      }
+    },
+    {
+      "subdomain": "pilgrim-lutheran.typingclub.com",
+      "name": "Pilgrim Lutheran",
+      "match": null
+    },
+    {
+      "subdomain": "pinebush.typingclub.com",
+      "name": "Pinebush",
+      "match": null
+    },
+    {
+      "subdomain": "pine-grove2.typingclub.com",
+      "name": "Pine Grove2",
+      "match": null
+    },
+    {
+      "subdomain": "pinepoint.typingclub.com",
+      "name": "Pinepoint",
+      "match": {
+        "district": "PINELLAS COUNTY SCHOOL DISTRICT",
+        "state": "FL",
+        "enrollment": null,
+        "confidence": 0.58
+      }
+    },
+    {
+      "subdomain": "piner-olivet-union.typingclub.com",
+      "name": "Piner Olivet Union",
+      "match": {
+        "district": "NORTHERN HUMBOLDT UNION HIGH SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.63
+      }
+    },
+    {
+      "subdomain": "pine-view.typingclub.com",
+      "name": "Pine View",
+      "match": null
+    },
+    {
+      "subdomain": "pio-elementary.typingclub.com",
+      "name": "Pio Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "pioneers01.typingclub.com",
+      "name": "Pioneers01",
+      "match": null
+    },
+    {
+      "subdomain": "pipestone-area.typingclub.com",
+      "name": "Pipestone Area",
+      "match": null
+    },
+    {
+      "subdomain": "pittsville.typingclub.com",
+      "name": "Pittsville",
+      "match": {
+        "district": "FARMERSVILLE USD",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "placeprescott.typingclub.com",
+      "name": "Placeprescott",
+      "match": null
+    },
+    {
+      "subdomain": "plattsburg.typingclub.com",
+      "name": "Plattsburg",
+      "match": null
+    },
+    {
+      "subdomain": "plcsyd.typingclub.com",
+      "name": "Plcsyd",
+      "match": null
+    },
+    {
+      "subdomain": "pleasant-gardens2.typingclub.com",
+      "name": "Pleasant Gardens2",
+      "match": {
+        "district": "PASADENA UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.56
+      }
+    },
+    {
+      "subdomain": "pleasant-grove.typingclub.com",
+      "name": "Pleasant Grove",
+      "match": {
+        "district": "San Diego Unified School District",
+        "state": "CA",
+        "enrollment": 97000,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "pleasant-hill-elementary-school.typingclub.com",
+      "name": "Pleasant Hill Elementary School",
+      "match": null
+    },
+    {
+      "subdomain": "pnbpuma.typingclub.com",
+      "name": "Pnbpuma",
+      "match": null
+    },
+    {
+      "subdomain": "pocantico-hills.typingclub.com",
+      "name": "Pocantico Hills",
+      "match": null
+    },
+    {
+      "subdomain": "pocatello-sd25.typingclub.com",
+      "name": "Pocatello Sd25",
+      "match": null
+    },
+    {
+      "subdomain": "point-road-school.typingclub.com",
+      "name": "Point Road School",
+      "match": {
+        "district": "POLK COUNTY SCHOOL BOARD",
+        "state": "FL",
+        "enrollment": null,
+        "confidence": 0.59
+      }
+    },
+    {
+      "subdomain": "polkd7.typingclub.com",
+      "name": "Polkd7",
+      "match": {
+        "district": "Portland Public Schools",
+        "state": "OR",
+        "enrollment": 43000,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "pontiac-academy.typingclub.com",
+      "name": "Pontiac Academy",
+      "match": null
+    },
+    {
+      "subdomain": "portage.typingclub.com",
+      "name": "Portage",
+      "match": {
+        "district": "Portland Public Schools",
+        "state": "OR",
+        "enrollment": 43000,
+        "confidence": 0.67
+      }
+    },
+    {
+      "subdomain": "portangeles.typingclub.com",
+      "name": "Portangeles",
+      "match": {
+        "district": "Los Angeles Unified School District",
+        "state": "CA",
+        "enrollment": 420000,
+        "confidence": 0.73
+      }
+    },
+    {
+      "subdomain": "portclintonics.typingclub.com",
+      "name": "Portclintonics",
+      "match": {
+        "district": "Portland Public Schools",
+        "state": "OR",
+        "enrollment": 43000,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "pottsville-elementary.typingclub.com",
+      "name": "Pottsville Elementary",
+      "match": {
+        "district": "FARMERSVILLE USD",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "prairiepoint.typingclub.com",
+      "name": "Prairiepoint",
+      "match": null
+    },
+    {
+      "subdomain": "prairie-school2.typingclub.com",
+      "name": "Prairie School2",
+      "match": null
+    },
+    {
+      "subdomain": "pratt-elementary-school.typingclub.com",
+      "name": "Pratt Elementary School",
+      "match": {
+        "district": "WAPATO SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "prestonhollow.typingclub.com",
+      "name": "Prestonhollow",
+      "match": null
+    },
+    {
+      "subdomain": "prospect-valley.typingclub.com",
+      "name": "Prospect Valley",
+      "match": {
+        "district": "CONEJO VALLEY UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.64
+      }
+    },
+    {
+      "subdomain": "provincetownschools.typingclub.com",
+      "name": "Provincetownschools",
+      "match": null
+    },
+    {
+      "subdomain": "provo-city.typingclub.com",
+      "name": "Provo City",
+      "match": {
+        "district": "ELMIRA CITY SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "provost.typingclub.com",
+      "name": "Provost",
+      "match": null
+    },
+    {
+      "subdomain": "ps103.typingclub.com",
+      "name": "Ps103",
+      "match": null
+    },
+    {
+      "subdomain": "pueblocityschools.typingclub.com",
+      "name": "Pueblocityschools",
+      "match": null
+    },
+    {
+      "subdomain": "pukeruabay.typingclub.com",
+      "name": "Pukeruabay",
+      "match": null
+    },
+    {
+      "subdomain": "pulaskimiddle.typingclub.com",
+      "name": "Pulaskimiddle",
+      "match": null
+    },
+    {
+      "subdomain": "pulaskischools.typingclub.com",
+      "name": "Pulaskischools",
+      "match": null
+    },
+    {
+      "subdomain": "pullman.typingclub.com",
+      "name": "Pullman",
+      "match": {
+        "district": "Portland Public Schools",
+        "state": "OR",
+        "enrollment": 43000,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "pvmsroyals.typingclub.com",
+      "name": "Pvmsroyals",
+      "match": null
+    },
+    {
+      "subdomain": "pvusd.typingclub.com",
+      "name": "Pvusd",
+      "match": null
+    },
+    {
+      "subdomain": "pwdustdevils.typingclub.com",
+      "name": "Pwdustdevils",
+      "match": null
+    },
+    {
+      "subdomain": "qcusd.typingclub.com",
+      "name": "Qcusd",
+      "match": null
+    },
+    {
+      "subdomain": "quakerridge.typingclub.com",
+      "name": "Quakerridge",
+      "match": null
+    },
+    {
+      "subdomain": "quarrylane.typingclub.com",
+      "name": "Quarrylane",
+      "match": null
+    },
+    {
+      "subdomain": "queenofangelssch.typingclub.com",
+      "name": "Queenofangelssch",
+      "match": {
+        "district": "Los Angeles Unified School District",
+        "state": "CA",
+        "enrollment": 420000,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "quitman-elementary.typingclub.com",
+      "name": "Quitman Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "rainbowelementary.typingclub.com",
+      "name": "Rainbowelementary",
+      "match": null
+    },
+    {
+      "subdomain": "rancho-romero.typingclub.com",
+      "name": "Rancho Romero",
+      "match": null
+    },
+    {
+      "subdomain": "raymore-elementary.typingclub.com",
+      "name": "Raymore Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "raytown.typingclub.com",
+      "name": "Raytown",
+      "match": null
+    },
+    {
+      "subdomain": "rdale.typingclub.com",
+      "name": "Rdale",
+      "match": {
+        "district": "PALMDALE SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.62
+      }
+    },
+    {
+      "subdomain": "reddingschools.typingclub.com",
+      "name": "Reddingschools",
+      "match": null
+    },
+    {
+      "subdomain": "redfield-elementary.typingclub.com",
+      "name": "Redfield Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "redland-elementary.typingclub.com",
+      "name": "Redland Elementary",
+      "match": {
+        "district": "Portland Public Schools",
+        "state": "OR",
+        "enrollment": 43000,
+        "confidence": 0.67
+      }
+    },
+    {
+      "subdomain": "redlandsacademy.typingclub.com",
+      "name": "Redlandsacademy",
+      "match": {
+        "district": "LINDSAY UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "red-rocks.typingclub.com",
+      "name": "Red Rocks",
+      "match": null
+    },
+    {
+      "subdomain": "resowls.typingclub.com",
+      "name": "Resowls",
+      "match": null
+    },
+    {
+      "subdomain": "rfrost.typingclub.com",
+      "name": "Rfrost",
+      "match": null
+    },
+    {
+      "subdomain": "riccartonprimary.typingclub.com",
+      "name": "Riccartonprimary",
+      "match": null
+    },
+    {
+      "subdomain": "rice-psd.typingclub.com",
+      "name": "Rice Psd",
+      "match": null
+    },
+    {
+      "subdomain": "richard-priest.typingclub.com",
+      "name": "Richard Priest",
+      "match": null
+    },
+    {
+      "subdomain": "richardson-elementary3.typingclub.com",
+      "name": "Richardson Elementary3",
+      "match": null
+    },
+    {
+      "subdomain": "richmond-intermediate.typingclub.com",
+      "name": "Richmond Intermediate",
+      "match": null
+    },
+    {
+      "subdomain": "richtonschools.typingclub.com",
+      "name": "Richtonschools",
+      "match": null
+    },
+    {
+      "subdomain": "ridgely-elementary.typingclub.com",
+      "name": "Ridgely Elementary",
+      "match": {
+        "district": "IDEA PUBLIC SCHOOLS",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "ripley-middle-school.typingclub.com",
+      "name": "Ripley Middle School",
+      "match": null
+    },
+    {
+      "subdomain": "ririebulldogs.typingclub.com",
+      "name": "Ririebulldogs",
+      "match": null
+    },
+    {
+      "subdomain": "rises.typingclub.com",
+      "name": "Rises",
+      "match": {
+        "district": "WAHUPA EDUCATIONAL ENTERPRISES, INC",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.9
+      }
+    },
+    {
+      "subdomain": "riveredge.typingclub.com",
+      "name": "Riveredge",
+      "match": null
+    },
+    {
+      "subdomain": "riverside-elementary4.typingclub.com",
+      "name": "Riverside Elementary4",
+      "match": null
+    },
+    {
+      "subdomain": "riverside-intermediate.typingclub.com",
+      "name": "Riverside Intermediate",
+      "match": {
+        "district": "RIVERSIDE COUNTY OFFICE OF EDUCATION",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.59
+      }
+    },
+    {
+      "subdomain": "river-view.typingclub.com",
+      "name": "River View",
+      "match": {
+        "district": "SILVER VALLEY UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.61
+      }
+    },
+    {
+      "subdomain": "rmlhs.typingclub.com",
+      "name": "Rmlhs",
+      "match": null
+    },
+    {
+      "subdomain": "rmscape.typingclub.com",
+      "name": "Rmscape",
+      "match": null
+    },
+    {
+      "subdomain": "robinson-park.typingclub.com",
+      "name": "Robinson Park",
+      "match": null
+    },
+    {
+      "subdomain": "rochester3a.typingclub.com",
+      "name": "Rochester3A",
+      "match": {
+        "district": "ROSCOE CENTRAL SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.56
+      }
+    },
+    {
+      "subdomain": "rock-creek-community-academy.typingclub.com",
+      "name": "Rock Creek Community Academy",
+      "match": {
+        "district": "Orange County Public Schools",
+        "state": "FL",
+        "enrollment": 206000,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "rockyhillps.typingclub.com",
+      "name": "Rockyhillps",
+      "match": null
+    },
+    {
+      "subdomain": "rogers-park2.typingclub.com",
+      "name": "Rogers Park2",
+      "match": {
+        "district": "CLOVER PARK SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.7
+      }
+    },
+    {
+      "subdomain": "roosevelt-academy2.typingclub.com",
+      "name": "Roosevelt Academy2",
+      "match": null
+    },
+    {
+      "subdomain": "roosevelt.typingclub.com",
+      "name": "Roosevelt",
+      "match": {
+        "district": "ROSCOE CENTRAL SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "rosecityotters.typingclub.com",
+      "name": "Rosecityotters",
+      "match": {
+        "district": "SYRACUSE CITY SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "rosecreek.typingclub.com",
+      "name": "Rosecreek",
+      "match": {
+        "district": "ROSCOE CENTRAL SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "roslynschools.typingclub.com",
+      "name": "Roslynschools",
+      "match": null
+    },
+    {
+      "subdomain": "ross-park-elementary-ellis.typingclub.com",
+      "name": "Ross Park Elementary Ellis",
+      "match": {
+        "district": "Los Angeles Unified School District",
+        "state": "CA",
+        "enrollment": 420000,
+        "confidence": 0.54
+      }
+    },
+    {
+      "subdomain": "rsd13practice.typingclub.com",
+      "name": "Rsd13Practice",
+      "match": null
+    },
+    {
+      "subdomain": "rsu74.typingclub.com",
+      "name": "Rsu74",
+      "match": null
+    },
+    {
+      "subdomain": "rs-wolves.typingclub.com",
+      "name": "Rs Wolves",
+      "match": null
+    },
+    {
+      "subdomain": "rumseyhall.typingclub.com",
+      "name": "Rumseyhall",
+      "match": null
+    },
+    {
+      "subdomain": "rusd.typingclub.com",
+      "name": "Rusd",
+      "match": null
+    },
+    {
+      "subdomain": "russellglenloch.typingclub.com",
+      "name": "Russellglenloch",
+      "match": null
+    },
+    {
+      "subdomain": "rvchristian.typingclub.com",
+      "name": "Rvchristian",
+      "match": null
+    },
+    {
+      "subdomain": "s4.typingclub.com",
+      "name": "S4",
+      "match": null
+    },
+    {
+      "subdomain": "sabinpps.typingclub.com",
+      "name": "Sabinpps",
+      "match": null
+    },
+    {
+      "subdomain": "sacred-heart-school1954.typingclub.com",
+      "name": "Sacred Heart School1954",
+      "match": null
+    },
+    {
+      "subdomain": "sacred-heart-school5.typingclub.com",
+      "name": "Sacred Heart School5",
+      "match": {
+        "district": "SUCCESS ACADEMY CHARTER SCHOOLS INC",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.51
+      }
+    },
+    {
+      "subdomain": "sacredheartshawnee.typingclub.com",
+      "name": "Sacredheartshawnee",
+      "match": null
+    },
+    {
+      "subdomain": "sacsvt.typingclub.com",
+      "name": "Sacsvt",
+      "match": {
+        "district": "SYRACUSE CITY SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "saddle-ridge.typingclub.com",
+      "name": "Saddle Ridge",
+      "match": null
+    },
+    {
+      "subdomain": "sage-elementary.typingclub.com",
+      "name": "Sage Elementary",
+      "match": {
+        "district": "Seattle Public Schools",
+        "state": "WA",
+        "enrollment": 49000,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "saintjohn.typingclub.com",
+      "name": "Saintjohn",
+      "match": null
+    },
+    {
+      "subdomain": "saint-mary-catholic-school.typingclub.com",
+      "name": "Saint Mary Catholic School",
+      "match": null
+    },
+    {
+      "subdomain": "saintmichael.typingclub.com",
+      "name": "Saintmichael",
+      "match": null
+    },
+    {
+      "subdomain": "saintpaul-school.typingclub.com",
+      "name": "Saintpaul School",
+      "match": {
+        "district": "SAN PASQUAL VALLEY UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "saints.typingclub.com",
+      "name": "Saints",
+      "match": null
+    },
+    {
+      "subdomain": "salinas-city.typingclub.com",
+      "name": "Salinas City",
+      "match": {
+        "district": "SALAMANCA CITY SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.77
+      }
+    },
+    {
+      "subdomain": "salisburycentral.typingclub.com",
+      "name": "Salisburycentral",
+      "match": {
+        "district": "SODUS CENTRAL SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.62
+      }
+    },
+    {
+      "subdomain": "san-bizente-ikastola.typingclub.com",
+      "name": "San Bizente Ikastola",
+      "match": null
+    },
+    {
+      "subdomain": "sanderson-junior.typingclub.com",
+      "name": "Sanderson Junior",
+      "match": {
+        "district": "FALLBROOK UNION ELEMENTARY SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "sandersville.typingclub.com",
+      "name": "Sandersville",
+      "match": {
+        "district": "FARMERSVILLE USD",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.75
+      }
+    },
+    {
+      "subdomain": "sandhills.typingclub.com",
+      "name": "Sandhills",
+      "match": {
+        "district": "San Diego Unified School District",
+        "state": "CA",
+        "enrollment": 97000,
+        "confidence": 0.56
+      }
+    },
+    {
+      "subdomain": "saugususd.typingclub.com",
+      "name": "Saugususd",
+      "match": null
+    },
+    {
+      "subdomain": "savcps.typingclub.com",
+      "name": "Savcps",
+      "match": null
+    },
+    {
+      "subdomain": "savoyisd.typingclub.com",
+      "name": "Savoyisd",
+      "match": null
+    },
+    {
+      "subdomain": "saylesschool.typingclub.com",
+      "name": "Saylesschool",
+      "match": null
+    },
+    {
+      "subdomain": "sbcusd.typingclub.com",
+      "name": "Sbcusd",
+      "match": null
+    },
+    {
+      "subdomain": "sbrsd.typingclub.com",
+      "name": "Sbrsd",
+      "match": null
+    },
+    {
+      "subdomain": "sccshouston.typingclub.com",
+      "name": "Sccshouston",
+      "match": {
+        "district": "Houston Independent School District",
+        "state": "TX",
+        "enrollment": 187000,
+        "confidence": 0.67
+      }
+    },
+    {
+      "subdomain": "schalmont.typingclub.com",
+      "name": "Schalmont",
+      "match": {
+        "district": "HARMONY PUBLIC SCHOOLS",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.62
+      }
+    },
+    {
+      "subdomain": "schillertech.typingclub.com",
+      "name": "Schillertech",
+      "match": null
+    },
+    {
+      "subdomain": "school-of-the-incarnation.typingclub.com",
+      "name": "School Of The Incarnation",
+      "match": {
+        "district": "UPLIFT EDUCATION",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "scottcity.typingclub.com",
+      "name": "Scottcity",
+      "match": {
+        "district": "SYRACUSE CITY SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "scsdk8.typingclub.com",
+      "name": "Scsdk8",
+      "match": null
+    },
+    {
+      "subdomain": "sc-souder.typingclub.com",
+      "name": "Sc Souder",
+      "match": null
+    },
+    {
+      "subdomain": "sd34-asiasumas.typingclub.com",
+      "name": "Sd34 Asiasumas",
+      "match": null
+    },
+    {
+      "subdomain": "seasbellmore.typingclub.com",
+      "name": "Seasbellmore",
+      "match": null
+    },
+    {
+      "subdomain": "seminole-junior.typingclub.com",
+      "name": "Seminole Junior",
+      "match": {
+        "district": "CENTRAL UNION ELEMENTARY SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "setigers.typingclub.com",
+      "name": "Setigers",
+      "match": {
+        "district": "Seattle Public Schools",
+        "state": "WA",
+        "enrollment": 49000,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "sevenoaks.typingclub.com",
+      "name": "Sevenoaks",
+      "match": null
+    },
+    {
+      "subdomain": "sevier.typingclub.com",
+      "name": "Sevier",
+      "match": null
+    },
+    {
+      "subdomain": "seward.typingclub.com",
+      "name": "Seward",
+      "match": null
+    },
+    {
+      "subdomain": "sfcscolts.typingclub.com",
+      "name": "Sfcscolts",
+      "match": null
+    },
+    {
+      "subdomain": "sfdslions.typingclub.com",
+      "name": "Sfdslions",
+      "match": null
+    },
+    {
+      "subdomain": "sfoakselem.typingclub.com",
+      "name": "Sfoakselem",
+      "match": null
+    },
+    {
+      "subdomain": "shardingtypingclubcom.typingclub.com",
+      "name": "Shardingtypingclubcom",
+      "match": null
+    },
+    {
+      "subdomain": "sharonschools.typingclub.com",
+      "name": "Sharonschools",
+      "match": null
+    },
+    {
+      "subdomain": "shcschool.typingclub.com",
+      "name": "Shcschool",
+      "match": null
+    },
+    {
+      "subdomain": "shelby-coyotes.typingclub.com",
+      "name": "Shelby Coyotes",
+      "match": null
+    },
+    {
+      "subdomain": "sheldonmiddle.typingclub.com",
+      "name": "Sheldonmiddle",
+      "match": null
+    },
+    {
+      "subdomain": "sheltoness.typingclub.com",
+      "name": "Sheltoness",
+      "match": null
+    },
+    {
+      "subdomain": "shelyn.typingclub.com",
+      "name": "Shelyn",
+      "match": null
+    },
+    {
+      "subdomain": "shepardson.typingclub.com",
+      "name": "Shepardson",
+      "match": {
+        "district": "HARMONY PUBLIC SCHOOLS",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.59
+      }
+    },
+    {
+      "subdomain": "sheridanschools.typingclub.com",
+      "name": "Sheridanschools",
+      "match": null
+    },
+    {
+      "subdomain": "shields.typingclub.com",
+      "name": "Shields",
+      "match": null
+    },
+    {
+      "subdomain": "shmslions.typingclub.com",
+      "name": "Shmslions",
+      "match": null
+    },
+    {
+      "subdomain": "shs-elem.typingclub.com",
+      "name": "Shs Elem",
+      "match": {
+        "district": "Seattle Public Schools",
+        "state": "WA",
+        "enrollment": 49000,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "shslions.typingclub.com",
+      "name": "Shslions",
+      "match": {
+        "district": "LINDSAY UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "shssaints.typingclub.com",
+      "name": "Shssaints",
+      "match": null
+    },
+    {
+      "subdomain": "shubelopolis.typingclub.com",
+      "name": "Shubelopolis",
+      "match": null
+    },
+    {
+      "subdomain": "silas-bronson.typingclub.com",
+      "name": "Silas Bronson",
+      "match": null
+    },
+    {
+      "subdomain": "silo-isd.typingclub.com",
+      "name": "Silo Isd",
+      "match": null
+    },
+    {
+      "subdomain": "silojh.typingclub.com",
+      "name": "Silojh",
+      "match": null
+    },
+    {
+      "subdomain": "singer-hs.typingclub.com",
+      "name": "Singer Hs",
+      "match": null
+    },
+    {
+      "subdomain": "sippican.typingclub.com",
+      "name": "Sippican",
+      "match": {
+        "district": "Spokane Public Schools",
+        "state": "WA",
+        "enrollment": 28000,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "sisters-schools.typingclub.com",
+      "name": "Sisters Schools",
+      "match": null
+    },
+    {
+      "subdomain": "sjecs.typingclub.com",
+      "name": "Sjecs",
+      "match": null
+    },
+    {
+      "subdomain": "sjon-praktijkschool.typingclub.com",
+      "name": "Sjon Praktijkschool",
+      "match": null
+    },
+    {
+      "subdomain": "sjusd-williams.typingclub.com",
+      "name": "Sjusd Williams",
+      "match": null
+    },
+    {
+      "subdomain": "sjvknights.typingclub.com",
+      "name": "Sjvknights",
+      "match": null
+    },
+    {
+      "subdomain": "skillin.typingclub.com",
+      "name": "Skillin",
+      "match": null
+    },
+    {
+      "subdomain": "skusd.typingclub.com",
+      "name": "Skusd",
+      "match": null
+    },
+    {
+      "subdomain": "smbccs41.typingclub.com",
+      "name": "Smbccs41",
+      "match": null
+    },
+    {
+      "subdomain": "smbsd.typingclub.com",
+      "name": "Smbsd",
+      "match": null
+    },
+    {
+      "subdomain": "smcgovern.typingclub.com",
+      "name": "Smcgovern",
+      "match": null
+    },
+    {
+      "subdomain": "smcst.typingclub.com",
+      "name": "Smcst",
+      "match": null
+    },
+    {
+      "subdomain": "smeast.typingclub.com",
+      "name": "Smeast",
+      "match": {
+        "district": "Seattle Public Schools",
+        "state": "WA",
+        "enrollment": 49000,
+        "confidence": 0.62
+      }
+    },
+    {
+      "subdomain": "smmusd.typingclub.com",
+      "name": "Smmusd",
+      "match": null
+    },
+    {
+      "subdomain": "smoschicago.typingclub.com",
+      "name": "Smoschicago",
+      "match": null
+    },
+    {
+      "subdomain": "smswolves.typingclub.com",
+      "name": "Smswolves",
+      "match": null
+    },
+    {
+      "subdomain": "snake-river.typingclub.com",
+      "name": "Snake River",
+      "match": {
+        "district": "INDIAN RIVER CENTRAL SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "snaresbrook.typingclub.com",
+      "name": "Snaresbrook",
+      "match": null
+    },
+    {
+      "subdomain": "snowsprings.typingclub.com",
+      "name": "Snowsprings",
+      "match": null
+    },
+    {
+      "subdomain": "soeanola.typingclub.com",
+      "name": "Soeanola",
+      "match": {
+        "district": "Seattle Public Schools",
+        "state": "WA",
+        "enrollment": 49000,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "sommer.typingclub.com",
+      "name": "Sommer",
+      "match": null
+    },
+    {
+      "subdomain": "sotscleveland.typingclub.com",
+      "name": "Sotscleveland",
+      "match": {
+        "district": "Portland Public Schools",
+        "state": "OR",
+        "enrollment": 43000,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "southbelt.typingclub.com",
+      "name": "Southbelt",
+      "match": null
+    },
+    {
+      "subdomain": "southcentral2013.typingclub.com",
+      "name": "Southcentral2013",
+      "match": {
+        "district": "SODUS CENTRAL SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.69
+      }
+    },
+    {
+      "subdomain": "southeastpolk.typingclub.com",
+      "name": "Southeastpolk",
+      "match": null
+    },
+    {
+      "subdomain": "southlake.typingclub.com",
+      "name": "Southlake",
+      "match": null
+    },
+    {
+      "subdomain": "south-middle-rodey.typingclub.com",
+      "name": "South Middle Rodey",
+      "match": null
+    },
+    {
+      "subdomain": "southwest-elementary.typingclub.com",
+      "name": "Southwest Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "southwindsor.typingclub.com",
+      "name": "Southwindsor",
+      "match": {
+        "district": "Northshore School District",
+        "state": "WA",
+        "enrollment": 23000,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "spa-2.typingclub.com",
+      "name": "Spa 2",
+      "match": null
+    },
+    {
+      "subdomain": "spangler.typingclub.com",
+      "name": "Spangler",
+      "match": {
+        "district": "Spokane Public Schools",
+        "state": "WA",
+        "enrollment": 28000,
+        "confidence": 0.67
+      }
+    },
+    {
+      "subdomain": "spanola.typingclub.com",
+      "name": "Spanola",
+      "match": {
+        "district": "Spokane Public Schools",
+        "state": "WA",
+        "enrollment": 28000,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "spencer-county-elementary-ky.typingclub.com",
+      "name": "Spencer County Elementary Ky",
+      "match": {
+        "district": "LEE COUNTY SCHOOL BOARD",
+        "state": "FL",
+        "enrollment": null,
+        "confidence": 0.61
+      }
+    },
+    {
+      "subdomain": "spessard.typingclub.com",
+      "name": "Spessard",
+      "match": null
+    },
+    {
+      "subdomain": "splcgrade4.typingclub.com",
+      "name": "Splcgrade4",
+      "match": null
+    },
+    {
+      "subdomain": "springgrove.typingclub.com",
+      "name": "Springgrove",
+      "match": {
+        "district": "LA MESA-SPRING VALLEY SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "srcreek.typingclub.com",
+      "name": "Srcreek",
+      "match": null
+    },
+    {
+      "subdomain": "srstypers.typingclub.com",
+      "name": "Srstypers",
+      "match": null
+    },
+    {
+      "subdomain": "srvusd.typingclub.com",
+      "name": "Srvusd",
+      "match": null
+    },
+    {
+      "subdomain": "ssmartyr.typingclub.com",
+      "name": "Ssmartyr",
+      "match": null
+    },
+    {
+      "subdomain": "ssmscte.typingclub.com",
+      "name": "Ssmscte",
+      "match": null
+    },
+    {
+      "subdomain": "sswtes.typingclub.com",
+      "name": "Sswtes",
+      "match": null
+    },
+    {
+      "subdomain": "st1.typingclub.com",
+      "name": "St1",
+      "match": null
+    },
+    {
+      "subdomain": "stafford-obrien.typingclub.com",
+      "name": "Stafford Obrien",
+      "match": null
+    },
+    {
+      "subdomain": "st-annes-cc.typingclub.com",
+      "name": "St Annes Cc",
+      "match": {
+        "district": "Los Angeles Unified School District",
+        "state": "CA",
+        "enrollment": 420000,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "stannesf.typingclub.com",
+      "name": "Stannesf",
+      "match": {
+        "district": "Spokane Public Schools",
+        "state": "WA",
+        "enrollment": 28000,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "stanthonygradeschool.typingclub.com",
+      "name": "Stanthonygradeschool",
+      "match": null
+    },
+    {
+      "subdomain": "staredu.typingclub.com",
+      "name": "Staredu",
+      "match": null
+    },
+    {
+      "subdomain": "static.typingclub.com",
+      "name": "Static",
+      "match": null
+    },
+    {
+      "subdomain": "st-augs.typingclub.com",
+      "name": "St Augs",
+      "match": {
+        "district": "Los Angeles Unified School District",
+        "state": "CA",
+        "enrollment": 420000,
+        "confidence": 0.56
+      }
+    },
+    {
+      "subdomain": "staugustinschool.typingclub.com",
+      "name": "Staugustinschool",
+      "match": null
+    },
+    {
+      "subdomain": "st-bernadette.typingclub.com",
+      "name": "St Bernadette",
+      "match": {
+        "district": "Seattle Public Schools",
+        "state": "WA",
+        "enrollment": 49000,
+        "confidence": 0.6
+      }
+    },
+    {
+      "subdomain": "st-cronans2.typingclub.com",
+      "name": "St Cronans2",
+      "match": null
+    },
+    {
+      "subdomain": "steckstars.typingclub.com",
+      "name": "Steckstars",
+      "match": null
+    },
+    {
+      "subdomain": "st-edward.typingclub.com",
+      "name": "St Edward",
+      "match": null
+    },
+    {
+      "subdomain": "stefanik.typingclub.com",
+      "name": "Stefanik",
+      "match": null
+    },
+    {
+      "subdomain": "steffen.typingclub.com",
+      "name": "Steffen",
+      "match": null
+    },
+    {
+      "subdomain": "st-egbert.typingclub.com",
+      "name": "St Egbert",
+      "match": null
+    },
+    {
+      "subdomain": "stellar-charter1.typingclub.com",
+      "name": "Stellar Charter1",
+      "match": {
+        "district": "ZETA CHARTER SCHOOLS, INC.",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.62
+      }
+    },
+    {
+      "subdomain": "stevensonms.typingclub.com",
+      "name": "Stevensonms",
+      "match": null
+    },
+    {
+      "subdomain": "st-felicitas-school.typingclub.com",
+      "name": "St Felicitas School",
+      "match": {
+        "district": "ELMIRA CITY SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "st-hugotypingclubcom.typingclub.com",
+      "name": "St Hugotypingclubcom",
+      "match": null
+    },
+    {
+      "subdomain": "stjameshaubstadt.typingclub.com",
+      "name": "Stjameshaubstadt",
+      "match": null
+    },
+    {
+      "subdomain": "st-james-school.typingclub.com",
+      "name": "St James School",
+      "match": {
+        "district": "MT ADAMS SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.62
+      }
+    },
+    {
+      "subdomain": "stjohnsceprimary.typingclub.com",
+      "name": "Stjohnsceprimary",
+      "match": null
+    },
+    {
+      "subdomain": "st-josephs-primary.typingclub.com",
+      "name": "St Josephs Primary",
+      "match": null
+    },
+    {
+      "subdomain": "stjospehost.typingclub.com",
+      "name": "Stjospehost",
+      "match": null
+    },
+    {
+      "subdomain": "st-jude-school.typingclub.com",
+      "name": "St Jude School",
+      "match": null
+    },
+    {
+      "subdomain": "st-leo-school-oakland.typingclub.com",
+      "name": "St Leo School Oakland",
+      "match": null
+    },
+    {
+      "subdomain": "stlukes.typingclub.com",
+      "name": "Stlukes",
+      "match": {
+        "district": "Seattle Public Schools",
+        "state": "WA",
+        "enrollment": 49000,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "stm1884.typingclub.com",
+      "name": "Stm1884",
+      "match": null
+    },
+    {
+      "subdomain": "st-mark-catholic-school.typingclub.com",
+      "name": "St Mark Catholic School",
+      "match": null
+    },
+    {
+      "subdomain": "stmarthaschool.typingclub.com",
+      "name": "Stmarthaschool",
+      "match": null
+    },
+    {
+      "subdomain": "stmarysgreensburg.typingclub.com",
+      "name": "Stmarysgreensburg",
+      "match": null
+    },
+    {
+      "subdomain": "st-marysjm-baldock.typingclub.com",
+      "name": "St Marysjm Baldock",
+      "match": null
+    },
+    {
+      "subdomain": "stmcomputers.typingclub.com",
+      "name": "Stmcomputers",
+      "match": null
+    },
+    {
+      "subdomain": "stmegr7.typingclub.com",
+      "name": "Stmegr7",
+      "match": null
+    },
+    {
+      "subdomain": "stockbridge-elem.typingclub.com",
+      "name": "Stockbridge Elem",
+      "match": null
+    },
+    {
+      "subdomain": "stoliverpps.typingclub.com",
+      "name": "Stoliverpps",
+      "match": null
+    },
+    {
+      "subdomain": "stoliversns.typingclub.com",
+      "name": "Stoliversns",
+      "match": null
+    },
+    {
+      "subdomain": "stonecreek.typingclub.com",
+      "name": "Stonecreek",
+      "match": null
+    },
+    {
+      "subdomain": "stonevalleyccs.typingclub.com",
+      "name": "Stonevalleyccs",
+      "match": {
+        "district": "CONEJO VALLEY UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.67
+      }
+    },
+    {
+      "subdomain": "stony-brook.typingclub.com",
+      "name": "Stony Brook",
+      "match": null
+    },
+    {
+      "subdomain": "stony-creekht4.typingclub.com",
+      "name": "Stony Creekht4",
+      "match": null
+    },
+    {
+      "subdomain": "st-patrick.typingclub.com",
+      "name": "St Patrick",
+      "match": {
+        "district": "YES PREP PUBLIC SCHOOLS INC",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "stpatschoolag.typingclub.com",
+      "name": "Stpatschoolag",
+      "match": {
+        "district": "Tacoma Public Schools",
+        "state": "WA",
+        "enrollment": 27000,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "st-paul-kensington.typingclub.com",
+      "name": "St Paul Kensington",
+      "match": {
+        "district": "Lake Washington School District",
+        "state": "WA",
+        "enrollment": 32000,
+        "confidence": 0.61
+      }
+    },
+    {
+      "subdomain": "stpaulsheboygan.typingclub.com",
+      "name": "Stpaulsheboygan",
+      "match": null
+    },
+    {
+      "subdomain": "st-pauls-lutheran-munster.typingclub.com",
+      "name": "St Pauls Lutheran Munster",
+      "match": null
+    },
+    {
+      "subdomain": "stpaulsonalaska5.typingclub.com",
+      "name": "Stpaulsonalaska5",
+      "match": null
+    },
+    {
+      "subdomain": "st-pauls-school.typingclub.com",
+      "name": "St Pauls School",
+      "match": {
+        "district": "Los Angeles Unified School District",
+        "state": "CA",
+        "enrollment": 420000,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "st-peter5.typingclub.com",
+      "name": "St Peter5",
+      "match": null
+    },
+    {
+      "subdomain": "st-peters2.typingclub.com",
+      "name": "St Peters2",
+      "match": null
+    },
+    {
+      "subdomain": "stpeterschool.typingclub.com",
+      "name": "Stpeterschool",
+      "match": null
+    },
+    {
+      "subdomain": "stplssaginaw.typingclub.com",
+      "name": "Stplssaginaw",
+      "match": null
+    },
+    {
+      "subdomain": "straymond.typingclub.com",
+      "name": "Straymond",
+      "match": null
+    },
+    {
+      "subdomain": "stringfellow-elementary.typingclub.com",
+      "name": "Stringfellow Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "stukeyabc.typingclub.com",
+      "name": "Stukeyabc",
+      "match": null
+    },
+    {
+      "subdomain": "stukey-elementary2.typingclub.com",
+      "name": "Stukey Elementary2",
+      "match": null
+    },
+    {
+      "subdomain": "stukey-elementary4.typingclub.com",
+      "name": "Stukey Elementary4",
+      "match": null
+    },
+    {
+      "subdomain": "s.typingclub.com",
+      "name": "S",
+      "match": {
+        "district": "Seattle Public Schools",
+        "state": "WA",
+        "enrollment": 49000,
+        "confidence": 0.9
+      }
+    },
+    {
+      "subdomain": "summitcove.typingclub.com",
+      "name": "Summitcove",
+      "match": null
+    },
+    {
+      "subdomain": "summitstreetschool.typingclub.com",
+      "name": "Summitstreetschool",
+      "match": null
+    },
+    {
+      "subdomain": "sunchild-school.typingclub.com",
+      "name": "Sunchild School",
+      "match": null
+    },
+    {
+      "subdomain": "sunny-heights2.typingclub.com",
+      "name": "Sunny Heights2",
+      "match": null
+    },
+    {
+      "subdomain": "sunnysidedurangoschools.typingclub.com",
+      "name": "Sunnysidedurangoschools",
+      "match": null
+    },
+    {
+      "subdomain": "sunset-elementary2.typingclub.com",
+      "name": "Sunset Elementary2",
+      "match": {
+        "district": "SODUS CENTRAL SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "suntek.typingclub.com",
+      "name": "Suntek",
+      "match": null
+    },
+    {
+      "subdomain": "svusdk12.typingclub.com",
+      "name": "Svusdk12",
+      "match": null
+    },
+    {
+      "subdomain": "swaink12nc.typingclub.com",
+      "name": "Swaink12Nc",
+      "match": null
+    },
+    {
+      "subdomain": "swain-west.typingclub.com",
+      "name": "Swain West",
+      "match": {
+        "district": "EDUCATION NORTHWEST",
+        "state": "OR",
+        "enrollment": null,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "swan-hills-school.typingclub.com",
+      "name": "Swan Hills School",
+      "match": {
+        "district": "San Diego Unified School District",
+        "state": "CA",
+        "enrollment": 97000,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "swasey3w.typingclub.com",
+      "name": "Swasey3W",
+      "match": null
+    },
+    {
+      "subdomain": "sweenyelementary.typingclub.com",
+      "name": "Sweenyelementary",
+      "match": null
+    },
+    {
+      "subdomain": "sweet.typingclub.com",
+      "name": "Sweet",
+      "match": null
+    },
+    {
+      "subdomain": "swift-creek2.typingclub.com",
+      "name": "Swift Creek2",
+      "match": null
+    },
+    {
+      "subdomain": "swjcs.typingclub.com",
+      "name": "Swjcs",
+      "match": null
+    },
+    {
+      "subdomain": "tablem.typingclub.com",
+      "name": "Tablem",
+      "match": null
+    },
+    {
+      "subdomain": "tahayghen-elementary.typingclub.com",
+      "name": "Tahayghen Elementary",
+      "match": {
+        "district": "TAHOLAH SCHOOL DISTRICT 77",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "talawanda.typingclub.com",
+      "name": "Talawanda",
+      "match": {
+        "district": "Portland Public Schools",
+        "state": "OR",
+        "enrollment": 43000,
+        "confidence": 0.59
+      }
+    },
+    {
+      "subdomain": "tanner2nd.typingclub.com",
+      "name": "Tanner2Nd",
+      "match": {
+        "district": "LACONNER SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.59
+      }
+    },
+    {
+      "subdomain": "tannerdpi.typingclub.com",
+      "name": "Tannerdpi",
+      "match": {
+        "district": "LACONNER SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.59
+      }
+    },
+    {
+      "subdomain": "taraheights.typingclub.com",
+      "name": "Taraheights",
+      "match": null
+    },
+    {
+      "subdomain": "tarrytown.typingclub.com",
+      "name": "Tarrytown",
+      "match": null
+    },
+    {
+      "subdomain": "tartans.typingclub.com",
+      "name": "Tartans",
+      "match": {
+        "district": "Portland Public Schools",
+        "state": "OR",
+        "enrollment": 43000,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "teccs.typingclub.com",
+      "name": "Teccs",
+      "match": null
+    },
+    {
+      "subdomain": "technology-rocks.typingclub.com",
+      "name": "Technology Rocks",
+      "match": null
+    },
+    {
+      "subdomain": "terehu.typingclub.com",
+      "name": "Terehu",
+      "match": null
+    },
+    {
+      "subdomain": "tes-charlotte.typingclub.com",
+      "name": "Tes Charlotte",
+      "match": {
+        "district": "SUCCESS ACADEMY CHARTER SCHOOLS INC",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.56
+      }
+    },
+    {
+      "subdomain": "tesdtyping.typingclub.com",
+      "name": "Tesdtyping",
+      "match": null
+    },
+    {
+      "subdomain": "tgrove.typingclub.com",
+      "name": "Tgrove",
+      "match": null
+    },
+    {
+      "subdomain": "the-magellan.typingclub.com",
+      "name": "The Magellan",
+      "match": null
+    },
+    {
+      "subdomain": "the-moriah-school.typingclub.com",
+      "name": "The Moriah School",
+      "match": null
+    },
+    {
+      "subdomain": "the-priory.typingclub.com",
+      "name": "The Priory",
+      "match": null
+    },
+    {
+      "subdomain": "thetford.typingclub.com",
+      "name": "Thetford",
+      "match": null
+    },
+    {
+      "subdomain": "thomas-fleming.typingclub.com",
+      "name": "Thomas Fleming",
+      "match": null
+    },
+    {
+      "subdomain": "threepeaks.typingclub.com",
+      "name": "Threepeaks",
+      "match": null
+    },
+    {
+      "subdomain": "threeriversschool.typingclub.com",
+      "name": "Threeriversschool",
+      "match": null
+    },
+    {
+      "subdomain": "thursonmiddle-school.typingclub.com",
+      "name": "Thursonmiddle School",
+      "match": null
+    },
+    {
+      "subdomain": "timbo.typingclub.com",
+      "name": "Timbo",
+      "match": null
+    },
+    {
+      "subdomain": "tjmsvalpo.typingclub.com",
+      "name": "Tjmsvalpo",
+      "match": null
+    },
+    {
+      "subdomain": "tkfsc11.typingclub.com",
+      "name": "Tkfsc11",
+      "match": null
+    },
+    {
+      "subdomain": "tkfsc21.typingclub.com",
+      "name": "Tkfsc21",
+      "match": null
+    },
+    {
+      "subdomain": "tkfsc22.typingclub.com",
+      "name": "Tkfsc22",
+      "match": null
+    },
+    {
+      "subdomain": "tkfsc31.typingclub.com",
+      "name": "Tkfsc31",
+      "match": null
+    },
+    {
+      "subdomain": "tkfsc32.typingclub.com",
+      "name": "Tkfsc32",
+      "match": null
+    },
+    {
+      "subdomain": "tkfsc41.typingclub.com",
+      "name": "Tkfsc41",
+      "match": null
+    },
+    {
+      "subdomain": "tkfsc42.typingclub.com",
+      "name": "Tkfsc42",
+      "match": null
+    },
+    {
+      "subdomain": "tkfsc51.typingclub.com",
+      "name": "Tkfsc51",
+      "match": null
+    },
+    {
+      "subdomain": "tkschools.typingclub.com",
+      "name": "Tkschools",
+      "match": null
+    },
+    {
+      "subdomain": "topanga-elementary.typingclub.com",
+      "name": "Topanga Elementary",
+      "match": {
+        "district": "PASADENA UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "topatopa.typingclub.com",
+      "name": "Topatopa",
+      "match": {
+        "district": "WAPATO SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "topercer.typingclub.com",
+      "name": "Topercer",
+      "match": {
+        "district": "TICONDEROGA CENTRAL SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "torreypines.typingclub.com",
+      "name": "Torreypines",
+      "match": null
+    },
+    {
+      "subdomain": "traut.typingclub.com",
+      "name": "Traut",
+      "match": null
+    },
+    {
+      "subdomain": "treasurevillagemontessori.typingclub.com",
+      "name": "Treasurevillagemontessori",
+      "match": null
+    },
+    {
+      "subdomain": "treeoflife.typingclub.com",
+      "name": "Treeoflife",
+      "match": null
+    },
+    {
+      "subdomain": "tremont.typingclub.com",
+      "name": "Tremont",
+      "match": {
+        "district": "HARMONY PUBLIC SCHOOLS",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "trentlottacademy.typingclub.com",
+      "name": "Trentlottacademy",
+      "match": null
+    },
+    {
+      "subdomain": "trinitycatholicjh.typingclub.com",
+      "name": "Trinitycatholicjh",
+      "match": null
+    },
+    {
+      "subdomain": "truman-elem.typingclub.com",
+      "name": "Truman Elem",
+      "match": null
+    },
+    {
+      "subdomain": "tsdlincolnleopards.typingclub.com",
+      "name": "Tsdlincolnleopards",
+      "match": null
+    },
+    {
+      "subdomain": "tsukubainterschool.typingclub.com",
+      "name": "Tsukubainterschool",
+      "match": null
+    },
+    {
+      "subdomain": "tukwila-elementary.typingclub.com",
+      "name": "Tukwila Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "tukwila-elem-school.typingclub.com",
+      "name": "Tukwila Elem School",
+      "match": null
+    },
+    {
+      "subdomain": "tustin.typingclub.com",
+      "name": "Tustin",
+      "match": null
+    },
+    {
+      "subdomain": "two-harbors.typingclub.com",
+      "name": "Two Harbors",
+      "match": null
+    },
+    {
+      "subdomain": "typingclub.com",
+      "name": "Typingclub.Com",
+      "match": null
+    },
+    {
+      "subdomain": "typinggames.apps.typingclub.com",
+      "name": "Typinggames.Apps",
+      "match": null
+    },
+    {
+      "subdomain": "unityeast.typingclub.com",
+      "name": "Unityeast",
+      "match": null
+    },
+    {
+      "subdomain": "upark.typingclub.com",
+      "name": "Upark",
+      "match": null
+    },
+    {
+      "subdomain": "urtigers.typingclub.com",
+      "name": "Urtigers",
+      "match": null
+    },
+    {
+      "subdomain": "usd253.typingclub.com",
+      "name": "Usd253",
+      "match": null
+    },
+    {
+      "subdomain": "usd-310.typingclub.com",
+      "name": "Usd 310",
+      "match": null
+    },
+    {
+      "subdomain": "usd489lincolnhays.typingclub.com",
+      "name": "Usd489Lincolnhays",
+      "match": null
+    },
+    {
+      "subdomain": "usnusnfree.typingclub.com",
+      "name": "Usnusnfree",
+      "match": {
+        "district": "UNIONDALE UNION FREE SCHOOL DISTRICT",
+        "state": "NY",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "usnusn.typingclub.com",
+      "name": "Usnusn",
+      "match": null
+    },
+    {
+      "subdomain": "uwcsea-dover.typingclub.com",
+      "name": "Uwcsea Dover",
+      "match": null
+    },
+    {
+      "subdomain": "valentineschool.typingclub.com",
+      "name": "Valentineschool",
+      "match": null
+    },
+    {
+      "subdomain": "valleycatholic.typingclub.com",
+      "name": "Valleycatholic",
+      "match": null
+    },
+    {
+      "subdomain": "vanwertcougars.typingclub.com",
+      "name": "Vanwertcougars",
+      "match": {
+        "district": "VANCOUVER SCHOOL DISTRICT 37",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.54
+      }
+    },
+    {
+      "subdomain": "vauxhall-primary.typingclub.com",
+      "name": "Vauxhall Primary",
+      "match": null
+    },
+    {
+      "subdomain": "vbes-typing.typingclub.com",
+      "name": "Vbes Typing",
+      "match": {
+        "district": "YES PREP PUBLIC SCHOOLS INC",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "vcsnavigators.typingclub.com",
+      "name": "Vcsnavigators",
+      "match": null
+    },
+    {
+      "subdomain": "verdugo-woodlands-elementary-school.typingclub.com",
+      "name": "Verdugo Woodlands Elementary School",
+      "match": null
+    },
+    {
+      "subdomain": "verona.typingclub.com",
+      "name": "Verona",
+      "match": null
+    },
+    {
+      "subdomain": "vestal.typingclub.com",
+      "name": "Vestal",
+      "match": null
+    },
+    {
+      "subdomain": "vid.typingclub.com",
+      "name": "Vid",
+      "match": {
+        "district": "IDEA PUBLIC SCHOOLS",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "village-oaks-elementary-school.typingclub.com",
+      "name": "Village Oaks Elementary School",
+      "match": null
+    },
+    {
+      "subdomain": "villageschool.typingclub.com",
+      "name": "Villageschool",
+      "match": null
+    },
+    {
+      "subdomain": "villagetypes.typingclub.com",
+      "name": "Villagetypes",
+      "match": {
+        "district": "Los Angeles Unified School District",
+        "state": "CA",
+        "enrollment": 420000,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "vista-academy.typingclub.com",
+      "name": "Vista Academy",
+      "match": null
+    },
+    {
+      "subdomain": "vistadelsur.typingclub.com",
+      "name": "Vistadelsur",
+      "match": null
+    },
+    {
+      "subdomain": "wabeno-area-school-district.typingclub.com",
+      "name": "Wabeno Area School District",
+      "match": null
+    },
+    {
+      "subdomain": "waite-park.typingclub.com",
+      "name": "Waite Park",
+      "match": {
+        "district": "CLOVER PARK SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "wallinelementarycalvert.typingclub.com",
+      "name": "Wallinelementarycalvert",
+      "match": null
+    },
+    {
+      "subdomain": "waltham.typingclub.com",
+      "name": "Waltham",
+      "match": null
+    },
+    {
+      "subdomain": "warder.typingclub.com",
+      "name": "Warder",
+      "match": {
+        "district": "MADERA UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.67
+      }
+    },
+    {
+      "subdomain": "warroad-elementary.typingclub.com",
+      "name": "Warroad Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "warroad-elem.typingclub.com",
+      "name": "Warroad Elem",
+      "match": null
+    },
+    {
+      "subdomain": "washington-district50.typingclub.com",
+      "name": "Washington District50",
+      "match": {
+        "district": "WASHINGTON COUNTY SCHOOL DISTRICT",
+        "state": "FL",
+        "enrollment": null,
+        "confidence": 0.63
+      }
+    },
+    {
+      "subdomain": "washingtonusd.typingclub.com",
+      "name": "Washingtonusd",
+      "match": {
+        "district": "WASHINGTON COUNTY SCHOOL DISTRICT",
+        "state": "FL",
+        "enrollment": null,
+        "confidence": 0.73
+      }
+    },
+    {
+      "subdomain": "washwildcats.typingclub.com",
+      "name": "Washwildcats",
+      "match": null
+    },
+    {
+      "subdomain": "waters-elementary.typingclub.com",
+      "name": "Waters Elementary",
+      "match": null
+    },
+    {
+      "subdomain": "watersidecss.typingclub.com",
+      "name": "Watersidecss",
+      "match": null
+    },
+    {
+      "subdomain": "watson-elementary.typingclub.com",
+      "name": "Watson Elementary",
+      "match": {
+        "district": "WAPATO SCHOOL DISTRICT",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.67
+      }
+    },
+    {
+      "subdomain": "waughsd.typingclub.com",
+      "name": "Waughsd",
+      "match": null
+    },
+    {
+      "subdomain": "waunakee.typingclub.com",
+      "name": "Waunakee",
+      "match": null
+    },
+    {
+      "subdomain": "wcavitt.typingclub.com",
+      "name": "Wcavitt",
+      "match": null
+    },
+    {
+      "subdomain": "wcsdtyping.typingclub.com",
+      "name": "Wcsdtyping",
+      "match": null
+    },
+    {
+      "subdomain": "wdpsd.typingclub.com",
+      "name": "Wdpsd",
+      "match": null
+    },
+    {
+      "subdomain": "weiherhofrealschule.typingclub.com",
+      "name": "Weiherhofrealschule",
+      "match": null
+    },
+    {
+      "subdomain": "wenatchee.typingclub.com",
+      "name": "Wenatchee",
+      "match": null
+    },
+    {
+      "subdomain": "wendell-phillips.typingclub.com",
+      "name": "Wendell Phillips",
+      "match": null
+    },
+    {
+      "subdomain": "wesmillard.typingclub.com",
+      "name": "Wesmillard",
+      "match": null
+    },
+    {
+      "subdomain": "westbourne-house.typingclub.com",
+      "name": "Westbourne House",
+      "match": null
+    },
+    {
+      "subdomain": "westbournehouse.typingclub.com",
+      "name": "Westbournehouse",
+      "match": null
+    },
+    {
+      "subdomain": "westchester30030.typingclub.com",
+      "name": "Westchester30030",
+      "match": null
+    },
+    {
+      "subdomain": "west-elem-wford.typingclub.com",
+      "name": "West Elem Wford",
+      "match": {
+        "district": "NESPELEM SCHOOL DISTRICT 14",
+        "state": "WA",
+        "enrollment": null,
+        "confidence": 0.54
+      }
+    },
+    {
+      "subdomain": "westgate-elementary3.typingclub.com",
+      "name": "Westgate Elementary3",
+      "match": null
+    },
+    {
+      "subdomain": "westgatees.typingclub.com",
+      "name": "Westgatees",
+      "match": null
+    },
+    {
+      "subdomain": "westhaven.typingclub.com",
+      "name": "Westhaven",
+      "match": null
+    },
+    {
+      "subdomain": "west-haverstraw.typingclub.com",
+      "name": "West Haverstraw",
+      "match": null
+    },
+    {
+      "subdomain": "westholtps.typingclub.com",
+      "name": "Westholtps",
+      "match": null
+    },
+    {
+      "subdomain": "west-jeffersonmsb.typingclub.com",
+      "name": "West Jeffersonmsb",
+      "match": null
+    },
+    {
+      "subdomain": "west-madison.typingclub.com",
+      "name": "West Madison",
+      "match": null
+    },
+    {
+      "subdomain": "west-morley.typingclub.com",
+      "name": "West Morley",
+      "match": null
+    },
+    {
+      "subdomain": "westonps.typingclub.com",
+      "name": "Westonps",
+      "match": null
+    },
+    {
+      "subdomain": "westside-elem.typingclub.com",
+      "name": "Westside Elem",
+      "match": {
+        "district": "DESOTO INDEPENDENT SCHOOL DISTRICT",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "weststjohnelem.typingclub.com",
+      "name": "Weststjohnelem",
+      "match": null
+    },
+    {
+      "subdomain": "wetumka.typingclub.com",
+      "name": "Wetumka",
+      "match": null
+    },
+    {
+      "subdomain": "wfbschools.typingclub.com",
+      "name": "Wfbschools",
+      "match": null
+    },
+    {
+      "subdomain": "wfschools.typingclub.com",
+      "name": "Wfschools",
+      "match": null
+    },
+    {
+      "subdomain": "wgpsroom14busybees.typingclub.com",
+      "name": "Wgpsroom14Busybees",
+      "match": null
+    },
+    {
+      "subdomain": "wgsd52.typingclub.com",
+      "name": "Wgsd52",
+      "match": null
+    },
+    {
+      "subdomain": "wheelersburg-pirates.typingclub.com",
+      "name": "Wheelersburg Pirates",
+      "match": null
+    },
+    {
+      "subdomain": "white-oak.typingclub.com",
+      "name": "White Oak",
+      "match": null
+    },
+    {
+      "subdomain": "white-sulphur.typingclub.com",
+      "name": "White Sulphur",
+      "match": null
+    },
+    {
+      "subdomain": "whitinsvillecs.typingclub.com",
+      "name": "Whitinsvillecs",
+      "match": null
+    },
+    {
+      "subdomain": "wildcat.typingclub.com",
+      "name": "Wildcat",
+      "match": {
+        "district": "IDEA PUBLIC SCHOOLS",
+        "state": "TX",
+        "enrollment": null,
+        "confidence": 0.55
+      }
+    },
+    {
+      "subdomain": "wildwood-forest.typingclub.com",
+      "name": "Wildwood Forest",
+      "match": null
+    },
+    {
+      "subdomain": "wildwoodschool.typingclub.com",
+      "name": "Wildwoodschool",
+      "match": null
+    },
+    {
+      "subdomain": "wilkinson3.typingclub.com",
+      "name": "Wilkinson3",
+      "match": null
+    },
+    {
+      "subdomain": "willardmo.typingclub.com",
+      "name": "Willardmo",
+      "match": null
+    },
+    {
+      "subdomain": "willistonschools.typingclub.com",
+      "name": "Willistonschools",
+      "match": null
+    },
+    {
+      "subdomain": "williston-stewart.typingclub.com",
+      "name": "Williston Stewart",
+      "match": null
+    },
+    {
+      "subdomain": "wilmette39.typingclub.com",
+      "name": "Wilmette39",
+      "match": null
+    },
+    {
+      "subdomain": "wilson2.typingclub.com",
+      "name": "Wilson2",
+      "match": null
+    },
+    {
+      "subdomain": "wiltonps.typingclub.com",
+      "name": "Wiltonps",
+      "match": null
+    },
+    {
+      "subdomain": "winchester-village.typingclub.com",
+      "name": "Winchester Village",
+      "match": {
+        "district": "SILVER VALLEY UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.52
+      }
+    },
+    {
+      "subdomain": "windlake.typingclub.com",
+      "name": "Windlake",
+      "match": {
+        "district": "LINDSAY UNIFIED SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "winnetka.typingclub.com",
+      "name": "Winnetka",
+      "match": null
+    },
+    {
+      "subdomain": "winston-churchill-elementary-school.typingclub.com",
+      "name": "Winston Churchill Elementary School",
+      "match": {
+        "district": "WASHINGTON COUNTY SCHOOL DISTRICT",
+        "state": "FL",
+        "enrollment": null,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "winterhaven.typingclub.com",
+      "name": "Winterhaven",
+      "match": null
+    },
+    {
+      "subdomain": "winthrop-hwschools.typingclub.com",
+      "name": "Winthrop Hwschools",
+      "match": null
+    },
+    {
+      "subdomain": "wma-es.typingclub.com",
+      "name": "Wma Es",
+      "match": null
+    },
+    {
+      "subdomain": "wolcott-school.typingclub.com",
+      "name": "Wolcott School",
+      "match": null
+    },
+    {
+      "subdomain": "wolfpride.typingclub.com",
+      "name": "Wolfpride",
+      "match": null
+    },
+    {
+      "subdomain": "wolfpups.typingclub.com",
+      "name": "Wolfpups",
+      "match": null
+    },
+    {
+      "subdomain": "wolves.typingclub.com",
+      "name": "Wolves",
+      "match": null
+    },
+    {
+      "subdomain": "woodbury.typingclub.com",
+      "name": "Woodbury",
+      "match": null
+    },
+    {
+      "subdomain": "woodward.typingclub.com",
+      "name": "Woodward",
+      "match": null
+    },
+    {
+      "subdomain": "worcesterschools.typingclub.com",
+      "name": "Worcesterschools",
+      "match": null
+    },
+    {
+      "subdomain": "wpsdtype.typingclub.com",
+      "name": "Wpsdtype",
+      "match": null
+    },
+    {
+      "subdomain": "wsd.typingclub.com",
+      "name": "Wsd",
+      "match": null
+    },
+    {
+      "subdomain": "wtisburyschool.typingclub.com",
+      "name": "Wtisburyschool",
+      "match": null
+    },
+    {
+      "subdomain": "w-verne-mckinney.typingclub.com",
+      "name": "W Verne Mckinney",
+      "match": null
+    },
+    {
+      "subdomain": "wvtigers.typingclub.com",
+      "name": "Wvtigers",
+      "match": null
+    },
+    {
+      "subdomain": "wwbearslab.typingclub.com",
+      "name": "Wwbearslab",
+      "match": null
+    },
+    {
+      "subdomain": "w-w-robinson-elementary-school.typingclub.com",
+      "name": "W W Robinson Elementary School",
+      "match": null
+    },
+    {
+      "subdomain": "ww-robinson.typingclub.com",
+      "name": "Ww Robinson",
+      "match": null
+    },
+    {
+      "subdomain": "www2.typingclub.com",
+      "name": "Www2",
+      "match": null
+    },
+    {
+      "subdomain": "www.double-peakk8.typingclub.com",
+      "name": "Www.Double Peakk8",
+      "match": null
+    },
+    {
+      "subdomain": "www.edgewood.typingclub.com",
+      "name": "Www.Edgewood",
+      "match": null
+    },
+    {
+      "subdomain": "www.phelpscor3.typingclub.com",
+      "name": "Www.Phelpscor3",
+      "match": null
+    },
+    {
+      "subdomain": "www.shmslions.typingclub.com",
+      "name": "Www.Shmslions",
+      "match": null
+    },
+    {
+      "subdomain": "www.shslions.typingclub.com",
+      "name": "Www.Shslions",
+      "match": null
+    },
+    {
+      "subdomain": "www.st-peters2.typingclub.com",
+      "name": "Www.St Peters2",
+      "match": null
+    },
+    {
+      "subdomain": "www.typingclub.com",
+      "name": "Www",
+      "match": null
+    },
+    {
+      "subdomain": "www.valleycatholic.typingclub.com",
+      "name": "Www.Valleycatholic",
+      "match": null
+    },
+    {
+      "subdomain": "wyvil.typingclub.com",
+      "name": "Wyvil",
+      "match": null
+    },
+    {
+      "subdomain": "xingnanprimary.typingclub.com",
+      "name": "Xingnanprimary",
+      "match": null
+    },
+    {
+      "subdomain": "yale-junior.typingclub.com",
+      "name": "Yale Junior",
+      "match": {
+        "district": "CENTRAL UNION ELEMENTARY SCHOOL DISTRICT",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.58
+      }
+    },
+    {
+      "subdomain": "yanceyncsouthtoe.typingclub.com",
+      "name": "Yanceyncsouthtoe",
+      "match": null
+    },
+    {
+      "subdomain": "yealey.typingclub.com",
+      "name": "Yealey",
+      "match": {
+        "district": "Seattle Public Schools",
+        "state": "WA",
+        "enrollment": 49000,
+        "confidence": 0.62
+      }
+    },
+    {
+      "subdomain": "yellowjackets.typingclub.com",
+      "name": "Yellowjackets",
+      "match": null
+    },
+    {
+      "subdomain": "yesk12.typingclub.com",
+      "name": "Yesk12",
+      "match": null
+    },
+    {
+      "subdomain": "yorktowncsd.typingclub.com",
+      "name": "Yorktowncsd",
+      "match": {
+        "district": "Portland Public Schools",
+        "state": "OR",
+        "enrollment": 43000,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "yorkville.typingclub.com",
+      "name": "Yorkville",
+      "match": {
+        "district": "FARMERSVILLE USD",
+        "state": "CA",
+        "enrollment": null,
+        "confidence": 0.57
+      }
+    },
+    {
+      "subdomain": "youngamericanscorporation.typingclub.com",
+      "name": "Youngamericanscorporation",
+      "match": null
+    },
+    {
+      "subdomain": "zacharyschools.typingclub.com",
+      "name": "Zacharyschools",
+      "match": null
+    },
+    {
+      "subdomain": "zachfc.typingclub.com",
+      "name": "Zachfc",
+      "match": null
+    },
+    {
+      "subdomain": "zeeland.typingclub.com",
+      "name": "Zeeland",
+      "match": {
+        "district": "Portland Public Schools",
+        "state": "OR",
+        "enrollment": 43000,
+        "confidence": 0.53
+      }
+    },
+    {
+      "subdomain": "zephyrs.typingclub.com",
+      "name": "Zephyrs",
+      "match": null
+    },
+    {
+      "subdomain": "zioncrusaders.typingclub.com",
+      "name": "Zioncrusaders",
+      "match": null
+    }
+  ]
+}

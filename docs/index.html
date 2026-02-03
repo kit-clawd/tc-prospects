@@ -219,6 +219,14 @@
             <label><input type="checkbox" id="recentFilter"> Recent Awards (2025+)</label>
         </div>
         <div>
+            <label>EdClub Status:</label>
+            <select id="edclubFilter">
+                <option value="">All</option>
+                <option value="yes">Uses EdClub ⚔️</option>
+                <option value="no">No EdClub ✅</option>
+            </select>
+        </div>
+        <div>
             <label>Search:</label>
             <input type="text" id="searchFilter" placeholder="District name...">
         </div>
@@ -234,6 +242,7 @@
                 <th data-sort="city">City</th>
                 <th data-sort="type">Type</th>
                 <th data-sort="enrollment">Enrollment</th>
+                <th data-sort="uses_edclub">EdClub</th>
                 <th data-sort="federal_awards">Total Awards</th>
                 <th data-sort="title_i">Title I</th>
                 <th data-sort="recent_awards">Recent</th>
@@ -278,7 +287,7 @@
             } catch (e) {
                 console.error('Failed to load data:', e);
                 document.getElementById('tableBody').innerHTML = 
-                    '<tr><td colspan="8" class="empty-state">Failed to load data. Run fetch_data.py first.</td></tr>';
+                    '<tr><td colspan="9" class="empty-state">Failed to load data. Run fetch_data.py first.</td></tr>';
             }
         }
         
@@ -297,6 +306,11 @@
                 if (search && !d.name.toLowerCase().includes(search)) return false;
                 if (titleIOnly && (!d.title_i || d.title_i <= 0)) return false;
                 if (recentOnly && (!d.recent_awards || d.recent_awards <= 0)) return false;
+                
+                const edclubFilter = document.getElementById('edclubFilter').value;
+                if (edclubFilter === 'yes' && !d.uses_edclub) return false;
+                if (edclubFilter === 'no' && d.uses_edclub) return false;
+                
                 return true;
             });
         }
@@ -394,11 +408,14 @@
             const totalEnrollment = sorted.reduce((sum, d) => sum + (d.enrollment || 0), 0);
             const totalAwards = sorted.reduce((sum, d) => sum + (d.federal_awards || 0), 0);
             const totalTitleI = sorted.reduce((sum, d) => sum + (d.title_i || 0), 0);
+            const edclubCount = sorted.filter(d => d.uses_edclub).length;
+            const greenfield = sorted.length - edclubCount;
             document.getElementById('stats').innerHTML = 
                 `Showing <strong>${sorted.length}</strong> districts | ` +
                 `Enrollment: <strong>${totalEnrollment.toLocaleString()}</strong> | ` +
-                `Total Awards: <strong>${formatMoney(totalAwards)}</strong> | ` +
-                `Title I: <strong>${formatMoney(totalTitleI)}</strong>`;
+                `<span style="color:#ea4335;">⚔️ EdClub: <strong>${edclubCount}</strong></span> | ` +
+                `<span style="color:#34a853;">✅ Greenfield: <strong>${greenfield}</strong></span> | ` +
+                `Awards: <strong>${formatMoney(totalAwards)}</strong>`;
             
             // Update sort indicators
             document.querySelectorAll('th').forEach(th => {
@@ -411,7 +428,7 @@
             // Render rows
             const tbody = document.getElementById('tableBody');
             if (sorted.length === 0) {
-                tbody.innerHTML = '<tr><td colspan="8" class="empty-state">No districts match your filters</td></tr>';
+                tbody.innerHTML = '<tr><td colspan="9" class="empty-state">No districts match your filters</td></tr>';
                 return;
             }
             
@@ -430,12 +447,13 @@
                         <td>${d.city || '-'}</td>
                         <td>${d.type ? `<span class="type-badge ${d.type}">${d.type}</span>` : '-'}</td>
                         <td class="enrollment ${enrollmentClass}">${d.enrollment?.toLocaleString() || '-'}</td>
+                        <td>${d.uses_edclub ? '<span style="color:#ea4335;font-weight:500;">⚔️ Yes</span>' : '<span style="color:#34a853;">✅ No</span>'}</td>
                         <td class="amount ${awardClass}">${formatMoney(d.federal_awards)}</td>
                         <td class="amount ${titleIClass}">${formatMoney(d.title_i)}</td>
                         <td>${d.recent_awards ? `<span class="recent-badge">${d.recent_awards} new</span>` : '-'}</td>
                     </tr>
                     <tr class="detail-row ${isExpanded ? 'visible' : ''}" id="${districtId}-details">
-                        <td colspan="8">
+                        <td colspan="9">
                             <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
                                 <div>
                                     <strong>📧 Contacts:</strong>
