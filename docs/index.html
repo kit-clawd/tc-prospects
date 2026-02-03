@@ -329,6 +329,27 @@
             return `$${amount.toFixed(0)}`;
         }
         
+        function renderContacts(contacts) {
+            if (!contacts || contacts.length === 0) {
+                return '<p class="no-awards">No contacts found</p>';
+            }
+            
+            const items = contacts.map(c => `
+                <li>
+                    <div>
+                        <div class="award-program">${c.name || 'Unknown'}</div>
+                        <div class="award-desc">${c.title || ''}</div>
+                    </div>
+                    <div style="text-align: right;">
+                        ${c.email ? `<a href="mailto:${c.email}">${c.email}</a>` : ''}
+                        ${c.phone ? `<div class="award-date">${c.phone}</div>` : ''}
+                    </div>
+                </li>
+            `).join('');
+            
+            return `<ul class="award-list">${items}</ul>`;
+        }
+        
         function renderAwardDetails(awards) {
             if (!awards || awards.length === 0) {
                 return '<p class="no-awards">No detailed award data available</p>';
@@ -407,8 +428,17 @@
                     </tr>
                     <tr class="detail-row ${isExpanded ? 'visible' : ''}" id="${districtId}-details">
                         <td colspan="8">
-                            <strong>Award Details:</strong>
-                            ${renderAwardDetails(d.award_details)}
+                            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+                                <div>
+                                    <strong>📧 Contacts:</strong>
+                                    ${renderContacts(d.contacts)}
+                                </div>
+                                <div>
+                                    <strong>💰 Award Details:</strong>
+                                    ${renderAwardDetails(d.award_details)}
+                                </div>
+                            </div>
+                            ${d.website ? `<div style="margin-top: 10px;"><a href="${d.website}" target="_blank">🔗 District Website</a></div>` : ''}
                         </td>
                     </tr>
                 `;

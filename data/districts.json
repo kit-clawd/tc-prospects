@@ -24,7 +24,19 @@
       "federal_awards": 0,
       "title_i": 0,
       "recent_awards": 0,
-      "award_details": []
+      "award_details": [],
+      "website": "https://www.seattleschools.org",
+      "contacts": [
+        {
+          "name": "Brent Jones",
+          "title": "Superintendent",
+          "email": "brent.jones@seattleschools.org",
+          "email_guessed": true,
+          "phone": null,
+          "source": "Ballotpedia"
+        }
+      ],
+      "directory_url": "https://www.seattleschools.org/news/seattle-public-schools-plants-first-mini-forest-at-robert-eagle-staff/"
     },
     {
       "name": "Spokane Public Schools",
@@ -35,7 +47,19 @@
       "federal_awards": 0,
       "title_i": 0,
       "recent_awards": 0,
-      "award_details": []
+      "award_details": [],
+      "website": "https://www.spokaneschools.org",
+      "contacts": [
+        {
+          "name": "Adam Swinyard",
+          "title": "Superintendent",
+          "email": "adam.swinyard@spokaneschools.org",
+          "email_guessed": true,
+          "phone": null,
+          "source": "Ballotpedia"
+        }
+      ],
+      "directory_url": null
     },
     {
       "name": "Tacoma Public Schools",
@@ -55,7 +79,31 @@
           "start_date": "2023-01-01",
           "year": "2024"
         }
-      ]
+      ],
+      "website": "https://www.tacomaschools.org",
+      "contacts": [
+        {
+          "name": "of Public",
+          "title": "Superintendent",
+          "email": "of.public@tacomaschools.org",
+          "email_guessed": true,
+          "phone": null,
+          "source": "Ballotpedia"
+        },
+        {
+          "name": "Tanisha Jumper",
+          "email": "tjumper@tacoma.k12.wa.us",
+          "title": null,
+          "phone": "253-571-1015"
+        },
+        {
+          "name": "Kathryn McCarthy",
+          "email": "kmccart@tacoma.k12.wa.us",
+          "title": "Cto",
+          "phone": "253-571-1015"
+        }
+      ],
+      "directory_url": "https://www.tacomaschools.org/departments"
     },
     {
       "name": "Kent School District",
@@ -66,7 +114,19 @@
       "federal_awards": 0,
       "title_i": 0,
       "recent_awards": 0,
-      "award_details": []
+      "award_details": [],
+      "website": "https://www.kent.k12.wa.us",
+      "contacts": [
+        {
+          "name": "of Public",
+          "title": "Superintendent",
+          "email": "of.public@kent.k12.wa.us",
+          "email_guessed": true,
+          "phone": null,
+          "source": "Ballotpedia"
+        }
+      ],
+      "directory_url": null
     },
     {
       "name": "Federal Way Public Schools",
@@ -77,7 +137,19 @@
       "federal_awards": 0,
       "title_i": 0,
       "recent_awards": 0,
-      "award_details": []
+      "award_details": [],
+      "website": "https://www.fwps.org",
+      "contacts": [
+        {
+          "name": "of Public",
+          "title": "Superintendent",
+          "email": "of.public@fwps.org",
+          "email_guessed": true,
+          "phone": null,
+          "source": "Ballotpedia"
+        }
+      ],
+      "directory_url": "https://www.fwps.org/staff"
     },
     {
       "name": "Lake Washington School District",
@@ -88,7 +160,19 @@
       "federal_awards": 0,
       "title_i": 0,
       "recent_awards": 0,
-      "award_details": []
+      "award_details": [],
+      "website": "https://www.lwsd.org",
+      "contacts": [
+        {
+          "name": "Jon Holmen",
+          "title": "Superintendent",
+          "email": "jon.holmen@lwsd.org",
+          "email_guessed": true,
+          "phone": null,
+          "source": "Ballotpedia"
+        }
+      ],
+      "directory_url": "https://www.lwsd.org/staff-links"
     },
     {
       "name": "Northshore School District",
@@ -99,7 +183,25 @@
       "federal_awards": 0,
       "title_i": 0,
       "recent_awards": 0,
-      "award_details": []
+      "award_details": [],
+      "website": "https://www.nsd.org",
+      "contacts": [
+        {
+          "name": "of Public",
+          "title": "Superintendent",
+          "email": "of.public@nsd.org",
+          "email_guessed": true,
+          "phone": null,
+          "source": "Ballotpedia"
+        },
+        {
+          "name": "Peggy King",
+          "email": "pking2@nsd.org",
+          "title": null,
+          "phone": "425-408-7701"
+        }
+      ],
+      "directory_url": "https://www.nsd.org/our-district/who-we-are/racial-educational-justice/training-resources"
     },
     {
       "name": "Bellevue School District",
@@ -110,7 +212,19 @@
       "federal_awards": 0,
       "title_i": 0,
       "recent_awards": 0,
-      "award_details": []
+      "award_details": [],
+      "website": "https://bsd405.org",
+      "contacts": [
+        {
+          "name": "of Public",
+          "title": "Superintendent",
+          "email": "of.public@bsd405.org",
+          "email_guessed": true,
+          "phone": null,
+          "source": "Ballotpedia"
+        }
+      ],
+      "directory_url": "https://bsd405.org/staff"
     },
     {
       "name": "Los Angeles Unified School District",
@@ -154,7 +268,19 @@
           "start_date": "2014-09-25",
           "year": "2024"
         }
-      ]
+      ],
+      "website": "https://www.lausd.org",
+      "contacts": [
+        {
+          "name": "Alberto M. Carvalho",
+          "title": "Superintendent",
+          "email": "alberto.carvalho@lausd.org",
+          "email_guessed": true,
+          "phone": null,
+          "source": "Ballotpedia"
+        }
+      ],
+      "directory_url": null
     },
     {
       "name": "San Diego Unified School District",
@@ -246,7 +372,19 @@
           "start_date": "2025-10-01",
           "year": "2025"
         }
-      ]
+      ],
+      "website": "https://www.sandiegounified.org",
+      "contacts": [
+        {
+          "name": "Fabiola Bagula",
+          "title": "Superintendent",
+          "email": "fabiola.bagula@sandiegounified.org",
+          "email_guessed": true,
+          "phone": null,
+          "source": "Ballotpedia"
+        }
+      ],
+      "directory_url": "https://www.sandiegounified.org/about/staff_portal"
     },
     {
       "name": "Houston Independent School District",
@@ -290,7 +428,19 @@
           "start_date": "2024-04-01",
           "year": "2025"
         }
-      ]
+      ],
+      "website": "https://www.houstonisd.org",
+      "contacts": [
+        {
+          "name": "Mike Miles",
+          "title": "Superintendent",
+          "email": "mike.miles@houstonisd.org",
+          "email_guessed": true,
+          "phone": null,
+          "source": "Ballotpedia"
+        }
+      ],
+      "directory_url": "https://www.houstonisd.org/our-district/leadership-team"
     },
     {
       "name": "Dallas Independent School District",
@@ -301,7 +451,19 @@
       "federal_awards": 0,
       "title_i": 0,
       "recent_awards": 0,
-      "award_details": []
+      "award_details": [],
+      "website": "https://www.dallasisd.org",
+      "contacts": [
+        {
+          "name": "Stephanie Elizalde",
+          "title": "Superintendent",
+          "email": "stephanie.elizalde@dallasisd.org",
+          "email_guessed": true,
+          "phone": null,
+          "source": "Ballotpedia"
+        }
+      ],
+      "directory_url": "https://www.dallasisd.org/team-dallas-isd/team-dallas-isd-home"
     },
     {
       "name": "Austin Independent School District",
@@ -312,7 +474,19 @@
       "federal_awards": 0,
       "title_i": 0,
       "recent_awards": 0,
-      "award_details": []
+      "award_details": [],
+      "website": "https://www.austinisd.org",
+      "contacts": [
+        {
+          "name": "Matias Segura",
+          "title": "Superintendent",
+          "email": "matias.segura@austinisd.org",
+          "email_guessed": true,
+          "phone": null,
+          "source": "Ballotpedia"
+        }
+      ],
+      "directory_url": "https://www.austinisd.org/staff"
     },
     {
       "name": "New York City Department of Education",
@@ -323,7 +497,19 @@
       "federal_awards": 0,
       "title_i": 0,
       "recent_awards": 0,
-      "award_details": []
+      "award_details": [],
+      "website": "https://www.schools.nyc.gov",
+      "contacts": [
+        {
+          "name": "Melissa Aviles",
+          "title": "Superintendent",
+          "email": "melissa.aviles@schools.nyc.gov",
+          "email_guessed": true,
+          "phone": null,
+          "source": "Ballotpedia"
+        }
+      ],
+      "directory_url": null
     },
     {
       "name": "Portland Public Schools",
@@ -334,7 +520,37 @@
       "federal_awards": 0,
       "title_i": 0,
       "recent_awards": 0,
-      "award_details": []
+      "award_details": [],
+      "website": "https://www.pps.net",
+      "contacts": [
+        {
+          "name": "Kimberlee Armstrong",
+          "title": "Superintendent",
+          "email": "kimberlee.armstrong@pps.net",
+          "email_guessed": true,
+          "phone": null,
+          "source": "Ballotpedia"
+        },
+        {
+          "name": "Accessibility Statement",
+          "email": "jbuno@pps.net",
+          "title": "Coo",
+          "phone": "503-916-3337"
+        },
+        {
+          "name": "Accessibility Statement",
+          "email": "bcruz@pps.net",
+          "title": "Coo",
+          "phone": "503-916-3337"
+        },
+        {
+          "name": "Accessibility Statement",
+          "email": "section504@pps.net",
+          "title": "Coo",
+          "phone": "503-916-3337"
+        }
+      ],
+      "directory_url": "https://www.pps.net/about/portland-public-schools-information/leadership/our-superintendent"
     },
     {
       "name": "Miami-Dade County Public Schools",
@@ -345,7 +561,19 @@
       "federal_awards": 0,
       "title_i": 0,
       "recent_awards": 0,
-      "award_details": []
+      "award_details": [],
+      "website": "https://www.dadeschools.net",
+      "contacts": [
+        {
+          "name": "Jose L. Dotres",
+          "title": "Superintendent",
+          "email": "jose.dotres@dadeschools.net",
+          "email_guessed": true,
+          "phone": null,
+          "source": "Ballotpedia"
+        }
+      ],
+      "directory_url": null
     },
     {
       "name": "Hillsborough County Public Schools",
@@ -356,7 +584,19 @@
       "federal_awards": 0,
       "title_i": 0,
       "recent_awards": 0,
-      "award_details": []
+      "award_details": [],
+      "website": "https://www.hillsboroughschools.org",
+      "contacts": [
+        {
+          "name": "Van Ayres",
+          "title": "Superintendent",
+          "email": "van.ayres@hillsboroughschools.org",
+          "email_guessed": true,
+          "phone": null,
+          "source": "Ballotpedia"
+        }
+      ],
+      "directory_url": null
     },
     {
       "name": "Orange County Public Schools",
@@ -367,7 +607,19 @@
       "federal_awards": 0,
       "title_i": 0,
       "recent_awards": 0,
-      "award_details": []
+      "award_details": [],
+      "website": "https://www.ocps.net",
+      "contacts": [
+        {
+          "name": "Maria F. Vazquez",
+          "title": "Superintendent",
+          "email": "maria.vazquez@ocps.net",
+          "email_guessed": true,
+          "phone": null,
+          "source": "Ballotpedia"
+        }
+      ],
+      "directory_url": "https://www.ocps.net/executive-leadership"
     },
     {
       "name": "WORKFORCE TRAINING & EDUCATION COORDINAT",
